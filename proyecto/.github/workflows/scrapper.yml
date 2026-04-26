@@ -2,8 +2,8 @@ name: Football Embeds Scrapper
 
 on:
   schedule:
-    - cron: '0 */2 * * *'   # Cada 2 horas
-  workflow_dispatch:          # También permite correrlo manualmente
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -19,12 +19,11 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: |
-          pip install playwright
-          playwright install chromium
-          playwright install-deps chromium
+        run: pip install curl-cffi
 
       - name: Run scrapper
+        env:
+          PROXY_URL: ${{ secrets.PROXY_URL }}
         run: python scripts/scrapper.py
 
       - name: Commit y push resultados
