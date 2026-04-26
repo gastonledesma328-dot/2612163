@@ -19,12 +19,11 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: |
-          pip install playwright
-          playwright install chromium
-          playwright install-deps chromium
+        run: pip install curl-cffi
 
       - name: Run scrapper
+        env:
+          PROXY_URL: ${{ secrets.PROXY_URL }}
         run: python scripts/scrapper.py
 
       - name: Commit y push resultados
