@@ -1,6 +1,7 @@
 import json
 import time
 import os
+import re
 from datetime import datetime, timedelta, timezone
 import curl_cffi.requests as requests
 
@@ -29,14 +30,33 @@ def get(url):
     r.raise_for_status()
     return r.json()
 
+# 🧠 NUEVO: obtener posters desde HTML
+def get_poster_map():
+    try:
+        print("🖼️ Obteniendo posters...")
+        r = requests.get("https://streamed.pk/category/football", headers=HEADERS)
+        html = r.text
+
+        posters = {}
+
+        matches = re.findall(r'href="(/watch/.*?)".*?img src="(.*?)"', html, re.DOTALL)
+
+        for link, img in matches:
+            posters[link] = BASE_URL + img
+
+        print(f"✅ {len(posters)} posters encontrados")
+        return posters
+
+    except Exception as e:
+        print(f"❌ Error obteniendo posters: {e}")
+        return {}
+
 def parse_match_time(raw_time):
     try:
-        # 🟢 CASO 1: timestamp (milisegundos)
-        if isinstance(raw_time, int) or raw_time.isdigit():
+        if isinstance(raw_time, int) or str(raw_time).isdigit():
             ts = int(raw_time) / 1000
             return datetime.fromtimestamp(ts, tz=timezone.utc)
 
-        # 🟢 CASO 2: ISO string
         return datetime.fromisoformat(raw_time.replace("Z", "+00:00"))
 
     except:
@@ -52,7 +72,9 @@ def main():
     matches = get(f"{BASE_URL}/api/matches/football")
     print(f"✅ {len(matches)} partidos totales")
 
-    # 🧠 Hora actual Argentina
+    # 🧠 cargar posters
+    poster_map = get_poster_map()
+
     tz_ar = timezone(timedelta(hours=-3))
     now = datetime.now(tz_ar)
 
@@ -71,24 +93,31 @@ def main():
             print(f"❌ Error parseando fecha: {raw_time}")
             continue
 
-        # 🔄 Convertir a Argentina
         match_time = match_time.astimezone(tz_ar)
 
-        # 🔥 FILTRO (24h)
         diff = abs((match_time - now).total_seconds())
 
         if diff > 86400:
             continue
 
+        # 🔥 buscar poster por coincidencia de texto
+        poster = ""
+        for link, img in poster_map.items():
+            if title.lower().replace(" ", "-") in link.lower():
+                poster = img
+                break
+
         sources = match.get("sources", [])
 
         print(f"\n[{i}] 🏟️ {title}")
-        print(f"    🕒 Hora AR: {match_time.strftime('%H:%M')}")
+        print(f"    🕒 {match_time.strftime('%H:%M')}")
+        print(f"    🖼️ Poster: {poster}")
 
         entry = {
             "partido": title,
             "id": match.get("id"),
             "hora": match_time.strftime("%H:%M"),
+            "poster": poster,
             "streams": []
         }
 
@@ -108,27 +137,19 @@ def main():
                         "embed": embed
                     })
 
-                    print(f"    ✅ [{hd}] {s.get('streamNo')}: {embed}")
+                    print(f"    ✅ [{hd}] {s.get('streamNo')}")
 
                 time.sleep(0.3)
 
             except Exception as e:
                 print(f"    ❌ {src['source']}: {e}")
 
-        if not entry["streams"]:
-            print("    ⚠️ Sin streams aún")
-
         results.append(entry)
 
-    # 💾 Guardar JSON
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
 
-    total = sum(len(m["streams"]) for m in results)
-    found = sum(1 for m in results for s in m["streams"] if s["embed"])
-
-    print(f"\n✅ {len(results)} partidos filtrados (24h) | {found}/{total} embeds")
-    print(f"📁 Guardado en: {OUTPUT_FILE}")
+    print(f"\n📁 Guardado en: {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     main()
