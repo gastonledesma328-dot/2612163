@@ -1,8 +1,8 @@
 import json
 import time
 import os
-import re
 from datetime import datetime, timedelta, timezone
+import urllib.parse
 import curl_cffi.requests as requests
 
 BASE_URL = "https://streamed.pk"
@@ -10,9 +10,7 @@ OUTPUT_FILE = "partidos_embeds.json"
 
 HEADERS = {
     "Accept": "application/json, text/plain, */*",
-    "Accept-Language": "en-US,en;q=0.9",
     "Referer": "https://streamed.pk/category/football",
-    "Origin": "https://streamed.pk",
 }
 
 PROXY = os.environ.get("PROXY_URL", "")
@@ -30,34 +28,7 @@ def get(url):
     r.raise_for_status()
     return r.json()
 
-# 🔥 obtener lista de posters reales
-def get_posters_list():
-    try:
-        print("🖼️ Obteniendo posters...")
-
-        r = requests.get(
-            "https://streamed.pk/category/football",
-            headers=HEADERS,
-            impersonate="chrome120"
-        )
-
-        html = r.text
-
-        matches = re.findall(r'src="(/api/images/proxy/.*?\.webp)"', html)
-
-        posters = []
-
-        for img in matches:
-            posters.append(BASE_URL + img)
-
-        print(f"✅ {len(posters)} posters encontrados")
-        return posters
-
-    except Exception as e:
-        print(f"❌ Error obteniendo posters: {e}")
-        return []
-
-# 🔥 parse fecha (timestamp o ISO)
+# 🔥 parse fecha
 def parse_match_time(raw_time):
     try:
         if isinstance(raw_time, int) or str(raw_time).isdigit():
@@ -68,18 +39,19 @@ def parse_match_time(raw_time):
     except:
         return None
 
+# 🔥 LOGO REAL (MUCHO MEJOR QUE POSTER)
+def generate_logo(title):
+    query = urllib.parse.quote(title)
+    return f"https://crests.football-data.org/{query}.png"
+
+# 🔥 fallback bonito
+def fallback_image(title):
+    safe = title.replace(" ", "+")
+    return f"https://ui-avatars.com/api/?name={safe}&background=111&color=fff&size=256"
+
 def main():
-    if PROXY:
-        print(f"🔒 Usando proxy: {PROXY.split('@')[-1]}")
-    else:
-        print("⚠️ Sin proxy configurado — puede fallar en servidores cloud")
-
-    print("📡 Obteniendo partidos de fútbol...")
+    print("📡 Obteniendo partidos...")
     matches = get(f"{BASE_URL}/api/matches/football")
-    print(f"✅ {len(matches)} partidos totales")
-
-    # 🔥 traer posters reales
-    posters = get_posters_list()
 
     tz_ar = timezone(timedelta(hours=-3))
     now = datetime.now(tz_ar)
@@ -94,30 +66,31 @@ def main():
             continue
 
         match_time = parse_match_time(raw_time)
-
         if not match_time:
-            print(f"❌ Error parseando fecha: {raw_time}")
             continue
 
         match_time = match_time.astimezone(tz_ar)
 
-        # 🔥 filtro 24h
+        # filtro 24h
         diff = abs((match_time - now).total_seconds())
         if diff > 86400:
             continue
 
-        # 🔥 asignar poster por índice (simple y efectivo)
-        poster = posters[i-1] if i-1 < len(posters) else ""
+        # 🔥 intentar logo real
+        poster = generate_logo(title)
+
+        # si falla visualmente → fallback
+        if not poster:
+            poster = fallback_image(title)
 
         sources = match.get("sources", [])
 
-        print(f"\n[{i}] 🏟️ {title}")
-        print(f"    🕒 {match_time.strftime('%H:%M')}")
-        print(f"    🖼️ Poster: {poster}")
+        print(f"\n[{i}] {title}")
+        print(f"🕒 {match_time.strftime('%H:%M')}")
+        print(f"🖼️ {poster}")
 
         entry = {
             "partido": title,
-            "id": match.get("id"),
             "hora": match_time.strftime("%H:%M"),
             "poster": poster,
             "streams": []
@@ -128,30 +101,22 @@ def main():
                 streams = get(f"{BASE_URL}/api/stream/{src['source']}/{src['id']}")
 
                 for s in streams:
-                    embed = s.get("embedUrl", "")
-                    hd = "HD" if s.get("hd") else "SD"
-
                     entry["streams"].append({
-                        "source": src["source"],
-                        "streamNo": s.get("streamNo"),
-                        "quality": hd,
-                        "language": s.get("language", ""),
-                        "embed": embed
+                        "embed": s.get("embedUrl", "")
                     })
-
-                    print(f"    ✅ [{hd}] {s.get('streamNo')}")
 
                 time.sleep(0.3)
 
-            except Exception as e:
-                print(f"    ❌ {src['source']}: {e}")
+            except:
+                pass
 
-        results.append(entry)
+        if entry["streams"]:
+            results.append(entry)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
 
-    print(f"\n📁 Guardado en: {OUTPUT_FILE}")
+    print("\n✅ JSON generado")
 
 if __name__ == "__main__":
     main()
