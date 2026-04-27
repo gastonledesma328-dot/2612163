@@ -1,698 +1,337 @@
 [
   {
     "partido": "AIK vs. Malmö FF",
-    "id": "ppv-aik-vs-malm-ff",
     "hora": "14:00",
-    "poster": "",
+    "poster": "https://crests.football-data.org/AIK%20vs.%20Malm%C3%B6%20FF.png",
     "streams": [
       {
-        "source": "admin",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "English - Swedish Allsvenskan",
         "embed": "https://embedsports.top/embed/admin/ppv-aik-vs-malm-ff/1"
       },
       {
-        "source": "admin",
-        "streamNo": 2,
-        "quality": "HD",
-        "language": "English - Swedish Allsvenskan",
         "embed": "https://embedsports.top/embed/admin/ppv-aik-vs-malm-ff/2"
       },
       {
-        "source": "admin",
-        "streamNo": 3,
-        "quality": "SD",
-        "language": "English - Swedish Allsvenskan",
         "embed": "https://embedsports.top/embed/admin/ppv-aik-vs-malm-ff/3"
       }
     ]
   },
   {
     "partido": "BK Häcken vs. IK Sirius",
-    "id": "ppv-bk-h-cken-vs-ik-sirius",
     "hora": "14:00",
-    "poster": "",
+    "poster": "https://crests.football-data.org/BK%20H%C3%A4cken%20vs.%20IK%20Sirius.png",
     "streams": [
       {
-        "source": "admin",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "English - Swedish Allsvenskan",
         "embed": "https://embedsports.top/embed/admin/ppv-bk-h-cken-vs-ik-sirius/1"
       },
       {
-        "source": "admin",
-        "streamNo": 2,
-        "quality": "HD",
-        "language": "English - Swedish Allsvenskan",
         "embed": "https://embedsports.top/embed/admin/ppv-bk-h-cken-vs-ik-sirius/2"
       },
       {
-        "source": "admin",
-        "streamNo": 3,
-        "quality": "SD",
-        "language": "English - Swedish Allsvenskan",
         "embed": "https://embedsports.top/embed/admin/ppv-bk-h-cken-vs-ik-sirius/3"
       }
     ]
   },
   {
     "partido": "Mjällby vs Halmstad",
-    "id": "mj-llby-vs-halmstad-2398789",
     "hora": "14:00",
-    "poster": "",
+    "poster": "https://crests.football-data.org/Mj%C3%A4llby%20vs%20Halmstad.png",
     "streams": [
       {
-        "source": "admin",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "English - Swedish Allsvenskan",
         "embed": "https://embedsports.top/embed/admin/ppv-mj-llby-aif-vs-halmstads-bk/1"
       },
       {
-        "source": "admin",
-        "streamNo": 2,
-        "quality": "HD",
-        "language": "English - Swedish Allsvenskan",
         "embed": "https://embedsports.top/embed/admin/ppv-mj-llby-aif-vs-halmstads-bk/2"
       },
       {
-        "source": "admin",
-        "streamNo": 3,
-        "quality": "SD",
-        "language": "English - Swedish Allsvenskan",
         "embed": "https://embedsports.top/embed/admin/ppv-mj-llby-aif-vs-halmstads-bk/3"
       }
     ]
   },
   {
     "partido": "Kalmar vs Elfsborg",
-    "id": "kalmar-vs-elfsborg-2398788",
     "hora": "14:00",
-    "poster": "",
+    "poster": "https://crests.football-data.org/Kalmar%20vs%20Elfsborg.png",
     "streams": [
       {
-        "source": "admin",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "English - Swedish Allsvenskan",
         "embed": "https://embedsports.top/embed/admin/ppv-kalmar-ff-vs-if-elfsborg/1"
       },
       {
-        "source": "admin",
-        "streamNo": 2,
-        "quality": "HD",
-        "language": "English - Swedish Allsvenskan",
         "embed": "https://embedsports.top/embed/admin/ppv-kalmar-ff-vs-if-elfsborg/2"
       },
       {
-        "source": "admin",
-        "streamNo": 3,
-        "quality": "SD",
-        "language": "English - Swedish Allsvenskan",
         "embed": "https://embedsports.top/embed/admin/ppv-kalmar-ff-vs-if-elfsborg/3"
       }
     ]
   },
   {
     "partido": "FC Copenhagen vs Vejle",
-    "id": "fc-copenhagen-vs-vejle-2445056",
     "hora": "14:00",
-    "poster": "",
+    "poster": "https://crests.football-data.org/FC%20Copenhagen%20vs%20Vejle.png",
     "streams": [
       {
-        "source": "echo",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/fc-copenhagen-vs-vejle-football-1530549/1"
       },
       {
-        "source": "echo",
-        "streamNo": 2,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/fc-copenhagen-vs-vejle-football-1530549/2"
       }
     ]
   },
   {
     "partido": "Konyaspor vs Trabzonspor",
-    "id": "konyaspor-vs-trabzonspor-2283055",
     "hora": "14:00",
-    "poster": "",
+    "poster": "https://crests.football-data.org/Konyaspor%20vs%20Trabzonspor.png",
     "streams": [
       {
-        "source": "echo",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/konyaspor-vs-trabzonspor-football-1394711/1"
       },
       {
-        "source": "echo",
-        "streamNo": 2,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/konyaspor-vs-trabzonspor-football-1394711/2"
       },
       {
-        "source": "echo",
-        "streamNo": 3,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/konyaspor-vs-trabzonspor-football-1394711/3"
       },
       {
-        "source": "echo",
-        "streamNo": 4,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/konyaspor-vs-trabzonspor-football-1394711/4"
       },
       {
-        "source": "echo",
-        "streamNo": 5,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/konyaspor-vs-trabzonspor-football-1394711/5"
       }
     ]
   },
   {
     "partido": "Beşiktaş vs Fatih Karagümrük",
-    "id": "be-ikta--vs-fatih-karag-mr-k-2283049",
     "hora": "14:00",
-    "poster": "",
+    "poster": "https://crests.football-data.org/Be%C5%9Fikta%C5%9F%20vs%20Fatih%20Karag%C3%BCmr%C3%BCk.png",
     "streams": [
       {
-        "source": "echo",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/besiktas-vs-fatih-karagumruk-football-1394705/1"
       },
       {
-        "source": "echo",
-        "streamNo": 2,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/besiktas-vs-fatih-karagumruk-football-1394705/2"
       },
       {
-        "source": "echo",
-        "streamNo": 3,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/besiktas-vs-fatih-karagumruk-football-1394705/3"
       },
       {
-        "source": "echo",
-        "streamNo": 4,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/besiktas-vs-fatih-karagumruk-football-1394705/4"
       },
       {
-        "source": "echo",
-        "streamNo": 5,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/besiktas-vs-fatih-karagumruk-football-1394705/5"
       }
     ]
   },
   {
-    "partido": "Chaves vs Oliveirense",
-    "id": "chaves-vs-oliveirense-2284531",
-    "hora": "14:00",
-    "poster": "",
-    "streams": []
-  },
-  {
     "partido": "Örgryte vs Degerfors",
-    "id": "-rgryte-vs-degerfors-2398790",
     "hora": "14:00",
-    "poster": "",
+    "poster": "https://crests.football-data.org/%C3%96rgryte%20vs%20Degerfors.png",
     "streams": [
       {
-        "source": "admin",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "English - Swedish Allsvenskan",
         "embed": "https://embedsports.top/embed/admin/ppv-rgryte-is-vs-degerfors-if/1"
       },
       {
-        "source": "admin",
-        "streamNo": 2,
-        "quality": "HD",
-        "language": "English - Swedish Allsvenskan",
         "embed": "https://embedsports.top/embed/admin/ppv-rgryte-is-vs-degerfors-if/2"
       },
       {
-        "source": "admin",
-        "streamNo": 3,
-        "quality": "SD",
-        "language": "English - Swedish Allsvenskan",
         "embed": "https://embedsports.top/embed/admin/ppv-rgryte-is-vs-degerfors-if/3"
       }
     ]
   },
   {
     "partido": "Piast Gliwice vs Arka Gdynia",
-    "id": "piast-gliwice-vs-arka-gdynia-2267968",
     "hora": "14:00",
-    "poster": "",
+    "poster": "https://crests.football-data.org/Piast%20Gliwice%20vs%20Arka%20Gdynia.png",
     "streams": [
       {
-        "source": "echo",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/piast-gliwice-vs-arka-gdynia-football-1380650/1"
       },
       {
-        "source": "echo",
-        "streamNo": 2,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/piast-gliwice-vs-arka-gdynia-football-1380650/2"
       }
     ]
   },
   {
     "partido": "Cagliari vs Atalanta",
-    "id": "cagliari-vs-atalanta-2265367",
     "hora": "13:30",
-    "poster": "",
+    "poster": "https://crests.football-data.org/Cagliari%20vs%20Atalanta.png",
     "streams": [
       {
-        "source": "admin",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "English - Serie A",
         "embed": "https://embedsports.top/embed/admin/ppv-cagliari-vs-atalanta/1"
       },
       {
-        "source": "admin",
-        "streamNo": 2,
-        "quality": "HD",
-        "language": "English - Serie A",
         "embed": "https://embedsports.top/embed/admin/ppv-cagliari-vs-atalanta/2"
       },
       {
-        "source": "admin",
-        "streamNo": 3,
-        "quality": "SD",
-        "language": "English - Serie A",
         "embed": "https://embedsports.top/embed/admin/ppv-cagliari-vs-atalanta/3"
       },
       {
-        "source": "delta",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "English",
         "embed": "https://embedsports.top/embed/delta/live_serie-a_cagliari-atalanta-live-streaming-1095365538/1"
       },
       {
-        "source": "echo",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/cagliari-vs-atalanta-football-1378195/1"
       },
       {
-        "source": "echo",
-        "streamNo": 2,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/cagliari-vs-atalanta-football-1378195/2"
       },
       {
-        "source": "echo",
-        "streamNo": 3,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/cagliari-vs-atalanta-football-1378195/3"
       }
     ]
   },
   {
     "partido": "Cadiz vs Las Palmas",
-    "id": "cadiz-vs-las-palmas-football-1392166",
     "hora": "15:30",
-    "poster": "",
+    "poster": "https://crests.football-data.org/Cadiz%20vs%20Las%20Palmas.png",
     "streams": [
       {
-        "source": "echo",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/cadiz-vs-las-palmas-football-1392166/1"
       },
       {
-        "source": "echo",
-        "streamNo": 2,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/cadiz-vs-las-palmas-football-1392166/2"
       },
       {
-        "source": "echo",
-        "streamNo": 3,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/cadiz-vs-las-palmas-football-1392166/3"
       }
     ]
   },
   {
-    "partido": "Boulogne vs USL Dunkerque",
-    "id": "boulogne-vs-usl-dunkerque-2323676",
-    "hora": "15:45",
-    "poster": "",
-    "streams": []
-  },
-  {
     "partido": "Lazio vs Udinese",
-    "id": "lazio-vs-udinese-2265370",
     "hora": "15:45",
-    "poster": "",
+    "poster": "https://crests.football-data.org/Lazio%20vs%20Udinese.png",
     "streams": [
       {
-        "source": "admin",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "English - Serie A",
         "embed": "https://embedsports.top/embed/admin/ppv-lazio-vs-udinese/1"
       },
       {
-        "source": "admin",
-        "streamNo": 2,
-        "quality": "HD",
-        "language": "English - Serie A",
         "embed": "https://embedsports.top/embed/admin/ppv-lazio-vs-udinese/2"
       },
       {
-        "source": "admin",
-        "streamNo": 3,
-        "quality": "SD",
-        "language": "English - Serie A",
         "embed": "https://embedsports.top/embed/admin/ppv-lazio-vs-udinese/3"
       },
       {
-        "source": "delta",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "English",
         "embed": "https://embedsports.top/embed/delta/live_serie-a_lazio-udinese-live-streaming-1095369534/1"
       },
       {
-        "source": "echo",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/lazio-vs-udinese-football-1378198/1"
       },
       {
-        "source": "echo",
-        "streamNo": 2,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/lazio-vs-udinese-football-1378198/2"
       },
       {
-        "source": "echo",
-        "streamNo": 3,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/lazio-vs-udinese-football-1378198/3"
       }
     ]
   },
   {
     "partido": "Espanyol vs Levante",
-    "id": "espanyol-vs-levante-2279707",
     "hora": "16:00",
-    "poster": "",
+    "poster": "https://crests.football-data.org/Espanyol%20vs%20Levante.png",
     "streams": [
       {
-        "source": "admin",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "English - LaLiga",
         "embed": "https://embedsports.top/embed/admin/ppv-espanyol-vs-levante/1"
       },
       {
-        "source": "admin",
-        "streamNo": 2,
-        "quality": "HD",
-        "language": "English - LaLiga",
         "embed": "https://embedsports.top/embed/admin/ppv-espanyol-vs-levante/2"
       },
       {
-        "source": "admin",
-        "streamNo": 3,
-        "quality": "SD",
-        "language": "English - LaLiga",
         "embed": "https://embedsports.top/embed/admin/ppv-espanyol-vs-levante/3"
       },
       {
-        "source": "delta",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "English",
         "embed": "https://embedsports.top/embed/delta/live_laliga_espanyol-levante-live-streaming-1094849055/1"
       },
       {
-        "source": "delta",
-        "streamNo": 2,
-        "quality": "HD",
-        "language": "English",
         "embed": "https://embedsports.top/embed/delta/live_laliga_espanyol-levante-live-streaming-1094849055/2"
       },
       {
-        "source": "echo",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/espanyol-vs-levante-football-1391132/1"
       },
       {
-        "source": "echo",
-        "streamNo": 2,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/espanyol-vs-levante-football-1391132/2"
       },
       {
-        "source": "echo",
-        "streamNo": 3,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/espanyol-vs-levante-football-1391132/3"
       },
       {
-        "source": "echo",
-        "streamNo": 4,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/espanyol-vs-levante-football-1391132/4"
       },
       {
-        "source": "echo",
-        "streamNo": 5,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/espanyol-vs-levante-football-1391132/5"
       }
     ]
   },
   {
     "partido": "Manchester United vs Brentford",
-    "id": "manchester-united-vs-brentford-2267409",
     "hora": "16:00",
-    "poster": "",
+    "poster": "https://crests.football-data.org/Manchester%20United%20vs%20Brentford.png",
     "streams": [
       {
-        "source": "admin",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "English - Premier League",
         "embed": "https://embedsports.top/embed/admin/ppv-manchester-united-vs-brentford/1"
       },
       {
-        "source": "admin",
-        "streamNo": 2,
-        "quality": "HD",
-        "language": "English - Premier League",
         "embed": "https://embedsports.top/embed/admin/ppv-manchester-united-vs-brentford/2"
       },
       {
-        "source": "admin",
-        "streamNo": 3,
-        "quality": "SD",
-        "language": "English - Premier League",
         "embed": "https://embedsports.top/embed/admin/ppv-manchester-united-vs-brentford/3"
       },
       {
-        "source": "delta",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "English",
         "embed": "https://embedsports.top/embed/delta/live_premier-league_man-utd-brentford-live-streaming-1095166737/1"
       },
       {
-        "source": "echo",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/manchester-united-vs-brentford-football-1379305/1"
       },
       {
-        "source": "echo",
-        "streamNo": 2,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/manchester-united-vs-brentford-football-1379305/2"
       },
       {
-        "source": "echo",
-        "streamNo": 3,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/manchester-united-vs-brentford-football-1379305/3"
       },
       {
-        "source": "echo",
-        "streamNo": 4,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/manchester-united-vs-brentford-football-1379305/4"
       },
       {
-        "source": "echo",
-        "streamNo": 5,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/manchester-united-vs-brentford-football-1379305/5"
       },
       {
-        "source": "golf",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "English",
         "embed": "https://embedsports.top/embed/golf/21937/1"
       }
     ]
   },
   {
     "partido": "Gil Vicente vs Casa Pia",
-    "id": "gil-vicente-vs-casa-pia-2283604",
     "hora": "16:15",
-    "poster": "",
+    "poster": "https://crests.football-data.org/Gil%20Vicente%20vs%20Casa%20Pia.png",
     "streams": [
       {
-        "source": "echo",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/gil-vicente-vs-casa-pia-football-1396512/1"
       },
       {
-        "source": "echo",
-        "streamNo": 2,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/gil-vicente-vs-casa-pia-football-1396512/2"
       }
     ]
   },
   {
     "partido": "Velez Sarsfield vs Union Santa Fe",
-    "id": "velez-sarsfield-vs-union-santa-fe-football-1492057",
     "hora": "18:45",
-    "poster": "",
+    "poster": "https://crests.football-data.org/Velez%20Sarsfield%20vs%20Union%20Santa%20Fe.png",
     "streams": [
       {
-        "source": "echo",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/velez-sarsfield-vs-union-santa-fe-football-1492057/1"
       },
       {
-        "source": "echo",
-        "streamNo": 2,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/velez-sarsfield-vs-union-santa-fe-football-1492057/2"
       }
     ]
   },
   {
     "partido": "Huracan vs Argentinos JRS",
-    "id": "huracan-vs-argentinos-jrs-football-1492049",
     "hora": "21:00",
-    "poster": "",
+    "poster": "https://crests.football-data.org/Huracan%20vs%20Argentinos%20JRS.png",
     "streams": [
       {
-        "source": "echo",
-        "streamNo": 1,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/huracan-vs-argentinos-jrs-football-1492049/1"
       },
       {
-        "source": "echo",
-        "streamNo": 2,
-        "quality": "HD",
-        "language": "",
         "embed": "https://embedsports.top/embed/echo/huracan-vs-argentinos-jrs-football-1492049/2"
       }
     ]
-  },
-  {
-    "partido": "Al Shabab vs Al-Fateh",
-    "id": "al-shabab-vs-al-fateh-football-1436177",
-    "hora": "13:00",
-    "poster": "",
-    "streams": []
-  },
-  {
-    "partido": "NEOM vs Al-Hazm",
-    "id": "neom-vs-al-hazm-football-1436178",
-    "hora": "13:45",
-    "poster": "",
-    "streams": []
-  },
-  {
-    "partido": "Roda JC vs RKC Waalwijk",
-    "id": "roda-jc-vs-rkc-waalwijk-2468344",
-    "hora": "13:45",
-    "poster": "",
-    "streams": []
-  },
-  {
-    "partido": "Feirense vs Torreense",
-    "id": "feirense-vs-torreense-2284532",
-    "hora": "14:00",
-    "poster": "",
-    "streams": []
-  },
-  {
-    "partido": "Al Khaleej Saihat vs Al Najma",
-    "id": "al-khaleej-saihat-vs-al-najma-football-1436175",
-    "hora": "15:00",
-    "poster": "",
-    "streams": []
-  },
-  {
-    "partido": "Al-Hilal vs Damac",
-    "id": "al-hilal-vs-damac-2311956",
-    "hora": "15:00",
-    "poster": "",
-    "streams": []
   }
 ]
