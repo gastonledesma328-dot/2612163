@@ -3,7 +3,7 @@
     "partido": "AIK vs. Malmö FF",
     "id": "ppv-aik-vs-malm-ff",
     "hora": "14:00",
-    "poster": "https://ui-avatars.com/api/?name=AIK+vs.+Malmö+FF&background=111&color=fff&size=256",
+    "poster": "",
     "streams": [
       {
         "source": "admin",
@@ -32,7 +32,7 @@
     "partido": "BK Häcken vs. IK Sirius",
     "id": "ppv-bk-h-cken-vs-ik-sirius",
     "hora": "14:00",
-    "poster": "https://ui-avatars.com/api/?name=BK+Häcken+vs.+IK+Sirius&background=111&color=fff&size=256",
+    "poster": "",
     "streams": [
       {
         "source": "admin",
@@ -61,7 +61,7 @@
     "partido": "Mjällby vs Halmstad",
     "id": "mj-llby-vs-halmstad-2398789",
     "hora": "14:00",
-    "poster": "https://ui-avatars.com/api/?name=Mjällby+vs+Halmstad&background=111&color=fff&size=256",
+    "poster": "",
     "streams": [
       {
         "source": "admin",
@@ -90,7 +90,7 @@
     "partido": "Kalmar vs Elfsborg",
     "id": "kalmar-vs-elfsborg-2398788",
     "hora": "14:00",
-    "poster": "https://ui-avatars.com/api/?name=Kalmar+vs+Elfsborg&background=111&color=fff&size=256",
+    "poster": "",
     "streams": [
       {
         "source": "admin",
@@ -119,7 +119,7 @@
     "partido": "FC Copenhagen vs Vejle",
     "id": "fc-copenhagen-vs-vejle-2445056",
     "hora": "14:00",
-    "poster": "https://ui-avatars.com/api/?name=FC+Copenhagen+vs+Vejle&background=111&color=fff&size=256",
+    "poster": "",
     "streams": [
       {
         "source": "echo",
@@ -141,7 +141,7 @@
     "partido": "Konyaspor vs Trabzonspor",
     "id": "konyaspor-vs-trabzonspor-2283055",
     "hora": "14:00",
-    "poster": "https://ui-avatars.com/api/?name=Konyaspor+vs+Trabzonspor&background=111&color=fff&size=256",
+    "poster": "",
     "streams": [
       {
         "source": "echo",
@@ -184,7 +184,7 @@
     "partido": "Beşiktaş vs Fatih Karagümrük",
     "id": "be-ikta--vs-fatih-karag-mr-k-2283049",
     "hora": "14:00",
-    "poster": "https://ui-avatars.com/api/?name=Beşiktaş+vs+Fatih+Karagümrük&background=111&color=fff&size=256",
+    "poster": "",
     "streams": [
       {
         "source": "echo",
@@ -227,14 +227,14 @@
     "partido": "Chaves vs Oliveirense",
     "id": "chaves-vs-oliveirense-2284531",
     "hora": "14:00",
-    "poster": "https://ui-avatars.com/api/?name=Chaves+vs+Oliveirense&background=111&color=fff&size=256",
+    "poster": "",
     "streams": []
   },
   {
     "partido": "Örgryte vs Degerfors",
     "id": "-rgryte-vs-degerfors-2398790",
     "hora": "14:00",
-    "poster": "https://ui-avatars.com/api/?name=Örgryte+vs+Degerfors&background=111&color=fff&size=256",
+    "poster": "",
     "streams": [
       {
         "source": "admin",
@@ -263,7 +263,7 @@
     "partido": "Piast Gliwice vs Arka Gdynia",
     "id": "piast-gliwice-vs-arka-gdynia-2267968",
     "hora": "14:00",
-    "poster": "https://ui-avatars.com/api/?name=Piast+Gliwice+vs+Arka+Gdynia&background=111&color=fff&size=256",
+    "poster": "",
     "streams": [
       {
         "source": "echo",
@@ -285,7 +285,7 @@
     "partido": "Cagliari vs Atalanta",
     "id": "cagliari-vs-atalanta-2265367",
     "hora": "13:30",
-    "poster": "https://ui-avatars.com/api/?name=Cagliari+vs+Atalanta&background=111&color=fff&size=256",
+    "poster": "",
     "streams": [
       {
         "source": "admin",
@@ -342,7 +342,7 @@
     "partido": "Cadiz vs Las Palmas",
     "id": "cadiz-vs-las-palmas-football-1392166",
     "hora": "15:30",
-    "poster": "https://ui-avatars.com/api/?name=Cadiz+vs+Las+Palmas&background=111&color=fff&size=256",
+    "poster": "",
     "streams": [
       {
         "source": "echo",
@@ -371,14 +371,14 @@
     "partido": "Boulogne vs USL Dunkerque",
     "id": "boulogne-vs-usl-dunkerque-2323676",
     "hora": "15:45",
-    "poster": "https://ui-avatars.com/api/?name=Boulogne+vs+USL+Dunkerque&background=111&color=fff&size=256",
+    "poster": "",
     "streams": []
   },
   {
     "partido": "Lazio vs Udinese",
     "id": "lazio-vs-udinese-2265370",
     "hora": "15:45",
-    "poster": "https://ui-avatars.com/api/?name=Lazio+vs+Udinese&background=111&color=fff&size=256",
+    "poster": "",
     "streams": [
       {
         "source": "admin",
@@ -435,7 +435,7 @@
     "partido": "Espanyol vs Levante",
     "id": "espanyol-vs-levante-2279707",
     "hora": "16:00",
-    "poster": "https://ui-avatars.com/api/?name=Espanyol+vs+Levante&background=111&color=fff&size=256",
+    "poster": "",
     "streams": [
       {
         "source": "admin",
@@ -513,7 +513,7 @@
     "partido": "Manchester United vs Brentford",
     "id": "manchester-united-vs-brentford-2267409",
     "hora": "16:00",
-    "poster": "https://ui-avatars.com/api/?name=Manchester+United+vs+Brentford&background=111&color=fff&size=256",
+    "poster": "",
     "streams": [
       {
         "source": "admin",
@@ -591,7 +591,7 @@
     "partido": "Gil Vicente vs Casa Pia",
     "id": "gil-vicente-vs-casa-pia-2283604",
     "hora": "16:15",
-    "poster": "https://ui-avatars.com/api/?name=Gil+Vicente+vs+Casa+Pia&background=111&color=fff&size=256",
+    "poster": "",
     "streams": [
       {
         "source": "echo",
@@ -613,7 +613,7 @@
     "partido": "Velez Sarsfield vs Union Santa Fe",
     "id": "velez-sarsfield-vs-union-santa-fe-football-1492057",
     "hora": "18:45",
-    "poster": "https://ui-avatars.com/api/?name=Velez+Sarsfield+vs+Union+Santa+Fe&background=111&color=fff&size=256",
+    "poster": "",
     "streams": [
       {
         "source": "echo",
@@ -635,7 +635,7 @@
     "partido": "Huracan vs Argentinos JRS",
     "id": "huracan-vs-argentinos-jrs-football-1492049",
     "hora": "21:00",
-    "poster": "https://ui-avatars.com/api/?name=Huracan+vs+Argentinos+JRS&background=111&color=fff&size=256",
+    "poster": "",
     "streams": [
       {
         "source": "echo",
@@ -657,42 +657,42 @@
     "partido": "Al Shabab vs Al-Fateh",
     "id": "al-shabab-vs-al-fateh-football-1436177",
     "hora": "13:00",
-    "poster": "https://ui-avatars.com/api/?name=Al+Shabab+vs+Al-Fateh&background=111&color=fff&size=256",
+    "poster": "",
     "streams": []
   },
   {
     "partido": "NEOM vs Al-Hazm",
     "id": "neom-vs-al-hazm-football-1436178",
     "hora": "13:45",
-    "poster": "https://ui-avatars.com/api/?name=NEOM+vs+Al-Hazm&background=111&color=fff&size=256",
+    "poster": "",
     "streams": []
   },
   {
     "partido": "Roda JC vs RKC Waalwijk",
     "id": "roda-jc-vs-rkc-waalwijk-2468344",
     "hora": "13:45",
-    "poster": "https://ui-avatars.com/api/?name=Roda+JC+vs+RKC+Waalwijk&background=111&color=fff&size=256",
+    "poster": "",
     "streams": []
   },
   {
     "partido": "Feirense vs Torreense",
     "id": "feirense-vs-torreense-2284532",
     "hora": "14:00",
-    "poster": "https://ui-avatars.com/api/?name=Feirense+vs+Torreense&background=111&color=fff&size=256",
+    "poster": "",
     "streams": []
   },
   {
     "partido": "Al Khaleej Saihat vs Al Najma",
     "id": "al-khaleej-saihat-vs-al-najma-football-1436175",
     "hora": "15:00",
-    "poster": "https://ui-avatars.com/api/?name=Al+Khaleej+Saihat+vs+Al+Najma&background=111&color=fff&size=256",
+    "poster": "",
     "streams": []
   },
   {
     "partido": "Al-Hilal vs Damac",
     "id": "al-hilal-vs-damac-2311956",
     "hora": "15:00",
-    "poster": "https://ui-avatars.com/api/?name=Al-Hilal+vs+Damac&background=111&color=fff&size=256",
+    "poster": "",
     "streams": []
   }
 ]
