@@ -30,7 +30,11 @@ def get(url):
     r.raise_for_status()
     return r.json()
 
-# 🧠 NUEVO: obtener posters desde HTML
+# 🔥 NORMALIZAR TEXTO (clave para match)
+def normalize(text):
+    return re.sub(r'[^a-z0-9]', '', text.lower())
+
+# 🧠 obtener posters limpios
 def get_poster_map():
     try:
         print("🖼️ Obteniendo posters...")
@@ -42,9 +46,20 @@ def get_poster_map():
         matches = re.findall(r'href="(/watch/.*?)".*?img src="(.*?)"', html, re.DOTALL)
 
         for link, img in matches:
-            posters[link] = BASE_URL + img
 
-        print(f"✅ {len(posters)} posters encontrados")
+            # 🔥 FILTRAR SOLO IMÁGENES REALES
+            if not img.endswith((".jpg", ".png", ".webp")):
+                continue
+
+            if img.startswith("/"):
+                img = BASE_URL + img
+
+            if "streamed.pk" not in img:
+                continue
+
+            posters[link] = img
+
+        print(f"✅ {len(posters)} posters válidos")
         return posters
 
     except Exception as e:
@@ -53,10 +68,12 @@ def get_poster_map():
 
 def parse_match_time(raw_time):
     try:
+        # timestamp (ms)
         if isinstance(raw_time, int) or str(raw_time).isdigit():
             ts = int(raw_time) / 1000
             return datetime.fromtimestamp(ts, tz=timezone.utc)
 
+        # ISO
         return datetime.fromisoformat(raw_time.replace("Z", "+00:00"))
 
     except:
@@ -66,13 +83,12 @@ def main():
     if PROXY:
         print(f"🔒 Usando proxy: {PROXY.split('@')[-1]}")
     else:
-        print("⚠️  Sin proxy configurado — puede fallar en servidores cloud")
+        print("⚠️ Sin proxy configurado — puede fallar en servidores cloud")
 
     print("📡 Obteniendo partidos de fútbol...")
     matches = get(f"{BASE_URL}/api/matches/football")
     print(f"✅ {len(matches)} partidos totales")
 
-    # 🧠 cargar posters
     poster_map = get_poster_map()
 
     tz_ar = timezone(timedelta(hours=-3))
@@ -95,15 +111,19 @@ def main():
 
         match_time = match_time.astimezone(tz_ar)
 
+        # 🔥 filtro 24h
         diff = abs((match_time - now).total_seconds())
-
         if diff > 86400:
             continue
 
-        # 🔥 buscar poster por coincidencia de texto
+        # 🔥 MATCH INTELIGENTE DE POSTER
+        title_norm = normalize(title)
         poster = ""
+
         for link, img in poster_map.items():
-            if title.lower().replace(" ", "-") in link.lower():
+            link_norm = normalize(link)
+
+            if title_norm[:15] in link_norm:
                 poster = img
                 break
 
