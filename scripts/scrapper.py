@@ -1,12 +1,7 @@
-"""
-streamed.pk - API oficial con proxy residencial
-Requiere variable de entorno: PROXY_URL
-Formato: http://user:pass@host:port
-"""
-
 import json
 import time
 import os
+from datetime import datetime, timedelta
 import curl_cffi.requests as requests
 
 BASE_URL = "https://streamed.pk"
@@ -42,23 +37,50 @@ def main():
 
     print("📡 Obteniendo partidos de fútbol...")
     matches = get(f"{BASE_URL}/api/matches/football")
-    print(f"✅ {len(matches)} partidos")
+    print(f"✅ {len(matches)} partidos totales")
+
+    # 🧠 Ajuste horario Argentina (UTC-3)
+    today = (datetime.utcnow() - timedelta(hours=3)).date()
 
     results = []
 
     for i, match in enumerate(matches, 1):
         title = match.get("title", "Unknown")
-        sources = match.get("sources", [])
-        print(f"\n[{i}/{len(matches)}] 🏟️  {title}")
+        match_date_str = match.get("date") or match.get("startTime")
 
-        entry = {"partido": title, "id": match.get("id"), "streams": []}
+        # ❌ Si no hay fecha, lo ignoramos
+        if not match_date_str:
+            continue
+
+        try:
+            match_date = datetime.fromisoformat(
+                match_date_str.replace("Z", "")
+            ).date()
+        except:
+            continue
+
+        # 🔥 FILTRO CLAVE: SOLO HOY
+        if match_date != today:
+            continue
+
+        sources = match.get("sources", [])
+
+        print(f"\n[{i}] 🏟️  {title} (HOY)")
+
+        entry = {
+            "partido": title,
+            "id": match.get("id"),
+            "streams": []
+        }
 
         for src in sources:
             try:
                 streams = get(f"{BASE_URL}/api/stream/{src['source']}/{src['id']}")
+
                 for s in streams:
                     embed = s.get("embedUrl", "")
                     hd = "HD" if s.get("hd") else "SD"
+
                     entry["streams"].append({
                         "source": src["source"],
                         "streamNo": s.get("streamNo"),
@@ -66,8 +88,11 @@ def main():
                         "language": s.get("language", ""),
                         "embed": embed
                     })
+
                     print(f"    ✅ [{hd}] {s.get('streamNo')}: {embed}")
+
                 time.sleep(0.3)
+
             except Exception as e:
                 print(f"    ❌ {src['source']}: {e}")
 
@@ -81,7 +106,8 @@ def main():
 
     total = sum(len(m["streams"]) for m in results)
     found = sum(1 for m in results for s in m["streams"] if s["embed"])
-    print(f"\n✅ {len(results)} partidos | {found}/{total} embeds | Guardado: {OUTPUT_FILE}")
+
+    print(f"\n✅ {len(results)} partidos de HOY | {found}/{total} embeds | Guardado: {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     main()
