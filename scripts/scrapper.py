@@ -1,7 +1,7 @@
 import json
 import time
 import os
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 import curl_cffi.requests as requests
 
 BASE_URL = "https://streamed.pk"
@@ -39,37 +39,50 @@ def main():
     matches = get(f"{BASE_URL}/api/matches/football")
     print(f"✅ {len(matches)} partidos totales")
 
-    # 🧠 Ajuste horario Argentina (UTC-3)
-    today = (datetime.utcnow() - timedelta(hours=3)).date()
+    # 🧠 Hora actual en Argentina (UTC-3)
+    now = datetime.utcnow().replace(tzinfo=timezone.utc).astimezone(
+        timezone(timedelta(hours=-3))
+    )
 
     results = []
 
     for i, match in enumerate(matches, 1):
         title = match.get("title", "Unknown")
-        match_date_str = match.get("date") or match.get("startTime")
+        raw_time = match.get("startTime") or match.get("date")
 
-        # ❌ Si no hay fecha, lo ignoramos
-        if not match_date_str:
+        if not raw_time:
             continue
 
         try:
-            match_date = datetime.fromisoformat(
-                match_date_str.replace("Z", "")
-            ).date()
-        except:
+            # 🔥 Parseo correcto ISO + zona horaria
+            match_time = datetime.fromisoformat(
+                raw_time.replace("Z", "+00:00")
+            )
+
+            # 🔄 Convertir a Argentina
+            match_time = match_time.astimezone(
+                timezone(timedelta(hours=-3))
+            )
+
+        except Exception as e:
+            print(f"❌ Error parseando fecha: {raw_time}")
             continue
 
-        # 🔥 FILTRO CLAVE: SOLO HOY
-        if match_date != today:
+        # 🔥 FILTRO INTELIGENTE (24h antes/después)
+        diff = abs((match_time - now).total_seconds())
+
+        if diff > 86400:  # 24 horas
             continue
 
         sources = match.get("sources", [])
 
-        print(f"\n[{i}] 🏟️  {title} (HOY)")
+        print(f"\n[{i}] 🏟️ {title}")
+        print(f"    🕒 Hora AR: {match_time.strftime('%H:%M')}")
 
         entry = {
             "partido": title,
             "id": match.get("id"),
+            "hora": match_time.strftime("%H:%M"),
             "streams": []
         }
 
@@ -97,17 +110,19 @@ def main():
                 print(f"    ❌ {src['source']}: {e}")
 
         if not entry["streams"]:
-            print("    ⚠️  Sin streams aún")
+            print("    ⚠️ Sin streams aún")
 
         results.append(entry)
 
+    # 💾 Guardar JSON
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
 
     total = sum(len(m["streams"]) for m in results)
     found = sum(1 for m in results for s in m["streams"] if s["embed"])
 
-    print(f"\n✅ {len(results)} partidos de HOY | {found}/{total} embeds | Guardado: {OUTPUT_FILE}")
+    print(f"\n✅ {len(results)} partidos filtrados (24h) | {found}/{total} embeds")
+    print(f"📁 Guardado en: {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     main()
