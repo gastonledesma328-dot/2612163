@@ -1,6 +1,7 @@
 import json
 import time
 import os
+import re
 from datetime import datetime, timedelta, timezone
 import curl_cffi.requests as requests
 
@@ -29,7 +30,34 @@ def get(url):
     r.raise_for_status()
     return r.json()
 
-# 🔥 Parsear fecha (timestamp o ISO)
+# 🔥 obtener lista de posters reales
+def get_posters_list():
+    try:
+        print("🖼️ Obteniendo posters...")
+
+        r = requests.get(
+            "https://streamed.pk/category/football",
+            headers=HEADERS,
+            impersonate="chrome120"
+        )
+
+        html = r.text
+
+        matches = re.findall(r'src="(/api/images/proxy/.*?\.webp)"', html)
+
+        posters = []
+
+        for img in matches:
+            posters.append(BASE_URL + img)
+
+        print(f"✅ {len(posters)} posters encontrados")
+        return posters
+
+    except Exception as e:
+        print(f"❌ Error obteniendo posters: {e}")
+        return []
+
+# 🔥 parse fecha (timestamp o ISO)
 def parse_match_time(raw_time):
     try:
         if isinstance(raw_time, int) or str(raw_time).isdigit():
@@ -40,11 +68,6 @@ def parse_match_time(raw_time):
     except:
         return None
 
-# 🔥 Generar poster automático (fallback estable)
-def generate_poster(title):
-    safe = title.replace(" ", "+")
-    return f"https://ui-avatars.com/api/?name={safe}&background=111&color=fff&size=256"
-
 def main():
     if PROXY:
         print(f"🔒 Usando proxy: {PROXY.split('@')[-1]}")
@@ -54,6 +77,9 @@ def main():
     print("📡 Obteniendo partidos de fútbol...")
     matches = get(f"{BASE_URL}/api/matches/football")
     print(f"✅ {len(matches)} partidos totales")
+
+    # 🔥 traer posters reales
+    posters = get_posters_list()
 
     tz_ar = timezone(timedelta(hours=-3))
     now = datetime.now(tz_ar)
@@ -80,8 +106,8 @@ def main():
         if diff > 86400:
             continue
 
-        # 🔥 POSTER SIEMPRE (sin scraping)
-        poster = generate_poster(title)
+        # 🔥 asignar poster por índice (simple y efectivo)
+        poster = posters[i-1] if i-1 < len(posters) else ""
 
         sources = match.get("sources", [])
 
