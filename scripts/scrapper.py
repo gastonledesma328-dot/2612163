@@ -29,6 +29,19 @@ def get(url):
     r.raise_for_status()
     return r.json()
 
+def parse_match_time(raw_time):
+    try:
+        # 🟢 CASO 1: timestamp (milisegundos)
+        if isinstance(raw_time, int) or raw_time.isdigit():
+            ts = int(raw_time) / 1000
+            return datetime.fromtimestamp(ts, tz=timezone.utc)
+
+        # 🟢 CASO 2: ISO string
+        return datetime.fromisoformat(raw_time.replace("Z", "+00:00"))
+
+    except:
+        return None
+
 def main():
     if PROXY:
         print(f"🔒 Usando proxy: {PROXY.split('@')[-1]}")
@@ -39,10 +52,9 @@ def main():
     matches = get(f"{BASE_URL}/api/matches/football")
     print(f"✅ {len(matches)} partidos totales")
 
-    # 🧠 Hora actual en Argentina (UTC-3)
-    now = datetime.utcnow().replace(tzinfo=timezone.utc).astimezone(
-        timezone(timedelta(hours=-3))
-    )
+    # 🧠 Hora actual Argentina
+    tz_ar = timezone(timedelta(hours=-3))
+    now = datetime.now(tz_ar)
 
     results = []
 
@@ -53,25 +65,19 @@ def main():
         if not raw_time:
             continue
 
-        try:
-            # 🔥 Parseo correcto ISO + zona horaria
-            match_time = datetime.fromisoformat(
-                raw_time.replace("Z", "+00:00")
-            )
+        match_time = parse_match_time(raw_time)
 
-            # 🔄 Convertir a Argentina
-            match_time = match_time.astimezone(
-                timezone(timedelta(hours=-3))
-            )
-
-        except Exception as e:
+        if not match_time:
             print(f"❌ Error parseando fecha: {raw_time}")
             continue
 
-        # 🔥 FILTRO INTELIGENTE (24h antes/después)
+        # 🔄 Convertir a Argentina
+        match_time = match_time.astimezone(tz_ar)
+
+        # 🔥 FILTRO (24h)
         diff = abs((match_time - now).total_seconds())
 
-        if diff > 86400:  # 24 horas
+        if diff > 86400:
             continue
 
         sources = match.get("sources", [])
