@@ -1,7 +1,6 @@
 import json
 import time
 import os
-import re
 from datetime import datetime, timedelta, timezone
 import curl_cffi.requests as requests
 
@@ -30,54 +29,21 @@ def get(url):
     r.raise_for_status()
     return r.json()
 
-# 🔥 NORMALIZAR TEXTO (clave para match)
-def normalize(text):
-    return re.sub(r'[^a-z0-9]', '', text.lower())
-
-# 🧠 obtener posters limpios
-def get_poster_map():
-    try:
-        print("🖼️ Obteniendo posters...")
-        r = requests.get("https://streamed.pk/category/football", headers=HEADERS)
-        html = r.text
-
-        posters = {}
-
-        matches = re.findall(r'href="(/watch/.*?)".*?img src="(.*?)"', html, re.DOTALL)
-
-        for link, img in matches:
-
-            # 🔥 FILTRAR SOLO IMÁGENES REALES
-            if not img.endswith((".jpg", ".png", ".webp")):
-                continue
-
-            if img.startswith("/"):
-                img = BASE_URL + img
-
-            if "streamed.pk" not in img:
-                continue
-
-            posters[link] = img
-
-        print(f"✅ {len(posters)} posters válidos")
-        return posters
-
-    except Exception as e:
-        print(f"❌ Error obteniendo posters: {e}")
-        return {}
-
+# 🔥 Parsear fecha (timestamp o ISO)
 def parse_match_time(raw_time):
     try:
-        # timestamp (ms)
         if isinstance(raw_time, int) or str(raw_time).isdigit():
             ts = int(raw_time) / 1000
             return datetime.fromtimestamp(ts, tz=timezone.utc)
 
-        # ISO
         return datetime.fromisoformat(raw_time.replace("Z", "+00:00"))
-
     except:
         return None
+
+# 🔥 Generar poster automático (fallback estable)
+def generate_poster(title):
+    safe = title.replace(" ", "+")
+    return f"https://ui-avatars.com/api/?name={safe}&background=111&color=fff&size=256"
 
 def main():
     if PROXY:
@@ -88,8 +54,6 @@ def main():
     print("📡 Obteniendo partidos de fútbol...")
     matches = get(f"{BASE_URL}/api/matches/football")
     print(f"✅ {len(matches)} partidos totales")
-
-    poster_map = get_poster_map()
 
     tz_ar = timezone(timedelta(hours=-3))
     now = datetime.now(tz_ar)
@@ -116,16 +80,8 @@ def main():
         if diff > 86400:
             continue
 
-        # 🔥 MATCH INTELIGENTE DE POSTER
-        title_norm = normalize(title)
-        poster = ""
-
-        for link, img in poster_map.items():
-            link_norm = normalize(link)
-
-            if title_norm[:15] in link_norm:
-                poster = img
-                break
+        # 🔥 POSTER SIEMPRE (sin scraping)
+        poster = generate_poster(title)
 
         sources = match.get("sources", [])
 
