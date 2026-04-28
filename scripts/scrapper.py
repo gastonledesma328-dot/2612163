@@ -1,122 +1,88 @@
+import requests
+from bs4 import BeautifulSoup
 import json
 import time
-import os
-from datetime import datetime, timedelta, timezone
-import urllib.parse
-import curl_cffi.requests as requests
 
-BASE_URL = "https://streamed.pk"
-OUTPUT_FILE = "partidos_embeds.json"
+BASE_URL = "https://streamhdx.com"
+OUTPUT_FILE = "partidos_streamhdx.json"
 
 HEADERS = {
-    "Accept": "application/json, text/plain, */*",
-    "Referer": "https://streamed.pk/category/football",
+    "User-Agent": "Mozilla/5.0",
 }
 
-PROXY = os.environ.get("PROXY_URL", "")
-
-def get(url):
-    kwargs = {
-        "headers": HEADERS,
-        "timeout": 30,
-        "impersonate": "chrome120",
-    }
-    if PROXY:
-        kwargs["proxies"] = {"http": PROXY, "https": PROXY}
-    
-    r = requests.get(url, **kwargs)
+def get_html(url):
+    r = requests.get(url, headers=HEADERS, timeout=20)
     r.raise_for_status()
-    return r.json()
+    return r.text
 
-# 🔥 parse fecha
-def parse_match_time(raw_time):
-    try:
-        if isinstance(raw_time, int) or str(raw_time).isdigit():
-            ts = int(raw_time) / 1000
-            return datetime.fromtimestamp(ts, tz=timezone.utc)
+def extract_matches():
+    html = get_html(BASE_URL)
+    soup = BeautifulSoup(html, "html.parser")
 
-        return datetime.fromisoformat(raw_time.replace("Z", "+00:00"))
-    except:
-        return None
+    matches = []
 
-# 🔥 LOGO REAL (MUCHO MEJOR QUE POSTER)
-def generate_logo(title):
-    query = urllib.parse.quote(title)
-    return f"https://crests.football-data.org/{query}.png"
+    # 🔥 esto depende del HTML real (puede variar)
+    cards = soup.select("a")  # ajustar según estructura real
 
-# 🔥 fallback bonito
-def fallback_image(title):
-    safe = title.replace(" ", "+")
-    return f"https://ui-avatars.com/api/?name={safe}&background=111&color=fff&size=256"
+    for c in cards:
+        href = c.get("href")
+        title = c.text.strip()
+
+        if "/watch" in str(href):
+            matches.append({
+                "title": title,
+                "url": BASE_URL + href
+            })
+
+    return matches
+
+
+def extract_streams(match_url):
+    html = get_html(match_url)
+    soup = BeautifulSoup(html, "html.parser")
+
+    streams = []
+
+    # 🔥 buscar iframes
+    iframes = soup.find_all("iframe")
+    for iframe in iframes:
+        src = iframe.get("src")
+        if src:
+            streams.append(src)
+
+    return streams
+
 
 def main():
-    print("📡 Obteniendo partidos...")
-    matches = get(f"{BASE_URL}/api/matches/football")
-
-    tz_ar = timezone(timedelta(hours=-3))
-    now = datetime.now(tz_ar)
+    print("📡 Buscando partidos...")
+    matches = extract_matches()
 
     results = []
 
-    for i, match in enumerate(matches, 1):
-        title = match.get("title", "Unknown")
-        raw_time = match.get("startTime") or match.get("date")
+    for m in matches:
+        print(f"\n⚽ {m['title']}")
 
-        if not raw_time:
-            continue
+        try:
+            streams = extract_streams(m["url"])
 
-        match_time = parse_match_time(raw_time)
-        if not match_time:
-            continue
+            entry = {
+                "partido": m["title"],
+                "streams": [{"embed": s} for s in streams]
+            }
 
-        match_time = match_time.astimezone(tz_ar)
+            if streams:
+                results.append(entry)
 
-        # filtro 24h
-        diff = abs((match_time - now).total_seconds())
-        if diff > 86400:
-            continue
+            time.sleep(1)
 
-        # 🔥 intentar logo real
-        poster = generate_logo(title)
-
-        # si falla visualmente → fallback
-        if not poster:
-            poster = fallback_image(title)
-
-        sources = match.get("sources", [])
-
-        print(f"\n[{i}] {title}")
-        print(f"🕒 {match_time.strftime('%H:%M')}")
-        print(f"🖼️ {poster}")
-
-        entry = {
-            "partido": title,
-            "hora": match_time.strftime("%H:%M"),
-            "poster": poster,
-            "streams": []
-        }
-
-        for src in sources:
-            try:
-                streams = get(f"{BASE_URL}/api/stream/{src['source']}/{src['id']}")
-
-                for s in streams:
-                    entry["streams"].append({
-                        "embed": s.get("embedUrl", "")
-                    })
-
-                time.sleep(0.3)
-
-            except:
-                pass
-
-        if entry["streams"]:
-            results.append(entry)
+        except Exception as e:
+            print("❌ Error:", e)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
 
     print("\n✅ JSON generado")
+
 
 if __name__ == "__main__":
     main()
