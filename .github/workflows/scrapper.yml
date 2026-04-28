@@ -21,11 +21,11 @@ jobs:
       - name: Install dependencies
         run: pip install curl-cffi
 
-      - name: Run streamed.pk scrapper
+      - name: Run streamed.pk
         run: python scripts/scrapper.py
 
-      - name: Run streamhdx scrapper
-        run: python scripts/scrapper_streamhdx.py
+      - name: Run streamhdx
+        run: python scripts/streamhdx.py
 
       - name: Commit y push resultados
         run: |
