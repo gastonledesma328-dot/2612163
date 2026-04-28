@@ -1,107 +1,137 @@
+"""
+streamhdx.com scrapper - Con proxy residencial (mismo de WebShare)
+Requiere variable de entorno: PROXY_URL
+"""
+
 import json
 import time
-from playwright.sync_api import sync_playwright
+import os
+import re
+from bs4 import BeautifulSoup
+import curl_cffi.requests as requests
 
 BASE_URL = "https://streamhdx.com"
 OUTPUT_FILE = "partidos_streamhdx.json"
+PROXY = os.environ.get("PROXY_URL", "")
 
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xhtml+xml,*/*",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Referer": "https://streamhdx.com/",
+}
 
-def get_html(page, url):
-    page.goto(url, timeout=60000)
-    page.wait_for_timeout(3000)  # esperar carga JS
-    return page.content()
+def get(url):
+    kwargs = {"headers": HEADERS, "timeout": 30, "impersonate": "chrome120"}
+    if PROXY:
+        kwargs["proxies"] = {"http": PROXY, "https": PROXY}
+    r = requests.get(url, **kwargs)
+    r.raise_for_status()
+    return r.text
 
-
-def extract_matches(page):
-    html = get_html(page, BASE_URL)
-
-    from bs4 import BeautifulSoup
+def extract_matches():
+    """Extrae todos los links de partidos desde la home"""
+    print("📡 Cargando home...")
+    html = get(BASE_URL)
     soup = BeautifulSoup(html, "html.parser")
 
     matches = []
+    seen = set()
 
     for a in soup.find_all("a", href=True):
         href = a["href"]
-        title = a.text.strip()
+        # Normalizar URL
+        if href.startswith("/"):
+            href = BASE_URL + href
+        elif not href.startswith("http"):
+            continue
 
-        if "/watch" in href:
-            full_url = href if href.startswith("http") else BASE_URL + href
+        # Solo links internos que sean de partidos
+        if BASE_URL not in href:
+            continue
+        # Excluir home, about, etc
+        path = href.replace(BASE_URL, "")
+        if path in ["", "/", "/about", "/contact", "/faq"] or path.startswith("/#"):
+            continue
 
-            matches.append({
-                "title": title if title else "Sin título",
-                "url": full_url
-            })
+        title = a.get_text(strip=True)
+        if href not in seen and title:
+            seen.add(href)
+            matches.append({"title": title, "url": href})
 
+    print(f"✅ {len(matches)} partidos encontrados")
     return matches
 
-
-def extract_streams(page, match_url):
-    html = get_html(page, match_url)
-
-    from bs4 import BeautifulSoup
+def extract_streams(match_url):
+    """Extrae los iframes/embeds de la página de un partido"""
+    html = get(match_url)
     soup = BeautifulSoup(html, "html.parser")
-
     streams = []
 
-    # 🔥 iframes reales
+    # Buscar iframes directos
     for iframe in soup.find_all("iframe"):
-        src = iframe.get("src")
-        if src:
+        src = iframe.get("src", "")
+        if src and src not in streams:
             streams.append(src)
 
-    # 🔥 buscar m3u8 directo en scripts
-    scripts = soup.find_all("script")
-    for s in scripts:
-        if s.string and ".m3u8" in s.string:
-            streams.append(s.string)
+    # Buscar en el JS inline (a veces el embed está en un script)
+    if not streams:
+        for script in soup.find_all("script"):
+            text = script.string or ""
+            found = re.findall(r'https?://[^\s"\'<>]+(?:embed|stream|player)[^\s"\'<>]+', text)
+            for f in found:
+                if f not in streams:
+                    streams.append(f)
 
-    return list(set(streams))
+    # Buscar src en atributos data-*
+    if not streams:
+        for el in soup.find_all(attrs={"data-src": True}):
+            src = el["data-src"]
+            if "embed" in src or "stream" in src:
+                streams.append(src)
 
+    return streams
 
 def main():
-    print("📡 Buscando partidos...")
+    if PROXY:
+        print(f"🔒 Proxy: {PROXY.split('@')[-1]}")
+    else:
+        print("⚠️  Sin proxy — puede fallar en servidores cloud")
+
+    matches = extract_matches()
+
+    if not matches:
+        print("❌ No se encontraron partidos")
+        return
 
     results = []
 
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        page = browser.new_page()
+    for i, m in enumerate(matches, 1):
+        print(f"\n[{i}/{len(matches)}] ⚽ {m['title']}")
+        try:
+            streams = extract_streams(m["url"])
+            entry = {
+                "partido": m["title"],
+                "url": m["url"],
+                "streams": [{"embed": s} for s in streams]
+            }
+            results.append(entry)
 
-        matches = extract_matches(page)
+            if streams:
+                for s in streams:
+                    print(f"    ✅ {s}")
+            else:
+                print("    ⚠️  Sin streams")
 
-        print(f"🎯 Encontrados: {len(matches)}")
-
-        for m in matches:
-            print(f"\n⚽ {m['title']}")
-
-            try:
-                streams = extract_streams(page, m["url"])
-
-                if not streams:
-                    print("⚠️ Sin streams")
-                    continue
-
-                entry = {
-                    "partido": m["title"],
-                    "streams": [{"embed": s} for s in streams]
-                }
-
-                results.append(entry)
-
-                print(f"✅ {len(streams)} streams encontrados")
-
-                time.sleep(1)
-
-            except Exception as e:
-                print("❌ Error:", e)
-
-        browser.close()
+            time.sleep(1)
+        except Exception as e:
+            print(f"    ❌ Error: {e}")
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
 
-    print("\n✅ JSON generado con", len(results), "partidos")
-
+    total = sum(len(r["streams"]) for r in results)
+    print(f"\n✅ {len(results)} partidos | {total} streams | Guardado: {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     main()
