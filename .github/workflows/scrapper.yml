@@ -1,86 +1,36 @@
-"""
-streamhdx.com - Consume eventos.json directamente
-No requiere proxy ni Playwright
-"""
-import json
-import time
-import os
-import curl_cffi.requests as requests
+name: Football Embeds Scrapper
 
-URL = "https://streamhdx.com/eventos.json"
-OUTPUT_FILE = "eventos_streamhdx.json"
-PROXY = os.environ.get("PROXY_URL", "")
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36",
-    "Referer": "https://streamhdx.com/",
-    "Accept": "application/json, */*",
-}
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
 
-def get_eventos():
-    kwargs = {
-        "headers": HEADERS,
-        "timeout": 30,
-        "impersonate": "chrome120",
-    }
-    if PROXY:
-        kwargs["proxies"] = {"http": PROXY, "https": PROXY}
-    r = requests.get(f"{URL}?nocache={int(time.time()*1000)}", **kwargs)
-    r.raise_for_status()
-    return r.json()
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-def main():
-    print("📡 Obteniendo eventos de streamhdx.com...")
-    data = get_eventos()
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-    results = []
-    total_eventos = 0
-    total_canales = 0
+      - name: Install dependencies
+        run: pip install curl-cffi
 
-    for dia in data.get("dias", []):
-        fecha = dia.get("fecha", "")
-        print(f"\n📅 {fecha}")
+      - name: Run streamed.pk scrapper
+        run: python scripts/scrapper.py
 
-        for evento in dia.get("eventos", []):
-            titulo = evento.get("titulo", "")
-            categoria = evento.get("categoria", "")
-            hora = evento.get("hora", "")
-            canales = evento.get("canales", [])
+      - name: Run streamhdx scrapper
+        run: python scripts/scrapper_streamhdx.py
 
-            print(f"  ⚽ [{hora}] {titulo}")
-
-            entry = {
-                "titulo": titulo,
-                "categoria": categoria,
-                "clase": evento.get("clase", ""),
-                "fecha": fecha,
-                "fecha_iso": dia.get("fecha_iso", ""),
-                "hora": hora,
-                "duracion_min": evento.get("duracion_min", 0),
-                "canales": []
-            }
-
-            for canal in canales:
-                nombre = canal.get("nombre", "")
-                url = canal.get("url", "")
-                calidad = canal.get("calidad", "")
-                entry["canales"].append({
-                    "nombre": nombre,
-                    "calidad": calidad,
-                    "url": url
-                })
-                print(f"    📺 {nombre} ({calidad}): {url}")
-                total_canales += 1
-
-            results.append(entry)
-            total_eventos += 1
-
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(results, f, indent=2, ensure_ascii=False)
-
-    print(f"\n{'='*55}")
-    print(f"✅ {total_eventos} eventos | {total_canales} canales")
-    print(f"💾 Guardado en: {OUTPUT_FILE}")
-
-if __name__ == "__main__":
-    main()
+      - name: Commit y push resultados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add partidos_embeds.json eventos_streamhdx.json
+          git diff --staged --quiet || git commit -m "🤖 Update embeds $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
