@@ -19,7 +19,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install curl-cffi
+        run: pip install requests beautifulsoup4 curl-cffi
 
       - name: Run scrapper
         env:
