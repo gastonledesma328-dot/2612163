@@ -1,0 +1,218 @@
+[
+  {
+    "titulo": "Liga Profesional: Vélez Sarsfield vs Unión Santa Fe",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Lunes 27 de Abril 2026",
+    "fecha_iso": "2026-04-27",
+    "hora": "16:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
+      },
+      {
+        "nombre": "TNT Sports FL - (VPN/AR-UY-PY)",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/fl.php?get=VE5UX1Nwb3J0c19IRA"
+      },
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tntsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A: Manta vs Universidad Católica",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Lunes 27 de Abril 2026",
+    "fecha_iso": "2026-04-27",
+    "hora": "16:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping Sports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Defensor Sporting vs Progreso",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Lunes 27 de Abril 2026",
+    "fecha_iso": "2026-04-27",
+    "hora": "17:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
+      }
+    ]
+  },
+  {
+    "titulo": "Sudamericano Sub-17: Uruguay vs Brasil",
+    "categoria": "futbol",
+    "clase": "Sudamericano",
+    "fecha": "Lunes 27 de Abril 2026",
+    "fecha_iso": "2026-04-27",
+    "hora": "18:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Huracán vs Argentinos Juniors",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Lunes 27 de Abril 2026",
+    "fecha_iso": "2026-04-27",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
+      },
+      {
+        "nombre": "Espn Premiun FL - (VPN/AR-UY-PY)",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/fl.php?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+      },
+      {
+        "nombre": "Espn Premiun",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnpremium"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga 1: Deportivo Garcilaso vs Melgar",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Lunes 27 de Abril 2026",
+    "fecha_iso": "2026-04-27",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "L1 Max",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=liga1max"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA: Pistons vs Magic",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Lunes 27 de Abril 2026",
+    "fecha_iso": "2026-04-27",
+    "hora": "19:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "TNT Sports AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tntsports"
+      },
+      {
+        "nombre": "Espn MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnmx"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A: Aucas vs Delfin",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Lunes 27 de Abril 2026",
+    "fecha_iso": "2026-04-27",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping Sports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Texas Rangers vs. New York Yankees",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Lunes 27 de Abril 2026",
+    "fecha_iso": "2026-04-27",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 3",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA: Thunder vs Suns",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Lunes 27 de Abril 2026",
+    "fecha_iso": "2026-04-27",
+    "hora": "20:30",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Espn 2 MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2mx"
+      },
+      {
+        "nombre": "Max",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=max1"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA: Timbwerwolves vs Nuggets",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Lunes 27 de Abril 2026",
+    "fecha_iso": "2026-04-27",
+    "hora": "21:30",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "TNT Sports AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tntsports"
+      },
+      {
+        "nombre": "Espn MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnmx"
+      }
+    ]
+  }
+]
