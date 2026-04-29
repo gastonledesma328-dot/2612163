@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Liga Profesional Saudí: Al Nassr vs Al-Ahli",
-    "categoria": "futbol",
-    "clase": "ARA",
-    "fecha": "Miércoles 29 de Abril 2026",
-    "fecha_iso": "2026-04-29",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
-      }
-    ]
-  },
-  {
     "titulo": "UEFA Champions League: Atlético Madrid vs Arsenal",
     "categoria": "futbol",
     "clase": "CHA",
@@ -25,14 +9,19 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      },
-      {
         "nombre": "ESPN",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "TNT Sports1 UK | Recomendado",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/ote.php?id=tnt1uk"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
       },
       {
         "nombre": "TUDN USA",
