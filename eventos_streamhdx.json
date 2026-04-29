@@ -1,26 +1,5 @@
 [
   {
-    "titulo": "Liga Profesional Saudí: Al Taawon vs Al Ittihad",
-    "categoria": "futbol",
-    "clase": "ARA",
-    "fecha": "Miércoles 29 de Abril 2026",
-    "fecha_iso": "2026-04-29",
-    "hora": "11:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Como IT",
-        "calidad": "1080p",
-        "url": "https://streamhdx.com/channels/cobo.php?id=como_it7"
-      },
-      {
-        "nombre": "Fox Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
-      }
-    ]
-  },
-  {
     "titulo": "Liga Profesional Saudí: Al Nassr vs Al-Ahli",
     "categoria": "futbol",
     "clase": "ARA",
