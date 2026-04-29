@@ -1,41 +1,5 @@
 [
   {
-    "titulo": "UEFA Champions League: Atlético Madrid vs Arsenal",
-    "categoria": "futbol",
-    "clase": "CHA",
-    "fecha": "Miércoles 29 de Abril 2026",
-    "fecha_iso": "2026-04-29",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "TNT Sports1 UK | Recomendado",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/ote.php?id=tnt1uk"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
-      },
-      {
-        "nombre": "Paramount",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount1"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Libertadores: Platense vs Santa Fe",
     "categoria": "futbol",
     "clase": "LIB",
@@ -45,9 +9,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Disney+",
+        "nombre": "ESPN",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
+        "url": "https://streamhdx.com/live1.php?stream=espn"
       },
       {
         "nombre": "Fanatiz",
@@ -55,9 +19,14 @@
         "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
       },
       {
-        "nombre": "ESPN",
+        "nombre": "Como | Italiano",
+        "calidad": "1080p",
+        "url": "https://streamhdx.com/channels/cobo.php?id=como_it5"
+      },
+      {
+        "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
+        "url": "https://streamhdx.com/live1.php?stream=disney2"
       },
       {
         "nombre": "ESPN 2 MX",
@@ -76,9 +45,14 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Disney+",
+        "nombre": "ESPN",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
+        "url": "https://streamhdx.com/live1.php?stream=espn5"
+      },
+      {
+        "nombre": "Como | Italiano",
+        "calidad": "1080p",
+        "url": "https://streamhdx.com/channels/cobo.php?id=como_it4"
       },
       {
         "nombre": "Fanatiz",
@@ -86,9 +60,9 @@
         "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
       },
       {
-        "nombre": "ESPN",
+        "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
+        "url": "https://streamhdx.com/live1.php?stream=disney3"
       }
     ]
   },
@@ -102,9 +76,14 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Disney+",
+        "nombre": "ESPN",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "Como | Italiano",
+        "calidad": "1080p",
+        "url": "https://streamhdx.com/channels/cobo.php?id=como_it1"
       },
       {
         "nombre": "Fanatiz",
@@ -112,9 +91,9 @@
         "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
       },
       {
-        "nombre": "ESPN",
+        "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
+        "url": "https://streamhdx.com/live1.php?stream=disney4"
       }
     ]
   },
@@ -128,9 +107,14 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Disney+",
+        "nombre": "ESPN",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney5"
+        "url": "https://streamhdx.com/live1.php?stream=espn4"
+      },
+      {
+        "nombre": "Como | Italiano",
+        "calidad": "1080p",
+        "url": "https://streamhdx.com/channels/cobo.php?id=como_it3"
       },
       {
         "nombre": "Fanatiz",
@@ -138,9 +122,9 @@
         "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
       },
       {
-        "nombre": "ESPN",
+        "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4"
+        "url": "https://streamhdx.com/live1.php?stream=disney5"
       }
     ]
   },
@@ -153,6 +137,16 @@
     "hora": "17:00",
     "duracion_min": 140,
     "canales": [
+      {
+        "nombre": "Dsports 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsports2"
+      },
+      {
+        "nombre": "Como | Italiano",
+        "calidad": "1080p",
+        "url": "https://streamhdx.com/channels/cobo.php?id=como_it2"
+      },
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
