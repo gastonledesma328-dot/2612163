@@ -9,19 +9,29 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      },
-      {
         "nombre": "ESPN",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn"
       },
       {
+        "nombre": "VIX +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento5"
+      },
+      {
         "nombre": "TUDN USA",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
+      },
+      {
+        "nombre": "Paramount + | English",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento2"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
       },
       {
         "nombre": "ESPN MX",
@@ -40,14 +50,24 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "VIX +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento6"
+      },
+      {
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney2"
       },
       {
-        "nombre": "ESPN",
+        "nombre": "Paramount + | English",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
+        "url": "https://streamhdx.com/live1.php?stream=evento3"
       }
     ]
   },
@@ -61,9 +81,19 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "VIX +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento7"
+      },
+      {
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney3"
+      },
+      {
+        "nombre": "Paramount + | English",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento4"
       }
     ]
   },
@@ -77,9 +107,19 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "VIX +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento8"
+      },
+      {
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney4"
+      },
+      {
+        "nombre": "Paramount + | English",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento1"
       }
     ]
   },
@@ -209,7 +249,7 @@
     ]
   },
   {
-    "titulo": "NBA: Celtics vs 76ers",
+    "titulo": "NBA Playoffs: Celtics vs 76ers",
     "categoria": "nba",
     "clase": "NBA",
     "fecha": "Jueves 30 de Abril 2026",
@@ -217,6 +257,11 @@
     "hora": "19:00",
     "duracion_min": 200,
     "canales": [
+      {
+        "nombre": "Peacock TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento1"
+      },
       {
         "nombre": "MAX",
         "calidad": "720p",
