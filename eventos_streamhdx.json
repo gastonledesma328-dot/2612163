@@ -223,6 +223,22 @@
     ]
   },
   {
+    "titulo": "Liga Nacional: Marquense vs Xelajú",
+    "categoria": "futbol",
+    "clase": "FUT",
+    "fecha": "Jueves 30 de Abril 2026",
+    "fecha_iso": "2026-04-30",
+    "hora": "17:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "VIX +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento2"
+      }
+    ]
+  },
+  {
     "titulo": "NBA: Knicks vs Hawks",
     "categoria": "nba",
     "clase": "NBA",
@@ -364,6 +380,27 @@
     ]
   },
   {
+    "titulo": "Liga MX Femenil: Guadalajara vs Pachuca",
+    "categoria": "futbol",
+    "clase": "MEX",
+    "fecha": "Jueves 30 de Abril 2026",
+    "fecha_iso": "2026-04-30",
+    "hora": "20:07",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Telemundo",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/telemundo.php"
+      },
+      {
+        "nombre": "Fox Deportes USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
+      }
+    ]
+  },
+  {
     "titulo": "NBA: Nuggets vs Timberwolves",
     "categoria": "nba",
     "clase": "NBA",
@@ -433,6 +470,22 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX Femenil: Toluca vs Tigres UANL",
+    "categoria": "futbol",
+    "clase": "MEX",
+    "fecha": "Jueves 30 de Abril 2026",
+    "fecha_iso": "2026-04-30",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "VIX +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento3"
       }
     ]
   }
