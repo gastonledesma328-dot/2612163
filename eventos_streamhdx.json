@@ -1,308 +1,17 @@
 [
   {
-    "titulo": "Copa Libertadores: Platense vs Santa Fe",
+    "titulo": "US Open Cup: Colorado Rapids vs Colorado Springs",
     "categoria": "futbol",
-    "clase": "LIB",
+    "clase": "FUT",
     "fecha": "Miércoles 29 de Abril 2026",
     "fecha_iso": "2026-04-29",
-    "hora": "17:00",
+    "hora": "20:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "ESPN",
+        "nombre": "Paramount +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
-      },
-      {
-        "nombre": "Como | Italiano",
-        "calidad": "1080p",
-        "url": "https://streamhdx.com/channels/cobo.php?id=como_it5"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "ESPN 2 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2mx"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Mirassol vs Always Ready",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Miércoles 29 de Abril 2026",
-    "fecha_iso": "2026-04-29",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
-      },
-      {
-        "nombre": "Como | Italiano",
-        "calidad": "1080p",
-        "url": "https://streamhdx.com/channels/cobo.php?id=como_it4"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Caracas vs Racing Club",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Miércoles 29 de Abril 2026",
-    "fecha_iso": "2026-04-29",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "Como | Italiano",
-        "calidad": "1080p",
-        "url": "https://streamhdx.com/channels/cobo.php?id=como_it1"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Juventud vs Academia Puerto Cabello",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Miércoles 29 de Abril 2026",
-    "fecha_iso": "2026-04-29",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4"
-      },
-      {
-        "nombre": "Como | Italiano",
-        "calidad": "1080p",
-        "url": "https://streamhdx.com/channels/cobo.php?id=como_it3"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney5"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Deportivo Riestra vs Torque",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Miércoles 29 de Abril 2026",
-    "fecha_iso": "2026-04-29",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsports2"
-      },
-      {
-        "nombre": "Como | Italiano",
-        "calidad": "1080p",
-        "url": "https://streamhdx.com/channels/cobo.php?id=como_it2"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz5"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA: Magic vs Pistons",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Miércoles 29 de Abril 2026",
-    "fecha_iso": "2026-04-29",
-    "hora": "18:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "NBA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=nba1"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA: Raptors vs Cavaliers",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Miércoles 29 de Abril 2026",
-    "fecha_iso": "2026-04-29",
-    "hora": "18:30",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      },
-      {
-        "nombre": "ESPN Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Barcelona SC vs Universidad Católica",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Miércoles 29 de Abril 2026",
-    "fecha_iso": "2026-04-29",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney6"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz6"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Cerro Porteño vs Palmeiras",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Miércoles 29 de Abril 2026",
-    "fecha_iso": "2026-04-29",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney7"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz7"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Estudiantes LP vs Flamengo",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Miércoles 29 de Abril 2026",
-    "fecha_iso": "2026-04-29",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney8"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz8"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn7"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Palestino vs Grêmio",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Miércoles 29 de Abril 2026",
-    "fecha_iso": "2026-04-29",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Cienciano vs Atlético Mineiro",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Miércoles 29 de Abril 2026",
-    "fecha_iso": "2026-04-29",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz10"
+        "url": "https://streamhdx.com/live1.php?stream=amazon6"
       }
     ]
   },
@@ -363,6 +72,11 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "VIX +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/vix.php"
+      },
+      {
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney10"
@@ -371,6 +85,11 @@
         "nombre": "TUDN USA",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
+      },
+      {
+        "nombre": "Fox Sports USA 1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/ote.php?id=fox1us"
       }
     ]
   }
