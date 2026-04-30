@@ -1,47 +1,5 @@
 [
   {
-    "titulo": "US Open Cup: Colorado Rapids vs Colorado Springs",
-    "categoria": "futbol",
-    "clase": "FUT",
-    "fecha": "Miércoles 29 de Abril 2026",
-    "fecha_iso": "2026-04-29",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Paramount +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=amazon6"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Universitario vs Nacional",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Miércoles 29 de Abril 2026",
-    "fecha_iso": "2026-04-29",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney9"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      }
-    ]
-  },
-  {
     "titulo": "NBA: Rockets vs Lakers",
     "categoria": "nba",
     "clase": "NBA",
