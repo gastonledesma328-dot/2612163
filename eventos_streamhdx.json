@@ -1,129 +1,5 @@
 [
   {
-    "titulo": "UEFA Europa League: Nottingham Forest vs Aston Villa",
-    "categoria": "futbol",
-    "clase": "UE",
-    "fecha": "Jueves 30 de Abril 2026",
-    "fecha_iso": "2026-04-30",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "VIX +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento5"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
-      },
-      {
-        "nombre": "Paramount + | English",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento2"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "ESPN MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnmx"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Europa League: Sporting Braga vs Freiburg",
-    "categoria": "futbol",
-    "clase": "UE",
-    "fecha": "Jueves 30 de Abril 2026",
-    "fecha_iso": "2026-04-30",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "VIX +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento6"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "Paramount + | English",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento3"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Conference League: Rayo Vallecano vs Strasbourg",
-    "categoria": "futbol",
-    "clase": "UCL",
-    "fecha": "Jueves 30 de Abril 2026",
-    "fecha_iso": "2026-04-30",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "VIX +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento7"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
-      },
-      {
-        "nombre": "Paramount + | English",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento4"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Conference League: Shakhtar Donetsk vs Crystal Palace",
-    "categoria": "futbol",
-    "clase": "UCL",
-    "fecha": "Jueves 30 de Abril 2026",
-    "fecha_iso": "2026-04-30",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "VIX +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento8"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
-      },
-      {
-        "nombre": "Paramount + | English",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Libertadores: Bolívar vs Fluminense",
     "categoria": "futbol",
     "clase": "LIB",
@@ -133,9 +9,14 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Disney+",
+        "nombre": "ESPN",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
+        "url": "https://streamhdx.com/live1.php?stream=espn5"
+      },
+      {
+        "nombre": "Bein Sports Extra en Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento5"
       },
       {
         "nombre": "Fanatiz",
@@ -143,9 +24,9 @@
         "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
       },
       {
-        "nombre": "ESPN",
+        "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
       }
     ]
   },
@@ -159,6 +40,11 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      },
+      {
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney2"
@@ -167,11 +53,6 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
       }
     ]
   },
@@ -219,6 +100,11 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
+      },
+      {
+        "nombre": "Fubo Sports | English",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento6"
       }
     ]
   },
