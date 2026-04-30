@@ -1,17 +1,205 @@
 [
   {
-    "titulo": "NBA: Rockets vs Lakers",
+    "titulo": "UEFA Europa League: Nottingham Forest vs Aston Villa",
+    "categoria": "futbol",
+    "clase": "UE",
+    "fecha": "Jueves 30 de Abril 2026",
+    "fecha_iso": "2026-04-30",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
+      },
+      {
+        "nombre": "ESPN MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnmx"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Europa League: Sporting Braga vs Freiburg",
+    "categoria": "futbol",
+    "clase": "UE",
+    "fecha": "Jueves 30 de Abril 2026",
+    "fecha_iso": "2026-04-30",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney2"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Conference League: Rayo Vallecano vs Strasbourg",
+    "categoria": "futbol",
+    "clase": "UCL",
+    "fecha": "Jueves 30 de Abril 2026",
+    "fecha_iso": "2026-04-30",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney3"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Conference League: Shakhtar Donetsk vs Crystal Palace",
+    "categoria": "futbol",
+    "clase": "UCL",
+    "fecha": "Jueves 30 de Abril 2026",
+    "fecha_iso": "2026-04-30",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney4"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Bolívar vs Fluminense",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Jueves 30 de Abril 2026",
+    "fecha_iso": "2026-04-30",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Independiente Rivadavia vs Deportivo La Guaira",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Jueves 30 de Abril 2026",
+    "fecha_iso": "2026-04-30",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney2"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Vasco da Gama vs Olimpia",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Jueves 30 de Abril 2026",
+    "fecha_iso": "2026-04-30",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney3"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Carabobo vs Blooming",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Jueves 30 de Abril 2026",
+    "fecha_iso": "2026-04-30",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA: Knicks vs Hawks",
     "categoria": "nba",
     "clase": "NBA",
-    "fecha": "Miércoles 29 de Abril 2026",
-    "fecha_iso": "2026-04-29",
-    "hora": "21:00",
+    "fecha": "Jueves 30 de Abril 2026",
+    "fecha_iso": "2026-04-30",
+    "hora": "18:00",
     "duracion_min": 200,
     "canales": [
       {
         "nombre": "ESPN",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn3"
+      },
+      {
+        "nombre": "ESPN MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnmx"
       },
       {
         "nombre": "ESPN Deportes USA",
@@ -21,33 +209,185 @@
     ]
   },
   {
-    "titulo": "CONCACAF Champions Cup: Los Angeles FC vs Toluca",
+    "titulo": "NBA: Celtics vs 76ers",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Jueves 30 de Abril 2026",
+    "fecha_iso": "2026-04-30",
+    "hora": "19:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "MAX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=max1"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Corinthians vs Peñarol",
     "categoria": "futbol",
-    "clase": "FUT",
-    "fecha": "Miércoles 29 de Abril 2026",
-    "fecha_iso": "2026-04-29",
-    "hora": "21:30",
+    "clase": "LIB",
+    "fecha": "Jueves 30 de Abril 2026",
+    "fecha_iso": "2026-04-30",
+    "hora": "19:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "VIX +",
+        "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/channels/vix.php"
+        "url": "https://streamhdx.com/live1.php?stream=disney4"
       },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz5"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Tigre vs América de Cali",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Jueves 30 de Abril 2026",
+    "fecha_iso": "2026-04-30",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
       {
         "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney10"
+        "url": "https://streamhdx.com/live1.php?stream=disney5"
       },
       {
-        "nombre": "TUDN USA",
+        "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz6"
       },
       {
-        "nombre": "Fox Sports USA 1",
+        "nombre": "ESPN",
         "calidad": "720p",
-        "url": "https://streamhdx.com/ote.php?id=fox1us"
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Argentina: Vélez Sarsfield vs Gimnasia y Tiro",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Jueves 30 de Abril 2026",
+    "fecha_iso": "2026-04-30",
+    "hora": "19:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tycsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: RB Bragantino vs River Plate",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Jueves 30 de Abril 2026",
+    "fecha_iso": "2026-04-30",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney6"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz7"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA: Nuggets vs Timberwolves",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Jueves 30 de Abril 2026",
+    "fecha_iso": "2026-04-30",
+    "hora": "20:30",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn3"
+      },
+      {
+        "nombre": "ESPN MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnmx"
+      },
+      {
+        "nombre": "ESPN Deportes USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Medellín vs Cusco",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Jueves 30 de Abril 2026",
+    "fecha_iso": "2026-04-30",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney7"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz8"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Alianza Atlético vs Macará",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Jueves 30 de Abril 2026",
+    "fecha_iso": "2026-04-30",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
       }
     ]
   }
