@@ -1,137 +1,5 @@
 [
   {
-    "titulo": "Formula 1: GP Miami - Practica Libre #1",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 01 de Mayo 2026",
-    "fecha_iso": "2026-05-01",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "Fox Sports 1 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
-      },
-      {
-        "nombre": "Sky Sports Apple TV | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Miami - On Board Franco Colapinto",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 01 de Mayo 2026",
-    "fecha_iso": "2026-05-01",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento7"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento3"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Miami - On Board Max Verstappen",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 01 de Mayo 2026",
-    "fecha_iso": "2026-05-01",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento6"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Miami | Cámara ON Board",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 01 de Mayo 2026",
-    "fecha_iso": "2026-05-01",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento2"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento5"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Miami | ON Board Antonelli",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 01 de Mayo 2026",
-    "fecha_iso": "2026-05-01",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento4"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Miami | ON Board Sergio Perez",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 01 de Mayo 2026",
-    "fecha_iso": "2026-05-01",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento8"
-      }
-    ]
-  },
-  {
-    "titulo": "ATP: Madrid Open – Semifinal #1",
-    "categoria": "futbol",
-    "clase": "ATP",
-    "fecha": "Viernes 01 de Mayo 2026",
-    "fecha_iso": "2026-05-01",
-    "hora": "09:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
     "titulo": "Eredivisie: RKC Waalwijk vs Roda JC",
     "categoria": "futbol",
     "clase": "HOL",
@@ -191,7 +59,7 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
+        "url": "https://streamhdx.com/live1.php?stream=disney4"
       },
       {
         "nombre": "Fox Deportes USA",
@@ -243,6 +111,22 @@
     ]
   },
   {
+    "titulo": "Primera Division: Drogheda United vs. Sligo Rovers",
+    "categoria": "futbol",
+    "clase": "FUT",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "13:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "EXT",
+        "calidad": "SD",
+        "url": "https://streamhdx.com/live1.php?stream=evento9"
+      }
+    ]
+  },
+  {
     "titulo": "Premier League: Leeds United vs Burnley",
     "categoria": "futbol",
     "clase": "ENG",
@@ -254,12 +138,12 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
+        "url": "https://streamhdx.com/live1.php?stream=disney5"
       },
       {
-        "nombre": "Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max1"
+        "nombre": "EXT",
+        "calidad": "SD",
+        "url": "https://streamhdx.com/live1.php?stream=evento10"
       }
     ]
   },
