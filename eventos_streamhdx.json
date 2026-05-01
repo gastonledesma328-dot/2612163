@@ -9,9 +9,25 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Espn 2",
+        "nombre": "Espn",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie B: Empoli vs. Aveliano",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "08:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Sonido Ambiente",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=eventos15"
       }
     ]
   },
@@ -492,6 +508,38 @@
     ]
   },
   {
+    "titulo": "NBA: Pistons vs Magic",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "18:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Amazon Prime 1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=amazon1"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA: Cavaliers vs Raptors",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "18:30",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Amazon Prime 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=amazon2"
+      }
+    ]
+  },
+  {
     "titulo": "Serie A de Ecuador: Libertad vs Aucas",
     "categoria": "futbol",
     "clase": "ECUA",
@@ -520,6 +568,22 @@
         "nombre": "Espn 2",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA: Lakers vs Rockets",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "19:30",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Amazon Prime 3",
+        "calidad": "SD",
+        "url": "https://streamhdx.com/live1.php?stream=amazon3"
       }
     ]
   }
