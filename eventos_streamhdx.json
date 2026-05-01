@@ -1,105 +1,249 @@
 [
   {
-    "titulo": "Liga Nacional: Olimpia vs. Platense",
+    "titulo": "Formula 2 : Miami Gardens – Práctica",
     "categoria": "futbol",
-    "clase": "FUT",
-    "fecha": "Jueves 30 de Abril 2026",
-    "fecha_iso": "2026-04-30",
-    "hora": "20:03",
+    "clase": "F2",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "08:30",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Canal 1",
+        "nombre": "Espn 2",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento10"
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
       }
     ]
   },
   {
-    "titulo": "Liga MX Femenil: Guadalajara vs Pachuca",
+    "titulo": "ATP: Madrid Open – Semifinal #1",
     "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Jueves 30 de Abril 2026",
-    "fecha_iso": "2026-04-30",
-    "hora": "20:07",
+    "clase": "ATP",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "09:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Telemundo",
+        "nombre": "Espn 5",
         "calidad": "720p",
-        "url": "https://streamhdx.com/channels/telemundo.php"
+        "url": "https://streamhdx.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Miami - Practica Libre #1",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "Fox Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "Sky Sports",
+        "calidad": "720p",
+        "url": "https://skylivefu.com/global1.php?stream=evento10"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Miami - On Board Colapinto #Practica 1",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento4"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Miami | ON Board Antonelli #Practica 1",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento5"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Miami | Cámara ON Board #Practica 1",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento6"
+      }
+    ]
+  },
+  {
+    "titulo": "Eredivisie: RKC Waalwijk vs Roda JC",
+    "categoria": "futbol",
+    "clase": "HOL",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn NL",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn_nl1"
+      }
+    ]
+  },
+  {
+    "titulo": "ATP: Madrid Open – Semifinal #2",
+    "categoria": "futbol",
+    "clase": "ATP",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "F2: Miami Gardens – Clasificación",
+    "categoria": "futbol",
+    "clase": "F2",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "13:20",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 5",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A: Pisa vs Lecce",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "13:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney2"
       },
       {
         "nombre": "Fox Deportes USA",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
+      },
+      {
+        "nombre": "Paramount +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=paramount1"
       }
     ]
   },
   {
-    "titulo": "NBA: Nuggets vs Timberwolves",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Jueves 30 de Abril 2026",
-    "fecha_iso": "2026-04-30",
-    "hora": "20:30",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      },
-      {
-        "nombre": "ESPN MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnmx"
-      },
-      {
-        "nombre": "ESPN Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Medellín vs Cusco",
+    "titulo": "Scottish Premiership: Livingston vs Aberdeen",
     "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Jueves 30 de Abril 2026",
-    "fecha_iso": "2026-04-30",
-    "hora": "21:00",
+    "clase": "ESC",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "13:45",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "ESPN",
+        "nombre": "Paramount +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
+        "url": "https://streamhdx.com/live1.php?stream=evento1"
       },
       {
-        "nombre": "Disney+",
+        "nombre": "Premier Sports 1",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney7"
-      },
-      {
-        "nombre": "Sonido Ambiente",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento12"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz8"
+        "url": "https://streamhdx.com/ote.php?id=ps1"
       }
     ]
   },
   {
-    "titulo": "Copa Sudamericana: Alianza Atlético vs Macará",
+    "titulo": "Scottish Championship: Raith Rovers vs Ross County",
     "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Jueves 30 de Abril 2026",
-    "fecha_iso": "2026-04-30",
-    "hora": "21:00",
+    "clase": "ESC",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "13:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Paramount +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento2"
+      }
+    ]
+  },
+  {
+    "titulo": "Premier League: Leeds United vs Burnley",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "Max",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=max1"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga: Girona vs Mallorca",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "14:00",
     "duracion_min": 140,
     "canales": [
       {
@@ -108,25 +252,274 @@
         "url": "https://streamhdx.com/live1.php?stream=dsports"
       },
       {
-        "nombre": "Fanatiz",
+        "nombre": "Sky Sports La liga",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
+        "url": "https://streamhdx.com/live1.php?stream=sky_sports_laliga"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=canal5mx"
+      },
+      {
+        "nombre": "Premier Sports 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/ote.php?id=ps2"
+      },
+      {
+        "nombre": "Espn Deportes US",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
+      },
+      {
+        "nombre": "TV4S1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/tv4s1.php"
       }
     ]
   },
   {
-    "titulo": "Liga MX Femenil: Toluca vs Tigres UANL",
+    "titulo": "Rugby: Capibaras XV vs. Pampas",
     "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Jueves 30 de Abril 2026",
-    "fecha_iso": "2026-04-30",
-    "hora": "22:00",
+    "clase": "rugby",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "14:55",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "VIX +",
+        "nombre": "Espn 3",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento3"
+        "url": "https://streamhdx.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "Sudamericano Sub-17 (F) : Ecuador vs Uruguay",
+    "categoria": "futbol",
+    "clase": "Sudamericano",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Miami - Clasificación Sprint",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "Fox Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Miami | Cámara ON Board Colapinto",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento4"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Miami | Cámara ON Board Antonelli",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento5"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Miami | Cámara ON Board",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento6"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de Primera: Sportivo Trinidense vs 2 de Mayo",
+    "categoria": "futbol",
+    "clase": "PY",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "15:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A de Ecuador: Universidad Católica vs Independiente del Valle",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "16:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping Sports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Rugby: Yacare XV vs. Cobras Brasil Rugby",
+    "categoria": "futbol",
+    "clase": "rugby",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "17:55",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 3",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "Categoría Primera A: Once Caldas vs Atlético Nacional",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "18:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=winplus"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de Primera: Libertad vs Sportivo San Lorenzo",
+    "categoria": "futbol",
+    "clase": "PY",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "18:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
+      }
+    ]
+  },
+  {
+    "titulo": "Sudamericano Sub-17 (F) : Perú vs Brasil",
+    "categoria": "futbol",
+    "clase": "Sudamericano",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "18:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: New York Yankees vs. Baltimore Orioles",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "18:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 5",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A de Ecuador: Libertad vs Aucas",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping Sports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Boxeo: Tsendbaatar Erdenebat vs. Cobia Breedy",
+    "categoria": "box",
+    "clase": "BOX",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "19:30",
+    "duracion_min": 400,
+    "canales": [
+      {
+        "nombre": "Espn 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
       }
     ]
   }
