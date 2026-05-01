@@ -1,49 +1,138 @@
 [
   {
-    "titulo": "Eredivisie: RKC Waalwijk vs Roda JC",
+    "titulo": "F1: GP Miami - Clasificación Sprint",
     "categoria": "futbol",
-    "clase": "HOL",
+    "clase": "F1",
     "fecha": "Viernes 01 de Mayo 2026",
     "fecha_iso": "2026-05-01",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn NL",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn_nl1"
-      }
-    ]
-  },
-  {
-    "titulo": "ATP: Madrid Open – Semifinal #2",
-    "categoria": "futbol",
-    "clase": "ATP",
-    "fecha": "Viernes 01 de Mayo 2026",
-    "fecha_iso": "2026-05-01",
-    "hora": "13:00",
+    "hora": "15:30",
     "duracion_min": 140,
     "canales": [
       {
         "nombre": "Espn 2",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "Multicamara",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/multicamara.php"
+      },
+      {
+        "nombre": "Fox Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "Sky Sports | Apple TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento12"
       }
     ]
   },
   {
-    "titulo": "F2: Miami Gardens – Clasificación",
+    "titulo": "F1: GP Miami | Cámara ON Board Colapinto",
     "categoria": "futbol",
-    "clase": "F2",
+    "clase": "F1",
     "fecha": "Viernes 01 de Mayo 2026",
     "fecha_iso": "2026-05-01",
-    "hora": "13:20",
+    "hora": "15:30",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Espn 5",
+        "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
+        "url": "https://streamhdx.com/live1.php?stream=evento11"
+      },
+      {
+        "nombre": "Apple TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento4"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP Miami | Cámara ON Board Antonelli",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento5"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP Miami | Cámara ON Board",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento6"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP Miami | Cámara ON Board Max Verstappen",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento7"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento15"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP Miami | Cámara ON Board Lewis Hamilton",
+    "categoria": "futbol",
+    "clase": "f1",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento13"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP Miami | Cámara ON Board Sergio Perez",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento14"
       }
     ]
   },
@@ -217,75 +306,6 @@
         "nombre": "Dsports +",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Miami - Clasificación Sprint",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 01 de Mayo 2026",
-    "fecha_iso": "2026-05-01",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "Fox Sports 1 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Miami | Cámara ON Board Colapinto",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 01 de Mayo 2026",
-    "fecha_iso": "2026-05-01",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento4"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Miami | Cámara ON Board Antonelli",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 01 de Mayo 2026",
-    "fecha_iso": "2026-05-01",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento5"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Miami | Cámara ON Board",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 01 de Mayo 2026",
-    "fecha_iso": "2026-05-01",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento6"
       }
     ]
   },
