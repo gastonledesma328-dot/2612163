@@ -1,53 +1,5 @@
 [
   {
-    "titulo": "Formula 2 : Miami Gardens – Práctica",
-    "categoria": "futbol",
-    "clase": "F2",
-    "fecha": "Viernes 01 de Mayo 2026",
-    "fecha_iso": "2026-05-01",
-    "hora": "08:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie B: Empoli vs. Aveliano",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Viernes 01 de Mayo 2026",
-    "fecha_iso": "2026-05-01",
-    "hora": "08:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Sonido Ambiente",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventos15"
-      }
-    ]
-  },
-  {
-    "titulo": "ATP: Madrid Open – Semifinal #1",
-    "categoria": "futbol",
-    "clase": "ATP",
-    "fecha": "Viernes 01 de Mayo 2026",
-    "fecha_iso": "2026-05-01",
-    "hora": "09:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
     "titulo": "Formula 1: GP Miami - Practica Libre #1",
     "categoria": "futbol",
     "clase": "F1",
@@ -67,14 +19,72 @@
         "url": "https://streamhdx.com/live1.php?stream=fox1ar"
       },
       {
-        "nombre": "Sky Sports",
+        "nombre": "Sky Sports Apple TV | Ingles",
         "calidad": "720p",
-        "url": "https://skylivefu.com/global1.php?stream=evento10"
+        "url": "https://streamhdx.com/live1.php?stream=evento1"
       }
     ]
   },
   {
-    "titulo": "Formula 1: GP Miami - On Board Colapinto #Practica 1",
+    "titulo": "Formula 1: GP Miami - On Board Franco Colapinto",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento7"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento3"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Miami - On Board Max Verstappen",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento6"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Miami | Cámara ON Board",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 01 de Mayo 2026",
+    "fecha_iso": "2026-05-01",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento2"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento5"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Miami | ON Board Antonelli",
     "categoria": "futbol",
     "clase": "F1",
     "fecha": "Viernes 01 de Mayo 2026",
@@ -90,7 +100,7 @@
     ]
   },
   {
-    "titulo": "Formula 1: GP Miami | ON Board Antonelli #Practica 1",
+    "titulo": "Formula 1: GP Miami | ON Board Sergio Perez",
     "categoria": "futbol",
     "clase": "F1",
     "fecha": "Viernes 01 de Mayo 2026",
@@ -99,25 +109,25 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Disney +",
+        "nombre": "Apple TV",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento5"
+        "url": "https://streamhdx.com/live1.php?stream=evento8"
       }
     ]
   },
   {
-    "titulo": "Formula 1: GP Miami | Cámara ON Board #Practica 1",
+    "titulo": "ATP: Madrid Open – Semifinal #1",
     "categoria": "futbol",
-    "clase": "F1",
+    "clase": "ATP",
     "fecha": "Viernes 01 de Mayo 2026",
     "fecha_iso": "2026-05-01",
-    "hora": "11:00",
+    "hora": "09:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Disney +",
+        "nombre": "Espn 5",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento6"
+        "url": "https://streamhdx.com/live1.php?stream=espn5"
       }
     ]
   },
