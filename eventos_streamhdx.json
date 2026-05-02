@@ -1,372 +1,5 @@
 [
   {
-    "titulo": "UFC :Della Maddalena vs Prates",
-    "categoria": "ufc",
-    "clase": "UFC",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "06:00",
-    "duracion_min": 480,
-    "canales": [
-      {
-        "nombre": "Paramount + | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
-      },
-      {
-        "nombre": "Paramount + | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento2"
-      },
-      {
-        "nombre": "Paramount + | Portugués",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento3"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Udinese vs Torino",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "08:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnmx"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      }
-    ]
-  },
-  {
-    "titulo": "Ligue 1: Nantes vs Olympique Marseille",
-    "categoria": "futbol",
-    "clase": "FRA",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "08:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox One 1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=foxone1"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
-    "titulo": "Bundesliga: Bayern München vs Heidenheim",
-    "categoria": "futbol",
-    "clase": "ALE",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "08:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
-      }
-    ]
-  },
-  {
-    "titulo": "Bundesliga: Werder Bremen vs Augsburg",
-    "categoria": "futbol",
-    "clase": "ALE",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "08:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney5"
-      }
-    ]
-  },
-  {
-    "titulo": "Bundesliga: Union Berlin vs Köln",
-    "categoria": "futbol",
-    "clase": "ALE",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "08:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney6"
-      }
-    ]
-  },
-  {
-    "titulo": "Bundesliga: Hoffenheim vs Stuttgart",
-    "categoria": "futbol",
-    "clase": "ALE",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "08:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney7"
-      }
-    ]
-  },
-  {
-    "titulo": "Bundesliga: Eintracht Frankfurt vs Hamburger SV",
-    "categoria": "futbol",
-    "clase": "ALE",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "08:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney8"
-      }
-    ]
-  },
-  {
-    "titulo": "F2: Miami Gardens – Carrera Sprint",
-    "categoria": "futbol",
-    "clase": "F2",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "08:50",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Wolverhampton Wanderers vs Sunderland",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "09:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox One 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=foxone2"
-      },
-      {
-        "nombre": "Peacock TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento4"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney9"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Newcastle United vs Brighton & Hove Albion",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "09:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox One 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=foxone3"
-      },
-      {
-        "nombre": "Peacock TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento5"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney10"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Brentford vs West Ham United",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "09:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney11"
-      },
-      {
-        "nombre": "Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max1"
-      },
-      {
-        "nombre": "Universo",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=universo"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga: Valencia vs Atlético Madrid",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "09:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Espn Deportes",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
-      },
-      {
-        "nombre": "Espn + 3 - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnplus3"
-      },
-      {
-        "nombre": "ESPN+ 4 - Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnplus4"
-      }
-    ]
-  },
-  {
-    "titulo": "Eredivisie: Utrecht vs NAC Breda",
-    "categoria": "futbol",
-    "clase": "HOL",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "09:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn NL 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn_nl2"
-      }
-    ]
-  },
-  {
-    "titulo": "Ligue 1: PSG vs Lorient",
-    "categoria": "futbol",
-    "clase": "fra",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 4",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4"
-      },
-      {
-        "nombre": "Fox One 4",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=foxone4"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney12"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Juventud vs Wanderers",
-    "categoria": "futbol",
-    "clase": "uru",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney13"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Como vs Napoli",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney14"
-      },
-      {
-        "nombre": "Espn MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnmx"
-      }
-    ]
-  },
-  {
     "titulo": "F1: GP de Miami | Carrera Sprint",
     "categoria": "futbol",
     "clase": "F1",
@@ -389,6 +22,27 @@
         "nombre": "Fox Sports 1 AR",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "Fox Sports 1 AR FL",
+        "calidad": "720p",
+        "url": "https://skygg.lat/cvatt.html?get=Rm94U3BvcnRz"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: Multicamara - Pilotos On Board 4 cam",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Sábado 02 de Mayo 2026",
+    "fecha_iso": "2026-05-02",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Appletv",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/multicamara.php"
       }
     ]
   },
@@ -478,6 +132,159 @@
     ]
   },
   {
+    "titulo": "F1: GP de Miami | ON Board Sergio Perez",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Sábado 02 de Mayo 2026",
+    "fecha_iso": "2026-05-02",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento2"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP de Miami | ON Board George Russell",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Sábado 02 de Mayo 2026",
+    "fecha_iso": "2026-05-02",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento1"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP de Miami | ON Board Lando Norris",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Sábado 02 de Mayo 2026",
+    "fecha_iso": "2026-05-02",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento3"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga: Valencia vs Atlético Madrid",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Sábado 02 de Mayo 2026",
+    "fecha_iso": "2026-05-02",
+    "hora": "09:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Espn Deportes",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
+      }
+    ]
+  },
+  {
+    "titulo": "Eredivisie: Utrecht vs NAC Breda",
+    "categoria": "futbol",
+    "clase": "HOL",
+    "fecha": "Sábado 02 de Mayo 2026",
+    "fecha_iso": "2026-05-02",
+    "hora": "09:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn NL 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn_nl2"
+      }
+    ]
+  },
+  {
+    "titulo": "Ligue 1: PSG vs Lorient",
+    "categoria": "futbol",
+    "clase": "fra",
+    "fecha": "Sábado 02 de Mayo 2026",
+    "fecha_iso": "2026-05-02",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 4",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn4"
+      },
+      {
+        "nombre": "Fox One 4",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=foxone4"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney12"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Juventud vs Wanderers",
+    "categoria": "futbol",
+    "clase": "uru",
+    "fecha": "Sábado 02 de Mayo 2026",
+    "fecha_iso": "2026-05-02",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney13"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A: Como vs Napoli",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Sábado 02 de Mayo 2026",
+    "fecha_iso": "2026-05-02",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 3",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn3"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney14"
+      },
+      {
+        "nombre": "Espn MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnmx"
+      }
+    ]
+  },
+  {
     "titulo": "Premier League: Arsenal vs Fulham",
     "categoria": "futbol",
     "clase": "eng",
@@ -504,7 +311,7 @@
       {
         "nombre": "Universo",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=universo"
+        "url": "https://streamhdx.com/live1.php?stream=universo_usa"
       },
       {
         "nombre": "Telemundo",
@@ -1606,7 +1413,7 @@
       {
         "nombre": "Universo",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=universo"
+        "url": "https://streamhdx.com/live1.php?stream=universo_usa"
       },
       {
         "nombre": "Telemundo",
