@@ -1,31 +1,5 @@
 [
   {
-    "titulo": "Serie A: Bologna vs Cagliari",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "05:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Fox Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
-      },
-      {
-        "nombre": "Espn MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnmx"
-      }
-    ]
-  },
-  {
     "titulo": "LaLiga: Celta de Vigo vs Elche",
     "categoria": "futbol",
     "clase": "ES",
