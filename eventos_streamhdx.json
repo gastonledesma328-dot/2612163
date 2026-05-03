@@ -1,385 +1,22 @@
 [
   {
-    "titulo": "Liga 1: ADT vs Atlético Grau",
-    "categoria": "futbol",
-    "clase": "pe",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "15:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "L1 Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=liga1max"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz6"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Primera: Deportivo Recoleta vs Cerro Porteño",
-    "categoria": "futbol",
-    "clase": "py",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "15:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz7"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Jaguares de Córdoba vs Cúcuta Deportivo",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Palmeiras vs Santos",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "16:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=winsports"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz8"
-      },
-      {
-        "nombre": "Premiere 1 BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=premiere1"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Vitória vs Coritiba",
-    "categoria": "futbol",
-    "clase": "bra",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "16:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
-      },
-      {
-        "nombre": "Premiere 4 BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=premiere4"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Liverpool vs Danubio",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "16:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Pro: LDU Quito vs Guayaquil City",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "16:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping Sports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Unión Santa Fe vs Talleres Córdoba",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "16:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn Premiun",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnpremium"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
-      },
-      {
-        "nombre": "VIX +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento7"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: San Lorenzo vs Independiente",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "16:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tntsports"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz10"
-      },
-      {
-        "nombre": "VIX +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Cienciano vs Comerciantes Unidos",
-    "categoria": "futbol",
-    "clase": "pe",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "17:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "L1 Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=liga1max"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Primera: Rubio Ñú vs Sportivo Luqueño",
-    "categoria": "futbol",
-    "clase": "py",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "18:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Inter Miami vs Orlando City SC",
-    "categoria": "futbol",
-    "clase": "usa",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "18:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLS",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls3en"
-      },
-      {
-        "nombre": "MLS",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls4en"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Atlanta United vs CF Montréal",
-    "categoria": "futbol",
-    "clase": "USA",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLS",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls5en"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA: 76ers vs Celtics",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "18:30",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Peacock TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento9"
-      },
-      {
-        "nombre": "Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max1"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Athletico-PR vs Grêmio",
-    "categoria": "futbol",
-    "clase": "bra",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
-      },
-      {
-        "nombre": "Amazon Prime",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=amazon1"
-      },
-      {
-        "nombre": "Win Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=winsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Cruzeiro vs Atlético Mineiro",
-    "categoria": "futbol",
-    "clase": "bra",
+    "titulo": "PBC: David benavidez vs Zurdo ramirez",
+    "categoria": "box",
+    "clase": "BOX",
     "fecha": "Sábado 02 de Mayo 2026",
     "fecha_iso": "2026-05-02",
     "hora": "19:00",
-    "duracion_min": 140,
+    "duracion_min": 400,
     "canales": [
       {
-        "nombre": "Fanatiz",
+        "nombre": "Espn",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz5"
+        "url": "https://streamhdx.com/live1.php?stream=espn"
       },
       {
-        "nombre": "Premiere 3 BR",
+        "nombre": "Espn 3 MX",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=premiere3"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de la Liga: Ñublense vs Cobresal",
-    "categoria": "futbol",
-    "clase": "ch",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max5"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Pro: Barcelona vs Manta",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping Sports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Platense vs Estudiantes (LP)",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Sábado 02 de Mayo 2026",
-    "fecha_iso": "2026-05-02",
-    "hora": "19:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn Premiun",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnpremium"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz6"
-      },
-      {
-        "nombre": "VIX +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento10"
+        "url": "https://streamhdx.com/live1.php?stream=espn3mx"
       }
     ]
   },
@@ -398,9 +35,56 @@
         "url": "https://streamhdx.com/live1.php?stream=liga1max"
       },
       {
-        "nombre": "Fanatiz",
+        "nombre": "Fanatiz | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz7"
+      },
+      {
+        "nombre": "Fanatiz | Sonido Ambiente",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=eventofa1"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Chicago Fire FC vs. FC Cincinnati",
+    "categoria": "futbol",
+    "clase": "USA",
+    "fecha": "Sábado 02 de Mayo 2026",
+    "fecha_iso": "2026-05-02",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV| Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento1"
+      },
+      {
+        "nombre": "Apple TV| Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Houston Dynamo FC vs. Colorado Rapids",
+    "categoria": "futbol",
+    "clase": "usa",
+    "fecha": "Sábado 02 de Mayo 2026",
+    "fecha_iso": "2026-05-02",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento3"
+      },
+      {
+        "nombre": "Apple TV| Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento4"
       }
     ]
   },
@@ -414,14 +98,19 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Azteca 7",
+        "nombre": "Peacock TV | Recomendado",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=azteca7"
+        "url": "https://streamhdx.com/channels/peacock.php"
       },
       {
         "nombre": "Peacock TV",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=evento11"
+      },
+      {
+        "nombre": "Azteca 7",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=azteca7"
       },
       {
         "nombre": "Fox One 4",
@@ -462,6 +151,27 @@
     ]
   },
   {
+    "titulo": "MLS: San Diego FC vs. Los Angeles Football Club",
+    "categoria": "futbol",
+    "clase": "usa",
+    "fecha": "Sábado 02 de Mayo 2026",
+    "fecha_iso": "2026-05-02",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento5"
+      },
+      {
+        "nombre": "Apple TV| Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento6"
+      }
+    ]
+  },
+  {
     "titulo": "MLS: LA Galaxy vs Vancouver Whitecaps",
     "categoria": "futbol",
     "clase": "usa",
@@ -486,6 +196,11 @@
     "hora": "22:15",
     "duracion_min": 140,
     "canales": [
+      {
+        "nombre": "VIX | Recomendado",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/vix.php"
+      },
       {
         "nombre": "TUDN USA",
         "calidad": "720p",
