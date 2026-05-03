@@ -1,209 +1,5 @@
 [
   {
-    "titulo": "UEFA Champions League (F): Barcelona vs. Bayern Munich | Semi - Vuelta",
-    "categoria": "futbol",
-    "clase": "CHA",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "09:20",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento15"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Manchester United vs Liverpool",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "09:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Telemundo",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=telemundo"
-      },
-      {
-        "nombre": "Peacock TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento2"
-      },
-      {
-        "nombre": "Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max1"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney9"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Progreso vs Cerro Largo",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "07:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: AFC Bournemouth vs Crystal Palace",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "08:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox One 1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=foxone1"
-      },
-      {
-        "nombre": "Peacock TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Sassuolo vs Milan",
-    "categoria": "futbol",
-    "clase": "it",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "08:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      },
-      {
-        "nombre": "Espn MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnmx"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney5"
-      }
-    ]
-  },
-  {
-    "titulo": "Ligue 1: Lille vs Le Havre",
-    "categoria": "futbol",
-    "clase": "FRA",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "08:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox One 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=foxone2"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney6"
-      }
-    ]
-  },
-  {
-    "titulo": "Bundesliga: St. Pauli vs Mainz 05",
-    "categoria": "futbol",
-    "clase": "ALE",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "08:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney7"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga: Getafe vs Rayo Vallecano",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "09:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney8"
-      }
-    ]
-  },
-  {
-    "titulo": "Eredivisie: AZ vs Twente",
-    "categoria": "futbol",
-    "clase": "HOL",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "09:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 2 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2mx"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney10"
-      }
-    ]
-  },
-  {
     "titulo": "Ligue 1: Paris vs Brest",
     "categoria": "futbol",
     "clase": "FRA",
@@ -390,6 +186,202 @@
         "nombre": "TNT Sports",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=tntsports"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP de Miami | Carrera",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 03 de Mayo 2026",
+    "fecha_iso": "2026-05-03",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney2"
+      },
+      {
+        "nombre": "F1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=daznf1"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: Carrera | Multicam 4 CAM",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 03 de Mayo 2026",
+    "fecha_iso": "2026-05-03",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/multicamara.php"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP de Miami | On Board Franco Colapinto",
+    "categoria": "futbol",
+    "clase": "f1",
+    "fecha": "Domingo 03 de Mayo 2026",
+    "fecha_iso": "2026-05-03",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento1"
+      },
+      {
+        "nombre": "Apple TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento2"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP de Miami | On Board Andrea Kimi Antonelli",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 03 de Mayo 2026",
+    "fecha_iso": "2026-05-03",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento3"
+      },
+      {
+        "nombre": "Apple TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento4"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP de Miami | On Board Max Verstappen",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 03 de Mayo 2026",
+    "fecha_iso": "2026-05-03",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento5"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP de Miami | On Board Charles Leclerc",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 03 de Mayo 2026",
+    "fecha_iso": "2026-05-03",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento6"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP de Miami | On Board Lando Norris",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 03 de Mayo 2026",
+    "fecha_iso": "2026-05-03",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento7"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP de Miami | On Board George Russell",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 03 de Mayo 2026",
+    "fecha_iso": "2026-05-03",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento8"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP de Miami | On Board Lewis Hamilton",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 03 de Mayo 2026",
+    "fecha_iso": "2026-05-03",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV",
+        "calidad": "720p",
+        "url": "/eventos.html?r="
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP de Miami | On Board Oscar Piastri",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 03 de Mayo 2026",
+    "fecha_iso": "2026-05-03",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento9"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP de Miami | Camara On Board",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 03 de Mayo 2026",
+    "fecha_iso": "2026-05-03",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento10"
       }
     ]
   },
@@ -721,170 +713,6 @@
         "nombre": "Espn MX",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espnmx"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP de Miami | Carrera",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "F1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=daznf1"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP de Miami | On Board Franco Colapinto",
-    "categoria": "futbol",
-    "clase": "f1",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
-      },
-      {
-        "nombre": "Apple TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento2"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP de Miami | On Board Andrea Kimi Antonelli",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento3"
-      },
-      {
-        "nombre": "Apple TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento4"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP de Miami | On Board Max Verstappen",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento5"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP de Miami | On Board Charles Leclerc",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento6"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP de Miami | On Board Lando Norris",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento7"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP de Miami | On Board George Russell",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento8"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP de Miami | On Board Lewis Hamilton",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV",
-        "calidad": "720p",
-        "url": "/eventos.html?r="
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP de Miami | On Board Oscar Piastri",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento9"
       }
     ]
   }
