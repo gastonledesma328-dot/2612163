@@ -1,143 +1,11 @@
 [
   {
-    "titulo": "Ligue 1: Paris vs Brest",
-    "categoria": "futbol",
-    "clase": "FRA",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "10:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox One 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=foxone3"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney11"
-      }
-    ]
-  },
-  {
-    "titulo": "Ligue 1: Strasbourg vs Toulouse",
-    "categoria": "futbol",
-    "clase": "FRA",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "10:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox One 4",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=foxone4"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney12"
-      }
-    ]
-  },
-  {
-    "titulo": "Ligue 1: Auxerre vs Angers SCO",
-    "categoria": "futbol",
-    "clase": "FRA",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "10:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox One 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=foxone5"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney13"
-      }
-    ]
-  },
-  {
-    "titulo": "Bundesliga: Borussia M'gladbach vs Borussia Dortmund",
-    "categoria": "futbol",
-    "clase": "ale",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "10:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney14"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Boston River vs Central Español",
-    "categoria": "futbol",
-    "clase": "uru",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "10:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney15"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Juventus vs Verona",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney16"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Sporting Cristal vs Cusco",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "L1 Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=liga1max"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga: Real Betis vs Real Oviedo",
+    "titulo": "LaLiga: Espanyol vs Real Madrid",
     "categoria": "futbol",
     "clase": "ES",
     "fecha": "Domingo 03 de Mayo 2026",
     "fecha_iso": "2026-05-03",
-    "hora": "11:30",
+    "hora": "14:00",
     "duracion_min": 140,
     "canales": [
       {
@@ -149,239 +17,16 @@
         "nombre": "Espn Deportes",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espndeportes"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de la Liga: Univ. Concepción vs Universidad Católica",
-    "categoria": "futbol",
-    "clase": "ch",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "11:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MAX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Aldosivi vs Independiente Rivadavia",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "11:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
       },
       {
-        "nombre": "TNT Sports",
+        "nombre": "Espn Plus | Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tntsports"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP de Miami | Carrera",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
+        "url": "https://streamhdx.com/live1.php?stream=espnplus3"
       },
       {
-        "nombre": "Disney +",
+        "nombre": "Espn Plus | Ingles",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "F1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=daznf1"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: Carrera | Multicam 4 CAM",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/multicamara.php"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP de Miami | On Board Franco Colapinto",
-    "categoria": "futbol",
-    "clase": "f1",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
-      },
-      {
-        "nombre": "Apple TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento2"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP de Miami | On Board Andrea Kimi Antonelli",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento3"
-      },
-      {
-        "nombre": "Apple TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento4"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP de Miami | On Board Max Verstappen",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento5"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP de Miami | On Board Charles Leclerc",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento6"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP de Miami | On Board Lando Norris",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento7"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP de Miami | On Board George Russell",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento8"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP de Miami | On Board Lewis Hamilton",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV",
-        "calidad": "720p",
-        "url": "/eventos.html?r="
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP de Miami | On Board Oscar Piastri",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento9"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP de Miami | Camara On Board",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento10"
+        "url": "https://streamhdx.com/live1.php?stream=espnplus4"
       }
     ]
   },
@@ -533,33 +178,18 @@
     ]
   },
   {
-    "titulo": "LaLiga: Espanyol vs Real Madrid",
+    "titulo": "Liga Profesional | Multicamara",
     "categoria": "futbol",
-    "clase": "ES",
+    "clase": "AR",
     "fecha": "Domingo 03 de Mayo 2026",
     "fecha_iso": "2026-05-03",
     "hora": "14:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Dsports",
+        "nombre": "eventos",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Espn Deportes",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
-      },
-      {
-        "nombre": "Espn Plus | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnplus3"
-      },
-      {
-        "nombre": "Nuevo canal | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnplus4"
+        "url": "https://streamhdx.com/multi2.php"
       }
     ]
   },
@@ -713,6 +343,202 @@
         "nombre": "Espn MX",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espnmx"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga 1: Alianza Atlético vs Sport Huancayo",
+    "categoria": "futbol",
+    "clase": "pe",
+    "fecha": "Domingo 03 de Mayo 2026",
+    "fecha_iso": "2026-05-03",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "L1 Max",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=liga1max"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz12"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Alianza vs Millonarios",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Domingo 03 de Mayo 2026",
+    "fecha_iso": "2026-05-03",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=winplus"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Medellín vs Rionegro Águilas",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Domingo 03 de Mayo 2026",
+    "fecha_iso": "2026-05-03",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz13"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Fortaleza CEIF vs Atlético Bucaramanga",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Domingo 03 de Mayo 2026",
+    "fecha_iso": "2026-05-03",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz14"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Deportes Tolima vs Deportivo Cali",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Domingo 03 de Mayo 2026",
+    "fecha_iso": "2026-05-03",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz15"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Santa Fe vs Inter Bogotá",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Domingo 03 de Mayo 2026",
+    "fecha_iso": "2026-05-03",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz16"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: River Plate vs Atlético Tucumán",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Domingo 03 de Mayo 2026",
+    "fecha_iso": "2026-05-03",
+    "hora": "16:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn Premiun",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnpremium"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz17"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga de Primera: Colo-Colo vs Coquimbo Unido",
+    "categoria": "futbol",
+    "clase": "ch",
+    "fecha": "Domingo 03 de Mayo 2026",
+    "fecha_iso": "2026-05-03",
+    "hora": "16:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Max",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=max3"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Chapecoense vs RB Bragantino",
+    "categoria": "futbol",
+    "clase": "bra",
+    "fecha": "Domingo 03 de Mayo 2026",
+    "fecha_iso": "2026-05-03",
+    "hora": "16:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz18"
+      },
+      {
+        "nombre": "Premiere",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=premiere2"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Internacional vs Fluminense",
+    "categoria": "futbol",
+    "clase": "bra",
+    "fecha": "Domingo 03 de Mayo 2026",
+    "fecha_iso": "2026-05-03",
+    "hora": "16:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz19"
+      },
+      {
+        "nombre": "Premiere",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=premiere1"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Austin vs St. Louis City",
+    "categoria": "futbol",
+    "clase": "USA",
+    "fecha": "Domingo 03 de Mayo 2026",
+    "fecha_iso": "2026-05-03",
+    "hora": "16:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLS",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mls2en"
       }
     ]
   }
