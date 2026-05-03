@@ -1,306 +1,37 @@
 [
   {
-    "titulo": "LaLiga: Espanyol vs Real Madrid",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Sky Sports La Liga",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sky_sports_laliga"
-      },
-      {
-        "nombre": "Espn Deportes",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional | Multicamara",
+    "titulo": "Liga Profesional: River Plate vs Atlético Tucumán",
     "categoria": "futbol",
     "clase": "AR",
     "fecha": "Domingo 03 de Mayo 2026",
     "fecha_iso": "2026-05-03",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "eventos",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/multi2.php"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Gimnasia La Plata vs Argentinos Juniors",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "14:00",
+    "hora": "16:30",
     "duracion_min": 140,
     "canales": [
       {
         "nombre": "Fanatiz | Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz6"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz17"
       },
       {
-        "nombre": "Fanatiz | Sonido Ambiente",
+        "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventofa2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Rosario Central vs Tigre",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz7"
-      },
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tntsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Racing Club vs Huracán",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventofa1"
+        "url": "https://streamhdx.com/live1.php?stream=evento12"
       },
       {
         "nombre": "Espn Premiun",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espnpremium"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Belgrano vs Sarmiento",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Aston Villa vs Tottenham",
-    "categoria": "futbol",
-    "clase": "eng",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox One 6",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=foxone6"
       },
       {
-        "nombre": "Disney +",
+        "nombre": "Fanatiz | Ingles",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney18"
+        "url": "https://streamhdx.com/live1.php?stream=eventofa2"
       },
       {
-        "nombre": "Telemundo",
+        "nombre": "Fanatiz | Sonido Ambiente",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=telemundo"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional Saudí: Al Quadisiya vs Al Nassr",
-    "categoria": "futbol",
-    "clase": "ara",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox One 7",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=foxone7"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Juan Pablo II College vs Universitario",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "13:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "L1 Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=liga1max"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz5"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Racing vs Torque",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney19"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Inter vs Parma",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "13:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "Espn 2 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2mx"
-      },
-      {
-        "nombre": "Fox Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney20"
-      }
-    ]
-  },
-  {
-    "titulo": "Ligue 1: Olympique Lyon vs Rennes",
-    "categoria": "futbol",
-    "clase": "FRA",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "13:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox One 8",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=foxone8"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: New York City vs DC United",
-    "categoria": "futbol",
-    "clase": "USA",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLS",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls1en"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Flamengo vs Vasco da Gama",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Premiere",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=premiere1"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: São Paulo vs Bahia",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz11"
-      },
-      {
-        "nombre": "Premiere",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=premiere2"
+        "url": "https://streamhdx.com/live1.php?stream=eventofa1"
       }
     ]
   },
@@ -313,11 +44,6 @@
     "hora": "14:30",
     "duracion_min": 200,
     "canales": [
-      {
-        "nombre": "Espn 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      },
       {
         "nombre": "Espn MX",
         "calidad": "720p",
@@ -343,6 +69,22 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz12"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Betplay - Multicam",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Domingo 03 de Mayo 2026",
+    "fecha_iso": "2026-05-03",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Eventos",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/multi2.php"
       }
     ]
   },
@@ -423,27 +165,6 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz16"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: River Plate vs Atlético Tucumán",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "16:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn Premiun",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnpremium"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz17"
       }
     ]
   },
