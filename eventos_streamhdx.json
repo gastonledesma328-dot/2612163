@@ -1,5 +1,36 @@
 [
   {
+    "titulo": "Liga Profesional: Gimnasia Mendoza vs Defensa y Justicia",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Lunes 04 de Mayo 2026",
+    "fecha_iso": "2026-05-04",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=eventofa1"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento1"
+      },
+      {
+        "nombre": "ESPN Premium Argentina",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnpremium"
+      },
+      {
+        "nombre": "Fanatiz | Sonido Ambiente",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=eventofa2"
+      }
+    ]
+  },
+  {
     "titulo": "Liga 1: Los Chankas vs Deportivo Garcilaso",
     "categoria": "futbol",
     "clase": "PE",
@@ -75,27 +106,6 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney5"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Gimnasia Mendoza vs Defensa y Justicia",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Lunes 04 de Mayo 2026",
-    "fecha_iso": "2026-05-04",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
-      },
-      {
-        "nombre": "ESPN Premium Argentina",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnpremium"
       }
     ]
   },
