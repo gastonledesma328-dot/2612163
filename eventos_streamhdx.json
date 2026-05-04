@@ -1,115 +1,5 @@
 [
   {
-    "titulo": "Liga Profesional: Gimnasia Mendoza vs Defensa y Justicia",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Lunes 04 de Mayo 2026",
-    "fecha_iso": "2026-05-04",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventofa1"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
-      },
-      {
-        "nombre": "ESPN Premium Argentina",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnpremium"
-      },
-      {
-        "nombre": "Fanatiz | Sonido Ambiente",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventofa2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Los Chankas vs Deportivo Garcilaso",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Lunes 04 de Mayo 2026",
-    "fecha_iso": "2026-05-04",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "L1max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=liga1max"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Roma vs Fiorentina",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Lunes 04 de Mayo 2026",
-    "fecha_iso": "2026-05-04",
-    "hora": "13:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Everton vs Manchester City",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Lunes 04 de Mayo 2026",
-    "fecha_iso": "2026-05-04",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga: Sevilla vs Real Sociedad",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Lunes 04 de Mayo 2026",
-    "fecha_iso": "2026-05-04",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney5"
-      }
-    ]
-  },
-  {
     "titulo": "Liga Profesional: Vélez Sarsfield vs Newell's Old Boys",
     "categoria": "futbol",
     "clase": "AR",
@@ -119,14 +9,19 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Fanatiz",
+        "nombre": "Fanatiz | Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
+        "url": "https://streamhdx.com/live1.php?stream=eventofa1"
       },
       {
         "nombre": "TNT Sports Argentina",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=tntsports"
+      },
+      {
+        "nombre": "Fanatiz | Sonido Ambiente",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=eventofa2"
       }
     ]
   },
