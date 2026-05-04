@@ -1,42 +1,5 @@
 [
   {
-    "titulo": "Premier League: Chelsea vs Nottingham Forest",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Lunes 04 de Mayo 2026",
-    "fecha_iso": "2026-05-04",
-    "hora": "09:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "MAX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max1"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Cremonese vs Lazio",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Lunes 04 de Mayo 2026",
-    "fecha_iso": "2026-05-04",
-    "hora": "11:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      }
-    ]
-  },
-  {
     "titulo": "Liga 1: Los Chankas vs Deportivo Garcilaso",
     "categoria": "futbol",
     "clase": "PE",
@@ -46,9 +9,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Fanatiz",
+        "nombre": "L1max",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+        "url": "https://streamhdx.com/live1.php?stream=liga1max"
       }
     ]
   },
@@ -104,24 +67,14 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney5"
-      },
-      {
         "nombre": "ESPN",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn2"
       },
       {
-        "nombre": "ESPN+",
+        "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnplus1"
-      },
-      {
-        "nombre": "ESPN+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnplus2"
+        "url": "https://streamhdx.com/live1.php?stream=disney5"
       }
     ]
   },
@@ -200,6 +153,22 @@
     ]
   },
   {
+    "titulo": "NBA: 76ers vs. Knicks",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Lunes 04 de Mayo 2026",
+    "fecha_iso": "2026-05-04",
+    "hora": "19:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Peacock TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento1"
+      }
+    ]
+  },
+  {
     "titulo": "Liga Profesional: Estudiantes Río Cuarto vs Instituto",
     "categoria": "futbol",
     "clase": "AR",
@@ -217,6 +186,22 @@
         "nombre": "ESPN Premium Argentina",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espnpremium"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA: Timberwolves vs. Spurs",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Lunes 04 de Mayo 2026",
+    "fecha_iso": "2026-05-04",
+    "hora": "20:30",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Peacock TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento2"
       }
     ]
   }
