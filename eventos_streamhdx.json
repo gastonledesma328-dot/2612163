@@ -1,17 +1,222 @@
 [
   {
-    "titulo": "Liga MX (F):Pachuca vs. Guadalajara",
+    "titulo": "Premier League: Chelsea vs Nottingham Forest",
     "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Domingo 03 de Mayo 2026",
-    "fecha_iso": "2026-05-03",
-    "hora": "22:00",
+    "clase": "ENG",
+    "fecha": "Lunes 04 de Mayo 2026",
+    "fecha_iso": "2026-05-04",
+    "hora": "09:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Fox One 6",
+        "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=foxone6"
+        "url": "https://streamtp10.com/global1.php?stream=disney1"
+      },
+      {
+        "nombre": "MAX",
+        "calidad": "720p",
+        "url": "https://streamtp10.com/global1.php?stream=max1"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A: Cremonese vs Lazio",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Lunes 04 de Mayo 2026",
+    "fecha_iso": "2026-05-04",
+    "hora": "11:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamtp10.com/global1.php?stream=disney2"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga 1: Los Chankas vs Deportivo Garcilaso",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Lunes 04 de Mayo 2026",
+    "fecha_iso": "2026-05-04",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamtp10.com/global1.php?stream=fanatiz1"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A: Roma vs Fiorentina",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Lunes 04 de Mayo 2026",
+    "fecha_iso": "2026-05-04",
+    "hora": "13:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamtp10.com/global1.php?stream=espn3"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamtp10.com/global1.php?stream=disney3"
+      }
+    ]
+  },
+  {
+    "titulo": "Premier League: Everton vs Manchester City",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Lunes 04 de Mayo 2026",
+    "fecha_iso": "2026-05-04",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 1",
+        "calidad": "720p",
+        "url": "https://streamtp10.com/global1.php?stream=disney4"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamtp10.com/global1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga: Sevilla vs Real Sociedad",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Lunes 04 de Mayo 2026",
+    "fecha_iso": "2026-05-04",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney5"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "ESPN+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus1"
+      },
+      {
+        "nombre": "ESPN+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus2"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Gimnasia Mendoza vs Defensa y Justicia",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Lunes 04 de Mayo 2026",
+    "fecha_iso": "2026-05-04",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
+      },
+      {
+        "nombre": "ESPN Premium Argentina",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnpremium"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Vélez Sarsfield vs Newell's Old Boys",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Lunes 04 de Mayo 2026",
+    "fecha_iso": "2026-05-04",
+    "hora": "17:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
+      },
+      {
+        "nombre": "TNT Sports Argentina",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tntsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Peñarol vs Defensor Sporting",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Lunes 04 de Mayo 2026",
+    "fecha_iso": "2026-05-04",
+    "hora": "17:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de la Liga: Deportes Concepción vs Huachipato",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Lunes 04 de Mayo 2026",
+    "fecha_iso": "2026-05-04",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MAX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=max2"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Estudiantes Río Cuarto vs Instituto",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Lunes 04 de Mayo 2026",
+    "fecha_iso": "2026-05-04",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
+      },
+      {
+        "nombre": "ESPN Premium Argentina",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnpremium"
       }
     ]
   }
