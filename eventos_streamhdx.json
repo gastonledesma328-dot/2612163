@@ -25,11 +25,6 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "ESPN | Peru",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
         "nombre": "ESPN | Colombia",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espnco"
@@ -40,29 +35,44 @@
         "url": "https://streamhdx.com/live1.php?stream=fox1ar"
       },
       {
-        "nombre": "MAX",
+        "nombre": "MAX | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=max1"
       },
       {
-        "nombre": "TUDN USA",
+        "nombre": "TUDN USA | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
       },
       {
-        "nombre": "VIX +",
+        "nombre": "VIX + | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=evento1"
       },
       {
-        "nombre": "Disney+",
+        "nombre": "Prime Video | Ingles",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
+        "url": "https://streamhdx.com/live1.php?stream=evento13"
       },
       {
-        "nombre": "Paramount +",
+        "nombre": "Paramount + | Ingles",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=paramount1"
+      },
+      {
+        "nombre": "Max | BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento14"
+      },
+      {
+        "nombre": "Ziggo Sports 1 | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento15"
+      },
+      {
+        "nombre": "Disney+ | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
       }
     ]
   },
