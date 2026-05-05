@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Liga Profesional Saudí: Al Khaleej vs Al Hilal",
-    "categoria": "futbol",
-    "clase": "ARA",
-    "fecha": "Martes 05 de Mayo 2026",
-    "fecha_iso": "2026-05-05",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
-      }
-    ]
-  },
-  {
     "titulo": "UEFA Champions League: Arsenal vs Atlético Madrid",
     "categoria": "futbol",
     "clase": "CHA",
@@ -91,14 +75,19 @@
         "url": "https://streamhdx.com/live1.php?stream=disney2"
       },
       {
-        "nombre": "Fanatiz",
+        "nombre": "Fanatiz | Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+        "url": "https://streamhdx.com/live1.php?stream=eventofa1"
       },
       {
-        "nombre": "ESPN",
+        "nombre": "ESPN | Peru",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "ESPN | Colombia",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnco"
       }
     ]
   },
@@ -112,19 +101,19 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "Fanatiz | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=eventofa2"
+      },
+      {
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney3"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
       }
     ]
   },
@@ -138,19 +127,19 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "ESPN 5",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn5"
+      },
+      {
+        "nombre": "Fanatiz | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=eventofa3"
+      },
+      {
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney4"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
       }
     ]
   },
@@ -164,19 +153,19 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn3"
+      },
+      {
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney5"
       },
       {
-        "nombre": "Fanatiz",
+        "nombre": "Fanatiz | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
       }
     ]
   },
@@ -195,7 +184,7 @@
         "url": "https://streamhdx.com/live1.php?stream=dsports"
       },
       {
-        "nombre": "Fanatiz",
+        "nombre": "Fanatiz | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz5"
       }
@@ -242,14 +231,14 @@
         "url": "https://streamhdx.com/live1.php?stream=telefe"
       },
       {
+        "nombre": "Fanatiz | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=eventofa4"
+      },
+      {
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney6"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz6"
       }
     ]
   },
@@ -263,19 +252,19 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      },
+      {
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney7"
       },
       {
-        "nombre": "Fanatiz",
+        "nombre": "Fanatiz | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz7"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
       }
     ]
   },
@@ -289,19 +278,19 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "ESPN 7",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn7"
+      },
+      {
+        "nombre": "Fanatiz | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=eventofa5"
+      },
+      {
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney8"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz8"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn7"
       }
     ]
   },
@@ -315,7 +304,12 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Fanatiz",
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Fanatiz | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
       }
