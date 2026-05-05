@@ -1,63 +1,5 @@
 [
   {
-    "titulo": "Liga Profesional: Vélez Sarsfield vs Newell's Old Boys",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Lunes 04 de Mayo 2026",
-    "fecha_iso": "2026-05-04",
-    "hora": "17:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventofa1"
-      },
-      {
-        "nombre": "TNT Sports Argentina",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tntsports"
-      },
-      {
-        "nombre": "Fanatiz | Sonido Ambiente",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventofa2"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Peñarol vs Defensor Sporting",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Lunes 04 de Mayo 2026",
-    "fecha_iso": "2026-05-04",
-    "hora": "17:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de la Liga: Deportes Concepción vs Huachipato",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Lunes 04 de Mayo 2026",
-    "fecha_iso": "2026-05-04",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MAX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max2"
-      }
-    ]
-  },
-  {
     "titulo": "NBA: 76ers vs. Knicks",
     "categoria": "nba",
     "clase": "NBA",
@@ -67,30 +9,19 @@
     "duracion_min": 200,
     "canales": [
       {
-        "nombre": "Peacock TV",
+        "nombre": "Peacock TV | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Estudiantes Río Cuarto vs Instituto",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Lunes 04 de Mayo 2026",
-    "fecha_iso": "2026-05-04",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
       },
       {
-        "nombre": "ESPN Premium Argentina",
+        "nombre": "Peacock TV | Ingles",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnpremium"
+        "url": "https://streamhdx.com/live1.php?stream=evento10"
+      },
+      {
+        "nombre": "Espn 2 MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2mx"
       }
     ]
   },
@@ -104,9 +35,14 @@
     "duracion_min": 200,
     "canales": [
       {
-        "nombre": "Peacock TV",
+        "nombre": "Peacock TV | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=evento2"
+      },
+      {
+        "nombre": "Peacock TV | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento3"
       }
     ]
   }
