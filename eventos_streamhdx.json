@@ -1,22 +1,377 @@
 [
   {
-    "titulo": "NBA: Timberwolves vs. Spurs",
+    "titulo": "Liga Profesional Saudí: Al Khaleej vs Al Hilal",
+    "categoria": "futbol",
+    "clase": "ARA",
+    "fecha": "Martes 05 de Mayo 2026",
+    "fecha_iso": "2026-05-05",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fox Deportes USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Champions League: Arsenal vs Atlético Madrid",
+    "categoria": "futbol",
+    "clase": "CHA",
+    "fecha": "Martes 05 de Mayo 2026",
+    "fecha_iso": "2026-05-05",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "MAX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=max1"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
+      },
+      {
+        "nombre": "Paramount",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=paramount1"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Sporting Cristal vs Palmeiras",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Martes 05 de Mayo 2026",
+    "fecha_iso": "2026-05-05",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney2"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Rosario Central vs Libertad",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Martes 05 de Mayo 2026",
+    "fecha_iso": "2026-05-05",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney3"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Deportivo Riestra vs Grêmio",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Martes 05 de Mayo 2026",
+    "fecha_iso": "2026-05-05",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney4"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Independiente Petrolero vs Caracas",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Martes 05 de Mayo 2026",
+    "fecha_iso": "2026-05-05",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney5"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Juventud vs Atlético Mineiro",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Martes 05 de Mayo 2026",
+    "fecha_iso": "2026-05-05",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz5"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA: Cavaliers vs Pistons",
     "categoria": "nba",
     "clase": "NBA",
-    "fecha": "Lunes 04 de Mayo 2026",
-    "fecha_iso": "2026-05-04",
-    "hora": "20:30",
+    "fecha": "Martes 05 de Mayo 2026",
+    "fecha_iso": "2026-05-05",
+    "hora": "18:00",
     "duracion_min": 200,
     "canales": [
       {
-        "nombre": "Espn MX",
+        "nombre": "MAX",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnmx"
+        "url": "https://streamhdx.com/live1.php?stream=max2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Barcelona vs Boca Juniors",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Martes 05 de Mayo 2026",
+    "fecha_iso": "2026-05-05",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
       },
       {
-        "nombre": "Peacock TV | Ingles",
+        "nombre": "Telefe",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento2"
+        "url": "https://streamhdx.com/live1.php?stream=telefe"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney6"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz6"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: UCV vs Independiente del Valle",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Martes 05 de Mayo 2026",
+    "fecha_iso": "2026-05-05",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney7"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz7"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Always Ready vs Lanús",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Martes 05 de Mayo 2026",
+    "fecha_iso": "2026-05-05",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney8"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz8"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn7"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Academia Puerto Cabello vs Cienciano",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Martes 05 de Mayo 2026",
+    "fecha_iso": "2026-05-05",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Deportivo Recoleta vs Santos",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Martes 05 de Mayo 2026",
+    "fecha_iso": "2026-05-05",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz10"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA: Lakers vs Thunder",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Martes 05 de Mayo 2026",
+    "fecha_iso": "2026-05-05",
+    "hora": "19:30",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "MAX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=max3"
+      }
+    ]
+  },
+  {
+    "titulo": "CONCACAF Champions Cup: Tigres UANL vs Nashville SC",
+    "categoria": "futbol",
+    "clase": "FUT",
+    "fecha": "Martes 05 de Mayo 2026",
+    "fecha_iso": "2026-05-05",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney9"
+      },
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Deportivo Cuenca vs San Lorenzo",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Martes 05 de Mayo 2026",
+    "fecha_iso": "2026-05-05",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney10"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
       }
     ]
   }
