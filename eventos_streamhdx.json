@@ -1,31 +1,5 @@
 [
   {
-    "titulo": "NBA: 76ers vs. Knicks",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Lunes 04 de Mayo 2026",
-    "fecha_iso": "2026-05-04",
-    "hora": "19:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Peacock TV | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
-      },
-      {
-        "nombre": "Peacock TV | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento10"
-      },
-      {
-        "nombre": "Espn 2 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2mx"
-      }
-    ]
-  },
-  {
     "titulo": "NBA: Timberwolves vs. Spurs",
     "categoria": "nba",
     "clase": "NBA",
@@ -35,14 +9,14 @@
     "duracion_min": 200,
     "canales": [
       {
-        "nombre": "Peacock TV | Español",
+        "nombre": "Espn MX",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento2"
+        "url": "https://streamhdx.com/live1.php?stream=espnmx"
       },
       {
         "nombre": "Peacock TV | Ingles",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento3"
+        "url": "https://streamhdx.com/live1.php?stream=evento2"
       }
     ]
   }
