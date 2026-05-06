@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Eredivisie: Almere City vs De Graafschap",
-    "categoria": "futbol",
-    "clase": "HOL",
-    "fecha": "Miércoles 06 de Mayo 2026",
-    "fecha_iso": "2026-05-06",
-    "hora": "13:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn NL",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn_nl1"
-      }
-    ]
-  },
-  {
     "titulo": "UEFA Champions League: Bayern München vs PSG",
     "categoria": "futbol",
     "clase": "CHA",
@@ -30,24 +14,29 @@
         "url": "https://streamhdx.com/live1.php?stream=espn"
       },
       {
-        "nombre": "Fox Sports 1 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
-      },
-      {
-        "nombre": "Movistar Liga de Campeones",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento16"
-      },
-      {
         "nombre": "Espn 1 Colombia",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espnco"
       },
       {
+        "nombre": "Fox Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "MAX | BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento1"
+      },
+      {
         "nombre": "Disney +",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "Movistar Liga de Campeones",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento16"
       },
       {
         "nombre": "Paramount +",
