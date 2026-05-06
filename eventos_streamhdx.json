@@ -1,56 +1,5 @@
 [
   {
-    "titulo": "UEFA Champions League: Bayern München vs PSG",
-    "categoria": "futbol",
-    "clase": "CHA",
-    "fecha": "Miércoles 06 de Mayo 2026",
-    "fecha_iso": "2026-05-06",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 1 Peru",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Fox Sports 1 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
-      },
-      {
-        "nombre": "Movistar Liga de Campeones",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mliga1"
-      },
-      {
-        "nombre": "Espn 1 Colombia",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "MAX | BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Paramount +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount1"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
-      }
-    ]
-  },
-  {
     "titulo": "Sudamericano Sub-17 (F): Argentina vs Venezuela",
     "categoria": "futbol",
     "clase": "Sudamericano",
@@ -94,6 +43,16 @@
         "nombre": "Espn 2 MX",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn2mx"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney2"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
       }
     ]
   },
@@ -115,6 +74,11 @@
         "nombre": "Fox Sports 3 AR",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fox3ar"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
       }
     ]
   },
@@ -128,9 +92,14 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Dsports",
+        "nombre": "Dsports +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsports"
+        "url": "https://streamhdx.com/live1.php?stream=evento13"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
       }
     ]
   },
@@ -147,6 +116,16 @@
         "nombre": "Espn 2",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney4"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
       }
     ]
   },
@@ -163,6 +142,16 @@
         "nombre": "Espn 4",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn4"
+      },
+      {
+        "nombre": "Espn MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnmx"
+      },
+      {
+        "nombre": "Espn Deportes",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
       }
     ]
   },
@@ -195,6 +184,16 @@
         "nombre": "Espn 5",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn5"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz5"
+      },
+      {
+        "nombre": "Disney",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney5"
       }
     ]
   },
@@ -279,6 +278,11 @@
         "nombre": "Espn 3",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn3"
+      },
+      {
+        "nombre": "Movistar Liga de Campeones",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mliga1"
       }
     ]
   },
