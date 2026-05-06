@@ -30,14 +30,19 @@
         "url": "https://streamhdx.com/live1.php?stream=espnco"
       },
       {
-        "nombre": "Espn 1 Peru",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
         "nombre": "Fox Sports 1 AR",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "Movistar Liga de Campeones",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento16"
+      },
+      {
+        "nombre": "Espn 1 Peru",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
       },
       {
         "nombre": "Disney +",
