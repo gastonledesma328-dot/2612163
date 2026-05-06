@@ -1,224 +1,53 @@
 [
   {
-    "titulo": "Copa Libertadores: Sporting Cristal vs Palmeiras",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Martes 05 de Mayo 2026",
-    "fecha_iso": "2026-05-05",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN | Peru",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Fox Sports 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox3ar"
-      },
-      {
-        "nombre": "Fanatiz | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
-      },
-      {
-        "nombre": "ESPN | Colombia",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "Espn 2 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2mx"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Rosario Central vs Libertad",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Martes 05 de Mayo 2026",
-    "fecha_iso": "2026-05-05",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "Fanatiz | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
-      },
-      {
-        "nombre": "Fox Sports 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox2ar"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Deportivo Riestra vs Grêmio",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Martes 05 de Mayo 2026",
-    "fecha_iso": "2026-05-05",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
-      },
-      {
-        "nombre": "Fanatiz | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Independiente Petrolero vs Caracas",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Martes 05 de Mayo 2026",
-    "fecha_iso": "2026-05-05",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney5"
-      },
-      {
-        "nombre": "Fanatiz | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Juventud vs Atlético Mineiro",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Martes 05 de Mayo 2026",
-    "fecha_iso": "2026-05-05",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Fanatiz | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz5"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA: Cavaliers vs Pistons",
+    "titulo": "NBA: Lakers vs Thunder",
     "categoria": "nba",
     "clase": "NBA",
     "fecha": "Martes 05 de Mayo 2026",
     "fecha_iso": "2026-05-05",
-    "hora": "18:00",
+    "hora": "19:30",
     "duracion_min": 200,
     "canales": [
       {
+        "nombre": "Peacock TV | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento7"
+      },
+      {
         "nombre": "MAX",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max2"
+        "url": "https://streamhdx.com/live1.php?stream=max3"
       },
       {
-        "nombre": "Peacock TV",
+        "nombre": "Peacock TV | Ingles",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento5"
+        "url": "https://streamhdx.com/live1.php?stream=evento6"
       }
     ]
   },
   {
-    "titulo": "Copa Libertadores: Barcelona vs Boca Juniors",
+    "titulo": "Copa Sudamericana: Deportivo Recoleta vs Santos",
     "categoria": "futbol",
-    "clase": "LIB",
+    "clase": "SUD",
     "fecha": "Martes 05 de Mayo 2026",
     "fecha_iso": "2026-05-05",
-    "hora": "19:00",
+    "hora": "19:30",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "ESPN",
+        "nombre": "Dsports Colombia",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
+        "url": "https://streamhdx.com/live1.php?stream=dsports"
       },
       {
-        "nombre": "Telefe",
+        "nombre": "Disney + BR",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=telefe"
+        "url": "https://streamhdx.com/live1.php?stream=disneybr1"
       },
       {
         "nombre": "Fanatiz | Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz6"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney6"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: UCV vs Independiente del Valle",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Martes 05 de Mayo 2026",
-    "fecha_iso": "2026-05-05",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney7"
-      },
-      {
-        "nombre": "Fanatiz | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz7"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz10"
       }
     ]
   },
@@ -258,56 +87,24 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Dsports",
+        "nombre": "Dsports Peru",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsports"
+        "url": "https://streamhdx.com/live1.php?stream=evento15"
       },
       {
         "nombre": "Fanatiz | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Deportivo Recoleta vs Santos",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Martes 05 de Mayo 2026",
-    "fecha_iso": "2026-05-05",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsports"
       },
       {
-        "nombre": "Fanatiz",
+        "nombre": "VIX +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz10"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA: Lakers vs Thunder",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Martes 05 de Mayo 2026",
-    "fecha_iso": "2026-05-05",
-    "hora": "19:30",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "MAX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max3"
+        "url": "https://streamhdx.com/live1.php?stream=evento13"
       },
       {
-        "nombre": "Peacock TV",
+        "nombre": "Fubo Sports | Ingles",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento6"
+        "url": "https://streamhdx.com/live1.php?stream=evento14"
       }
     ]
   },
@@ -321,14 +118,24 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Disney+",
+        "nombre": "Fox One",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney9"
+        "url": "https://streamhdx.com/live1.php?stream=foxone"
       },
       {
         "nombre": "TUDN USA",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney9"
+      },
+      {
+        "nombre": "Espn 2 NL",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn_nl2"
       }
     ]
   },
@@ -342,19 +149,24 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "ESPN 1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      },
+      {
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney10"
       },
       {
-        "nombre": "Fanatiz",
+        "nombre": "Disney+ BR",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+        "url": "https://streamhdx.com/live1.php?stream=disneybr2"
       },
       {
-        "nombre": "ESPN",
+        "nombre": "Fanatiz | Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
       }
     ]
   }
