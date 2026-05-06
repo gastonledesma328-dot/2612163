@@ -14,14 +14,19 @@
         "url": "https://streamhdx.com/live1.php?stream=espn"
       },
       {
-        "nombre": "Espn 1 Colombia",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
         "nombre": "Fox Sports 1 AR",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "Movistar Liga de Campeones",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mliga1"
+      },
+      {
+        "nombre": "Espn 1 Colombia",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnco"
       },
       {
         "nombre": "MAX | BR",
@@ -32,11 +37,6 @@
         "nombre": "Disney +",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Movistar Liga de Campeones",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento16"
       },
       {
         "nombre": "Paramount +",
