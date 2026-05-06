@@ -5,7 +5,7 @@
     "clase": "HOL",
     "fecha": "Miércoles 06 de Mayo 2026",
     "fecha_iso": "2026-05-06",
-    "hora": "11:45",
+    "hora": "13:45",
     "duracion_min": 140,
     "canales": [
       {
@@ -21,13 +21,13 @@
     "clase": "CHA",
     "fecha": "Miércoles 06 de Mayo 2026",
     "fecha_iso": "2026-05-06",
-    "hora": "14:00",
+    "hora": "16:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Espn 1 Colombia",
+        "nombre": "Espn 1 Peru",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnco"
+        "url": "https://streamhdx.com/live1.php?stream=espn"
       },
       {
         "nombre": "Fox Sports 1 AR",
@@ -40,9 +40,9 @@
         "url": "https://streamhdx.com/live1.php?stream=evento16"
       },
       {
-        "nombre": "Espn 1 Peru",
+        "nombre": "Espn 1 Colombia",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
+        "url": "https://streamhdx.com/live1.php?stream=espnco"
       },
       {
         "nombre": "Disney +",
@@ -58,11 +58,6 @@
         "nombre": "TUDN USA",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
-      },
-      {
-        "nombre": "VIX +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
       }
     ]
   },
@@ -72,7 +67,7 @@
     "clase": "Sudamericano",
     "fecha": "Miércoles 06 de Mayo 2026",
     "fecha_iso": "2026-05-06",
-    "hora": "15:00",
+    "hora": "17:00",
     "duracion_min": 140,
     "canales": [
       {
@@ -83,28 +78,12 @@
     ]
   },
   {
-    "titulo": "Copa Sudamericana: Torque vs Palestino",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Miércoles 06 de Mayo 2026",
-    "fecha_iso": "2026-05-06",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Libertadores: Cusco vs Estudiantes",
     "categoria": "futbol",
     "clase": "LIB",
     "fecha": "Miércoles 06 de Mayo 2026",
     "fecha_iso": "2026-05-06",
-    "hora": "17:00",
+    "hora": "19:00",
     "duracion_min": 140,
     "canales": [
       {
@@ -135,7 +114,7 @@
     "clase": "LIB",
     "fecha": "Miércoles 06 de Mayo 2026",
     "fecha_iso": "2026-05-06",
-    "hora": "17:00",
+    "hora": "19:00",
     "duracion_min": 140,
     "canales": [
       {
@@ -156,7 +135,7 @@
     "clase": "SUD",
     "fecha": "Miércoles 06 de Mayo 2026",
     "fecha_iso": "2026-05-06",
-    "hora": "17:00",
+    "hora": "19:00",
     "duracion_min": 140,
     "canales": [
       {
@@ -167,12 +146,28 @@
     ]
   },
   {
+    "titulo": "Copa Sudamericana: Torque vs Palestino",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Miércoles 06 de Mayo 2026",
+    "fecha_iso": "2026-05-06",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
     "titulo": "NBA Playoffs: Knicks vs. 76ers",
     "categoria": "nba",
     "clase": "NBA",
     "fecha": "Miércoles 06 de Mayo 2026",
     "fecha_iso": "2026-05-06",
-    "hora": "18:00",
+    "hora": "20:00",
     "duracion_min": 200,
     "canales": [
       {
@@ -183,12 +178,28 @@
     ]
   },
   {
+    "titulo": "Copa BetPlay: Patriotas vs. Boyacá Chicó",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Miércoles 06 de Mayo 2026",
+    "fecha_iso": "2026-05-06",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=winplus"
+      }
+    ]
+  },
+  {
     "titulo": "Copa Sudamericana: Barracas Central vs Olimpia",
     "categoria": "futbol",
     "clase": "SUD",
     "fecha": "Miércoles 06 de Mayo 2026",
     "fecha_iso": "2026-05-06",
-    "hora": "19:00",
+    "hora": "21:00",
     "duracion_min": 140,
     "canales": [
       {
@@ -204,7 +215,7 @@
     "clase": "Sud",
     "fecha": "Miércoles 06 de Mayo 2026",
     "fecha_iso": "2026-05-06",
-    "hora": "19:00",
+    "hora": "21:00",
     "duracion_min": 140,
     "canales": [
       {
@@ -215,28 +226,12 @@
     ]
   },
   {
-    "titulo": "Copa BetPlay: Patriotas vs. Boyacá Chicó",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Miércoles 06 de Mayo 2026",
-    "fecha_iso": "2026-05-06",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Libertadores: Independiente Rivadavia vs Fluminense",
     "categoria": "futbol",
     "clase": "LIB",
     "fecha": "Miércoles 06 de Mayo 2026",
     "fecha_iso": "2026-05-06",
-    "hora": "19:30",
+    "hora": "21:30",
     "duracion_min": 140,
     "canales": [
       {
@@ -257,7 +252,7 @@
     "clase": "LIB",
     "fecha": "Miércoles 06 de Mayo 2026",
     "fecha_iso": "2026-05-06",
-    "hora": "19:30",
+    "hora": "21:30",
     "duracion_min": 140,
     "canales": [
       {
@@ -288,7 +283,7 @@
     "clase": "sud",
     "fecha": "Miércoles 06 de Mayo 2026",
     "fecha_iso": "2026-05-06",
-    "hora": "19:30",
+    "hora": "21:30",
     "duracion_min": 140,
     "canales": [
       {
@@ -299,28 +294,12 @@
     ]
   },
   {
-    "titulo": "NBA Playoffs: Spurs vs. Timberwolves",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Miércoles 06 de Mayo 2026",
-    "fecha_iso": "2026-05-06",
-    "hora": "20:30",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Espn 4",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4"
-      }
-    ]
-  },
-  {
     "titulo": "CONCACAF Champions Cup: Toluca vs. Los Angeles FC",
     "categoria": "futbol",
     "clase": "FUT",
     "fecha": "Miércoles 06 de Mayo 2026",
     "fecha_iso": "2026-05-06",
-    "hora": "20:30",
+    "hora": "22:30",
     "duracion_min": 140,
     "canales": [
       {
@@ -341,12 +320,44 @@
     ]
   },
   {
+    "titulo": "NBA Playoffs: Spurs vs. Timberwolves",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Miércoles 06 de Mayo 2026",
+    "fecha_iso": "2026-05-06",
+    "hora": "22:30",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Espn 4",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn4"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Deportes Tolima vs Nacional",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Miércoles 06 de Mayo 2026",
+    "fecha_iso": "2026-05-06",
+    "hora": "23:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
     "titulo": "Copa Libertadores: Universidad Católica vs Cruzeiro",
     "categoria": "futbol",
     "clase": "LIB",
     "fecha": "Miércoles 06 de Mayo 2026",
     "fecha_iso": "2026-05-06",
-    "hora": "21:00",
+    "hora": "23:00",
     "duracion_min": 140,
     "canales": [
       {
@@ -362,28 +373,12 @@
     ]
   },
   {
-    "titulo": "Copa Libertadores: Deportes Tolima vs Nacional",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Miércoles 06 de Mayo 2026",
-    "fecha_iso": "2026-05-06",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "Liga Nacional: Olimpia vs Marathón",
     "categoria": "futbol",
     "clase": "FUT",
     "fecha": "Miércoles 06 de Mayo 2026",
     "fecha_iso": "2026-05-06",
-    "hora": "21:15",
+    "hora": "23:15",
     "duracion_min": 140,
     "canales": [
       {
