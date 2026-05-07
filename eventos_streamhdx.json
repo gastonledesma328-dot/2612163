@@ -1,6 +1,6 @@
 [
   {
-    "titulo": "Al Shabab vs Al Nassr",
+    "titulo": "Liga Profesional Saudí: Al Shabab vs Al Nassr",
     "categoria": "futbol",
     "clase": "ARA",
     "fecha": "Jueves 07 de Mayo 2026",
@@ -9,14 +9,391 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Fox One",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=foxone"
-      },
-      {
         "nombre": "Fox Deportes USA",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Conference League: Crystal Palace vs Shakhtar Donetsk",
+    "categoria": "futbol",
+    "clase": "UCL",
+    "fecha": "Jueves 07 de Mayo 2026",
+    "fecha_iso": "2026-05-07",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "VIX +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento2"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney4"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Conference League: Strasbourg vs Rayo Vallecano",
+    "categoria": "futbol",
+    "clase": "UCL",
+    "fecha": "Jueves 07 de Mayo 2026",
+    "fecha_iso": "2026-05-07",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "VIX +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento1"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney3"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Europa League: Aston Villa vs Nottingham Forest",
+    "categoria": "futbol",
+    "clase": "UE",
+    "fecha": "Jueves 07 de Mayo 2026",
+    "fecha_iso": "2026-05-07",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 1 PE",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Europa League: Freiburg vs Sporting Braga",
+    "categoria": "futbol",
+    "clase": "UE",
+    "fecha": "Jueves 07 de Mayo 2026",
+    "fecha_iso": "2026-05-07",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney2"
+      },
+      {
+        "nombre": "ESPN 2 PE",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Mirassol vs LDU Quito",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Jueves 07 de Mayo 2026",
+    "fecha_iso": "2026-05-07",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney5"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn7"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Platense vs Peñarol",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Jueves 07 de Mayo 2026",
+    "fecha_iso": "2026-05-07",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney6"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Boston River vs Millonarios",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Jueves 07 de Mayo 2026",
+    "fecha_iso": "2026-05-07",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney7"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: O'Higgins vs São Paulo",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Jueves 07 de Mayo 2026",
+    "fecha_iso": "2026-05-07",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney8"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Colombia: Ind. Yumbo vs Deportivo Pereira",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Jueves 07 de Mayo 2026",
+    "fecha_iso": "2026-05-07",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=winplus"
+      },
+      {
+        "nombre": "Win Sports + (Op2)",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=winplus2"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA: Cavaliers vs Pistons",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Jueves 07 de Mayo 2026",
+    "fecha_iso": "2026-05-07",
+    "hora": "20:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "NBA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=nba1"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Coquimbo Unido vs Universitario",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Jueves 07 de Mayo 2026",
+    "fecha_iso": "2026-05-07",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney9"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz5"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Medellín vs Flamengo",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Jueves 07 de Mayo 2026",
+    "fecha_iso": "2026-05-07",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney10"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz6"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Blooming vs RB Bragantino",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Jueves 07 de Mayo 2026",
+    "fecha_iso": "2026-05-07",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz8"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Carabobo vs River Plate",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Jueves 07 de Mayo 2026",
+    "fecha_iso": "2026-05-07",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz7"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Colombia: Atlético Bucaramanga vs Real Santander",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Jueves 07 de Mayo 2026",
+    "fecha_iso": "2026-05-07",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=winplus"
+      },
+      {
+        "nombre": "Win Sports + (Op2)",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=winplus2"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA: Lakers vs Thunder",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Jueves 07 de Mayo 2026",
+    "fecha_iso": "2026-05-07",
+    "hora": "22:30",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "NBA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=nba2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Junior vs Cerro Porteño",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Jueves 07 de Mayo 2026",
+    "fecha_iso": "2026-05-07",
+    "hora": "23:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney11"
       }
     ]
   }
