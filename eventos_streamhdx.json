@@ -1,135 +1,5 @@
 [
   {
-    "titulo": "Sudamericano Sub-17 (F): Argentina vs Venezuela",
-    "categoria": "futbol",
-    "clase": "Sudamericano",
-    "fecha": "Miércoles 06 de Mayo 2026",
-    "fecha_iso": "2026-05-06",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsports2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Cusco vs Estudiantes",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Miércoles 06 de Mayo 2026",
-    "fecha_iso": "2026-05-06",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 1 Colombia",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "Espn 1 Peru",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Fox Sports 1 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
-      },
-      {
-        "nombre": "Espn 2 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2mx"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Deportivo La Guaira vs Bolívar",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Miércoles 06 de Mayo 2026",
-    "fecha_iso": "2026-05-06",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
-      },
-      {
-        "nombre": "Fox Sports 3 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox3ar"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Audax Italiano vs Vasco da Gama",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Miércoles 06 de Mayo 2026",
-    "fecha_iso": "2026-05-06",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento13"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Torque vs Palestino",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Miércoles 06 de Mayo 2026",
-    "fecha_iso": "2026-05-06",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
-      }
-    ]
-  },
-  {
     "titulo": "NBA Playoffs: Knicks vs. 76ers",
     "categoria": "nba",
     "clase": "NBA",
@@ -231,6 +101,21 @@
         "nombre": "Fox Sports 1 AR",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "Disney + BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disneybr1"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney8"
       }
     ]
   },
@@ -283,6 +168,16 @@
         "nombre": "Movistar Liga de Campeones",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=mliga1"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney6"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz7"
       }
     ]
   },
