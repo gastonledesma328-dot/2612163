@@ -1,100 +1,5 @@
 [
   {
-    "titulo": "Liga Profesional Saudí: Al Shabab vs Al Nassr",
-    "categoria": "futbol",
-    "clase": "ARA",
-    "fecha": "Jueves 07 de Mayo 2026",
-    "fecha_iso": "2026-05-07",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Conference League: Crystal Palace vs Shakhtar Donetsk",
-    "categoria": "futbol",
-    "clase": "UCL",
-    "fecha": "Jueves 07 de Mayo 2026",
-    "fecha_iso": "2026-05-07",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Conference League: Strasbourg vs Rayo Vallecano",
-    "categoria": "futbol",
-    "clase": "UCL",
-    "fecha": "Jueves 07 de Mayo 2026",
-    "fecha_iso": "2026-05-07",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Europa League: Aston Villa vs Nottingham Forest",
-    "categoria": "futbol",
-    "clase": "UE",
-    "fecha": "Jueves 07 de Mayo 2026",
-    "fecha_iso": "2026-05-07",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 1 PE",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Europa League: Freiburg vs Sporting Braga",
-    "categoria": "futbol",
-    "clase": "UE",
-    "fecha": "Jueves 07 de Mayo 2026",
-    "fecha_iso": "2026-05-07",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "ESPN 2 PE",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Libertadores: Mirassol vs LDU Quito",
     "categoria": "futbol",
     "clase": "LIB",
@@ -229,9 +134,14 @@
     "duracion_min": 200,
     "canales": [
       {
-        "nombre": "NBA",
+        "nombre": "Amazon Prime | Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=nba1"
+        "url": "https://streamhdx.com/live1.php?stream=evento1"
+      },
+      {
+        "nombre": "Amazon Prime | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento2"
       }
     ]
   },
