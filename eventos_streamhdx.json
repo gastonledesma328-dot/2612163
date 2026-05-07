@@ -25,11 +25,6 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "VIX +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento2"
-      },
-      {
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney4"
@@ -45,11 +40,6 @@
     "hora": "16:00",
     "duracion_min": 140,
     "canales": [
-      {
-        "nombre": "VIX +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
-      },
       {
         "nombre": "Disney+",
         "calidad": "720p",
