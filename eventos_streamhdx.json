@@ -1,101 +1,43 @@
 [
   {
-    "titulo": "Copa Libertadores: Medellín vs Flamengo | Suspendido",
+    "titulo": "Copa del Rey de Arabia Saudita: Al Kholood vs Al Hilal - Final",
     "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Jueves 07 de Mayo 2026",
-    "fecha_iso": "2026-05-07",
-    "hora": "21:30",
+    "clase": "ARA",
+    "fecha": "Viernes 08 de Mayo 2026",
+    "fecha_iso": "2026-05-08",
+    "hora": "15:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Disney+",
+        "nombre": "Fox Deportes USA",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney10"
+        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
+      },
+      {
+        "nombre": "Fox ONE",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=foxone"
       }
     ]
   },
   {
-    "titulo": "Copa Sudamericana: Blooming vs RB Bragantino",
+    "titulo": "Bundesliga: Borussia Dortmund vs Eintracht Frankfurt",
     "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Jueves 07 de Mayo 2026",
-    "fecha_iso": "2026-05-07",
-    "hora": "21:30",
+    "clase": "ALE",
+    "fecha": "Viernes 08 de Mayo 2026",
+    "fecha_iso": "2026-05-08",
+    "hora": "15:30",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Dsports +",
+        "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
       },
       {
-        "nombre": "Fanatiz",
+        "nombre": "Espn 5",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz8"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Colombia: Atlético Bucaramanga vs Real Santander",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Jueves 07 de Mayo 2026",
-    "fecha_iso": "2026-05-07",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=winplus"
-      },
-      {
-        "nombre": "Win Sports + (Op2)",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=winplus2"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA: Lakers vs Thunder",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Jueves 07 de Mayo 2026",
-    "fecha_iso": "2026-05-07",
-    "hora": "22:30",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Amazon Prime | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento3"
-      },
-      {
-        "nombre": "Amazon Prime | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento4"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Junior vs Cerro Porteño",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Jueves 07 de Mayo 2026",
-    "fecha_iso": "2026-05-07",
-    "hora": "23:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney11"
+        "url": "https://streamhdx.com/live1.php?stream=espn5"
       }
     ]
   }
