@@ -119,6 +119,11 @@
         "url": "https://streamhdx.com/live1.php?stream=espn2"
       },
       {
+        "nombre": "Sky Sports la Liga",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sky_sports_laliga"
+      },
+      {
         "nombre": "Espn Deportes",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espndeportes"
