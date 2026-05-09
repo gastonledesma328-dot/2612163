@@ -1,148 +1,5 @@
 [
   {
-    "titulo": "MLB: Chicago White Sox vs Seattle Mariners",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Viernes 08 de Mayo 2026",
-    "fecha_iso": "2026-05-08",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA: Knicks vs 76ers",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Viernes 08 de Mayo 2026",
-    "fecha_iso": "2026-05-08",
-    "hora": "20:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Amazon Prime | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
-      },
-      {
-        "nombre": "Amazon Prime | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento2"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A : Orense vs Leones del Norte",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Viernes 08 de Mayo 2026",
-    "fecha_iso": "2026-05-08",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping Sports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "WWE: Smack Down",
-    "categoria": "wwe",
-    "clase": "WWE",
-    "fecha": "Viernes 08 de Mayo 2026",
-    "fecha_iso": "2026-05-08",
-    "hora": "21:00",
-    "duracion_min": 180,
-    "canales": [
-      {
-        "nombre": "Netflix",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=netflix"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Argentina: Banfield vs San Martín Tucumán",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Viernes 08 de Mayo 2026",
-    "fecha_iso": "2026-05-08",
-    "hora": "21:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventofa1"
-      },
-      {
-        "nombre": "Tyc Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tycsports"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA: Spurs vs Timberwolves",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Viernes 08 de Mayo 2026",
-    "fecha_iso": "2026-05-08",
-    "hora": "22:30",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Amazon Prime | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento3"
-      },
-      {
-        "nombre": "Amazon Prime | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento4"
-      }
-    ]
-  },
-  {
-    "titulo": "NHL: Anaheim Ducks vs Vegas Golden Knights",
-    "categoria": "futbol",
-    "clase": "NHL",
-    "fecha": "Viernes 08 de Mayo 2026",
-    "fecha_iso": "2026-05-08",
-    "hora": "22:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "ESPN Knockout: Gabriel Valenzuela vs. Rogelio Jimenez",
-    "categoria": "box",
-    "clase": "BOX",
-    "fecha": "Viernes 08 de Mayo 2026",
-    "fecha_iso": "2026-05-08",
-    "hora": "23:00",
-    "duracion_min": 400,
-    "canales": [
-      {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "MOTOGP:GP Francia – Clasificación",
     "categoria": "futbol",
     "clase": "MOTOGP",
@@ -520,6 +377,32 @@
     ]
   },
   {
+    "titulo": "La Liga EA Sports: Atlético Madrid vs Celta de Vigo",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Sábado 09 de Mayo 2026",
+    "fecha_iso": "2026-05-09",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Sky Sports La Liga",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sky_sports_laliga"
+      },
+      {
+        "nombre": "Espn Deportes USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
+      }
+    ]
+  },
+  {
     "titulo": "Premier League: Manchester City vs Brentford",
     "categoria": "futbol",
     "clase": "ENG",
@@ -779,32 +662,6 @@
         "nombre": "MAX",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=max4"
-      }
-    ]
-  },
-  {
-    "titulo": "La Liga EA Sports: Atlético Madrid vs Celta de Vigo",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Sky Sports La Liga",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sky_sports_laliga"
-      },
-      {
-        "nombre": "Espn Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
       }
     ]
   },
@@ -1357,6 +1214,32 @@
     ]
   },
   {
+    "titulo": "Liga MX: Guadalajara vs Tigres UANL",
+    "categoria": "futbol",
+    "clase": "MEX",
+    "fecha": "Sábado 09 de Mayo 2026",
+    "fecha_iso": "2026-05-09",
+    "hora": "22:07",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
+      },
+      {
+        "nombre": "TUDN MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tudnmx"
+      },
+      {
+        "nombre": "Telemundo",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=canal5mx"
+      }
+    ]
+  },
+  {
     "titulo": "MLS: Nashville SC vs DC United",
     "categoria": "futbol",
     "clase": "USA",
@@ -1443,32 +1326,6 @@
         "nombre": "MLS",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=mls10en"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Guadalajara vs Tigres UANL",
-    "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Domingo 10 de Mayo 2026",
-    "fecha_iso": "2026-05-10",
-    "hora": "00:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
-      },
-      {
-        "nombre": "TUDN MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tudnmx"
-      },
-      {
-        "nombre": "Telemundo",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=canal5mx"
       }
     ]
   }
