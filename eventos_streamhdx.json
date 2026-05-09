@@ -26,170 +26,6 @@
     ]
   },
   {
-    "titulo": "MLS: Toronto FC vs Inter Miami",
-    "categoria": "futbol",
-    "clase": "USA",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLS",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live3.php?stream=mls1en"
-      }
-    ]
-  },
-  {
-    "titulo": "Super Lig: Beşiktaş vs Trabzonspor",
-    "categoria": "futbol",
-    "clase": "TUR",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney15"
-      }
-    ]
-  },
-  {
-    "titulo": "Super Lig: Galatasaray vs Antalyaspor",
-    "categoria": "futbol",
-    "clase": "TUR",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney17"
-      }
-    ]
-  },
-  {
-    "titulo": "Super Lig: Konyaspor vs Fenerbahçe",
-    "categoria": "futbol",
-    "clase": "TUR",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox Sports 2 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox2ar"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney16"
-      }
-    ]
-  },
-  {
-    "titulo": "Super Lig: İstanbul Başakşehir vs Samsunspor",
-    "categoria": "futbol",
-    "clase": "TUR",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 7 PE",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn7"
-      },
-      {
-        "nombre": "Fox Sports 3 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox3ar"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney18"
-      }
-    ]
-  },
-  {
-    "titulo": "WNBA: Indiana vs. Dallas",
-    "categoria": "futbol",
-    "clase": "WNBA",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 7 PE",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn7"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Deportivo Moquegua vs ADT",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "L1 Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=liga1max"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Chicago Fire vs New York RB",
-    "categoria": "futbol",
-    "clase": "USA",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLS",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls2en"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Danubio vs Albion",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney19"
-      }
-    ]
-  },
-  {
     "titulo": "Serie A: Lecce vs Juventus",
     "categoria": "futbol",
     "clase": "IT",
@@ -290,12 +126,12 @@
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
+        "url": "https://streamhdx.com/live3.php?stream=fanatiz3"
       },
       {
         "nombre": "Espn Premiun",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnpremium"
+        "url": "https://streamhdx.com/live3.php?stream=espnpremium"
       }
     ]
   },
