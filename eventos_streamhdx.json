@@ -1,157 +1,5 @@
 [
   {
-    "titulo": "La Liga EA Sports: Atlético Madrid vs Celta de Vigo",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Sky Sports La Liga",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sky_sports_laliga"
-      },
-      {
-        "nombre": "Espn Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Lecce vs Juventus",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "15:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 1 PE",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Espn 1 COL",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney20"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Coritiba vs Internacional",
-    "categoria": "futbol",
-    "clase": "bra",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
-      },
-      {
-        "nombre": "Win Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=winsports"
-      },
-      {
-        "nombre": "Premiere 2 BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=premiere2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de la Liga: La Serena vs Audax Italiano",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MAX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max4"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA: Pistons vs Cavaliers",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "16:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Espn MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnmx"
-      },
-      {
-        "nombre": "MAX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max5"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Talleres Córdoba vs Belgrano",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "16:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live3.php?stream=fanatiz3"
-      },
-      {
-        "nombre": "Espn Premiun",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live3.php?stream=espnpremium"
-      }
-    ]
-  },
-  {
-    "titulo": "WNBA: Las Vegas vs. Phoenix",
-    "categoria": "futbol",
-    "clase": "WNBA",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "16:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 7 PE",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn7"
-      }
-    ]
-  },
-  {
     "titulo": "328: Khamzat Chimaev vs Sean Strickland",
     "categoria": "ufc",
     "clase": "UFC",
@@ -169,27 +17,6 @@
         "nombre": "Paramount+ 2 - Ingles",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=paramount2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Atlético Grau vs Cienciano",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "17:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "L1 Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=liga1max"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
       }
     ]
   },
@@ -417,6 +244,16 @@
         "nombre": "Win Sports + Fanatiz",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=winplus"
+      },
+      {
+        "nombre": "18:2 FUT Amistoso: Barca legends vs. Real Madrid Legends",
+        "calidad": "720p",
+        "url": "/eventos.html?r="
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz14"
       }
     ]
   },
