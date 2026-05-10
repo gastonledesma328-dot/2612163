@@ -1,332 +1,5 @@
 [
   {
-    "titulo": "328: Khamzat Chimaev vs Sean Strickland",
-    "categoria": "ufc",
-    "clase": "UFC",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "17:00",
-    "duracion_min": 480,
-    "canales": [
-      {
-        "nombre": "Paramount+ 1 - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount1"
-      },
-      {
-        "nombre": "Paramount+ 2 - Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount2"
-      }
-    ]
-  },
-  {
-    "titulo": "IndyCar: Indianapolis Motor Speedway",
-    "categoria": "futbol",
-    "clase": "IndyCar",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "17:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 3 PE",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: CF Montréal vs Orlando City SC",
-    "categoria": "futbol",
-    "clase": "USA",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "17:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLS",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls3en"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Primera: 2 de Mayo vs Rubio Ñú",
-    "categoria": "futbol",
-    "clase": "PY",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "17:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz5"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Fluminense vs Vitória",
-    "categoria": "futbol",
-    "clase": "bra",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "18:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz6"
-      },
-      {
-        "nombre": "Premiere BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=premiere1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Inter Bogotá vs Atlético Nacional",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "18:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Win Sports + Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de la Liga: Cobresal vs Univ. Concepción",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MAX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max1"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de la Liga: Colo-Colo vs Deportes Concepción",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MAX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max2"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Central Español vs Racing",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Boca Juniors vs Huracán",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 1 PE",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Espn 1 COL",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "Fanatiz | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventofa1"
-      },
-      {
-        "nombre": "Fanatiz | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventofa2"
-      },
-      {
-        "nombre": "Fanatiz | Sonido Ambiente",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventofa3"
-      },
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tntsports"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      }
-    ]
-  },
-  {
-    "titulo": "WWE: Backlash",
-    "categoria": "wwe",
-    "clase": "WWE",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "19:00",
-    "duracion_min": 180,
-    "canales": [
-      {
-        "nombre": "Netflix",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=netflix"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Primera: Nacional Asunción vs Sportivo Trinidense",
-    "categoria": "futbol",
-    "clase": "PY",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Deportes Tolima vs Deportivo Pasto",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "20:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Win Sports + Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=winplus"
-      },
-      {
-        "nombre": "18:2 FUT Amistoso: Barca legends vs. Real Madrid Legends",
-        "calidad": "720p",
-        "url": "/eventos.html?r="
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz14"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Atlanta United vs LA Galaxy",
-    "categoria": "futbol",
-    "clase": "USA",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "20:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLS",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls4en"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Charlotte vs Cincinnati",
-    "categoria": "futbol",
-    "clase": "USA",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "20:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLS",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls5en"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: New England vs Philadelphia Union",
-    "categoria": "futbol",
-    "clase": "USA",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "20:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLS",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls6en"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Bahia vs Cruzeiro",
-    "categoria": "futbol",
-    "clase": "bra",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
-      },
-      {
-        "nombre": "Premiere 2 BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=premiere2"
-      }
-    ]
-  },
-  {
     "titulo": "ESPN Knockout: Angelo Leo vs. Ra’eese Aleem",
     "categoria": "box",
     "clase": "BOX",
@@ -339,64 +12,6 @@
         "nombre": "Espn 1 PE",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Argentinos Juniors vs Lanús",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz10"
-      },
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tntsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Independiente Rivadavia vs Unión Santa Fe",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
-      },
-      {
-        "nombre": "Espn Premiun",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnpremium"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Dallas vs Real Salt Lake",
-    "categoria": "futbol",
-    "clase": "USA",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLS",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls7en"
       }
     ]
   },
@@ -436,19 +51,45 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "L1 Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=liga1max"
-      },
-      {
         "nombre": "Fanatiz | Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventofa1"
+        "url": "https://streamhdx.com/live3.php?stream=eventofa1"
+      },
+      {
+        "nombre": "L1 Max",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live3.php?stream=liga1max"
       },
       {
         "nombre": "Fanatiz | Sonido Ambiente",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventofa2"
+        "url": "https://streamhdx.com/live3.php?stream=eventofa2"
+      },
+      {
+        "nombre": "Fanatiz SD",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live3.php?stream=fanatiz2"
+      }
+    ]
+  },
+  {
+    "titulo": "UFC 328: Khamzat Chimaev vs Sean Strickland",
+    "categoria": "ufc",
+    "clase": "UFC",
+    "fecha": "Sábado 09 de Mayo 2026",
+    "fecha_iso": "2026-05-09",
+    "hora": "22:00",
+    "duracion_min": 480,
+    "canales": [
+      {
+        "nombre": "Paramount+ 1 - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=paramount1"
+      },
+      {
+        "nombre": "Paramount+ 2 - Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=paramount2"
       }
     ]
   },
@@ -465,11 +106,6 @@
         "nombre": "Amazon Prime",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=amazon1"
-      },
-      {
-        "nombre": "Universo",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=universo"
       },
       {
         "nombre": "Telemundo",
@@ -501,6 +137,27 @@
         "nombre": "Telemundo",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=canal5mx"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Argentinos Juniors vs Lanús",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Sábado 09 de Mayo 2026",
+    "fecha_iso": "2026-05-09",
+    "hora": "22:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live3.php?stream=fanatiz10"
+      },
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live3.php?stream=tntsports"
       }
     ]
   },
