@@ -1,28 +1,75 @@
 [
   {
-    "titulo": "ESPN Knockout: Angelo Leo vs. Ra’eese Aleem",
-    "categoria": "box",
-    "clase": "BOX",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "21:00",
-    "duracion_min": 400,
+    "titulo": "Serie A: Verona vs Como",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "07:30",
+    "duracion_min": 140,
     "canales": [
       {
         "nombre": "Espn 1 PE",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "Espn 1 COL",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnco"
+      },
+      {
+        "nombre": "Espn 1 AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnar"
+      },
+      {
+        "nombre": "Espn 1 MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnmx"
       }
     ]
   },
   {
-    "titulo": "NBA: Thunder vs Lakers",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "21:30",
-    "duracion_min": 200,
+    "titulo": "Bundesliga 2:Fortuna Düsseldorf vs Elversberg",
+    "categoria": "futbol",
+    "clase": "ALE",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "08:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fox Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga 2: FC Andorra vs Las Palmas",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "09:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "La Liga Hypermotion",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga: Mallorca vs Villarreal",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "09:00",
+    "duracion_min": 140,
     "canales": [
       {
         "nombre": "Espn 4 PE",
@@ -30,82 +77,117 @@
         "url": "https://streamhdx.com/live1.php?stream=espn4"
       },
       {
-        "nombre": "Espn MX",
+        "nombre": "Sky Sports la liga",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnmx"
+        "url": "https://streamhdx.com/live1.php?stream=sky_sports_laliga"
       },
       {
         "nombre": "Espn Deportes USA",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espndeportes"
+      },
+      {
+        "nombre": "ESPN+ | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus1"
+      },
+      {
+        "nombre": "ESPN+ | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus2"
+      },
+      {
+        "nombre": "Espn 4 COL",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn4co"
+      },
+      {
+        "nombre": "Espn 4 AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn4ar"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
       }
     ]
   },
   {
-    "titulo": "Liga 1: Alianza Lima vs Sporting Cristal",
+    "titulo": "Premier League: Burnley vs Aston Villa",
     "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "22:00",
+    "clase": "ENG",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "10:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Fanatiz | Español",
+        "nombre": "Espn 1 PE",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live3.php?stream=eventofa1"
+        "url": "https://streamhdx.com/live1.php?stream=espn"
       },
       {
-        "nombre": "L1 Max",
+        "nombre": "MAX",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live3.php?stream=liga1max"
+        "url": "https://streamhdx.com/live1.php?stream=max1"
       },
       {
-        "nombre": "Fanatiz | Sonido Ambiente",
+        "nombre": "Espn 1 COL",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live3.php?stream=eventofa2"
+        "url": "https://streamhdx.com/live1.php?stream=espnco"
       },
       {
-        "nombre": "Fanatiz SD",
+        "nombre": "Espn 1 AR",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live3.php?stream=fanatiz2"
+        "url": "https://streamhdx.com/live1.php?stream=espnar"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney2"
       }
     ]
   },
   {
-    "titulo": "UFC 328: Khamzat Chimaev vs Sean Strickland",
-    "categoria": "ufc",
-    "clase": "UFC",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "22:00",
-    "duracion_min": 480,
-    "canales": [
-      {
-        "nombre": "Paramount+ 1 - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount1"
-      },
-      {
-        "nombre": "Paramount+ 2 - Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Guadalajara vs Tigres UANL",
+    "titulo": "Premier League: Crystal Palace vs Everton",
     "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "22:07",
+    "clase": "ENG",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "10:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Amazon Prime",
+        "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=amazon1"
+        "url": "https://streamhdx.com/live1.php?stream=disney3"
+      },
+      {
+        "nombre": "Fox One 1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=foxone"
+      }
+    ]
+  },
+  {
+    "titulo": "Premier League: Nottingham Forest vs Newcastle United",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney4"
+      },
+      {
+        "nombre": "MAX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=max2"
       },
       {
         "nombre": "Telemundo",
@@ -115,139 +197,462 @@
     ]
   },
   {
-    "titulo": "Liga MX: Guadalajara vs Tigres UANL",
+    "titulo": "Serie A: Cremonese vs Pisa",
     "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "22:07",
+    "clase": "IT",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "10:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "TUDN USA",
+        "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
-      },
-      {
-        "nombre": "TUDN MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tudnmx"
-      },
-      {
-        "nombre": "Telemundo",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=canal5mx"
+        "url": "https://streamhdx.com/live1.php?stream=disney5"
       }
     ]
   },
   {
-    "titulo": "Liga Profesional: Argentinos Juniors vs Lanús",
+    "titulo": "Serie A: Fiorentina vs Genoa",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 1 MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnmx"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney6"
+      }
+    ]
+  },
+  {
+    "titulo": "Bundesliga: Hamburger SV vs Freiburg",
+    "categoria": "futbol",
+    "clase": "ALE",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "10:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 5 PE",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn5"
+      },
+      {
+        "nombre": "Espn 5 COL",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn5co"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney7"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Defensor Sporting vs Juventud",
+    "categoria": "futbol",
+    "clase": "uru",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney8"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga 2: Leganés vs Racing Santander",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "11:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "La Liga Hypermotion",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga: Athletic Club vs Valencia",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "11:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Espn Deportes USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
+      },
+      {
+        "nombre": "ESPN+ | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus3"
+      },
+      {
+        "nombre": "ESPN+ | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus4"
+      }
+    ]
+  },
+  {
+    "titulo": "Women's FA Cup: Chelsea FC vs Manchester City",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "11:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 4 PE",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn4"
+      },
+      {
+        "nombre": "Espn 4 COL",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn4co"
+      },
+      {
+        "nombre": "Espn 4 AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn4ar"
+      }
+    ]
+  },
+  {
+    "titulo": "Eredivisie: Ajax vs Utrecht",
+    "categoria": "futbol",
+    "clase": "HOL",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "11:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn NL",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn_nl3"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney11"
+      }
+    ]
+  },
+  {
+    "titulo": "Eredivisie: Feyenoord vs AZ",
+    "categoria": "futbol",
+    "clase": "HOL",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "11:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 4 MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn4mx"
+      },
+      {
+        "nombre": "Espn NL",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn_nl2"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney9"
+      }
+    ]
+  },
+  {
+    "titulo": "Eredivisie: Go Ahead Eagles vs PSV",
+    "categoria": "futbol",
+    "clase": "HOL",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "11:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn NL",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn_nl4"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney10"
+      }
+    ]
+  },
+  {
+    "titulo": "Eredivisie: Groningen vs NEC",
+    "categoria": "futbol",
+    "clase": "HOL",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "11:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney12"
+      }
+    ]
+  },
+  {
+    "titulo": "Bundesliga: Köln vs Heidenheim",
+    "categoria": "futbol",
+    "clase": "ALE",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "12:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 5 PE",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn5"
+      },
+      {
+        "nombre": "Espn 5 COL",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn5co"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney14"
+      }
+    ]
+  },
+  {
+    "titulo": "Premier League: West Ham United vs Arsenal",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "12:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 1 PE",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "Fox One 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=foxone2"
+      },
+      {
+        "nombre": "Telemundo",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "Espn 1 COL",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnco"
+      },
+      {
+        "nombre": "Espn 1 AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnar"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney13"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A: Parma vs Roma",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 1 MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnmx"
+      },
+      {
+        "nombre": "FOX Deportes USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney15"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga 2: Córdoba vs Granada",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "La Liga Hypermotion",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga 2: Mirandés vs Eibar",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "La Liga Hypermotion 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion2"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga: Real Oviedo vs Getafe",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 3 PE",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn3"
+      },
+      {
+        "nombre": "Espn 3 COL",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn3co"
+      },
+      {
+        "nombre": "Espn Deportes USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
+      },
+      {
+        "nombre": "ESPN+ | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus1"
+      },
+      {
+        "nombre": "ESPN+ | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus2"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney16"
+      }
+    ]
+  },
+  {
+    "titulo": "Bundesliga: Mainz 05 vs Union Berlin",
+    "categoria": "futbol",
+    "clase": "ALE",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "14:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney17"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga 1: Sport Huancayo vs Juan Pablo II College",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Liga 1 Max",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=liga1max"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Rosario Central vs Independiente",
     "categoria": "futbol",
     "clase": "AR",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "22:15",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "15:00",
     "duracion_min": 140,
     "canales": [
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live3.php?stream=fanatiz10"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
       },
       {
-        "nombre": "TNT Sports",
+        "nombre": "ESPN Premium",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live3.php?stream=tntsports"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Nashville SC vs DC United",
-    "categoria": "futbol",
-    "clase": "USA",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "22:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLS",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls8en"
-      },
-      {
-        "nombre": "20:205 COL Liga BetPlay: América de Cali vs Santa Fe",
-        "calidad": "720p",
-        "url": "/eventos.html?r="
-      },
-      {
-        "nombre": "Win Sports + Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Colorado Rapids vs St. Louis City",
-    "categoria": "futbol",
-    "clase": "USA",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "22:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLS",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls9en"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Portland Timbers vs Sporting KC",
-    "categoria": "futbol",
-    "clase": "USA",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "23:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLS",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls1en"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: SJ Earthquakes vs Vancouver Whitecaps",
-    "categoria": "futbol",
-    "clase": "USA",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "23:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLS",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls2en"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Seattle Sounders FC vs San Diego",
-    "categoria": "futbol",
-    "clase": "USA",
-    "fecha": "Sábado 09 de Mayo 2026",
-    "fecha_iso": "2026-05-09",
-    "hora": "23:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLS",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls10en"
+        "url": "https://streamhdx.com/live1.php?stream=espnpremium"
       }
     ]
   }
