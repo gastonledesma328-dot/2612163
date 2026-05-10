@@ -1,73 +1,5 @@
 [
   {
-    "titulo": "Bundesliga: Mainz 05 vs Union Berlin",
-    "categoria": "futbol",
-    "clase": "ALE",
-    "fecha": "Domingo 10 de Mayo 2026",
-    "fecha_iso": "2026-05-10",
-    "hora": "14:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney17"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Sport Huancayo vs Juan Pablo II College",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Domingo 10 de Mayo 2026",
-    "fecha_iso": "2026-05-10",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Liga 1 Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=liga1max"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Rosario Central vs Independiente",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Domingo 10 de Mayo 2026",
-    "fecha_iso": "2026-05-10",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventofa1"
-      },
-      {
-        "nombre": "ESPN Premium",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnpremium"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento5"
-      },
-      {
-        "nombre": "Fanatiz | Sonido Ambiente",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventofa2"
-      }
-    ]
-  },
-  {
     "titulo": "Serie A: Milan vs Atalanta",
     "categoria": "futbol",
     "clase": "IT",
@@ -425,7 +357,7 @@
       {
         "nombre": "Fanatiz | Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live3.php?stream=eventofa3"
+        "url": "https://streamhdx.com/live1.php?stream=eventofa3"
       },
       {
         "nombre": "TNT Sports",
@@ -433,9 +365,14 @@
         "url": "https://streamhdx.com/live1.php?stream=tntsports"
       },
       {
+        "nombre": "Fanatiz | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=eventofa5"
+      },
+      {
         "nombre": "Fanatiz | Sonido Ambiente",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live3.php?stream=eventofa4"
+        "url": "https://streamhdx.com/live1.php?stream=eventofa4"
       }
     ]
   },
