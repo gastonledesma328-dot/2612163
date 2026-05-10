@@ -1,135 +1,5 @@
 [
   {
-    "titulo": "MotoGP – GP Francia – Moto3 / Moto2 / MotoGP",
-    "categoria": "futbol",
-    "clase": "MOTOGP",
-    "fecha": "Domingo 10 de Mayo 2026",
-    "fecha_iso": "2026-05-10",
-    "hora": "05:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Verona vs Como",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Domingo 10 de Mayo 2026",
-    "fecha_iso": "2026-05-10",
-    "hora": "07:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 1 PE",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Espn 1 COL",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "Espn 1 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnar"
-      },
-      {
-        "nombre": "Espn 1 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnmx"
-      }
-    ]
-  },
-  {
-    "titulo": "Bundesliga 2:Fortuna Düsseldorf vs Elversberg",
-    "categoria": "futbol",
-    "clase": "ALE",
-    "fecha": "Domingo 10 de Mayo 2026",
-    "fecha_iso": "2026-05-10",
-    "hora": "08:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox Sports 1 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga 2: FC Andorra vs Las Palmas",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 10 de Mayo 2026",
-    "fecha_iso": "2026-05-10",
-    "hora": "09:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "La Liga Hypermotion",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga: Mallorca vs Villarreal",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 10 de Mayo 2026",
-    "fecha_iso": "2026-05-10",
-    "hora": "09:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 4 PE",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4"
-      },
-      {
-        "nombre": "Sky Sports la liga",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sky_sports_laliga"
-      },
-      {
-        "nombre": "Espn Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
-      },
-      {
-        "nombre": "ESPN+ | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnplus1"
-      },
-      {
-        "nombre": "ESPN+ | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnplus2"
-      },
-      {
-        "nombre": "Espn 4 COL",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4co"
-      },
-      {
-        "nombre": "Espn 4 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4ar"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
     "titulo": "Premier League: Burnley vs Aston Villa",
     "categoria": "futbol",
     "clase": "ENG",
@@ -1076,6 +946,22 @@
     ]
   },
   {
+    "titulo": "Liga Pro: Emelec vs Libertad FC",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "17:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "zapping Sports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
     "titulo": "MLS: New York City vs Columbus Crew",
     "categoria": "futbol",
     "clase": "USA",
@@ -1404,6 +1290,22 @@
         "nombre": "Win Sports Plus",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=winplus"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Pro: Manta vs Macara",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Domingo 10 de Mayo 2026",
+    "fecha_iso": "2026-05-10",
+    "hora": "20:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "zapping Sports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
       }
     ]
   },
