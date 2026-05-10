@@ -1,255 +1,5 @@
 [
   {
-    "titulo": "Women's FA Cup: Chelsea FC vs Manchester City",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Domingo 10 de Mayo 2026",
-    "fecha_iso": "2026-05-10",
-    "hora": "11:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 4 PE",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4"
-      },
-      {
-        "nombre": "Espn 4 COL",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4co"
-      },
-      {
-        "nombre": "Espn 4 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4ar"
-      }
-    ]
-  },
-  {
-    "titulo": "Bundesliga: Köln vs Heidenheim",
-    "categoria": "futbol",
-    "clase": "ALE",
-    "fecha": "Domingo 10 de Mayo 2026",
-    "fecha_iso": "2026-05-10",
-    "hora": "12:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 5 PE",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
-      },
-      {
-        "nombre": "Espn 5 COL",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5co"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney14"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: West Ham United vs Arsenal",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Domingo 10 de Mayo 2026",
-    "fecha_iso": "2026-05-10",
-    "hora": "12:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 1 PE",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Fox One 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=foxone2"
-      },
-      {
-        "nombre": "Telemundo",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=telemundo"
-      },
-      {
-        "nombre": "Espn 1 BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disneybr1"
-      },
-      {
-        "nombre": "Espn 1 COL",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "Espn 1 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnar"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney13"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Parma vs Roma",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Domingo 10 de Mayo 2026",
-    "fecha_iso": "2026-05-10",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 1 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnmx"
-      },
-      {
-        "nombre": "FOX Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney15"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga 2: Córdoba vs Granada",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 10 de Mayo 2026",
-    "fecha_iso": "2026-05-10",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "La Liga Hypermotion",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga 2: Mirandés vs Eibar",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 10 de Mayo 2026",
-    "fecha_iso": "2026-05-10",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "La Liga Hypermotion 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion2"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga: Real Oviedo vs Getafe",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 10 de Mayo 2026",
-    "fecha_iso": "2026-05-10",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 3 PE",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      },
-      {
-        "nombre": "Espn 3 COL",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3co"
-      },
-      {
-        "nombre": "Sky Sports la liga",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sky_sports_laliga"
-      },
-      {
-        "nombre": "Espn Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
-      },
-      {
-        "nombre": "ESPN+ | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnplus1"
-      },
-      {
-        "nombre": "ESPN+ | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnplus2"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney16"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Union Saint-Gilloise vs. KV Mechelen",
-    "categoria": "futbol",
-    "clase": "BEL",
-    "fecha": "Domingo 10 de Mayo 2026",
-    "fecha_iso": "2026-05-10",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "EXT",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=bc3"
-      }
-    ]
-  },
-  {
-    "titulo": "Super League: AEK Atenas vs. Panathinaikos",
-    "categoria": "futbol",
-    "clase": "FUT",
-    "fecha": "Domingo 10 de Mayo 2026",
-    "fecha_iso": "2026-05-10",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "EXT",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=bc2"
-      }
-    ]
-  },
-  {
-    "titulo": "Super League: Olympiacos vs. Paok",
-    "categoria": "futbol",
-    "clase": "FUT",
-    "fecha": "Domingo 10 de Mayo 2026",
-    "fecha_iso": "2026-05-10",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "EXT",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=bc1"
-      }
-    ]
-  },
-  {
     "titulo": "Bundesliga: Mainz 05 vs Union Berlin",
     "categoria": "futbol",
     "clase": "ALE",
@@ -298,22 +48,22 @@
       {
         "nombre": "Fanatiz | Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live3.php?stream=eventofa1"
+        "url": "https://streamhdx.com/live1.php?stream=eventofa1"
       },
       {
         "nombre": "ESPN Premium",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live3.php?stream=espnpremium"
+        "url": "https://streamhdx.com/live1.php?stream=espnpremium"
       },
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live3.php?stream=evento5"
+        "url": "https://streamhdx.com/live1.php?stream=evento5"
       },
       {
         "nombre": "Fanatiz | Sonido Ambiente",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live3.php?stream=eventofa2"
+        "url": "https://streamhdx.com/live1.php?stream=eventofa2"
       }
     ]
   },
@@ -422,14 +172,24 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "Dsports OPC1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/dgo.php"
+      },
+      {
         "nombre": "Dsports",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live3.php?stream=dsports"
+        "url": "https://streamhdx.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "TV4S",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/tv4s.php"
       },
       {
         "nombre": "Sky Sports la liga",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live3.php?stream=sky_sports_laliga"
+        "url": "https://streamhdx.com/live1.php?stream=sky_sports_laliga"
       },
       {
         "nombre": "Espn 1 BR",
@@ -450,6 +210,11 @@
         "nombre": "ESPN+ | Ingles",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espnplus4"
+      },
+      {
+        "nombre": "Ziggo Sports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento15"
       }
     ]
   },
