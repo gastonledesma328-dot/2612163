@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Liga Profesional Saudí: Al Taawon vs Al-Ahli",
+    "categoria": "futbol",
+    "clase": "ARA",
+    "fecha": "Lunes 11 de Mayo 2026",
+    "fecha_iso": "2026-05-11",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "SporTV BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
+      }
+    ]
+  },
+  {
     "titulo": "Liga 1: Deportivo Garcilaso vs Alianza Atlético",
     "categoria": "futbol",
     "clase": "PE",
@@ -61,6 +77,11 @@
         "url": "https://streamhdx.com/live1.php?stream=espn4mx"
       },
       {
+        "nombre": "Fox Deportes USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
+      },
+      {
         "nombre": "Disney +",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney1"
@@ -95,11 +116,6 @@
         "nombre": "Espn 4 MX",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn3mx"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
       }
     ]
   },
@@ -145,7 +161,7 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
+        "url": "https://streamhdx.com/live1.php?stream=disney3"
       }
     ]
   },
@@ -169,6 +185,11 @@
         "url": "https://streamhdx.com/live1.php?stream=telemundo"
       },
       {
+        "nombre": "Fox ONE 1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=foxone"
+      },
+      {
         "nombre": "Espn 1 COL",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espnco"
@@ -176,7 +197,23 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
+        "url": "https://streamhdx.com/live1.php?stream=disney2"
+      }
+    ]
+  },
+  {
+    "titulo": "Primeira Liga: Benfica vs Sporting Braga",
+    "categoria": "futbol",
+    "clase": "POR",
+    "fecha": "Lunes 11 de Mayo 2026",
+    "fecha_iso": "2026-05-11",
+    "hora": "16:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Sportdigital",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sportdigital"
       }
     ]
   },
@@ -192,7 +229,7 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney5"
+        "url": "https://streamhdx.com/live1.php?stream=disney4"
       }
     ]
   },
@@ -208,7 +245,7 @@
       {
         "nombre": "Fanatiz | Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
       }
     ]
   },
@@ -240,7 +277,7 @@
       {
         "nombre": "Fanatiz | Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
       }
     ]
   },
@@ -256,7 +293,23 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney6"
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de la Liga: Palestino vs Deportes Limache",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Lunes 11 de Mayo 2026",
+    "fecha_iso": "2026-05-11",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Max",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=max1"
       }
     ]
   },
@@ -275,9 +328,9 @@
         "url": "https://streamhdx.com/live1.php?stream=espnmx"
       },
       {
-        "nombre": "Max",
+        "nombre": "TNT Sports",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max1"
+        "url": "https://streamhdx.com/live1.php?stream=tntsports"
       }
     ]
   },
