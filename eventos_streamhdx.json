@@ -1,47 +1,5 @@
 [
   {
-    "titulo": "MLS: Los Angeles FC vs Houston Dynamo",
-    "categoria": "futbol",
-    "clase": "USA",
-    "fecha": "Domingo 10 de Mayo 2026",
-    "fecha_iso": "2026-05-10",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLS",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls3en"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Pumas UNAM vs América",
-    "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Domingo 10 de Mayo 2026",
-    "fecha_iso": "2026-05-10",
-    "hora": "22:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
-      },
-      {
-        "nombre": "TUDN MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tudnmx"
-      },
-      {
-        "nombre": "Canal 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=canal5mx"
-      }
-    ]
-  },
-  {
     "titulo": "Liga 1: Deportivo Garcilaso vs Alianza Atlético",
     "categoria": "futbol",
     "clase": "PE",
