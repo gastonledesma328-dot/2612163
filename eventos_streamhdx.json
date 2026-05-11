@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Liga Profesional Saudí: Al Taawon vs Al-Ahli",
-    "categoria": "futbol",
-    "clase": "ARA",
-    "fecha": "Lunes 11 de Mayo 2026",
-    "fecha_iso": "2026-05-11",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "SporTV BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
-      }
-    ]
-  },
-  {
     "titulo": "Liga 1: Deportivo Garcilaso vs Alianza Atlético",
     "categoria": "futbol",
     "clase": "PE",
@@ -33,6 +17,22 @@
         "nombre": "Fanatiz | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional Saudí: Al Taawon vs Al-Ahli",
+    "categoria": "futbol",
+    "clase": "ARA",
+    "fecha": "Lunes 11 de Mayo 2026",
+    "fecha_iso": "2026-05-11",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "SporTV BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
       }
     ]
   },
