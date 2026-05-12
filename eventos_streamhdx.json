@@ -1,131 +1,5 @@
 [
   {
-    "titulo": "Copa de la Liga: Palestino vs Deportes Limache",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Lunes 11 de Mayo 2026",
-    "fecha_iso": "2026-05-11",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga PRO: Mushuc Runa vs LDU Quito",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Lunes 11 de Mayo 2026",
-    "fecha_iso": "2026-05-11",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping Sports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
-      },
-      {
-        "nombre": "TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=bc2"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Playoffs: Cavaliers vs. Pistons",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Lunes 11 de Mayo 2026",
-    "fecha_iso": "2026-05-11",
-    "hora": "21:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tntsports"
-      },
-      {
-        "nombre": "Espn 1 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnmx"
-      },
-      {
-        "nombre": "NBA | English",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=bc1"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Houston Astros vs. Seattle Mariners",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Lunes 11 de Mayo 2026",
-    "fecha_iso": "2026-05-11",
-    "hora": "21:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      },
-      {
-        "nombre": "Espn 3 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3mx"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa BetPlay: Millonarios vs. Llaneros",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Lunes 11 de Mayo 2026",
-    "fecha_iso": "2026-05-11",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Win Sports Plus",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Sport Boys vs Universitario",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Lunes 11 de Mayo 2026",
-    "fecha_iso": "2026-05-11",
-    "hora": "22:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventofa1"
-      },
-      {
-        "nombre": "L1 Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=liga1max"
-      },
-      {
-        "nombre": "Fanatiz | Sonido Ambiente",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventofa2"
-      }
-    ]
-  },
-  {
     "titulo": "NBA Playoffs: Lakers vs. Thunder",
     "categoria": "nba",
     "clase": "NBA",
@@ -161,6 +35,11 @@
         "url": "https://streamhdx.com/live1.php?stream=canal5mx"
       },
       {
+        "nombre": "Sky Sports Laliga",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sky_sports_laliga"
+      },
+      {
         "nombre": "Espn Deportes USA",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espndeportes"
@@ -189,12 +68,7 @@
       {
         "nombre": "Espn 5 CO",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5co"
-      },
-      {
-        "nombre": "Sky Sports Laliga",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sky_sports_laliga"
+        "url": "https://streamhdx.com/live1.php?stream=espn5"
       },
       {
         "nombre": "Disney +",
@@ -305,6 +179,11 @@
         "nombre": "Espn Deportes USA",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espndeportes"
+      },
+      {
+        "nombre": "Sky Sports Laliga",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sky_sports_laliga"
       },
       {
         "nombre": "Disney + BR",
