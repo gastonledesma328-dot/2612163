@@ -1,41 +1,5 @@
 [
   {
-    "titulo": "LaLiga: Celta de Vigo vs Levante",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Martes 12 de Mayo 2026",
-    "fecha_iso": "2026-05-12",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=canal5mx"
-      },
-      {
-        "nombre": "Sky Sports Laliga",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sky_sports_laliga"
-      },
-      {
-        "nombre": "Espn Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
-      },
-      {
-        "nombre": "Disney + BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1br"
-      }
-    ]
-  },
-  {
     "titulo": "LaLiga: Real Betis vs Elche",
     "categoria": "futbol",
     "clase": "ES",
@@ -62,7 +26,7 @@
       {
         "nombre": "Disney + BR",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2br"
+        "url": "https://streamhdx.com/live1.php?stream=disneybr1"
       }
     ]
   },
