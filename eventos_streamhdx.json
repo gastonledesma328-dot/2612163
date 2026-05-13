@@ -1,234 +1,5 @@
 [
   {
-    "titulo": "Eredevise: Almere City vs Willem II",
-    "categoria": "futbol",
-    "clase": "HOL",
-    "fecha": "Miércoles 13 de Mayo 2026",
-    "fecha_iso": "2026-05-13",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn NL",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn_nl1"
-      }
-    ]
-  },
-  {
-    "titulo": "Coppa Italia: Lazio vs Inter | Final",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Miércoles 13 de Mayo 2026",
-    "fecha_iso": "2026-05-13",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Win Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=winsports"
-      },
-      {
-        "nombre": "Fox One 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=foxone3"
-      },
-      {
-        "nombre": "Paramount+ | English",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount1"
-      },
-      {
-        "nombre": "Paramount+ | Italian",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount2"
-      }
-    ]
-  },
-  {
-    "titulo": "League One: Stockport County vs Stevenage",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Miércoles 13 de Mayo 2026",
-    "fecha_iso": "2026-05-13",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Paramount+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount3"
-      }
-    ]
-  },
-  {
-    "titulo": "Ligue 1: Lens vs PSG",
-    "categoria": "futbol",
-    "clase": "FRA",
-    "fecha": "Miércoles 13 de Mayo 2026",
-    "fecha_iso": "2026-05-13",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
-      },
-      {
-        "nombre": "Fox One 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=foxone2"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Manchester City vs Crystal Palace",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Miércoles 13 de Mayo 2026",
-    "fecha_iso": "2026-05-13",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn PE",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max1"
-      },
-      {
-        "nombre": "Espn CO",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
-      }
-    ]
-  },
-  {
-    "titulo": "Scottish Premiership: Motherwell vs Celtic",
-    "categoria": "futbol",
-    "clase": "ESC",
-    "fecha": "Miércoles 13 de Mayo 2026",
-    "fecha_iso": "2026-05-13",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=bc1"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Argentina: Platense vs San Martín San Juan",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Miércoles 13 de Mayo 2026",
-    "fecha_iso": "2026-05-13",
-    "hora": "16:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TYC Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tycsports"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga: Deportivo Alavés vs Barcelona",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Miércoles 13 de Mayo 2026",
-    "fecha_iso": "2026-05-13",
-    "hora": "16:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 2 PE",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "Sky SPorts La Liga",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sky_sports_laliga"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
-      },
-      {
-        "nombre": "Disney + BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disneybr1"
-      },
-      {
-        "nombre": "Espn 2 CO",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2co"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney5"
-      },
-      {
-        "nombre": "ESPN+ | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnplus5"
-      },
-      {
-        "nombre": "ESPN+ | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnplus6"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga: Getafe vs Mallorca",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Miércoles 13 de Mayo 2026",
-    "fecha_iso": "2026-05-13",
-    "hora": "16:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney6"
-      },
-      {
-        "nombre": "ESPN+ | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnplus1"
-      },
-      {
-        "nombre": "ESPN+ | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnplus2"
-      }
-    ]
-  },
-  {
     "titulo": "Liga Profesional: Rosario Central vs Racing Club",
     "categoria": "futbol",
     "clase": "AR",
@@ -238,14 +9,14 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tntsports"
-      },
-      {
         "nombre": "ESPN Premium",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espnpremium"
+      },
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tntsports"
       },
       {
         "nombre": "Fanatiz | Español",
@@ -258,9 +29,14 @@
         "url": "https://streamhdx.com/live1.php?stream=espn"
       },
       {
-        "nombre": "Disney + BR",
+        "nombre": "Fanatiz | Ingles",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disneybr1"
+        "url": "https://streamhdx.com/live1.php?stream=eventofa2"
+      },
+      {
+        "nombre": "Fanatiz | Sonido Ambiente",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=eventofa3"
       },
       {
         "nombre": "Espn CO",
@@ -273,19 +49,9 @@
         "url": "https://streamhdx.com/live1.php?stream=evento1"
       },
       {
-        "nombre": "Fanatiz | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventofa2"
-      },
-      {
         "nombre": "Como | IT",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=como1"
-      },
-      {
-        "nombre": "Fanatiz | Sonido Ambiente",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventofa3"
       }
     ]
   },
