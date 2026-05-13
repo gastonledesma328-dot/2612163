@@ -1,178 +1,5 @@
 [
   {
-    "titulo": "MLB: Oakland Athletics vs. Chicago Cubs",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Martes 12 de Mayo 2026",
-    "fecha_iso": "2026-05-12",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "Categoría Primera A: Atlético Nacional vs Inter Bogotá",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Martes 12 de Mayo 2026",
-    "fecha_iso": "2026-05-12",
-    "hora": "20:20",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Playoffs: Spurs vs. Timberwolves",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Martes 12 de Mayo 2026",
-    "fecha_iso": "2026-05-12",
-    "hora": "21:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "MAX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max1"
-      },
-      {
-        "nombre": "Espn NL",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn_nl1"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa do Brasil: Cruzeiro vs Goiás",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Martes 12 de Mayo 2026",
-    "fecha_iso": "2026-05-12",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Sport TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
-      },
-      {
-        "nombre": "Premiere",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=premiere1"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa do Brasil: Fluminense vs. Operário PR",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Martes 12 de Mayo 2026",
-    "fecha_iso": "2026-05-12",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
-      },
-      {
-        "nombre": "Amazon Prime",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=amazon2"
-      },
-      {
-        "nombre": "Espn 4 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4mx"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Argentinos Juniors vs Huracán",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Martes 12 de Mayo 2026",
-    "fecha_iso": "2026-05-12",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventofa3"
-      },
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tntsports"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
-      },
-      {
-        "nombre": "Fox Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
-      },
-      {
-        "nombre": "Fanatiz | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventofa5"
-      },
-      {
-        "nombre": "Fanatiz | Sonido Ambiente",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventofa4"
-      }
-    ]
-  },
-  {
-    "titulo": "Categoría Primera A: Santa Fe vs América de Cali",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Martes 12 de Mayo 2026",
-    "fecha_iso": "2026-05-12",
-    "hora": "22:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: San Francisco Giants vs Los Angeles Dodgers",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Martes 12 de Mayo 2026",
-    "fecha_iso": "2026-05-12",
-    "hora": "23:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox One",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=foxone"
-      }
-    ]
-  },
-  {
     "titulo": "LaLiga: Espanyol vs Athletic Club",
     "categoria": "futbol",
     "clase": "ES",
@@ -419,54 +246,12 @@
     ]
   },
   {
-    "titulo": "Copa de Brasil: Vasco da Gama vs Paysandu",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Miércoles 13 de Mayo 2026",
-    "fecha_iso": "2026-05-13",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Sport TV 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sporttvbr2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa do Brasil: Juventude vs São Paulo",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Miércoles 13 de Mayo 2026",
-    "fecha_iso": "2026-05-13",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
-      },
-      {
-        "nombre": "Fox Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
-      },
-      {
-        "nombre": "Espn 2 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2mx"
-      }
-    ]
-  },
-  {
     "titulo": "Liga Profesional: Rosario Central vs Racing Club",
     "categoria": "futbol",
     "clase": "AR",
     "fecha": "Miércoles 13 de Mayo 2026",
     "fecha_iso": "2026-05-13",
-    "hora": "19:00",
+    "hora": "18:45",
     "duracion_min": 140,
     "canales": [
       {
@@ -518,6 +303,48 @@
         "nombre": "Fanatiz | Sonido Ambiente",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=eventofa3"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de Brasil: Vasco da Gama vs Paysandu",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Miércoles 13 de Mayo 2026",
+    "fecha_iso": "2026-05-13",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Sport TV 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sporttvbr2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa do Brasil: Juventude vs São Paulo",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Miércoles 13 de Mayo 2026",
+    "fecha_iso": "2026-05-13",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
+      },
+      {
+        "nombre": "Fox Deportes USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
+      },
+      {
+        "nombre": "Espn 2 MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2mx"
       }
     ]
   },
