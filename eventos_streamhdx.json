@@ -12,6 +12,16 @@
         "nombre": "DSports+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
+      },
+      {
+        "nombre": "ESPN+ | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus1"
+      },
+      {
+        "nombre": "ESPN+ | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus2"
       }
     ]
   },
@@ -38,6 +48,16 @@
         "nombre": "Disney +",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "ESPN+ | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus3"
+      },
+      {
+        "nombre": "ESPN+ | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus4"
       }
     ]
   },
@@ -59,6 +79,11 @@
         "nombre": "Disney +",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney2"
+      },
+      {
+        "nombre": "Fox One",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=foxone"
       }
     ]
   },
@@ -98,9 +123,9 @@
         "url": "https://streamhdx.com/live1.php?stream=winsports"
       },
       {
-        "nombre": "Fox One",
+        "nombre": "Fox One 3",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=foxone"
+        "url": "https://streamhdx.com/live1.php?stream=foxone3"
       },
       {
         "nombre": "Paramount +",
@@ -122,6 +147,11 @@
         "nombre": "Disney +",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney3"
+      },
+      {
+        "nombre": "Fox One 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=foxone2"
       }
     ]
   },
@@ -226,6 +256,16 @@
         "nombre": "Disney +",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney5"
+      },
+      {
+        "nombre": "ESPN+ | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus5"
+      },
+      {
+        "nombre": "ESPN+ | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus6"
       }
     ]
   },
@@ -242,6 +282,16 @@
         "nombre": "Disney +",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney6"
+      },
+      {
+        "nombre": "ESPN+ | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus1"
+      },
+      {
+        "nombre": "ESPN+ | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus2"
       }
     ]
   },
