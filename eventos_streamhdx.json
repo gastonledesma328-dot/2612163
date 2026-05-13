@@ -1,93 +1,5 @@
 [
   {
-    "titulo": "LaLiga: Espanyol vs Athletic Club",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Miércoles 13 de Mayo 2026",
-    "fecha_iso": "2026-05-13",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
-      },
-      {
-        "nombre": "ESPN+ | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnplus1"
-      },
-      {
-        "nombre": "ESPN+ | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnplus2"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga: Villarreal vs Sevilla",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Miércoles 13 de Mayo 2026",
-    "fecha_iso": "2026-05-13",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "ESPN+ | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnplus3"
-      },
-      {
-        "nombre": "ESPN+ | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnplus4"
-      }
-    ]
-  },
-  {
-    "titulo": "Ligue 1: Brest vs Strasbourg",
-    "categoria": "futbol",
-    "clase": "FRA",
-    "fecha": "Miércoles 13 de Mayo 2026",
-    "fecha_iso": "2026-05-13",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "Fox One",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=foxone"
-      }
-    ]
-  },
-  {
     "titulo": "Eredevise: Almere City vs Willem II",
     "categoria": "futbol",
     "clase": "HOL",
@@ -128,9 +40,30 @@
         "url": "https://streamhdx.com/live1.php?stream=foxone3"
       },
       {
-        "nombre": "Paramount +",
+        "nombre": "Paramount+ | English",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=paramount1"
+      },
+      {
+        "nombre": "Paramount+ | Italian",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=paramount2"
+      }
+    ]
+  },
+  {
+    "titulo": "League One: Stockport County vs Stevenage",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Miércoles 13 de Mayo 2026",
+    "fecha_iso": "2026-05-13",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Paramount+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=paramount3"
       }
     ]
   },
