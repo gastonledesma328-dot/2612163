@@ -1,132 +1,5 @@
 [
   {
-    "titulo": "NBA Playoffs: Pistons vs Cavaliers",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Miércoles 13 de Mayo 2026",
-    "fecha_iso": "2026-05-13",
-    "hora": "21:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "Espn MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnmx"
-      }
-    ]
-  },
-  {
-    "titulo": "Categoría Primera A: Junior vs Once Caldas",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Miércoles 13 de Mayo 2026",
-    "fecha_iso": "2026-05-13",
-    "hora": "22:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Real Salt Lake vs Houston Dynamo",
-    "categoria": "futbol",
-    "clase": "USA",
-    "fecha": "Miércoles 13 de Mayo 2026",
-    "fecha_iso": "2026-05-13",
-    "hora": "22:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLS 12",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls12en"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: San Diego vs Austin",
-    "categoria": "futbol",
-    "clase": "USA",
-    "fecha": "Miércoles 13 de Mayo 2026",
-    "fecha_iso": "2026-05-13",
-    "hora": "22:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLS 13",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls13en"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Seattle Sounders FC vs SJ Earthquakes",
-    "categoria": "futbol",
-    "clase": "USA",
-    "fecha": "Miércoles 13 de Mayo 2026",
-    "fecha_iso": "2026-05-13",
-    "hora": "22:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLS 14",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls14en"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Cruz Azul vs Guadalajara",
-    "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Miércoles 13 de Mayo 2026",
-    "fecha_iso": "2026-05-13",
-    "hora": "23:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
-      },
-      {
-        "nombre": "TUDN MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tudnmx"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=canal5mx"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera Division: Deportivo Saprissa vs Herediano",
-    "categoria": "futbol",
-    "clase": "FUT",
-    "fecha": "Miércoles 13 de Mayo 2026",
-    "fecha_iso": "2026-05-13",
-    "hora": "23:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=bc1"
-      }
-    ]
-  },
-  {
     "titulo": "Torneo Proyección: Huracán vs. Independiente",
     "categoria": "futbol",
     "clase": "AR",
@@ -160,6 +33,16 @@
         "nombre": "ESPN Deportes",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espndeportes"
+      },
+      {
+        "nombre": "Espn + | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus1"
+      },
+      {
+        "nombre": "Espn + | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus2"
       }
     ]
   },
@@ -197,6 +80,16 @@
         "nombre": "ESPN 4",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn4"
+      },
+      {
+        "nombre": "Espn + | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus3"
+      },
+      {
+        "nombre": "Espn + | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus4"
       }
     ]
   },
@@ -260,6 +153,22 @@
         "nombre": "DSports Eventos",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=evento5"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de Primera: Libertad vs 2 de Mayo",
+    "categoria": "futbol",
+    "clase": "PY",
+    "fecha": "Jueves 14 de Mayo 2026",
+    "fecha_iso": "2026-05-14",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
       }
     ]
   },
