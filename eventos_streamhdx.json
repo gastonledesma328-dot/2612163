@@ -1,42 +1,5 @@
 [
   {
-    "titulo": "MLB: New York Mets vs Detroit Tigers",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Jueves 14 de Mayo 2026",
-    "fecha_iso": "2026-05-14",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
-    "titulo": "La Liga EA Sports: Girona vs Real Sociedad",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Jueves 14 de Mayo 2026",
-    "fecha_iso": "2026-05-14",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "ESPN 4",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4"
-      }
-    ]
-  },
-  {
     "titulo": "League One: Bradford City vs Bolton Wanderers",
     "categoria": "futbol",
     "clase": "ENG",
@@ -121,7 +84,7 @@
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+        "url": "https://streamhdx.com/live1.php?stream=tigo1"
       }
     ]
   },
@@ -285,6 +248,38 @@
     ]
   },
   {
+    "titulo": "A-League: Adelaide United vs Auckland",
+    "categoria": "futbol",
+    "clase": "FUT",
+    "fecha": "Viernes 15 de Mayo 2026",
+    "fecha_iso": "2026-05-15",
+    "hora": "06:35",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "SportDigital",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sportdigital"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de Primera: Olimpia vs Deportivo Recoleta",
+    "categoria": "futbol",
+    "clase": "PY",
+    "fecha": "Viernes 15 de Mayo 2026",
+    "fecha_iso": "2026-05-15",
+    "hora": "09:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tigo1"
+      }
+    ]
+  },
+  {
     "titulo": "Super Lig: Rizespor vs Besiktas",
     "categoria": "futbol",
     "clase": "TUR",
@@ -333,6 +328,22 @@
     ]
   },
   {
+    "titulo": "Scottish Premiership: Partick Thistle vs Dunfermline Athletic",
+    "categoria": "futbol",
+    "clase": "ESC",
+    "fecha": "Viernes 15 de Mayo 2026",
+    "fecha_iso": "2026-05-15",
+    "hora": "15:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "SportDigital",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sportdigital"
+      }
+    ]
+  },
+  {
     "titulo": "LaLiga SmartBank: Córdoba vs Albacete",
     "categoria": "futbol",
     "clase": "ES",
@@ -360,6 +371,22 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney5"
+      }
+    ]
+  },
+  {
+    "titulo": "Ligue 1: Saint-Étienne vs Rodez",
+    "categoria": "futbol",
+    "clase": "FRA",
+    "fecha": "Viernes 15 de Mayo 2026",
+    "fecha_iso": "2026-05-15",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney4"
       }
     ]
@@ -374,24 +401,41 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "ESPN AR",
+        "nombre": "Eventos",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnar"
-      },
+        "url": "https://streamhdx.com/ote.php?id=ps2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de Primera: Rubio Ñú vs Nacional Asunción",
+    "categoria": "futbol",
+    "clase": "PY",
+    "fecha": "Viernes 15 de Mayo 2026",
+    "fecha_iso": "2026-05-15",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
       {
-        "nombre": "ESPN PE",
+        "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
+        "url": "https://streamhdx.com/live1.php?stream=tigo2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de Primera: Sportivo Trinidense vs Cerro Porteño",
+    "categoria": "futbol",
+    "clase": "PY",
+    "fecha": "Viernes 15 de Mayo 2026",
+    "fecha_iso": "2026-05-15",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
       {
-        "nombre": "ESPN CO",
+        "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
+        "url": "https://streamhdx.com/live1.php?stream=tigo1"
       }
     ]
   },
@@ -449,6 +493,22 @@
     ]
   },
   {
+    "titulo": "Copa Colombia: Patriotas Boyacá vs Millonarios",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Viernes 15 de Mayo 2026",
+    "fecha_iso": "2026-05-15",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=winplus"
+      }
+    ]
+  },
+  {
     "titulo": "MLB: Tampa Bay Rays vs Miami Marlins",
     "categoria": "futbol",
     "clase": "MLB",
@@ -465,18 +525,18 @@
     ]
   },
   {
-    "titulo": "Super Lig: Charlotte Independence vs Pittsburgh Riverhounds",
+    "titulo": "Primera División: Torque vs Nacional",
     "categoria": "futbol",
-    "clase": "TUR",
+    "clase": "URU",
     "fecha": "Viernes 15 de Mayo 2026",
     "fecha_iso": "2026-05-15",
-    "hora": "20:30",
+    "hora": "20:00",
     "duracion_min": 140,
     "canales": [
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney5"
+        "url": "https://streamhdx.com/live1.php?stream=disney6"
       }
     ]
   },
@@ -541,6 +601,22 @@
         "nombre": "ESPN 2",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Colombia: Orsomarso vs Medellín",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Viernes 15 de Mayo 2026",
+    "fecha_iso": "2026-05-15",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=winplus"
       }
     ]
   },
