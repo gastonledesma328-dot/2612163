@@ -1,52 +1,5 @@
 [
   {
-    "titulo": "Torneo Proyección: Huracán vs. Independiente",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Jueves 14 de Mayo 2026",
-    "fecha_iso": "2026-05-14",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 4 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4ar"
-      }
-    ]
-  },
-  {
-    "titulo": "La Liga EA Sports: Valencia CF vs Rayo Vallecano",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Jueves 14 de Mayo 2026",
-    "fecha_iso": "2026-05-14",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
-      },
-      {
-        "nombre": "Espn + | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnplus1"
-      },
-      {
-        "nombre": "Espn + | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnplus2"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: New York Mets vs Detroit Tigers",
     "categoria": "futbol",
     "clase": "MLB",
@@ -80,16 +33,6 @@
         "nombre": "ESPN 4",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn4"
-      },
-      {
-        "nombre": "Espn + | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnplus3"
-      },
-      {
-        "nombre": "Espn + | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnplus4"
       }
     ]
   },
@@ -105,7 +48,7 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
+        "url": "https://streamhdx.com/live1.php?stream=evento6"
       }
     ]
   },
@@ -124,9 +67,14 @@
         "url": "https://streamhdx.com/live1.php?stream=dsports"
       },
       {
-        "nombre": "Sky SPorts La Liga",
+        "nombre": "Sky Sports La Liga",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=sky_sports_laliga"
+      },
+      {
+        "nombre": "Disney + BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disneybr1"
       },
       {
         "nombre": "ESPN Deportes",
@@ -134,9 +82,14 @@
         "url": "https://streamhdx.com/live1.php?stream=espndeportes"
       },
       {
-        "nombre": "Disney + BR",
+        "nombre": "ESPN+ | Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disneybr1"
+        "url": "https://streamhdx.com/live1.php?stream=espnplus5"
+      },
+      {
+        "nombre": "ESPN+ | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus6"
       }
     ]
   },
@@ -180,7 +133,13 @@
     "fecha_iso": "2026-05-14",
     "hora": "18:00",
     "duracion_min": 140,
-    "canales": []
+    "canales": [
+      {
+        "nombre": "Premiere BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=premiere1"
+      }
+    ]
   },
   {
     "titulo": "Copa de Brasil: Atlético Goianiense vs Athletico-PR",
@@ -190,7 +149,13 @@
     "fecha_iso": "2026-05-14",
     "hora": "19:00",
     "duracion_min": 140,
-    "canales": []
+    "canales": [
+      {
+        "nombre": "Premiere 2 BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=premiere2"
+      }
+    ]
   },
   {
     "titulo": "Copa de Brasil: Confiança vs Grêmio",
@@ -241,18 +206,18 @@
     ]
   },
   {
-    "titulo": "NBA: A Confirmar vs A Confirmar",
-    "categoria": "nba",
-    "clase": "NBA",
+    "titulo": "NHL: Sabres vs Canadiens - Playoffs",
+    "categoria": "futbol",
+    "clase": "NHL",
     "fecha": "Jueves 14 de Mayo 2026",
     "fecha_iso": "2026-05-14",
-    "hora": "21:00",
-    "duracion_min": 200,
+    "hora": "20:00",
+    "duracion_min": 140,
     "canales": [
       {
-        "nombre": "ESPN 2",
+        "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
+        "url": "https://streamhdx.com/live1.php?stream=evento7"
       }
     ]
   },
@@ -269,6 +234,16 @@
         "nombre": "DSports+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
+      },
+      {
+        "nombre": "Premiere BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=premiere1"
+      },
+      {
+        "nombre": "Espn 4 MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn4mx"
       }
     ]
   },
@@ -290,6 +265,22 @@
         "nombre": "TUDN USA",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
+      }
+    ]
+  },
+  {
+    "titulo": "NHL: Sabres vs Canadiens - Playoffs",
+    "categoria": "futbol",
+    "clase": "NHL",
+    "fecha": "Jueves 14 de Mayo 2026",
+    "fecha_iso": "2026-05-14",
+    "hora": "22:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento8"
       }
     ]
   },
