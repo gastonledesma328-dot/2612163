@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "Super Lig: Rizespor vs Besiktas",
-    "categoria": "futbol",
-    "clase": "TUR",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
-    "titulo": "League Two: Salford City vs Grimsby Town",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "15:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      }
-    ]
-  },
-  {
     "titulo": "LaLiga SmartBank: CD Castellón vs Cádiz",
     "categoria": "futbol",
     "clase": "ES",
@@ -44,6 +12,22 @@
         "nombre": "LaLiga Hypermotion",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=laligahypermotion"
+      }
+    ]
+  },
+  {
+    "titulo": "Ligue 2: Saint-Étienne vs Rodez",
+    "categoria": "futbol",
+    "clase": "FRA",
+    "fecha": "Viernes 15 de Mayo 2026",
+    "fecha_iso": "2026-05-15",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=bc1"
       }
     ]
   },
@@ -91,23 +75,7 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney5"
-      }
-    ]
-  },
-  {
-    "titulo": "Ligue 1: Saint-Étienne vs Rodez",
-    "categoria": "futbol",
-    "clase": "FRA",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
+        "url": "https://streamhdx.com/live1.php?stream=evento2"
       }
     ]
   },
@@ -121,9 +89,35 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Eventos",
+        "nombre": "Espn CO",
         "calidad": "720p",
-        "url": "https://streamhdx.com/ote.php?id=ps2"
+        "url": "https://streamhdx.com/channels/2/?id=espnco"
+      },
+      {
+        "nombre": "Tubi",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/2/?id=tubi"
+      },
+      {
+        "nombre": "Fubo Sports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/?id=fubosports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de Primera: Deportivo Santani vs Tacuary",
+    "categoria": "futbol",
+    "clase": "PY",
+    "fecha": "Viernes 15 de Mayo 2026",
+    "fecha_iso": "2026-05-15",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Tigo",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tigo3"
       }
     ]
   },
