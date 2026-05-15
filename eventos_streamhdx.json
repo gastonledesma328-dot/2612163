@@ -1,148 +1,5 @@
 [
   {
-    "titulo": "Copa de Brasil: Chapecoense vs Botafogo",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Jueves 14 de Mayo 2026",
-    "fecha_iso": "2026-05-14",
-    "hora": "18:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Premiere BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=premiere1"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Brasil: Atlético Goianiense vs Athletico-PR",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Jueves 14 de Mayo 2026",
-    "fecha_iso": "2026-05-14",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Premiere 2 BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=premiere2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Brasil: Confiança vs Grêmio",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Jueves 14 de Mayo 2026",
-    "fecha_iso": "2026-05-14",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Amazon Prime",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Brasil: Corinthians vs Barra",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Jueves 14 de Mayo 2026",
-    "fecha_iso": "2026-05-14",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Amazon Prime",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=amazon2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Brasil: CRB vs Fortaleza",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Jueves 14 de Mayo 2026",
-    "fecha_iso": "2026-05-14",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Amazon Prime",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=amazon3"
-      }
-    ]
-  },
-  {
-    "titulo": "NHL: Sabres vs Canadiens - Playoffs",
-    "categoria": "futbol",
-    "clase": "NHL",
-    "fecha": "Jueves 14 de Mayo 2026",
-    "fecha_iso": "2026-05-14",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento7"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa do Brasil: Vitória vs. CR Flamengo",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Jueves 14 de Mayo 2026",
-    "fecha_iso": "2026-05-14",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
-      },
-      {
-        "nombre": "Premiere BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=premiere1"
-      },
-      {
-        "nombre": "Espn 4 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4mx"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Pachuca vs Pumas UNAM",
-    "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Jueves 14 de Mayo 2026",
-    "fecha_iso": "2026-05-14",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox One",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=foxone"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
-      }
-    ]
-  },
-  {
     "titulo": "NHL: Sabres vs Canadiens - Playoffs",
     "categoria": "futbol",
     "clase": "NHL",
@@ -152,9 +9,30 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "Espn 3",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn3"
+      },
+      {
         "nombre": "Disney +",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=evento8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX Femenil: Monterrey vs América",
+    "categoria": "futbol",
+    "clase": "MEX",
+    "fecha": "Viernes 15 de Mayo 2026",
+    "fecha_iso": "2026-05-15",
+    "hora": "00:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=bc1"
       }
     ]
   },
