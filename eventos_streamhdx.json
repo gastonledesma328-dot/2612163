@@ -1,63 +1,5 @@
 [
   {
-    "titulo": "NHL: Sabres vs Canadiens - Playoffs",
-    "categoria": "futbol",
-    "clase": "NHL",
-    "fecha": "Jueves 14 de Mayo 2026",
-    "fecha_iso": "2026-05-14",
-    "hora": "22:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX Femenil: Monterrey vs América | Final Ida",
-    "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "00:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "VIX +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix1"
-      },
-      {
-        "nombre": "TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=bc1"
-      }
-    ]
-  },
-  {
-    "titulo": "A-League: Adelaide United vs Auckland",
-    "categoria": "futbol",
-    "clase": "FUT",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "06:35",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "SportDigital",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sportdigital"
-      }
-    ]
-  },
-  {
     "titulo": "Copa de Primera: Olimpia vs Deportivo Recoleta",
     "categoria": "futbol",
     "clase": "PY",
@@ -70,6 +12,11 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=tigo1"
+      },
+      {
+        "nombre": "TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=bc1"
       }
     ]
   },
