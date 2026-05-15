@@ -1,132 +1,5 @@
 [
   {
-    "titulo": "LaLiga SmartBank: Córdoba vs Albacete",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "LaLiga Hypermotion 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion2"
-      }
-    ]
-  },
-  {
-    "titulo": "League Two: Notts County vs Chesterfield",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento2"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Aston Villa vs Liverpool",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn CO",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/2/?id=espnco"
-      },
-      {
-        "nombre": "Tubi",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/2/?id=tubi"
-      },
-      {
-        "nombre": "Fubo Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/?id=fubosports"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Primera: Rubio Ñú vs Nacional Asunción",
-    "categoria": "futbol",
-    "clase": "PY",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tigo2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Primera: Sportivo Trinidense vs Cerro Porteño",
-    "categoria": "futbol",
-    "clase": "PY",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tigo1"
-      }
-    ]
-  },
-  {
-    "titulo": "Intermedia: Deportivo Santani vs Tacuary",
-    "categoria": "futbol",
-    "clase": "PY",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Tigo",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tigo3"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: FC Cajamarca vs Sporting Cristal",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz 1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
-      },
-      {
-        "nombre": "Liga 1 Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=liga1max"
-      }
-    ]
-  },
-  {
     "titulo": "Serie A de Ecuador: LDU Quito vs Técnico Universitario",
     "categoria": "futbol",
     "clase": "ECUA",
@@ -143,7 +16,7 @@
     ]
   },
   {
-    "titulo": "Liga Nacional: Policía Nacional vs Olancho",
+    "titulo": "Liga Nacional: Genesis vs Olancho",
     "categoria": "futbol",
     "clase": "FUT",
     "fecha": "Viernes 15 de Mayo 2026",
@@ -155,6 +28,22 @@
         "nombre": "Fox Deportes USA",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
+      }
+    ]
+  },
+  {
+    "titulo": "Intermedia: 12 de Junio VH vs Benjamín Aceval",
+    "categoria": "futbol",
+    "clase": "PY",
+    "fecha": "Viernes 15 de Mayo 2026",
+    "fecha_iso": "2026-05-15",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TIGO",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tigo3"
       }
     ]
   },
@@ -187,6 +76,22 @@
         "nombre": "ESPN 5",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA: Cavaliers vs Pistons",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Viernes 15 de Mayo 2026",
+    "fecha_iso": "2026-05-15",
+    "hora": "20:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Amazon Prime",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=amazon1"
       }
     ]
   },
@@ -304,6 +209,22 @@
         "nombre": "Liga 1 Max",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=liga1max"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA: Timberwolves vs Spurs",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Viernes 15 de Mayo 2026",
+    "fecha_iso": "2026-05-15",
+    "hora": "22:30",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Amazon Prime",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=amazon2"
       }
     ]
   },
