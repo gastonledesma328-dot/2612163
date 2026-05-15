@@ -1,53 +1,5 @@
 [
   {
-    "titulo": "LaLiga SmartBank: CD Castellón vs Cádiz",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "LaLiga Hypermotion",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion"
-      }
-    ]
-  },
-  {
-    "titulo": "Ligue 2: Saint-Étienne vs Rodez",
-    "categoria": "futbol",
-    "clase": "FRA",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=bc1"
-      }
-    ]
-  },
-  {
-    "titulo": "Scottish Premiership: Partick Thistle vs Dunfermline Athletic",
-    "categoria": "futbol",
-    "clase": "ESC",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "15:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "SportDigital",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sportdigital"
-      }
-    ]
-  },
-  {
     "titulo": "LaLiga SmartBank: Córdoba vs Albacete",
     "categoria": "futbol",
     "clase": "ES",
@@ -106,22 +58,6 @@
     ]
   },
   {
-    "titulo": "Copa de Primera: Deportivo Santani vs Tacuary",
-    "categoria": "futbol",
-    "clase": "PY",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Tigo",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tigo3"
-      }
-    ]
-  },
-  {
     "titulo": "Copa de Primera: Rubio Ñú vs Nacional Asunción",
     "categoria": "futbol",
     "clase": "PY",
@@ -150,6 +86,22 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=tigo1"
+      }
+    ]
+  },
+  {
+    "titulo": "Intermedia: Deportivo Santani vs Tacuary",
+    "categoria": "futbol",
+    "clase": "PY",
+    "fecha": "Viernes 15 de Mayo 2026",
+    "fecha_iso": "2026-05-15",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Tigo",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tigo3"
       }
     ]
   },
