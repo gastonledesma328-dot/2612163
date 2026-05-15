@@ -21,7 +21,7 @@
     ]
   },
   {
-    "titulo": "Liga MX Femenil: Monterrey vs América",
+    "titulo": "Liga MX Femenil: Monterrey vs América | Final Ida",
     "categoria": "futbol",
     "clase": "MEX",
     "fecha": "Viernes 15 de Mayo 2026",
@@ -29,6 +29,11 @@
     "hora": "00:10",
     "duracion_min": 140,
     "canales": [
+      {
+        "nombre": "VIX +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix1"
+      },
       {
         "nombre": "TV",
         "calidad": "720p",
