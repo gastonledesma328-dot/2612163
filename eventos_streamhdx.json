@@ -1,26 +1,5 @@
 [
   {
-    "titulo": "Copa de Primera: Olimpia vs Deportivo Recoleta",
-    "categoria": "futbol",
-    "clase": "PY",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "09:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tigo1"
-      },
-      {
-        "nombre": "TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=bc1"
-      }
-    ]
-  },
-  {
     "titulo": "Super Lig: Rizespor vs Besiktas",
     "categoria": "futbol",
     "clase": "TUR",
