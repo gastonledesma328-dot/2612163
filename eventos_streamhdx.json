@@ -1,95 +1,5 @@
 [
   {
-    "titulo": "BOX: Erick Visconde vs Gustavo Pintos",
-    "categoria": "box",
-    "clase": "BOX",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "22:00",
-    "duracion_min": 400,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Colombia: Orsomarso vs Medellín",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Universitario vs Atlético Grau",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz 1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
-      },
-      {
-        "nombre": "Liga 1 Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=liga1max"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA: Timberwolves vs Spurs",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "22:30",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Amazon Prime",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=amazon2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Nacional: Marathón vs Olimpia",
-    "categoria": "futbol",
-    "clase": "FUT",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "23:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Deportes TVC",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento7"
-      },
-      {
-        "nombre": "TV-Inestable",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento6"
-      }
-    ]
-  },
-  {
     "titulo": "Scottish Premiership: Celtic vs Hearts",
     "categoria": "futbol",
     "clase": "ESC",
@@ -102,6 +12,57 @@
         "nombre": "Paramount +",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=evento1"
+      }
+    ]
+  },
+  {
+    "titulo": "FA Cup: Chelsea vs Manchester City",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Sábado 16 de Mayo 2026",
+    "fecha_iso": "2026-05-16",
+    "hora": "09:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney10"
+      },
+      {
+        "nombre": "ESPN AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnar"
+      },
+      {
+        "nombre": "ESPN CO",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnco"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "Max",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=max1"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
+      },
+      {
+        "nombre": "ESPN+ 1 - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus1"
+      },
+      {
+        "nombre": "ESPN+ 2 - Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus2"
       }
     ]
   },
@@ -146,6 +107,11 @@
     "hora": "10:30",
     "duracion_min": 140,
     "canales": [
+      {
+        "nombre": "Bein Sports 3 AU",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento10"
+      },
       {
         "nombre": "Disney +",
         "calidad": "720p",
@@ -272,57 +238,6 @@
         "nombre": "ESPN 2",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "FA Cup: Chelsea vs Manchester City",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney10"
-      },
-      {
-        "nombre": "ESPN AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnar"
-      },
-      {
-        "nombre": "ESPN CO",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max1"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
-      },
-      {
-        "nombre": "ESPN+ 1 - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnplus1"
-      },
-      {
-        "nombre": "ESPN+ 2 - Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnplus2"
       }
     ]
   },
@@ -522,6 +437,11 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "Movistar Deportes",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=movistar_deportes_peru"
+      },
+      {
         "nombre": "Fanatiz 1",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
@@ -631,6 +551,22 @@
         "nombre": "Paramount Inglés",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=paramount2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de Primera: Guarani vs. Sportivo Ameliano",
+    "categoria": "futbol",
+    "clase": "PY",
+    "fecha": "Sábado 16 de Mayo 2026",
+    "fecha_iso": "2026-05-16",
+    "hora": "17:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tigo1"
       }
     ]
   },
@@ -1227,6 +1163,22 @@
         "nombre": "MLS",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=mls11en"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Herediano vs Deportivo Saprissa",
+    "categoria": "futbol",
+    "clase": "FUT",
+    "fecha": "Sábado 16 de Mayo 2026",
+    "fecha_iso": "2026-05-16",
+    "hora": "23:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento3"
       }
     ]
   },
