@@ -1,26 +1,5 @@
 [
   {
-    "titulo": "AFC Champions League Two: Al Nassr vs Gamba Osaka",
-    "categoria": "futbol",
-    "clase": "AFCCHA",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "14:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney12"
-      },
-      {
-        "nombre": "Espn 3 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3mx"
-      }
-    ]
-  },
-  {
     "titulo": "Eredivisie: Willem II vs Almere City",
     "categoria": "futbol",
     "clase": "HOL",
@@ -88,9 +67,34 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "RTVE | Castellano",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento23"
+      },
+      {
+        "nombre": "TV3 Cataluñia",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento22"
+      },
+      {
+        "nombre": "TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=bc1"
+      },
+      {
         "nombre": "ESPN 5",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn5"
+      },
+      {
+        "nombre": "Espn MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnmx"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
       }
     ]
   },
