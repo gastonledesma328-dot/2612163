@@ -9,9 +9,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Paramount +",
+        "nombre": "Bein Sports 3",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
+        "url": "https://streamhdx.com/live1.php?stream=bein3au"
       }
     ]
   },
@@ -107,11 +107,6 @@
     "hora": "10:30",
     "duracion_min": 140,
     "canales": [
-      {
-        "nombre": "Bein Sports 3 AU",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento10"
-      },
       {
         "nombre": "Disney +",
         "calidad": "720p",
