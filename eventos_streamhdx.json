@@ -12,6 +12,16 @@
         "nombre": "Bein Sports 3",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=bein3au"
+      },
+      {
+        "nombre": "TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=bc1"
+      },
+      {
+        "nombre": "Sky Sports Main Event",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento8"
       }
     ]
   },
@@ -79,6 +89,22 @@
         "nombre": "LaLiga Hypermotion",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=laligahypermotion"
+      }
+    ]
+  },
+  {
+    "titulo": "MotoGP: GP Cataluña – Sprint",
+    "categoria": "futbol",
+    "clase": "MOTOGP",
+    "fecha": "Sábado 16 de Mayo 2026",
+    "fecha_iso": "2026-05-16",
+    "hora": "09:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn3",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn3"
       }
     ]
   },
