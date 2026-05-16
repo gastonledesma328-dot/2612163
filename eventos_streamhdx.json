@@ -1,165 +1,5 @@
 [
   {
-    "titulo": "Serie A de Ecuador: LDU Quito vs Técnico Universitario",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping Sports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Nacional: Genesis vs Olancho",
-    "categoria": "futbol",
-    "clase": "FUT",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "18:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
-      }
-    ]
-  },
-  {
-    "titulo": "Intermedia: 12 de Junio VH vs Benjamín Aceval",
-    "categoria": "futbol",
-    "clase": "PY",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TIGO",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tigo3"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Colombia: Patriotas Boyacá vs Millonarios",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Tampa Bay Rays vs Miami Marlins",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA: Cavaliers vs Pistons",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "20:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Amazon Prime",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Torque vs Nacional",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney6"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División de Chile: Coquimbo Unido vs Audax Italiano",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max1"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División de Chile: Palestino vs La Serena",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Max 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max2"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A de Ecuador: Libertad vs Deportivo Cuenca",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Viernes 15 de Mayo 2026",
-    "fecha_iso": "2026-05-15",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping Sports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
     "titulo": "BOX: Erick Visconde vs Gustavo Pintos",
     "categoria": "box",
     "clase": "BOX",
@@ -238,9 +78,30 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "TV",
+        "nombre": "Deportes TVC",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento7"
+      },
+      {
+        "nombre": "TV-Inestable",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=evento6"
+      }
+    ]
+  },
+  {
+    "titulo": "Scottish Premiership: Celtic vs Hearts",
+    "categoria": "futbol",
+    "clase": "ESC",
+    "fecha": "Sábado 16 de Mayo 2026",
+    "fecha_iso": "2026-05-16",
+    "hora": "08:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Paramount +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento1"
       }
     ]
   },
@@ -272,7 +133,7 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
+        "url": "https://streamhdx.com/live1.php?stream=disney2"
       }
     ]
   },
@@ -304,7 +165,7 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney7"
+        "url": "https://streamhdx.com/live1.php?stream=disney8"
       }
     ]
   },
@@ -320,7 +181,7 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney8"
+        "url": "https://streamhdx.com/live1.php?stream=disney3"
       }
     ]
   },
@@ -352,7 +213,7 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
+        "url": "https://streamhdx.com/live1.php?stream=disney6"
       }
     ]
   },
@@ -368,7 +229,7 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
       }
     ]
   },
@@ -384,7 +245,7 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney6"
+        "url": "https://streamhdx.com/live1.php?stream=disney7"
       }
     ]
   },
@@ -452,6 +313,16 @@
         "nombre": "ESPN Deportes",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espndeportes"
+      },
+      {
+        "nombre": "ESPN+ 1 - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus1"
+      },
+      {
+        "nombre": "ESPN+ 2 - Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus2"
       }
     ]
   },
@@ -488,6 +359,38 @@
     ]
   },
   {
+    "titulo": "Primeira Liga: Porto vs Santa Clara",
+    "categoria": "futbol",
+    "clase": "POR",
+    "fecha": "Sábado 16 de Mayo 2026",
+    "fecha_iso": "2026-05-16",
+    "hora": "11:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney + BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1br"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Boston River vs Cerro",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Sábado 16 de Mayo 2026",
+    "fecha_iso": "2026-05-16",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney11"
+      }
+    ]
+  },
+  {
     "titulo": "Pro League: Al Hilal vs NEOM",
     "categoria": "futbol",
     "clase": "ARA",
@@ -496,6 +399,11 @@
     "hora": "13:05",
     "duracion_min": 140,
     "canales": [
+      {
+        "nombre": "Fox one",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=foxone"
+      },
       {
         "nombre": "Fox Deportes USA",
         "calidad": "720p",
@@ -552,6 +460,22 @@
     ]
   },
   {
+    "titulo": "Primeira Liga: Sporting Braga vs Estrela",
+    "categoria": "futbol",
+    "clase": "POR",
+    "fecha": "Sábado 16 de Mayo 2026",
+    "fecha_iso": "2026-05-16",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney + BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney2br"
+      }
+    ]
+  },
+  {
     "titulo": "AFC Champions League Two: Al Nassr vs Gamba Osaka",
     "categoria": "futbol",
     "clase": "AFCCHA",
@@ -563,7 +487,12 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
+        "url": "https://streamhdx.com/live1.php?stream=disney12"
+      },
+      {
+        "nombre": "Espn 3 MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn3mx"
       }
     ]
   },
@@ -605,6 +534,22 @@
     ]
   },
   {
+    "titulo": "Primera División: Juventud vs Progreso",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Sábado 16 de Mayo 2026",
+    "fecha_iso": "2026-05-16",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney13"
+      }
+    ]
+  },
+  {
     "titulo": "Copa de la Reina: Barcelona vs Atlético Madrid",
     "categoria": "futbol",
     "clase": "ES",
@@ -614,9 +559,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "ESPN 7",
+        "nombre": "ESPN 5",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn7"
+        "url": "https://streamhdx.com/live1.php?stream=espn5"
       }
     ]
   },
@@ -637,6 +582,59 @@
     ]
   },
   {
+    "titulo": "Primeira Liga: Estoril vs Benfica",
+    "categoria": "futbol",
+    "clase": "POR",
+    "fecha": "Sábado 16 de Mayo 2026",
+    "fecha_iso": "2026-05-16",
+    "hora": "16:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney + BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney3br"
+      }
+    ]
+  },
+  {
+    "titulo": "Primeira Liga: Sporting CP vs Gil Vicente",
+    "categoria": "futbol",
+    "clase": "POR",
+    "fecha": "Sábado 16 de Mayo 2026",
+    "fecha_iso": "2026-05-16",
+    "hora": "16:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney + BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney4br"
+      }
+    ]
+  },
+  {
+    "titulo": "UFC: A. Allen vs M. Costa",
+    "categoria": "ufc",
+    "clase": "UFC",
+    "fecha": "Sábado 16 de Mayo 2026",
+    "fecha_iso": "2026-05-16",
+    "hora": "17:00",
+    "duracion_min": 480,
+    "canales": [
+      {
+        "nombre": "Paramount Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=paramount1"
+      },
+      {
+        "nombre": "Paramount Inglés",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=paramount2"
+      }
+    ]
+  },
+  {
     "titulo": "Liga 1: Juan Pablo II College vs Alianza Atlético",
     "categoria": "futbol",
     "clase": "PE",
@@ -646,14 +644,30 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Fanatiz 1",
+        "nombre": "Fanatiz 2",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
       },
       {
         "nombre": "Liga 1 Max",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=liga1max"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Colombia: Cúcuta Deportivo vs Leones",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Sábado 16 de Mayo 2026",
+    "fecha_iso": "2026-05-16",
+    "hora": "17:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=winplus"
       }
     ]
   },
@@ -667,7 +681,7 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLS 1",
+        "nombre": "MLS",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=mls1en"
       }
@@ -681,7 +695,18 @@
     "fecha_iso": "2026-05-16",
     "hora": "18:30",
     "duracion_min": 140,
-    "canales": []
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
+      },
+      {
+        "nombre": "Premiere BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=premiere1"
+      }
+    ]
   },
   {
     "titulo": "Brasileirão: Internacional vs Vasco da Gama",
@@ -691,7 +716,34 @@
     "fecha_iso": "2026-05-16",
     "hora": "18:30",
     "duracion_min": 140,
-    "canales": []
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
+      },
+      {
+        "nombre": "Amazon Prime",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=amazon1"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Internacional vs Vasco da Gama",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Sábado 16 de Mayo 2026",
+    "fecha_iso": "2026-05-16",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
+      }
+    ]
   },
   {
     "titulo": "Primera División de Chile: O'Higgins vs Univ. Concepción",
@@ -710,7 +762,23 @@
       {
         "nombre": "Max",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max1"
+        "url": "https://streamhdx.com/live1.php?stream=max2"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Peñarol vs Liverpool",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Sábado 16 de Mayo 2026",
+    "fecha_iso": "2026-05-16",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
       }
     ]
   },
@@ -731,6 +799,88 @@
     ]
   },
   {
+    "titulo": "Brasileirão: Fluminense vs São Paulo",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Sábado 16 de Mayo 2026",
+    "fecha_iso": "2026-05-16",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz5"
+      },
+      {
+        "nombre": "Premiere BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=premiere3"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: River Plate vs Rosario Central",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Sábado 16 de Mayo 2026",
+    "fecha_iso": "2026-05-16",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN Premium",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnpremium"
+      },
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tntsports"
+      },
+      {
+        "nombre": "Fanatiz | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=eventofa1"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento1"
+      },
+      {
+        "nombre": "Disney + BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disneybr5"
+      },
+      {
+        "nombre": "VIX +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix1"
+      },
+      {
+        "nombre": "Espn Colombia",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnco"
+      },
+      {
+        "nombre": "Espn Peru",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "Fanatiz | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=eventofa2"
+      },
+      {
+        "nombre": "Fanatiz | Sonido Ambiente",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=eventofa3"
+      }
+    ]
+  },
+  {
     "titulo": "Liga 1: Cienciano vs Alianza Lima",
     "categoria": "futbol",
     "clase": "PE",
@@ -740,7 +890,7 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Fanatiz 1",
+        "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
       },
@@ -752,14 +902,20 @@
     ]
   },
   {
-    "titulo": "Brasileirão: Fluminense vs São Paulo",
+    "titulo": "Liga BetPlay: Tolima vs Atlético Nacional - Semifinal",
     "categoria": "futbol",
-    "clase": "BRA",
+    "clase": "COL",
     "fecha": "Sábado 16 de Mayo 2026",
     "fecha_iso": "2026-05-16",
-    "hora": "20:30",
+    "hora": "20:00",
     "duracion_min": 140,
-    "canales": []
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=winplus"
+      }
+    ]
   },
   {
     "titulo": "MLS: Charlotte vs Toronto FC",
@@ -771,9 +927,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLS 1",
+        "nombre": "MLS",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls1en"
+        "url": "https://streamhdx.com/live1.php?stream=mls2en"
       }
     ]
   },
@@ -787,9 +943,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLS 2",
+        "nombre": "MLS",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls2en"
+        "url": "https://streamhdx.com/live1.php?stream=mls3en"
       }
     ]
   },
@@ -803,9 +959,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLS 3",
+        "nombre": "MLS",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls3en"
+        "url": "https://streamhdx.com/live1.php?stream=mls4en"
       }
     ]
   },
@@ -819,9 +975,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLS 4",
+        "nombre": "MLS",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls4en"
+        "url": "https://streamhdx.com/live1.php?stream=mls5en"
       }
     ]
   },
@@ -835,9 +991,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLS 5",
+        "nombre": "MLS",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls5en"
+        "url": "https://streamhdx.com/live1.php?stream=mls6en"
       }
     ]
   },
@@ -851,9 +1007,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLS 6",
+        "nombre": "MLS",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls6en"
+        "url": "https://streamhdx.com/live1.php?stream=mls7en"
       }
     ]
   },
@@ -865,7 +1021,18 @@
     "fecha_iso": "2026-05-16",
     "hora": "21:00",
     "duracion_min": 140,
-    "canales": []
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz8"
+      },
+      {
+        "nombre": "Premiere BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=premiere2"
+      }
+    ]
   },
   {
     "titulo": "Primera División de Chile: Deportes Limache vs Universidad Católica",
@@ -882,9 +1049,9 @@
         "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
       },
       {
-        "nombre": "Max 2",
+        "nombre": "Max",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max2"
+        "url": "https://streamhdx.com/live1.php?stream=max3"
       }
     ]
   },
@@ -905,32 +1072,6 @@
     ]
   },
   {
-    "titulo": "UFC: A. Allen vs M. Costa",
-    "categoria": "ufc",
-    "clase": "UFC",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "21:00",
-    "duracion_min": 480,
-    "canales": [
-      {
-        "nombre": "Paramount Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount1"
-      },
-      {
-        "nombre": "Paramount Portugués",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount2"
-      },
-      {
-        "nombre": "Paramount Inglés",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount3"
-      }
-    ]
-  },
-  {
     "titulo": "MLS: Austin vs Sporting KC",
     "categoria": "futbol",
     "clase": "USA",
@@ -940,9 +1081,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLS 8",
+        "nombre": "MLS",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls8en"
+        "url": "https://streamhdx.com/live1.php?stream=mls9en"
       }
     ]
   },
@@ -956,9 +1097,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLS 7",
+        "nombre": "MLS",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls7en"
+        "url": "https://streamhdx.com/live1.php?stream=mls8en"
       }
     ]
   },
@@ -1009,9 +1150,14 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLS 9",
+        "nombre": "Fox Deportes USA",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls9en"
+        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
+      },
+      {
+        "nombre": "MLS",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mls10en"
       }
     ]
   },
@@ -1025,14 +1171,30 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Fanatiz 1",
+        "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
       },
       {
         "nombre": "Liga 1 Max",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=liga1max"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Ind. Santa Fe vs Junior - Semifinal",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Sábado 16 de Mayo 2026",
+    "fecha_iso": "2026-05-16",
+    "hora": "22:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=winplus"
       }
     ]
   },
@@ -1046,9 +1208,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLS 10",
+        "nombre": "MLS",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls10en"
+        "url": "https://streamhdx.com/live1.php?stream=mls12en"
       }
     ]
   },
@@ -1062,7 +1224,7 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLS 11",
+        "nombre": "MLS",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=mls11en"
       }
@@ -1078,9 +1240,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLS 1",
+        "nombre": "MLS",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls1en"
+        "url": "https://streamhdx.com/live1.php?stream=mls13en"
       }
     ]
   }
