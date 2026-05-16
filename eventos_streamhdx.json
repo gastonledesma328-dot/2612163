@@ -1,152 +1,5 @@
 [
   {
-    "titulo": "Eredivisie: Willem II vs Almere City",
-    "categoria": "futbol",
-    "clase": "HOL",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN NL 1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn_nl1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Melgar vs Sport Huancayo",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Movistar Deportes",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=movistar_deportes_peru"
-      },
-      {
-        "nombre": "Fanatiz 1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
-      },
-      {
-        "nombre": "Liga 1 Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=liga1max"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Juventud vs Progreso",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney13"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de la Reina: Barcelona vs Atlético Madrid",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "RTVE | Castellano",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento23"
-      },
-      {
-        "nombre": "TV3 Cataluñia",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento22"
-      },
-      {
-        "nombre": "TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=bc1"
-      },
-      {
-        "nombre": "ESPN 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
-      },
-      {
-        "nombre": "Espn MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnmx"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A de Ecuador: Macará vs Independiente del Valle",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping Sports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Primeira Liga: Estoril vs Benfica",
-    "categoria": "futbol",
-    "clase": "POR",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "16:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney + BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3br"
-      }
-    ]
-  },
-  {
-    "titulo": "Primeira Liga: Sporting CP vs Gil Vicente",
-    "categoria": "futbol",
-    "clase": "POR",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "16:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney + BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4br"
-      }
-    ]
-  },
-  {
     "titulo": "UFC: A. Allen vs M. Costa",
     "categoria": "ufc",
     "clase": "UFC",
@@ -156,51 +9,19 @@
     "duracion_min": 480,
     "canales": [
       {
-        "nombre": "Paramount Español",
+        "nombre": "Paramount+ | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=paramount1"
       },
       {
-        "nombre": "Paramount Inglés",
+        "nombre": "Paramount+ | Inglés",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=paramount2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Primera: Guarani vs. Sportivo Ameliano",
-    "categoria": "futbol",
-    "clase": "PY",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "17:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tigo1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Juan Pablo II College vs Alianza Atlético",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "17:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
       },
       {
-        "nombre": "Liga 1 Max",
+        "nombre": "Paramount+ | Portugues",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=liga1max"
+        "url": "https://streamhdx.com/live1.php?stream=paramount3"
       }
     ]
   },
@@ -378,6 +199,21 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "Espn | Recomendado",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/2/?id=espnbo"
+      },
+      {
+        "nombre": "Premier Sports | Recomendado - Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/?id=ps1"
+      },
+      {
+        "nombre": "sportsdigital | Recomendado - Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/?id=sportsdigital"
+      },
+      {
         "nombre": "ESPN Premium",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espnpremium"
@@ -408,11 +244,6 @@
         "url": "https://streamhdx.com/live1.php?stream=vix1"
       },
       {
-        "nombre": "Espn Colombia",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
         "nombre": "Espn Peru",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn"
@@ -439,14 +270,19 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Fanatiz",
+        "nombre": "Fanatiz | Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+        "url": "https://streamhdx.com/live1.php?stream=eventofa4"
       },
       {
         "nombre": "Liga 1 Max",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=liga1max"
+      },
+      {
+        "nombre": "Fanatiz | Sonido Ambiente",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=eventofa5"
       }
     ]
   },
