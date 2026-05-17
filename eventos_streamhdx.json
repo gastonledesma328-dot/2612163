@@ -1,105 +1,5 @@
 [
   {
-    "titulo": "Campeonato de Europa Sub-17 (F):Alemania vs Francia | FINAL",
-    "categoria": "futbol",
-    "clase": "FUT",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "VIX +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix2"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX Femenil: América vs Monterrey",
-    "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TUDN MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tudnmx"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Racing vs Cerro Largo",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney7"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A de Ecuador: Leones del Norte vs Mushuc Runa",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=bc1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Deportivo Garcilaso vs UTC Cajamarca",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "15:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Movistar Deportes",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=movistar_deportes_peru"
-      },
-      {
-        "nombre": "Fanatiz 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
-      },
-      {
-        "nombre": "Liga1Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=liga1max"
-      }
-    ]
-  },
-  {
     "titulo": "Serie A: Cagliari vs Torino",
     "categoria": "futbol",
     "clase": "IT",
@@ -447,7 +347,7 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Espn BOL",
+        "nombre": "Espn",
         "calidad": "720p",
         "url": "https://streamhdx.com/channels/2/?id=espnbo"
       },
@@ -462,19 +362,24 @@
         "url": "https://streamhdx.com/live1.php?stream=espnpremium"
       },
       {
+        "nombre": "Sportdigitak | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/ote.php?id=sportsdigital"
+      },
+      {
         "nombre": "AFA Play | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=eventofa1"
       },
       {
-        "nombre": "FOX Deportes",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
-      },
-      {
         "nombre": "ESPN",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "VIX +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix1"
       },
       {
         "nombre": "AFA Play | Ingles",
