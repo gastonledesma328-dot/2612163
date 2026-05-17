@@ -1,227 +1,5 @@
 [
   {
-    "titulo": "MotoGP: GP Cataluña – Carrera – Moto3 / Moto2 / MotoGP",
-    "categoria": "futbol",
-    "clase": "MotoGP",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "05:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Como vs Parma",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "07:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Genoa vs Milan",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "07:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnmx"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Juventus vs. Fiorentina",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "07:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 4",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Pisa vs Napoli",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "07:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney5"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Roma vs. Lazio",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "07:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "Espn 4 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4mx"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Fox Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Manchester United vs Nottingham Forest",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "08:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/2/?id=espnbo"
-      },
-      {
-        "nombre": "Telemundo",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/2/?id=telemundo"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga SmartBank: Deportivo La Coruña vs FC Andorra",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "09:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "LaLiga Hypermotion",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion"
-      }
-    ]
-  },
-  {
-    "titulo": "Eredivisie: AZ vs NAC Breda",
-    "categoria": "futbol",
-    "clase": "HOL",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "09:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney7"
-      }
-    ]
-  },
-  {
-    "titulo": "Eredivisie: Heerenveen vs Ajax",
-    "categoria": "futbol",
-    "clase": "HOL",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "09:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney9"
-      }
-    ]
-  },
-  {
-    "titulo": "Eredivisie: PEC Zwolle vs Feyenoord",
-    "categoria": "futbol",
-    "clase": "HOL",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "09:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney10"
-      }
-    ]
-  },
-  {
-    "titulo": "Eredivisie: PSV vs Twente",
-    "categoria": "futbol",
-    "clase": "HOL",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "09:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney8"
-      }
-    ]
-  },
-  {
     "titulo": "Primera División: Central Español vs Defensor Sporting",
     "categoria": "futbol",
     "clase": "URU",
@@ -234,22 +12,6 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney12"
-      }
-    ]
-  },
-  {
-    "titulo": "Scottish Premiership: Livingston vs Kilmarnock",
-    "categoria": "futbol",
-    "clase": "ESC",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Premier Sports 1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/?id=ps1"
       }
     ]
   },
@@ -351,7 +113,18 @@
     "fecha_iso": "2026-05-16",
     "hora": "11:00",
     "duracion_min": 140,
-    "canales": []
+    "canales": [
+      {
+        "nombre": "TUBI",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/2/?id=tubi"
+      },
+      {
+        "nombre": "Canal",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/pre.php?stream=disney3pl"
+      }
+    ]
   },
   {
     "titulo": "Premier League: Everton vs Sunderland",
@@ -361,7 +134,13 @@
     "fecha_iso": "2026-05-16",
     "hora": "11:00",
     "duracion_min": 140,
-    "canales": []
+    "canales": [
+      {
+        "nombre": "Canal",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/pre.php?stream=disney4pl"
+      }
+    ]
   },
   {
     "titulo": "Premier League: Leeds United vs Brighton & Hove Albion",
@@ -381,6 +160,11 @@
         "nombre": "Telemundo",
         "calidad": "720p",
         "url": "https://streamhdx.com/channels/2/?id=telemundo"
+      },
+      {
+        "nombre": "Canal",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/pre.php?stream=espn"
       }
     ]
   },
@@ -392,7 +176,23 @@
     "fecha_iso": "2026-05-16",
     "hora": "11:00",
     "duracion_min": 140,
-    "canales": []
+    "canales": [
+      {
+        "nombre": "TUBI",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/2/?id=tubicen1"
+      },
+      {
+        "nombre": "Fox One",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/?id=foxone"
+      },
+      {
+        "nombre": "Canal",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/pre.php?stream=disney2pl"
+      }
+    ]
   },
   {
     "titulo": "Primera Liga Checa: Slovan Liberec vs Sparta Praha",
@@ -455,7 +255,13 @@
     "fecha_iso": "2026-05-16",
     "hora": "13:30",
     "duracion_min": 140,
-    "canales": []
+    "canales": [
+      {
+        "nombre": "Telemundo",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/2/?id=telemundo"
+      }
+    ]
   },
   {
     "titulo": "Primera División de Chile: Huachipato vs Unión La Calera",
