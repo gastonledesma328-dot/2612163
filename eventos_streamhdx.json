@@ -1,43 +1,17 @@
 [
   {
-    "titulo": "LaLiga SmartBank: Leganés vs Huesca",
+    "titulo": "Convocan a Neymar al mundial",
     "categoria": "futbol",
-    "clase": "ES",
+    "clase": "BRA",
     "fecha": "Lunes 18 de Mayo 2026",
     "fecha_iso": "2026-05-18",
-    "hora": "15:30",
+    "hora": "18:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "LaLiga Hypermotion",
+        "nombre": "Disney+ BR",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Arsenal vs Burnley",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Lunes 18 de Mayo 2026",
-    "fecha_iso": "2026-05-18",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Universo",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/2/?id=universo"
-      },
-      {
-        "nombre": "Fubo Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/?id=fubosports"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/2/?id=espnbo"
+        "url": "https://streamhdx.com/live1.php?stream=disney2br"
       }
     ]
   },
@@ -54,6 +28,38 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney1"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie B Ponte Preta vs Londrina",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Lunes 18 de Mayo 2026",
+    "fecha_iso": "2026-05-18",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+ BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1br"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Detroit Tigersvs vs. Cleveland Guardians",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Lunes 18 de Mayo 2026",
+    "fecha_iso": "2026-05-18",
+    "hora": "19:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fox Deportes FOX Deportes",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
       }
     ]
   },
@@ -82,6 +88,11 @@
     "hora": "21:00",
     "duracion_min": 140,
     "canales": [
+      {
+        "nombre": "Fubo Latino",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fubolatino"
+      },
       {
         "nombre": "Deportes TVC",
         "calidad": "720p",
@@ -162,6 +173,11 @@
     "hora": "23:15",
     "duracion_min": 140,
     "canales": [
+      {
+        "nombre": "Fubo Latino",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fubolatino"
+      },
       {
         "nombre": "FOX Deportes",
         "calidad": "720p",
