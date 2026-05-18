@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "Superliga Rumania: Farul Constanta vs. Metaloglobus Bucarest",
+    "categoria": "futbol",
+    "clase": "FUT",
+    "fecha": "Lunes 18 de Mayo 2026",
+    "fecha_iso": "2026-05-18",
+    "hora": "14:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=bc2"
+      }
+    ]
+  },
+  {
+    "titulo": "Superliga Rumania: Unirea Slobozia vs. FC Uta Arad",
+    "categoria": "futbol",
+    "clase": "FUT",
+    "fecha": "Lunes 18 de Mayo 2026",
+    "fecha_iso": "2026-05-18",
+    "hora": "14:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=bc1"
+      }
+    ]
+  },
+  {
     "titulo": "LaLiga SmartBank: Leganés vs Huesca",
     "categoria": "futbol",
     "clase": "ES",
@@ -25,14 +57,19 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "Universo",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/2/?id=universo"
+      },
+      {
+        "nombre": "Fubo Sports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/?id=fubosports"
+      },
+      {
         "nombre": "ESPN",
         "calidad": "720p",
         "url": "https://streamhdx.com/channels/2/?id=espnbo"
-      },
-      {
-        "nombre": "Telemundo",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/2/?id=telemundo"
       }
     ]
   },
