@@ -1,156 +1,5 @@
 [
   {
-    "titulo": "Liga Profesional: Argentinos Juniors vs Belgrano",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/2/?id=espnbo"
-      },
-      {
-        "nombre": "TNT Sports Premium",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tntsports"
-      },
-      {
-        "nombre": "ESPN Premium",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnpremium"
-      },
-      {
-        "nombre": "Sportdigitak | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/ote.php?id=sportsdigital"
-      },
-      {
-        "nombre": "AFA Play | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventofa1"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "VIX +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix1"
-      },
-      {
-        "nombre": "AFA Play | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventofa2"
-      },
-      {
-        "nombre": "AFA Play | Sonido Ambiente",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=eventofa3"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Albion vs Wanderers",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "18:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney20"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Chapecoense vs Remo",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz 10",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz10"
-      },
-      {
-        "nombre": "Premiere 5 BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=premiere5"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: RB Bragantino vs Vitória",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz 9",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
-      },
-      {
-        "nombre": "Premiere 1 BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=premiere1"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División de Chile: Colo-Colo vs Ñublense",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
-      },
-      {
-        "nombre": "Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max1"
-      }
-    ]
-  },
-  {
-    "titulo": "Major League Soccer: Inter Miami vs Portland Timbers",
-    "categoria": "futbol",
-    "clase": "USA",
-    "fecha": "Sábado 16 de Mayo 2026",
-    "fecha_iso": "2026-05-16",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLS 1 EN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls1en"
-      }
-    ]
-  },
-  {
     "titulo": "Brasileirão: Athletico-PR vs Flamengo",
     "categoria": "futbol",
     "clase": "BRA",
@@ -197,9 +46,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Zapping EC",
+        "nombre": "TV",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
+        "url": "https://streamhdx.com/live1.php?stream=bc1"
       }
     ]
   },
@@ -213,9 +62,14 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLS 2 EN",
+        "nombre": "Apple TV | Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls2en"
+        "url": "https://streamhdx.com/live1.php?stream=eventomls1"
+      },
+      {
+        "nombre": "Apple TV | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=eventomls2"
       }
     ]
   },
@@ -229,7 +83,12 @@
     "duracion_min": 200,
     "canales": [
       {
-        "nombre": "Amazon Prime 1",
+        "nombre": "Amazon Prime opc1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento2"
+      },
+      {
+        "nombre": "Amazon Prime opc2",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=amazon1"
       }
@@ -281,9 +140,9 @@
         "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
       },
       {
-        "nombre": "Paramount 1",
+        "nombre": "Paramount +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount1"
+        "url": "https://streamhdx.com/live1.php?stream=evento1"
       },
       {
         "nombre": "CBS Golazo",
