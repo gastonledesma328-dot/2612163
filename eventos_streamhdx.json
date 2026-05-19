@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Amistoso Internacional: Rot-Weiss Frankfurt vs Eintracht Frankfurt",
-    "categoria": "futbol",
-    "clase": "FUT",
-    "fecha": "Martes 19 de Mayo 2026",
-    "fecha_iso": "2026-05-19",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=bc1"
-      }
-    ]
-  },
-  {
     "titulo": "Serie B: Monza vs Juve Stabia",
     "categoria": "futbol",
     "clase": "IT",
