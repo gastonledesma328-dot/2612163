@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "Serie B: Monza vs Juve Stabia",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Martes 19 de Mayo 2026",
-    "fecha_iso": "2026-05-19",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
-      }
-    ]
-  },
-  {
-    "titulo": "Torneo Reserva: Quilmes 2 vs Lanús",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Martes 19 de Mayo 2026",
-    "fecha_iso": "2026-05-19",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 2 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2ar"
-      }
-    ]
-  },
-  {
     "titulo": "Premier League: AFC Bournemouth vs Manchester City",
     "categoria": "futbol",
     "clase": "ENG",
@@ -49,6 +17,11 @@
         "nombre": "Universo",
         "calidad": "720p",
         "url": "https://streamhdx.com/channels/2/?id=universo"
+      },
+      {
+        "nombre": "Fox One",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/?id=foxone"
       }
     ]
   },
@@ -60,7 +33,39 @@
     "fecha_iso": "2026-05-19",
     "hora": "16:15",
     "duracion_min": 140,
-    "canales": []
+    "canales": [
+      {
+        "nombre": "TNT MX opc1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/?id=izzi14"
+      },
+      {
+        "nombre": "TNT MX opc2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/2/?id=izzi14"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB:Marlins vs. Braves",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Martes 19 de Mayo 2026",
+    "fecha_iso": "2026-05-19",
+    "hora": "17:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb1"
+      },
+      {
+        "nombre": "MLB | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb2"
+      }
+    ]
   },
   {
     "titulo": "Copa Libertadores: Coquimbo Unido vs Deportes Tolima",
