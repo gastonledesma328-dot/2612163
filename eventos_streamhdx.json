@@ -290,6 +290,27 @@
     ]
   },
   {
+    "titulo": "NBA: Cavaliers vs Knicks",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Martes 19 de Mayo 2026",
+    "fecha_iso": "2026-05-19",
+    "hora": "20:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn3"
+      },
+      {
+        "nombre": "ESPN MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnmx"
+      }
+    ]
+  },
+  {
     "titulo": "Open Cup: Orlando City SC vs Atlanta United",
     "categoria": "futbol",
     "clase": "USA",
