@@ -1,53 +1,6 @@
 [
   {
-    "titulo": "Premier League: AFC Bournemouth vs Manchester City",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Martes 19 de Mayo 2026",
-    "fecha_iso": "2026-05-19",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/2/?id=espnbo"
-      },
-      {
-        "nombre": "Universo",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/2/?id=universo"
-      },
-      {
-        "nombre": "Fox One",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/?id=foxone"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Chelsea vs Tottenham Hotspur",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Martes 19 de Mayo 2026",
-    "fecha_iso": "2026-05-19",
-    "hora": "16:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT MX opc1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/?id=izzi14"
-      },
-      {
-        "nombre": "TNT MX opc2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/2/?id=izzi14"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB:Marlins vs. Braves",
+    "titulo": "MLB: Marlins vs. Braves",
     "categoria": "futbol",
     "clase": "MLB",
     "fecha": "Martes 19 de Mayo 2026",
@@ -89,17 +42,12 @@
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
       },
       {
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "FuboTV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fubo2"
       },
       {
         "nombre": "Como IT",
@@ -118,11 +66,6 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Fox Sports 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox3ar"
-      },
-      {
         "nombre": "Espn 7",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn7"
@@ -130,7 +73,7 @@
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
       },
       {
         "nombre": "Disney+",
@@ -138,9 +81,9 @@
         "url": "https://streamhdx.com/live1.php?stream=disney3"
       },
       {
-        "nombre": "FuboTV",
+        "nombre": "Fox Sports 3",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fubo3"
+        "url": "https://streamhdx.com/live1.php?stream=fox3ar"
       },
       {
         "nombre": "Como IT",
@@ -171,17 +114,12 @@
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz5"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
       },
       {
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney4"
-      },
-      {
-        "nombre": "FuboTV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fubo4"
       },
       {
         "nombre": "Como IT",
@@ -212,7 +150,7 @@
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
       },
       {
         "nombre": "Fubo Latino",
@@ -248,17 +186,76 @@
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
-      },
-      {
-        "nombre": "FuboTV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fubo1"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz5"
       },
       {
         "nombre": "Como IT",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=como2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Phillies vs Reds",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Martes 19 de Mayo 2026",
+    "fecha_iso": "2026-05-19",
+    "hora": "19:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb7"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Rays vs Orioles",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Martes 19 de Mayo 2026",
+    "fecha_iso": "2026-05-19",
+    "hora": "19:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb5"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Tigers vs Guardians",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Martes 19 de Mayo 2026",
+    "fecha_iso": "2026-05-19",
+    "hora": "19:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb3"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Nationals vs Mets",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Martes 19 de Mayo 2026",
+    "fecha_iso": "2026-05-19",
+    "hora": "19:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb9"
       }
     ]
   },
@@ -300,6 +297,22 @@
     ]
   },
   {
+    "titulo": "MLB: Yankees vs Blue Jays",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Martes 19 de Mayo 2026",
+    "fecha_iso": "2026-05-19",
+    "hora": "20:05",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb11"
+      }
+    ]
+  },
+  {
     "titulo": "Open Cup: Orlando City SC vs Atlanta United",
     "categoria": "futbol",
     "clase": "USA",
@@ -312,6 +325,70 @@
         "nombre": "Paramount +",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=paramount1"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Cubs vs Brewers",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Martes 19 de Mayo 2026",
+    "fecha_iso": "2026-05-19",
+    "hora": "20:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb13"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Royals vs Red Sox",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Martes 19 de Mayo 2026",
+    "fecha_iso": "2026-05-19",
+    "hora": "20:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb14"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Twins vs Astros",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Martes 19 de Mayo 2026",
+    "fecha_iso": "2026-05-19",
+    "hora": "20:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb12"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Cardinals vs Pirates",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Martes 19 de Mayo 2026",
+    "fecha_iso": "2026-05-19",
+    "hora": "20:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb15"
       }
     ]
   },
@@ -337,7 +414,7 @@
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz6"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz7"
       },
       {
         "nombre": "Fubo Latino",
@@ -383,17 +460,12 @@
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz7"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz6"
       },
       {
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney6"
-      },
-      {
-        "nombre": "FuboTV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fubo5"
       },
       {
         "nombre": "Como IT",
@@ -411,11 +483,6 @@
     "hora": "21:00",
     "duracion_min": 140,
     "canales": [
-      {
-        "nombre": "Fubo TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fubo11"
-      },
       {
         "nombre": "Paramount +",
         "calidad": "720p",
@@ -460,7 +527,7 @@
       {
         "nombre": "Fanatiz | Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz8"
       },
       {
         "nombre": "Disney+ | Español",
@@ -471,11 +538,6 @@
         "nombre": "Disney+ BR | Portugues",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney2br"
-      },
-      {
-        "nombre": "FuboTV | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fubo7"
       },
       {
         "nombre": "Como IT | Italiano",
@@ -511,12 +573,7 @@
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz8"
-      },
-      {
-        "nombre": "FuboTV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fubo6"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
       },
       {
         "nombre": "Disney+",
@@ -527,6 +584,86 @@
         "nombre": "Como IT",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=como8"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Rockies vs Rangers",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Martes 19 de Mayo 2026",
+    "fecha_iso": "2026-05-19",
+    "hora": "21:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb16"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Angels vs Athletics",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Martes 19 de Mayo 2026",
+    "fecha_iso": "2026-05-19",
+    "hora": "22:38",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb17"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Dbacks vs Giants",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Martes 19 de Mayo 2026",
+    "fecha_iso": "2026-05-19",
+    "hora": "22:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb18"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Mariners vs White Sox",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Martes 19 de Mayo 2026",
+    "fecha_iso": "2026-05-19",
+    "hora": "22:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb19"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Padres vs Dodgers",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Martes 19 de Mayo 2026",
+    "fecha_iso": "2026-05-19",
+    "hora": "22:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb20"
       }
     ]
   },
@@ -552,17 +689,12 @@
       {
         "nombre": "Fanatiz | Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz10"
       },
       {
         "nombre": "Disney+ | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney10"
-      },
-      {
-        "nombre": "FuboTV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fubo9"
       },
       {
         "nombre": "Como IT | Italiano",
@@ -588,12 +720,7 @@
       {
         "nombre": "Fanatiz | Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz10"
-      },
-      {
-        "nombre": "FuboTV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fubo8"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
       },
       {
         "nombre": "Como IT",
@@ -619,7 +746,7 @@
       {
         "nombre": "Fanatiz | Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
       },
       {
         "nombre": "Fubo Latino | Español",
