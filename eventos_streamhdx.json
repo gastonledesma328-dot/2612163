@@ -1,82 +1,8 @@
 [
   {
-    "titulo": "NBA: Thunder vs Spurs",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Lunes 18 de Mayo 2026",
-    "fecha_iso": "2026-05-18",
-    "hora": "21:30",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tntsports"
-      },
-      {
-        "nombre": "TV | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=bc2"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: San Diego Padres vs Los Angeles Dodgers",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Lunes 18 de Mayo 2026",
-    "fecha_iso": "2026-05-18",
-    "hora": "22:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Seattle Mariners vs Chicago White Sox",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Lunes 18 de Mayo 2026",
-    "fecha_iso": "2026-05-18",
-    "hora": "22:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Nacional: Real España vs Marathón",
+    "titulo": "Amistoso Internacional: Rot-Weiss Frankfurt vs Eintracht Frankfurt",
     "categoria": "futbol",
     "clase": "FUT",
-    "fecha": "Lunes 18 de Mayo 2026",
-    "fecha_iso": "2026-05-18",
-    "hora": "23:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Deportes TVC",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
-      },
-      {
-        "nombre": "FOX Deportes",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
-      }
-    ]
-  },
-  {
-    "titulo": "Internacional: Rot-Weiss Frankfurt vs Eintracht Frankfurt",
-    "categoria": "futbol",
-    "clase": "Amistoso",
     "fecha": "Martes 19 de Mayo 2026",
     "fecha_iso": "2026-05-19",
     "hora": "13:30",
@@ -366,7 +292,7 @@
   {
     "titulo": "Open Cup: Orlando City SC vs Atlanta United",
     "categoria": "futbol",
-    "clase": "US",
+    "clase": "USA",
     "fecha": "Martes 19 de Mayo 2026",
     "fecha_iso": "2026-05-19",
     "hora": "20:30",
@@ -469,7 +395,7 @@
   {
     "titulo": "Open Cup: St. Louis City vs Houston Dynamo",
     "categoria": "futbol",
-    "clase": "US",
+    "clase": "USA",
     "fecha": "Martes 19 de Mayo 2026",
     "fecha_iso": "2026-05-19",
     "hora": "21:00",
@@ -497,47 +423,52 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Espn 5",
+        "nombre": "Espn 5 | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/channels/2/?id=espn5bo"
       },
       {
-        "nombre": "Telefe",
+        "nombre": "Telefe | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=telefe"
       },
       {
-        "nombre": "Fox Sports 1",
+        "nombre": "Fox Sports 1 | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fox1ar"
       },
       {
-        "nombre": "Espn 5",
+        "nombre": "Espn 5 | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn5"
       },
       {
-        "nombre": "Espn 4 MX",
+        "nombre": "Espn 4 | Español MX",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn4mx"
       },
       {
-        "nombre": "Fanatiz",
+        "nombre": "Fanatiz | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
       },
       {
-        "nombre": "Disney+",
+        "nombre": "Disney+ | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney8"
       },
       {
-        "nombre": "FuboTV",
+        "nombre": "Disney+ BR | Portugues",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney2br"
+      },
+      {
+        "nombre": "FuboTV | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fubo7"
       },
       {
-        "nombre": "Como IT",
+        "nombre": "Como IT | Italiano",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=como9"
       }
@@ -599,22 +530,22 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Fox Sports 2",
+        "nombre": "Fox Sports 2 | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fox2ar"
       },
       {
-        "nombre": "Espn 2",
+        "nombre": "Espn 2 | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn2"
       },
       {
-        "nombre": "Fanatiz",
+        "nombre": "Fanatiz | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
       },
       {
-        "nombre": "Disney+",
+        "nombre": "Disney+ | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney10"
       },
@@ -624,7 +555,7 @@
         "url": "https://streamhdx.com/live1.php?stream=fubo9"
       },
       {
-        "nombre": "Como IT",
+        "nombre": "Como IT | Italiano",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=como2"
       }
@@ -640,12 +571,12 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Dsports",
+        "nombre": "Dsports | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=dsports"
       },
       {
-        "nombre": "Fanatiz",
+        "nombre": "Fanatiz | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz10"
       },
@@ -671,27 +602,27 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Espn 4",
+        "nombre": "Espn 4 | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn4"
       },
       {
-        "nombre": "Fanatiz",
+        "nombre": "Fanatiz | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
       },
       {
-        "nombre": "Fubo Latino",
+        "nombre": "Fubo Latino | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fubolatino"
       },
       {
-        "nombre": "Disney+",
+        "nombre": "Disney+ | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney9"
       },
       {
-        "nombre": "VIX+",
+        "nombre": "VIX+ | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=vix3"
       },
