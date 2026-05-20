@@ -1,121 +1,5 @@
 [
   {
-    "titulo": "Eredevise: Willem II vs Volendam | Final IDA",
-    "categoria": "futbol",
-    "clase": "HOL",
-    "fecha": "Miércoles 20 de Mayo 2026",
-    "fecha_iso": "2026-05-20",
-    "hora": "13:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports Eventos",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento4"
-      },
-      {
-        "nombre": "ESPN NL1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn_nl1"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Reds vs Phillies",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Miércoles 20 de Mayo 2026",
-    "fecha_iso": "2026-05-20",
-    "hora": "14:05",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb1"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Orioles vs Rays",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Miércoles 20 de Mayo 2026",
-    "fecha_iso": "2026-05-20",
-    "hora": "14:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb2"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Astros vs Twins",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Miércoles 20 de Mayo 2026",
-    "fecha_iso": "2026-05-20",
-    "hora": "14:40",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb3"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie B Italiana: Palermo SSD vs Catanzaro",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Miércoles 20 de Mayo 2026",
-    "fecha_iso": "2026-05-20",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
-      }
-    ]
-  },
-  {
-    "titulo": "Europa League: Freiburg vs Aston Villa | Final",
-    "categoria": "futbol",
-    "clase": "UE",
-    "fecha": "Miércoles 20 de Mayo 2026",
-    "fecha_iso": "2026-05-20",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Vix 1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix1"
-      },
-      {
-        "nombre": "Paramount +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount1"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Rangers vs Rockies",
     "categoria": "futbol",
     "clase": "MLB",
@@ -260,6 +144,11 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
+      },
+      {
+        "nombre": "Vix +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix1"
       }
     ]
   },
@@ -466,6 +355,11 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz6"
+      },
+      {
+        "nombre": "Vix +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix1"
       }
     ]
   },
@@ -665,6 +559,11 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
+      },
+      {
+        "nombre": "Vix +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix1"
       }
     ]
   },
