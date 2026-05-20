@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "MLB: Rockies vs Rangers",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Martes 19 de Mayo 2026",
-    "fecha_iso": "2026-05-19",
-    "hora": "21:40",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb16"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Angels vs Athletics",
     "categoria": "futbol",
     "clase": "MLB",
@@ -164,6 +148,701 @@
         "nombre": "VIX+ | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=vix2"
+      }
+    ]
+  },
+  {
+    "titulo": "Eredevise: Willem II vs Volendam",
+    "categoria": "futbol",
+    "clase": "HOL",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "13:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports Eventos",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento4"
+      },
+      {
+        "nombre": "ESPN NL1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn_nl1"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Reds vs Phillies",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "14:05",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb1"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Orioles vs Rays",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "14:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Astros vs Twins",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "14:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb3"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie B Italiana: Palermo SSD vs Catanzaro",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
+      }
+    ]
+  },
+  {
+    "titulo": "Europa League: Freiburg vs Aston Villa | Final",
+    "categoria": "futbol",
+    "clase": "UE",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "Vix 1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix1"
+      },
+      {
+        "nombre": "Paramount +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=paramount1"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Rangers vs Rockies",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "16:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb4"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Giants vs Dbacks",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "16:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb5"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Argentina: Talleres Córdoba vs Atlético Tucumán",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tycsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa BetPlay DIMAYOR: Fortaleza vs Orsomarso",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=winplus"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: White Sox vs Mariners",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "17:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb6"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Ecuador: Daquilema vs Emelec",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "17:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports Eventos",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento5"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Nacional vs Universitario",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney2"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Boston River vs O'Higgins",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 5",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn5"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney4"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Olimpia vs Vasco da Gama",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Santos vs San Lorenzo",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney3"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Braves vs Marlins",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "19:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb7"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Guardians vs Tigers",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "19:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb8"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Mets vs Nationals",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "19:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb9"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Blue Jays vs Yankees",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "20:05",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb10"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Brewers vs Cubs",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "20:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb11"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Red Sox vs Royals",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "20:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb12"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Pirates vs Cardinals",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "20:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb13"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Grêmio vs Palestino",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsports2"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz5"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Independiente vs Botafogo",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney5"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz6"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: CR Flamengo vs Estudiantes LP",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 7",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn7"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney6"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz7"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: LDU Quito vs Lanús",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 6",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn6"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney7"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz8"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Palmeiras vs Cerro Porteño",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 5",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn5"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney8"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: River Plate vs RB Bragantino",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz10"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA: Thunder vs. Spurs",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "21:30",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "TNT Sports | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tntsports"
+      },
+      {
+        "nombre": "NBA League Pass | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=nba1"
+      },
+      {
+        "nombre": "Max | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=max1"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa BetPlay DIMAYOR: Deportivo Cali vs Alianza",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "21:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=winplus"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Dodgers vs Padres",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "21:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb14"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Athletics vs Angels",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "22:38",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb15"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Cusco FC vs Medellín",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "23:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney10"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Junior vs Sporting Cristal",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Miércoles 20 de Mayo 2026",
+    "fecha_iso": "2026-05-20",
+    "hora": "23:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney9"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
       }
     ]
   }
