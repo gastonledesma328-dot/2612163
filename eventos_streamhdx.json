@@ -1,69 +1,5 @@
 [
   {
-    "titulo": "MLB: Rangers vs Rockies",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Miércoles 20 de Mayo 2026",
-    "fecha_iso": "2026-05-20",
-    "hora": "16:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb4"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Giants vs Dbacks",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Miércoles 20 de Mayo 2026",
-    "fecha_iso": "2026-05-20",
-    "hora": "16:40",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb5"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Argentina: Talleres Córdoba vs Atlético Tucumán",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Miércoles 20 de Mayo 2026",
-    "fecha_iso": "2026-05-20",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tycsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa BetPlay DIMAYOR: Fortaleza vs Orsomarso",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Miércoles 20 de Mayo 2026",
-    "fecha_iso": "2026-05-20",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: White Sox vs Mariners",
     "categoria": "futbol",
     "clase": "MLB",
@@ -76,22 +12,6 @@
         "nombre": "MLB | Inglés - Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=mlb6"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Ecuador: Daquilema vs Emelec",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Miércoles 20 de Mayo 2026",
-    "fecha_iso": "2026-05-20",
-    "hora": "17:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports Eventos",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento4"
       }
     ]
   },
@@ -110,12 +30,12 @@
         "url": "https://streamhdx.com/live1.php?stream=espn"
       },
       {
-        "nombre": "Disney+",
+        "nombre": "Disney+ 2",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney2"
       },
       {
-        "nombre": "Fanatiz",
+        "nombre": "Fanatiz 1",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
       }
@@ -136,17 +56,17 @@
         "url": "https://streamhdx.com/live1.php?stream=espn5"
       },
       {
-        "nombre": "Disney+",
+        "nombre": "Disney+ 4",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney4"
       },
       {
-        "nombre": "Fanatiz",
+        "nombre": "Fanatiz 4",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
       },
       {
-        "nombre": "Vix +",
+        "nombre": "Vix + 1",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=vix1"
       }
@@ -162,12 +82,17 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "Tigo",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tigo1"
+      },
+      {
         "nombre": "Dsports +",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
       },
       {
-        "nombre": "Fanatiz",
+        "nombre": "Fanatiz 3",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
       }
@@ -183,17 +108,27 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "Espn 2 BO",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/2/?id=espn2bo"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsports"
+      },
+      {
         "nombre": "ESPN 2",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn2"
       },
       {
-        "nombre": "Disney+",
+        "nombre": "Disney+ 3",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney3"
       },
       {
-        "nombre": "Fanatiz",
+        "nombre": "Fanatiz 2",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
       }
