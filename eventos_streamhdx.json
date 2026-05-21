@@ -1,188 +1,5 @@
 [
   {
-    "titulo": "MLB: White Sox vs Mariners",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Miércoles 20 de Mayo 2026",
-    "fecha_iso": "2026-05-20",
-    "hora": "17:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb6"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Nacional vs Universitario",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Miércoles 20 de Mayo 2026",
-    "fecha_iso": "2026-05-20",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Disney+ 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "Fanatiz 1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Boston River vs O'Higgins",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Miércoles 20 de Mayo 2026",
-    "fecha_iso": "2026-05-20",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
-      },
-      {
-        "nombre": "Disney+ 4",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
-      },
-      {
-        "nombre": "Fanatiz 4",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
-      },
-      {
-        "nombre": "Vix + 1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix1"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Olimpia vs Vasco da Gama",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Miércoles 20 de Mayo 2026",
-    "fecha_iso": "2026-05-20",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Tigo",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tigo1"
-      },
-      {
-        "nombre": "Dsports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
-      },
-      {
-        "nombre": "Fanatiz 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Santos vs San Lorenzo",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Miércoles 20 de Mayo 2026",
-    "fecha_iso": "2026-05-20",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 2 BO",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/2/?id=espn2bo"
-      },
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "Disney+ 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
-      },
-      {
-        "nombre": "Fanatiz 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Braves vs Marlins",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Miércoles 20 de Mayo 2026",
-    "fecha_iso": "2026-05-20",
-    "hora": "19:40",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb7"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Guardians vs Tigers",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Miércoles 20 de Mayo 2026",
-    "fecha_iso": "2026-05-20",
-    "hora": "19:40",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Mets vs Nationals",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Miércoles 20 de Mayo 2026",
-    "fecha_iso": "2026-05-20",
-    "hora": "19:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb9"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Blue Jays vs Yankees",
     "categoria": "futbol",
     "clase": "MLB",
@@ -243,58 +60,6 @@
         "nombre": "MLB | Inglés - Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=mlb13"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Grêmio vs Palestino",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Miércoles 20 de Mayo 2026",
-    "fecha_iso": "2026-05-20",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsports2"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz5"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Independiente vs Botafogo",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Miércoles 20 de Mayo 2026",
-    "fecha_iso": "2026-05-20",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney5"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz6"
-      },
-      {
-        "nombre": "Vix +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix1"
       }
     ]
   },
@@ -386,12 +151,27 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Dsports",
+        "nombre": "Dgo |Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/dgoco.php"
+      },
+      {
+        "nombre": "Sportdigital | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/ote.php?id=sportsdigital"
+      },
+      {
+        "nombre": "Dsports |Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=dsports"
       },
       {
-        "nombre": "Fanatiz",
+        "nombre": "Disney + BR |Portugues",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1br"
+      },
+      {
+        "nombre": "Fanatiz |Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz10"
       }
@@ -407,19 +187,14 @@
     "duracion_min": 200,
     "canales": [
       {
-        "nombre": "TNT Sports | Español",
+        "nombre": "Max | Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tntsports"
+        "url": "https://streamhdx.com/live1.php?stream=max1"
       },
       {
         "nombre": "NBA League Pass | Ingles",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=nba1"
-      },
-      {
-        "nombre": "Max | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max1"
       }
     ]
   },
@@ -494,11 +269,6 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
-      },
-      {
-        "nombre": "Vix +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix1"
       }
     ]
   },
