@@ -1,100 +1,5 @@
 [
   {
-    "titulo": "F2: GP Montreal | Clasificación",
-    "categoria": "futbol",
-    "clase": "F2",
-    "fecha": "Viernes 22 de Mayo 2026",
-    "fecha_iso": "2026-05-22",
-    "hora": "14:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Eredivisie Femenina: Heerenveen vs Ajax",
-    "categoria": "futbol",
-    "clase": "HOL",
-    "fecha": "Viernes 22 de Mayo 2026",
-    "fecha_iso": "2026-05-22",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsports2"
-      },
-      {
-        "nombre": "ESPN NL3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn_nl3"
-      }
-    ]
-  },
-  {
-    "titulo": "Eredivisie Femenina: Twente vs PSV",
-    "categoria": "futbol",
-    "clase": "HOL",
-    "fecha": "Viernes 22 de Mayo 2026",
-    "fecha_iso": "2026-05-22",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN NL2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn_nl2"
-      }
-    ]
-  },
-  {
-    "titulo": "2. Bundesliga: Rot-Weiss Essen vs Greuther Fürth",
-    "categoria": "futbol",
-    "clase": "ALE",
-    "fecha": "Viernes 22 de Mayo 2026",
-    "fecha_iso": "2026-05-22",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Fiorentina vs Atalanta",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Viernes 22 de Mayo 2026",
-    "fecha_iso": "2026-05-22",
-    "hora": "15:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
-      },
-      {
-        "nombre": "ESPN 3 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3ar"
-      },
-      {
-        "nombre": "Paramount + | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount1"
-      }
-    ]
-  },
-  {
     "titulo": "Copa de Francia: Lens vs Nice",
     "categoria": "futbol",
     "clase": "FRA",
@@ -295,22 +200,6 @@
     ]
   },
   {
-    "titulo": "MLB: Cardinals vs Reds",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Viernes 22 de Mayo 2026",
-    "fecha_iso": "2026-05-22",
-    "hora": "19:40",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb2"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Guardians vs Phillies",
     "categoria": "futbol",
     "clase": "MLB",
@@ -322,7 +211,7 @@
       {
         "nombre": "MLB | Inglés - Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb3"
+        "url": "https://streamhdx.com/live1.php?stream=mlb1"
       }
     ]
   },
@@ -359,7 +248,7 @@
       {
         "nombre": "MLB | Inglés - Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb4"
+        "url": "https://streamhdx.com/live1.php?stream=mlb2"
       }
     ]
   },
@@ -375,7 +264,7 @@
       {
         "nombre": "MLB | Inglés - Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb5"
+        "url": "https://streamhdx.com/live1.php?stream=mlb3"
       }
     ]
   },
@@ -391,7 +280,7 @@
       {
         "nombre": "MLB | Inglés - Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb7"
+        "url": "https://streamhdx.com/live1.php?stream=mlb5"
       }
     ]
   },
@@ -407,7 +296,7 @@
       {
         "nombre": "MLB | Inglés - Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb6"
+        "url": "https://streamhdx.com/live1.php?stream=mlb4"
       }
     ]
   },
@@ -423,7 +312,7 @@
       {
         "nombre": "MLB | Inglés - Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb9"
+        "url": "https://streamhdx.com/live1.php?stream=mlb6"
       }
     ]
   },
@@ -437,9 +326,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLB | Inglés - Español",
+        "nombre": "Apple TV | Inglés",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb8"
+        "url": "https://streamhdx.com/live1.php?stream=appletv2"
       }
     ]
   },
@@ -455,7 +344,7 @@
       {
         "nombre": "MLB | Inglés - Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb10"
+        "url": "https://streamhdx.com/live1.php?stream=mlb7"
       }
     ]
   },
@@ -471,7 +360,7 @@
       {
         "nombre": "MLB | Inglés - Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb11"
+        "url": "https://streamhdx.com/live1.php?stream=mlb8"
       }
     ]
   },
@@ -551,7 +440,7 @@
       {
         "nombre": "MLB | Inglés - Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb12"
+        "url": "https://streamhdx.com/live1.php?stream=mlb9"
       }
     ]
   },
@@ -567,7 +456,7 @@
       {
         "nombre": "MLB | Inglés - Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb14"
+        "url": "https://streamhdx.com/live1.php?stream=mlb10"
       }
     ]
   },
@@ -583,7 +472,7 @@
       {
         "nombre": "MLB | Inglés - Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb13"
+        "url": "https://streamhdx.com/live1.php?stream=mlb11"
       }
     ]
   },
@@ -635,7 +524,7 @@
       {
         "nombre": "MLB | Inglés - Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb15"
+        "url": "https://streamhdx.com/live1.php?stream=mlb12"
       }
     ]
   }
