@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Fórmula 2: GP Montreal | Práctica",
-    "categoria": "futbol",
-    "clase": "F2",
-    "fecha": "Viernes 22 de Mayo 2026",
-    "fecha_iso": "2026-05-22",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "F1: GP Canadá, práctica libre #1",
     "categoria": "futbol",
     "clase": "F1",
@@ -48,11 +32,6 @@
         "nombre": "Fox Sports 1 AR",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fox1ar"
-      },
-      {
-        "nombre": "Apple TV 1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=appletv1"
       }
     ]
   },
@@ -85,11 +64,6 @@
         "nombre": "Disney + 3",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney3"
-      },
-      {
-        "nombre": "Apple TV 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=appletv3"
       }
     ]
   },
@@ -106,12 +80,18 @@
         "nombre": "Disney + 4",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney4"
-      },
-      {
-        "nombre": "12;30 F2: Fórmula 2 GP Montreal | Clasificación",
-        "calidad": "720p",
-        "url": "/eventos.html?r="
-      },
+      }
+    ]
+  },
+  {
+    "titulo": "F2: GP Montreal | Clasificación",
+    "categoria": "futbol",
+    "clase": "F2",
+    "fecha": "Viernes 22 de Mayo 2026",
+    "fecha_iso": "2026-05-22",
+    "hora": "14:30",
+    "duracion_min": 140,
+    "canales": [
       {
         "nombre": "Espn 2",
         "calidad": "720p",
@@ -342,11 +322,6 @@
         "nombre": "Fox Sports 1 AR",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fox1ar"
-      },
-      {
-        "nombre": "Apple TV 1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=appletv1"
       }
     ]
   },
@@ -379,11 +354,6 @@
         "nombre": "Disney + 3",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney3"
-      },
-      {
-        "nombre": "Apple TV 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=appletv3"
       }
     ]
   },
