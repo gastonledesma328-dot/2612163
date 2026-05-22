@@ -1,140 +1,5 @@
 [
   {
-    "titulo": "NBA: Knicks vs Cavaliers",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Jueves 21 de Mayo 2026",
-    "fecha_iso": "2026-05-21",
-    "hora": "21:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Espn 3 | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      },
-      {
-        "nombre": "NBA League Pass | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=nba1"
-      },
-      {
-        "nombre": "Espn MX | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnmx"
-      },
-      {
-        "nombre": "Espn Deportes | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
-      }
-    ]
-  },
-  {
-    "titulo": "NHL: Hurricanes vs Canadiens",
-    "categoria": "futbol",
-    "clase": "NHL",
-    "fecha": "Jueves 21 de Mayo 2026",
-    "fecha_iso": "2026-05-21",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Peñarol vs Corinthians",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Jueves 21 de Mayo 2026",
-    "fecha_iso": "2026-05-21",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney + 4",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Fanatiz 6",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz6"
-      },
-      {
-        "nombre": "ESPN 2 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2mx"
-      },
-      {
-        "nombre": "FOX Sports 2 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox2ar"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Universidad Católica vs Barcelona SC",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Jueves 21 de Mayo 2026",
-    "fecha_iso": "2026-05-21",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney + 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney5"
-      },
-      {
-        "nombre": "ESPN 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
-      },
-      {
-        "nombre": "Fanatiz 7",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz7"
-      },
-      {
-        "nombre": "FOX Sports 1 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Blooming vs Carabobo",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Jueves 21 de Mayo 2026",
-    "fecha_iso": "2026-05-21",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
-      },
-      {
-        "nombre": "Fanatiz 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz5"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Athletics vs Angels",
     "categoria": "futbol",
     "clase": "MLB",
@@ -163,37 +28,6 @@
         "nombre": "MLB | Inglés - Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=mlb7"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Macará vs Alianza Atlético",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Jueves 21 de Mayo 2026",
-    "fecha_iso": "2026-05-21",
-    "hora": "23:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney + 6",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney6"
-      },
-      {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Fanatiz 8",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz8"
       }
     ]
   },
@@ -272,6 +106,11 @@
         "nombre": "F1",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=daznf1"
+      },
+      {
+        "nombre": "Fox Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
       },
       {
         "nombre": "Apple TV 1",
@@ -446,6 +285,11 @@
         "nombre": "ESPN 3 AR",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn3ar"
+      },
+      {
+        "nombre": "Paramount + | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=paramount1"
       }
     ]
   },
@@ -462,6 +306,11 @@
         "nombre": "Dsports Eventos",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=evento6"
+      },
+      {
+        "nombre": "FOX Deportes",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
       }
     ]
   },
@@ -524,7 +373,7 @@
     ]
   },
   {
-    "titulo": "F1: GP Canadá, práctica libre #1",
+    "titulo": "F1: GP Canadá, clasificación sprint",
     "categoria": "futbol",
     "clase": "F1",
     "fecha": "Viernes 22 de Mayo 2026",
@@ -553,6 +402,11 @@
         "url": "https://streamhdx.com/live1.php?stream=daznf1"
       },
       {
+        "nombre": "Fox Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
+      },
+      {
         "nombre": "Apple TV 1",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=appletv1"
@@ -560,7 +414,7 @@
     ]
   },
   {
-    "titulo": "F1: GP Canadá, práctica libre #1 | On Board",
+    "titulo": "F1: GP Canadá, clasificación sprint | Cámara On Board",
     "categoria": "futbol",
     "clase": "F1",
     "fecha": "Viernes 22 de Mayo 2026",
@@ -576,7 +430,7 @@
     ]
   },
   {
-    "titulo": "F1: GP Canadá, práctica libre #1 | On Board Colapinto",
+    "titulo": "F1: GP Canadá, clasificación sprint | On Board Colapinto",
     "categoria": "futbol",
     "clase": "F1",
     "fecha": "Viernes 22 de Mayo 2026",
@@ -597,7 +451,7 @@
     ]
   },
   {
-    "titulo": "F1: GP Canadá, práctica libre #1 | On Board Verstappen",
+    "titulo": "F1: GP Canadá, clasificación sprint | On Board Verstappen",
     "categoria": "futbol",
     "clase": "F1",
     "fecha": "Viernes 22 de Mayo 2026",
@@ -625,6 +479,11 @@
         "nombre": "Tigo Sports",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=tigo1"
+      },
+      {
+        "nombre": "Fanatiz 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
       }
     ]
   },
@@ -685,6 +544,11 @@
     "hora": "20:00",
     "duracion_min": 140,
     "canales": [
+      {
+        "nombre": "Fanatiz 3",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
+      },
       {
         "nombre": "TyC Sports",
         "calidad": "720p",
