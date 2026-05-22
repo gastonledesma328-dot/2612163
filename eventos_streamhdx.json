@@ -1,167 +1,5 @@
 [
   {
-    "titulo": "MLB: Mets vs Nationals",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Jueves 21 de Mayo 2026",
-    "fecha_iso": "2026-05-21",
-    "hora": "17:05",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb3"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Deportivo La Guaira vs Independiente Rivadavia",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Jueves 21 de Mayo 2026",
-    "fecha_iso": "2026-05-21",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney + 1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Fanatiz 1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
-      },
-      {
-        "nombre": "FOX Sports 1 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "ESPN 2 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2mx"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Academia Puerto Cabello vs Juventud",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Jueves 21 de Mayo 2026",
-    "fecha_iso": "2026-05-21",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney + 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "Dsports Eventos",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento6"
-      },
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "Fanatiz 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Atlético Mineiro vs Cienciano",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Jueves 21 de Mayo 2026",
-    "fecha_iso": "2026-05-21",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Fanatiz 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Braves vs Marlins",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Jueves 21 de Mayo 2026",
-    "fecha_iso": "2026-05-21",
-    "hora": "19:40",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb4"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Blue Jays vs Yankees",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Jueves 21 de Mayo 2026",
-    "fecha_iso": "2026-05-21",
-    "hora": "20:05",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb5"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Racing Club vs Caracas",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Jueves 21 de Mayo 2026",
-    "fecha_iso": "2026-05-21",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz 4",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
-      },
-      {
-        "nombre": "Disney + 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
-      },
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "NBA: Knicks vs Cavaliers",
     "categoria": "nba",
     "clase": "NBA",
@@ -338,14 +176,14 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      },
-      {
         "nombre": "Disney + 6",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney6"
+      },
+      {
+        "nombre": "Espn 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
       },
       {
         "nombre": "Dsports",
@@ -624,6 +462,27 @@
         "nombre": "Dsports Eventos",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=evento6"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División de Chile: Everton vs Coquimbo Unido",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Viernes 22 de Mayo 2026",
+    "fecha_iso": "2026-05-22",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
+      },
+      {
+        "nombre": "Max 1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=max1"
       }
     ]
   },
@@ -974,27 +833,6 @@
         "nombre": "ESPN 4",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn4"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División de Chile: Everton vs Coquimbo Unido",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Viernes 22 de Mayo 2026",
-    "fecha_iso": "2026-05-22",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
-      },
-      {
-        "nombre": "Max 1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max1"
       }
     ]
   },
