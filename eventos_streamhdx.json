@@ -1,240 +1,5 @@
 [
   {
-    "titulo": "Championship: Hull City vs Middlesbrough - Final",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "11:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "Espn 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
-      },
-      {
-        "nombre": "Fox Sports 2 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox2ar"
-      },
-      {
-        "nombre": "Espn MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnmx"
-      },
-      {
-        "nombre": "Paramount +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount1"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: Carrera Sprint - GP Canadá",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
-      },
-      {
-        "nombre": "Fox Sports 1 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
-      },
-      {
-        "nombre": "F1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=daznf1"
-      },
-      {
-        "nombre": "Sky F1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sky_f1"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: Carrera Sprint Cámara On Board",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney5"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: Carrera Sprint On Board Colapinto",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney6"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: Carrera Sprint On Board Verstappen",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney7"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Bologna vs Inter",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
-      },
-      {
-        "nombre": "Espn",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Espn AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnar"
-      },
-      {
-        "nombre": "Paramount +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount2"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Women's Champions League: Barcelona vs OL Lyonnes",
-    "categoria": "futbol",
-    "clase": "CHA",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney8"
-      },
-      {
-        "nombre": "Espn 4 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4ar"
-      },
-      {
-        "nombre": "Espn 4",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Primera: Sportivo Luqueño vs Olimpia",
-    "categoria": "futbol",
-    "clase": "PY",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Tigo Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tigo1"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División de Chile: Audax Italiano vs Cobresal",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
-      },
-      {
-        "nombre": "Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max1"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie B: Juventude vs Sport Recife",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+ BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3br"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Cardinals vs Reds",
     "categoria": "futbol",
     "clase": "MLB",
@@ -247,38 +12,6 @@
         "nombre": "MLB | Inglés - Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=mlb1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Polaca: Górnik Zabrze vs Radomiak Radom",
-    "categoria": "futbol",
-    "clase": "FUT",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "14:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox Sports 3 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox3ar"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Rays vs Yankees",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "14:35",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb2"
       }
     ]
   },
@@ -304,7 +37,7 @@
     ]
   },
   {
-    "titulo": "DFB Pokal: Bayern München vs Stuttgart",
+    "titulo": "DFB Pokal: Bayern München vs Stuttgart | Final",
     "categoria": "futbol",
     "clase": "ALE",
     "fecha": "Sábado 23 de Mayo 2026",
@@ -312,6 +45,11 @@
     "hora": "15:00",
     "duracion_min": 140,
     "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney9"
+      },
       {
         "nombre": "Espn 3 AR",
         "calidad": "720p",
@@ -321,11 +59,6 @@
         "nombre": "Espn",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney9"
       },
       {
         "nombre": "Espn MX",
@@ -356,6 +89,22 @@
     ]
   },
   {
+    "titulo": "Formula 2: Carrera Sprint - GP Montreal",
+    "categoria": "futbol",
+    "clase": "F2",
+    "fecha": "Sábado 23 de Mayo 2026",
+    "fecha_iso": "2026-05-23",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
+      }
+    ]
+  },
+  {
     "titulo": "Primera División: Cerro Largo vs Boston River",
     "categoria": "futbol",
     "clase": "URU",
@@ -381,6 +130,11 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney2"
+      },
+      {
         "nombre": "MLB | Inglés - Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=mlb3"
@@ -397,9 +151,14 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLS 1",
+        "nombre": "Appletv | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=mls1en"
+      },
+      {
+        "nombre": "Appletv | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=appletv1"
       }
     ]
   },
@@ -426,6 +185,27 @@
         "nombre": "Paramount +",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=paramount3"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de Primera: Sportivo Luqueño vs Olimpia",
+    "categoria": "futbol",
+    "clase": "PY",
+    "fecha": "Sábado 23 de Mayo 2026",
+    "fecha_iso": "2026-05-23",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Tigo Sports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tigo1"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
       }
     ]
   },
@@ -512,9 +292,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Dsports +",
+        "nombre": "Dsports Eventos",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
+        "url": "https://streamhdx.com/live1.php?stream=evento5"
       },
       {
         "nombre": "Espn +",
@@ -533,9 +313,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Dsports 2",
+        "nombre": "Dsports +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsports2"
+        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
       },
       {
         "nombre": "Espn +",
@@ -554,9 +334,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Dsports Eventos",
+        "nombre": "Dsports 2 CO",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento5"
+        "url": "https://streamhdx.com/live1.php?stream=dsports2"
       },
       {
         "nombre": "Espn +",
@@ -611,6 +391,11 @@
         "url": "https://streamhdx.com/live1.php?stream=dsports"
       },
       {
+        "nombre": "Sky Sports La Liga",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento10"
+      },
+      {
         "nombre": "Espn +",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espnplus2"
@@ -640,6 +425,11 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney12"
+      },
+      {
+        "nombre": "Sky Sports La Liga",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sky_sports_laliga"
       },
       {
         "nombre": "Espn +",
@@ -1249,6 +1039,22 @@
         "nombre": "MLS 4",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=mls4en"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie B: Juventude vs Sport Recife",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Sábado 23 de Mayo 2026",
+    "fecha_iso": "2026-05-23",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+ BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney3br"
       }
     ]
   },
