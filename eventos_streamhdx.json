@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Primera División: Progreso vs Torque",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
     "titulo": "Championship: Hull City vs Middlesbrough - Final",
     "categoria": "futbol",
     "clase": "ENG",
@@ -66,12 +50,17 @@
         "url": "https://streamhdx.com/live1.php?stream=espn2"
       },
       {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney4"
+      },
+      {
         "nombre": "Fox Sports 1 AR",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fox1ar"
       },
       {
-        "nombre": "DAZN F1",
+        "nombre": "F1",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=daznf1"
       },
@@ -79,11 +68,6 @@
         "nombre": "Sky F1",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=sky_f1"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
       }
     ]
   },
@@ -145,19 +129,19 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney3"
+      },
+      {
         "nombre": "Espn",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn"
       },
       {
-        "nombre": "Espn",
+        "nombre": "Espn AR",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espnar"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
       },
       {
         "nombre": "Paramount +",
@@ -176,6 +160,11 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney8"
+      },
+      {
         "nombre": "Espn 4 AR",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn4ar"
@@ -184,11 +173,27 @@
         "nombre": "Espn 4",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn4"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de Primera: Sportivo Luqueño vs Olimpia",
+    "categoria": "futbol",
+    "clase": "PY",
+    "fecha": "Sábado 23 de Mayo 2026",
+    "fecha_iso": "2026-05-23",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Tigo Sports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tigo1"
       },
       {
-        "nombre": "Disney+",
+        "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney8"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
       }
     ]
   },
@@ -210,6 +215,22 @@
         "nombre": "Max",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=max1"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie B: Juventude vs Sport Recife",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Sábado 23 de Mayo 2026",
+    "fecha_iso": "2026-05-23",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+ BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney3br"
       }
     ]
   },
@@ -405,27 +426,6 @@
         "nombre": "Paramount +",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=paramount3"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Primera: Sportivo Luqueño vs Olimpia",
-    "categoria": "futbol",
-    "clase": "PY",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Tigo Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tigo1"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
       }
     ]
   },
@@ -1249,22 +1249,6 @@
         "nombre": "MLS 4",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=mls4en"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie B: Juventude vs Sport Recife",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "20:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+ BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3br"
       }
     ]
   },
