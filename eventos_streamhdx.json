@@ -1,26 +1,5 @@
 [
   {
-    "titulo": "Women's Super League: Charlton Athletic vs Leicester City WFC",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "08:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 3 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3ar"
-      },
-      {
-        "nombre": "Espn 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
     "titulo": "Primera División: Progreso vs Torque",
     "categoria": "futbol",
     "clase": "URU",
@@ -37,7 +16,7 @@
     ]
   },
   {
-    "titulo": "Championship: Hull City vs Middlesbrough",
+    "titulo": "Championship: Hull City vs Middlesbrough - Final",
     "categoria": "futbol",
     "clase": "ENG",
     "fecha": "Sábado 23 de Mayo 2026",
@@ -46,14 +25,29 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney2"
+      },
+      {
+        "nombre": "Espn 5",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn5"
+      },
+      {
         "nombre": "Fox Sports 2 AR",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fox2ar"
       },
       {
-        "nombre": "Disney+",
+        "nombre": "Espn MX",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
+        "url": "https://streamhdx.com/live1.php?stream=espnmx"
+      },
+      {
+        "nombre": "Paramount +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=paramount1"
       }
     ]
   },
@@ -142,7 +136,7 @@
     ]
   },
   {
-    "titulo": "Serie A: Bologna vs Internazionale",
+    "titulo": "Serie A: Bologna vs Inter",
     "categoria": "futbol",
     "clase": "IT",
     "fecha": "Sábado 23 de Mayo 2026",
@@ -164,6 +158,11 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney3"
+      },
+      {
+        "nombre": "Paramount +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=paramount2"
       }
     ]
   },
@@ -206,6 +205,11 @@
         "nombre": "TNT Sports Chile",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
+      },
+      {
+        "nombre": "Max",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=max1"
       }
     ]
   },
@@ -293,14 +297,24 @@
         "url": "https://streamhdx.com/live1.php?stream=espn3ar"
       },
       {
-        "nombre": "Espn 3",
+        "nombre": "Espn",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
+        "url": "https://streamhdx.com/live1.php?stream=espn"
       },
       {
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney9"
+      },
+      {
+        "nombre": "Espn MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnmx"
+      },
+      {
+        "nombre": "Espn Deportes",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
       }
     ]
   },
@@ -381,6 +395,16 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney11"
+      },
+      {
+        "nombre": "Espn 2 MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2mx"
+      },
+      {
+        "nombre": "Paramount +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=paramount3"
       }
     ]
   },
@@ -423,6 +447,11 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney14"
+      },
+      {
+        "nombre": "Espn +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus5"
       }
     ]
   },
@@ -439,6 +468,11 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney16"
+      },
+      {
+        "nombre": "Espn +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus7"
       }
     ]
   },
@@ -460,6 +494,11 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney13"
+      },
+      {
+        "nombre": "Espn +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus8"
       }
     ]
   },
@@ -476,6 +515,11 @@
         "nombre": "Dsports +",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
+      },
+      {
+        "nombre": "Espn +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus9"
       }
     ]
   },
@@ -492,6 +536,11 @@
         "nombre": "Dsports 2",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=dsports2"
+      },
+      {
+        "nombre": "Espn +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus4"
       }
     ]
   },
@@ -508,6 +557,11 @@
         "nombre": "Dsports Eventos",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=evento5"
+      },
+      {
+        "nombre": "Espn +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus10"
       }
     ]
   },
@@ -534,6 +588,11 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney15"
+      },
+      {
+        "nombre": "Espn +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus6"
       }
     ]
   },
@@ -550,6 +609,11 @@
         "nombre": "Dsports",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Espn +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus2"
       }
     ]
   },
@@ -576,6 +640,11 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney12"
+      },
+      {
+        "nombre": "Espn +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus3"
       }
     ]
   },
@@ -592,6 +661,11 @@
         "nombre": "TNT Sports Chile",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
+      },
+      {
+        "nombre": "Max",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=max2"
       }
     ]
   },
@@ -656,6 +730,11 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz5"
+      },
+      {
+        "nombre": "Win Sports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=winsports"
       }
     ]
   },
@@ -1011,6 +1090,11 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
+      },
+      {
+        "nombre": "Win Sports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=winsports"
       }
     ]
   },
@@ -1052,7 +1136,7 @@
     ]
   },
   {
-    "titulo": "Categoría Primera A: Atlético Nacional vs Deportes Tolima",
+    "titulo": "Categoría Primera A: Atlético Nacional vs Deportes Tolima - Seminifal (2/2)",
     "categoria": "futbol",
     "clase": "COL",
     "fecha": "Sábado 23 de Mayo 2026",
@@ -1069,6 +1153,22 @@
         "nombre": "Win Sports +",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=winplus"
+      }
+    ]
+  },
+  {
+    "titulo": "NHL:Carolina Hurricanes vs Montreal Canadiens",
+    "categoria": "futbol",
+    "clase": "NHL",
+    "fecha": "Sábado 23 de Mayo 2026",
+    "fecha_iso": "2026-05-23",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 4",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn4"
       }
     ]
   },
@@ -1178,9 +1278,14 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Fanatiz",
+        "nombre": "Premiere",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz12"
+        "url": "https://streamhdx.com/live1.php?stream=premiere1"
+      },
+      {
+        "nombre": "Sportv",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
       }
     ]
   },
@@ -1202,6 +1307,11 @@
         "nombre": "NBA League Pass",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=nba1"
+      },
+      {
+        "nombre": "ESPN MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnmx"
       }
     ]
   },
@@ -1398,6 +1508,22 @@
         "nombre": "MLB | Inglés - Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=mlb14"
+      }
+    ]
+  },
+  {
+    "titulo": "ESPN Knockout: Yoali Mosqueda vs. José Cogollo",
+    "categoria": "box",
+    "clase": "BOX",
+    "fecha": "Sábado 23 de Mayo 2026",
+    "fecha_iso": "2026-05-23",
+    "hora": "23:00",
+    "duracion_min": 400,
+    "canales": [
+      {
+        "nombre": "Espn",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
       }
     ]
   },
