@@ -1,48 +1,272 @@
 [
   {
-    "titulo": "Tepatitlán FC vs. Jaiba Brava | Final de Campeones - Ida",
+    "titulo": "Eredivisie: Ajax vs Utrecht",
     "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "22:00",
+    "clase": "HOL",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "07:15",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Espn 3 MX",
+        "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3mx"
-      }
-    ]
-  },
-  {
-    "titulo": "Categoría Primera A: Junior vs Santa Fe",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "22:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz13"
+        "url": "https://streamhdx.com/live1.php?stream=disney6"
       },
       {
-        "nombre": "Win Sports +",
+        "nombre": "ESPN NL1",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=winplus"
+        "url": "https://streamhdx.com/live1.php?stream=espn_nl1"
       }
     ]
   },
   {
-    "titulo": "Liga 1: Alianza Lima vs Los Chankas",
+    "titulo": "Primera División: Cerro vs Central Español",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney2"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A: Parma vs Sassuolo",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn3"
+      },
+      {
+        "nombre": "Paramount +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=paramount1"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga SmartBank: Albacete vs Real Sociedad II",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "11:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "LaLiga Hypermotion",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney3"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga SmartBank: FC Andorra vs Ceuta",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "11:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "LaLiga Hypermotion 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion2"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney4"
+      }
+    ]
+  },
+  {
+    "titulo": "Premier League: Brighton & Hove Albion vs Manchester United",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": []
+  },
+  {
+    "titulo": "Premier League: Burnley vs Wolverhampton Wanderers",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": []
+  },
+  {
+    "titulo": "Premier League: Crystal Palace vs Arsenal",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn BO",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/2/?id=espnbo"
+      }
+    ]
+  },
+  {
+    "titulo": "Premier League: Fulham vs Newcastle United",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": []
+  },
+  {
+    "titulo": "Premier League: Liverpool vs Brentford",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": []
+  },
+  {
+    "titulo": "Premier League: Manchester City vs Aston Villa",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 2 BO",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/2/?id=espn2bo"
+      }
+    ]
+  },
+  {
+    "titulo": "Premier League: Nottingham Forest vs AFC Bournemouth",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": []
+  },
+  {
+    "titulo": "Premier League: Sunderland vs Chelsea",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": []
+  },
+  {
+    "titulo": "Premier League: Tottenham Hotspur vs Everton",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 3 BO",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/2/?id=espn3bo"
+      }
+    ]
+  },
+  {
+    "titulo": "Premier League: West Ham United vs Leeds United",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 7 BO",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/2/?id=espn7bo"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Italia Femenina: Juventus vs Roma | Final",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports Eventos",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento5"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 2: GP Montreal - Carrera",
+    "categoria": "futbol",
+    "clase": "F2",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney7"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga 1: Sporting Cristal vs ADT",
     "categoria": "futbol",
     "clase": "PE",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "22:30",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "13:00",
     "duracion_min": 140,
     "canales": [
       {
@@ -51,67 +275,865 @@
         "url": "https://streamhdx.com/live1.php?stream=liga1max"
       },
       {
-        "nombre": "Fanatiz | Español",
+        "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz13"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A: Napoli vs Udinese",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney5"
       },
       {
-        "nombre": "Movistar Deportes",
+        "nombre": "Paramount +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=movistar_deportes_peru"
+        "url": "https://streamhdx.com/live1.php?stream=paramount2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de Portugal: Sporting CP vs Torreense",
+    "categoria": "futbol",
+    "clase": "POR",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "13:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fox Sports 3 AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fox3ar"
+      },
+      {
+        "nombre": "Disney+ AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1ar"
+      }
+    ]
+  },
+  {
+    "titulo": "IndyCar: 110th Indianapolis 500",
+    "categoria": "futbol",
+    "clase": "INDYCAR",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney11"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga SmartBank: Cultural Leonesa vs Burgos",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney9"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga SmartBank: Cádiz vs Leganés",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento3"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga SmartBank: Eibar vs Córdoba",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney10"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga SmartBank: Huesca vs CD Castellón",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento1"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga SmartBank: Las Palmas vs Real Zaragoza",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento2"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga SmartBank: Mirandés vs Granada",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento4"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga SmartBank: Multigol",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "LaLiga Hypermotion",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga SmartBank: Málaga vs Racing Santander",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "LaLiga Hypermotion 3",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion3"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga SmartBank: Real Valladolid vs Deportivo La Coruña",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "LaLiga Hypermotion 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion2"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga SmartBank: Sporting Gijón vs Almería",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney8"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División de Chile: Deportes Concepción vs Huachipato",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Tigers vs Orioles",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "13:35",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb1"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Guardians vs Phillies",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "14:35",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Rays vs Yankees",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "14:35",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb4"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Twins vs Red Sox",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "14:35",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb3"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Cardinals vs Reds",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "14:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb6"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Mets vs Marlins",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "14:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb5"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Wanderers vs Deportivo Maldonado",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney12"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A de Ecuador: Técnico Universitario vs Leones del Norte",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie B Italiana: Catanzaro vs Monza",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Dodgers vs Brewers",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "15:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb7"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Mariners vs Royals",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "15:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga 1: Sport Huancayo vs Cienciano",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "15:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Liga1Max",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=liga1max"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Astros vs Cubs",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "15:20",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb9"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: River Plate vs Belgrano | Final",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+      },
+      {
+        "nombre": "Fanatiz | Inglés",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
       },
       {
         "nombre": "Fanatiz | Sonido Ambiente",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz14"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
+      },
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tntsports"
+      },
+      {
+        "nombre": "ESPN Premium",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnpremium"
+      },
+      {
+        "nombre": "ESPN CO",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnco"
+      },
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "Disney+ BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1br"
+      },
+      {
+        "nombre": "FOX Deportes",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
       }
     ]
   },
   {
-    "titulo": "Major League Soccer: Colorado Rapids vs Dallas",
+    "titulo": "Serie A: Cremonese vs Como",
     "categoria": "futbol",
-    "clase": "USA",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "22:30",
+    "clase": "IT",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "15:45",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLS 10",
+        "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls10en"
+        "url": "https://streamhdx.com/live1.php?stream=disney14"
+      },
+      {
+        "nombre": "Paramount +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=paramount4"
       }
     ]
   },
   {
-    "titulo": "Major League Soccer: Portland Timbers vs SJ Earthquakes",
+    "titulo": "Serie A: Lecce vs Genoa",
     "categoria": "futbol",
-    "clase": "USA",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "22:30",
+    "clase": "IT",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "15:45",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLS 9",
+        "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls9en"
+        "url": "https://streamhdx.com/live1.php?stream=disney15"
+      },
+      {
+        "nombre": "Paramount +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=paramount5"
       }
     ]
   },
   {
-    "titulo": "Major League Soccer: San Diego vs Vancouver Whitecaps",
+    "titulo": "Serie A: Milan vs Cagliari",
     "categoria": "futbol",
-    "clase": "USA",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "22:30",
+    "clase": "IT",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "15:45",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLS 11",
+        "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls11en"
+        "url": "https://streamhdx.com/live1.php?stream=disney13"
+      },
+      {
+        "nombre": "Paramount +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=paramount3"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A: Torino vs Juventus",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "15:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney16"
+      },
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn3"
+      },
+      {
+        "nombre": "Paramount +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=paramount6"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A: Verona vs Roma",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "15:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney17"
+      },
+      {
+        "nombre": "Paramount +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=paramount7"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Cruzeiro vs Chapecoense",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Remo vs Athletico-PR",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga: Villarreal vs Atlético Madrid",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División de Chile: La Serena vs Deportes Limache",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Imposible Sub-17: Boca Juniors vs Fortaleza SC",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "16:50",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn4"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de Primera: Cerro Porteño vs Rubio Ñu",
+    "categoria": "futbol",
+    "clase": "PY",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz5"
+      },
+      {
+        "nombre": "Tigo Sports 1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tigo1"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de Primera: Nacional Asunción vs Libertad",
+    "categoria": "futbol",
+    "clase": "PY",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz7"
+      },
+      {
+        "nombre": "Tigo Sports 3",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tigo3"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de Primera: Sportivo Ameliano vs Sportivo Trinidense",
+    "categoria": "futbol",
+    "clase": "PY",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz6"
+      },
+      {
+        "nombre": "Tigo Sports 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tigo2"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Canadá - Carrera",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney18"
+      },
+      {
+        "nombre": "Fox Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "F1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=daznf1"
+      },
+      {
+        "nombre": "Sky F1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sky_f1"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Canadá - Carrera | Cámara On Board",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney19"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Canadá - Carrera | On Board Colapinto",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Canadá - Carrera | On Board Verstappen",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney20"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: White Sox vs Giants",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "17:05",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb10"
       }
     ]
   },
@@ -119,9 +1141,189 @@
     "titulo": "MLB: Athletics vs Padres",
     "categoria": "futbol",
     "clase": "MLB",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "22:40",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "17:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb12"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Nationals vs Braves",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "17:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb11"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Rockies vs Diamondbacks",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "17:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB | Inglés - Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlb13"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga 1: Alianza Atlético vs FC Cajamarca",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "17:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Liga1Max",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=liga1max"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz8"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A de Ecuador: Emelec vs Macará",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "17:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Columbus Crew vs Atlanta United",
+    "categoria": "futbol",
+    "clase": "USA",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "18:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Appletv | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=appletv1"
+      },
+      {
+        "nombre": "Appletv | Inglés",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=appletv2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Imposible Sub-17: Fluminense vs Medellín",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "18:25",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "ESPN 2 CO",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2co"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Corinthians vs Atlético Mineiro",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
+      },
+      {
+        "nombre": "Win Sports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=winsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Defensor Sporting vs Peñarol",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney2"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División de Chile: Universidad Católica vs Colo-Colo",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Tigers vs Orioles",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "19:05",
     "duracion_min": 140,
     "canales": [
       {
@@ -132,66 +1334,170 @@
     ]
   },
   {
-    "titulo": "ESPN Knockout: Yoali Mosqueda vs. José Cogollo",
-    "categoria": "box",
-    "clase": "BOX",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "23:00",
-    "duracion_min": 400,
-    "canales": [
-      {
-        "nombre": "Espn",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Rangers vs Angels",
+    "titulo": "Copa Imposible Sub-17: Colombia vs Deportivo Cali",
     "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "23:05",
+    "clase": "COL",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "20:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLB | Inglés - Español",
+        "nombre": "ESPN 2",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb15"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Rockies vs Diamondbacks",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "23:10",
-    "duracion_min": 140,
-    "canales": [
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      },
       {
-        "nombre": "MLB | Inglés - Español",
+        "nombre": "ESPN CO",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb16"
+        "url": "https://streamhdx.com/live1.php?stream=espnco"
       }
     ]
   },
   {
-    "titulo": "Major League Soccer: LA Galaxy vs Houston Dynamo",
+    "titulo": "MLS: Inter Miami vs Philadelphia Union",
     "categoria": "futbol",
     "clase": "USA",
-    "fecha": "Sábado 23 de Mayo 2026",
-    "fecha_iso": "2026-05-23",
-    "hora": "23:30",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "20:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLS 12",
+        "nombre": "Appletv | Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mls12en"
+        "url": "https://streamhdx.com/live1.php?stream=appletv3"
+      },
+      {
+        "nombre": "Appletv | Inglés",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=appletv4"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A de Ecuador: Delfín vs Barcelona",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "20:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Vasco da Gama vs RB Bragantino",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz10"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA: San Antonio Spurs vs Oklahoma City Thunder",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "21:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Max 1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=max1"
+      },
+      {
+        "nombre": "NBA League Pass",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=nba1"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Imposible Sub-17: CR Flamengo vs Antioquía",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "21:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "ESPN CO",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Pumas UNAM vs Cruz Azul",
+    "categoria": "futbol",
+    "clase": "MEX",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TUDN MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tudnmx"
+      },
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=canal5mx"
+      },
+      {
+        "nombre": "Azteca 7",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=azteca7"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Los Angeles FC vs Seattle Sounders FC",
+    "categoria": "futbol",
+    "clase": "USA",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "22:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Appletv | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=appletv5"
+      },
+      {
+        "nombre": "Appletv | Inglés",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=appletv6"
       }
     ]
   }
