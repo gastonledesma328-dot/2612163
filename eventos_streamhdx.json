@@ -79,14 +79,20 @@
     ]
   },
   {
-    "titulo": "Premier League: Brighton & Hove Albion vs Manchester United",
+    "titulo": "Premier League: Brighton vs Manchester United",
     "categoria": "futbol",
     "clase": "ENG",
     "fecha": "Domingo 24 de Mayo 2026",
     "fecha_iso": "2026-05-24",
     "hora": "12:00",
     "duracion_min": 140,
-    "canales": []
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/pre.php?stream=disney2pl"
+      }
+    ]
   },
   {
     "titulo": "Premier League: Burnley vs Wolverhampton Wanderers",
@@ -96,7 +102,13 @@
     "fecha_iso": "2026-05-24",
     "hora": "12:00",
     "duracion_min": 140,
-    "canales": []
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/pre.php?stream=disney1pl"
+      }
+    ]
   },
   {
     "titulo": "Premier League: Crystal Palace vs Arsenal",
@@ -108,9 +120,19 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "Fox One",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/ote.php?id=foxone"
+      },
+      {
         "nombre": "Espn BO",
         "calidad": "720p",
         "url": "https://streamhdx.com/channels/2/?id=espnbo"
+      },
+      {
+        "nombre": "Espn",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/pre.php?stream=espn"
       }
     ]
   },
@@ -122,7 +144,13 @@
     "fecha_iso": "2026-05-24",
     "hora": "12:00",
     "duracion_min": 140,
-    "canales": []
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/pre.php?stream=disney4pl"
+      }
+    ]
   },
   {
     "titulo": "Premier League: Liverpool vs Brentford",
@@ -132,7 +160,13 @@
     "fecha_iso": "2026-05-24",
     "hora": "12:00",
     "duracion_min": 140,
-    "canales": []
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/pre.php?stream=disney6pl"
+      }
+    ]
   },
   {
     "titulo": "Premier League: Manchester City vs Aston Villa",
@@ -158,7 +192,13 @@
     "fecha_iso": "2026-05-24",
     "hora": "12:00",
     "duracion_min": 140,
-    "canales": []
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/pre.php?stream=disney5pl"
+      }
+    ]
   },
   {
     "titulo": "Premier League: Sunderland vs Chelsea",
@@ -168,7 +208,13 @@
     "fecha_iso": "2026-05-24",
     "hora": "12:00",
     "duracion_min": 140,
-    "canales": []
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/pre.php?stream=disney8pl"
+      }
+    ]
   },
   {
     "titulo": "Premier League: Tottenham Hotspur vs Everton",
@@ -179,6 +225,11 @@
     "hora": "12:00",
     "duracion_min": 140,
     "canales": [
+      {
+        "nombre": "Telemundo",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/telemundo.php"
+      },
       {
         "nombre": "Espn 3 BO",
         "calidad": "720p",
@@ -196,9 +247,19 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "Universo",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/universo.php"
+      },
+      {
         "nombre": "Espn 7 BO",
         "calidad": "720p",
         "url": "https://streamhdx.com/channels/2/?id=espn7bo"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/pre.php?stream=disney3pl"
       }
     ]
   },
