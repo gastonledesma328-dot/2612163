@@ -1,295 +1,5 @@
 [
   {
-    "titulo": "Premier League: Brighton vs Manchester United",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/pre.php?stream=disney2pl"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Burnley vs Wolverhampton Wanderers",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/pre.php?stream=disney1pl"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Crystal Palace vs Arsenal",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox One",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/ote.php?id=foxone"
-      },
-      {
-        "nombre": "Espn BO",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/2/?id=espnbo"
-      },
-      {
-        "nombre": "Espn",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/pre.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Fulham vs Newcastle United",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/pre.php?stream=disney4pl"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Liverpool vs Brentford",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/pre.php?stream=disney6pl"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Manchester City vs Aston Villa",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 2 BO",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/2/?id=espn2bo"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Nottingham Forest vs AFC Bournemouth",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/pre.php?stream=disney5pl"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Sunderland vs Chelsea",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/pre.php?stream=disney8pl"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Tottenham Hotspur vs Everton",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 3 BO",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/2/?id=espn3bo"
-      },
-      {
-        "nombre": "Telemundo",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/telemundo.php"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: West Ham United vs Leeds United",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 7 BO",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/2/?id=espn7bo"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/pre.php?stream=disney3pl"
-      },
-      {
-        "nombre": "Universo",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/universo.php"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Italia Femenina: Juventus vs Roma | Final",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports Eventos",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento5"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 2: GP Montreal - Carrera",
-    "categoria": "futbol",
-    "clase": "F2",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney7"
-      },
-      {
-        "nombre": "Espn 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Sporting Cristal vs ADT",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Liga1Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=liga1max"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Napoli vs Udinese",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney5"
-      },
-      {
-        "nombre": "Paramount +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Portugal: Sporting CP vs Torreense",
-    "categoria": "futbol",
-    "clase": "POR",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "13:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox Sports 3 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox3ar"
-      },
-      {
-        "nombre": "Fanatiz | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
-      },
-      {
-        "nombre": "Fanatiz | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz10"
-      }
-    ]
-  },
-  {
     "titulo": "IndyCar: 110th Indianapolis 500",
     "categoria": "futbol",
     "clase": "INDYCAR",
@@ -302,182 +12,6 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney11"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga SmartBank: Cultural Leonesa vs Burgos",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney9"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga SmartBank: Cádiz vs Leganés",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento3"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga SmartBank: Eibar vs Córdoba",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney10"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga SmartBank: Huesca vs CD Castellón",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga SmartBank: Las Palmas vs Real Zaragoza",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento2"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga SmartBank: Mirandés vs Granada",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento4"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga SmartBank: Multigol",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "LaLiga Hypermotion",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga SmartBank: Málaga vs Racing Santander",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "LaLiga Hypermotion 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion3"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga SmartBank: Real Valladolid vs Deportivo La Coruña",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "LaLiga Hypermotion 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion2"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga SmartBank: Sporting Gijón vs Almería",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney8"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División de Chile: Deportes Concepción vs Huachipato",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
       }
     ]
   },
@@ -674,7 +208,7 @@
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz8"
       }
     ]
   },
@@ -704,6 +238,16 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "Espn 2 | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/2/?id=espn2bo"
+      },
+      {
+        "nombre": "Sportdigital | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/sportdigital.php"
+      },
+      {
         "nombre": "Fanatiz | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
@@ -717,6 +261,11 @@
         "nombre": "ESPN Premium",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espnpremium"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney5"
       },
       {
         "nombre": "ESPN CO",
@@ -872,7 +421,7 @@
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz5"
       }
     ]
   },
@@ -888,7 +437,7 @@
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
       }
     ]
   },
@@ -962,7 +511,7 @@
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz5"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz6"
       },
       {
         "nombre": "Tigo Sports 1",
@@ -983,7 +532,7 @@
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz7"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz8"
       },
       {
         "nombre": "Tigo Sports 3",
@@ -1004,7 +553,7 @@
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz6"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz7"
       },
       {
         "nombre": "Tigo Sports 2",
@@ -1178,7 +727,7 @@
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz8"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
       }
     ]
   },
@@ -1252,7 +801,7 @@
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz10"
       },
       {
         "nombre": "Win Sports",
@@ -1379,7 +928,7 @@
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz10"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz11"
       }
     ]
   },
