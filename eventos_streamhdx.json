@@ -1,165 +1,5 @@
 [
   {
-    "titulo": "IndyCar: 110th Indianapolis 500",
-    "categoria": "futbol",
-    "clase": "INDYCAR",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney11"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Tigers vs Orioles",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "13:35",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb1"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Guardians vs Phillies",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "14:35",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb2"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Rays vs Yankees",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "14:35",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb4"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Twins vs Red Sox",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "14:35",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb3"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Cardinals vs Reds",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "14:40",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb6"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Mets vs Marlins",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "14:40",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb5"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Wanderers vs Deportivo Maldonado",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney12"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A de Ecuador: Técnico Universitario vs Leones del Norte",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie B Italiana: Catanzaro vs Monza",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Dodgers vs Brewers",
     "categoria": "futbol",
     "clase": "MLB",
@@ -204,11 +44,6 @@
         "nombre": "Liga1Max",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=liga1max"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz8"
       }
     ]
   },
@@ -237,6 +72,11 @@
     "hora": "15:30",
     "duracion_min": 140,
     "canales": [
+      {
+        "nombre": "Fox Deportes | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/foxdepor.php"
+      },
       {
         "nombre": "Espn 2 | Español",
         "calidad": "720p",
@@ -535,9 +375,9 @@
         "url": "https://streamhdx.com/live1.php?stream=fanatiz8"
       },
       {
-        "nombre": "Tigo Sports 3",
+        "nombre": "Tigo Sports 2",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tigo3"
+        "url": "https://streamhdx.com/live1.php?stream=tigo2"
       }
     ]
   },
@@ -556,9 +396,9 @@
         "url": "https://streamhdx.com/live1.php?stream=fanatiz7"
       },
       {
-        "nombre": "Tigo Sports 2",
+        "nombre": "Tigo Sports 3",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tigo2"
+        "url": "https://streamhdx.com/live1.php?stream=tigo3"
       }
     ]
   },
@@ -572,14 +412,14 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "Espn BO",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/2/?id=espnbo"
+      },
+      {
         "nombre": "ESPN",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney18"
       },
       {
         "nombre": "Fox Sports 1 AR",
@@ -643,6 +483,22 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney20"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Canadá - Carrera | Race HUB",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 24 de Mayo 2026",
+    "fecha_iso": "2026-05-24",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney18"
       }
     ]
   },
