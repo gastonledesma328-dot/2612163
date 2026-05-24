@@ -56,6 +56,11 @@
         "url": "https://streamhdx.com/live1.php?stream=espn3"
       },
       {
+        "nombre": "ESPN MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnmx"
+      },
+      {
         "nombre": "Paramount +",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=paramount1"
@@ -743,16 +748,6 @@
         "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
       },
       {
-        "nombre": "Fanatiz | Inglés",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
-      },
-      {
-        "nombre": "Fanatiz | Sonido Ambiente",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
-      },
-      {
         "nombre": "TNT Sports",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=tntsports"
@@ -781,6 +776,16 @@
         "nombre": "FOX Deportes",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
+      },
+      {
+        "nombre": "Fanatiz | Inglés",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
+      },
+      {
+        "nombre": "Fanatiz | Sonido Ambiente",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
       }
     ]
   },
@@ -801,7 +806,7 @@
       {
         "nombre": "Paramount +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount4"
+        "url": "https://streamhdx.com/live1.php?stream=paramount5"
       }
     ]
   },
@@ -822,7 +827,7 @@
       {
         "nombre": "Paramount +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount5"
+        "url": "https://streamhdx.com/live1.php?stream=paramount1"
       }
     ]
   },
@@ -843,7 +848,7 @@
       {
         "nombre": "Paramount +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount3"
+        "url": "https://streamhdx.com/live1.php?stream=paramount4"
       }
     ]
   },
@@ -869,7 +874,7 @@
       {
         "nombre": "Paramount +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount6"
+        "url": "https://streamhdx.com/live1.php?stream=paramount3"
       }
     ]
   },
@@ -890,7 +895,7 @@
       {
         "nombre": "Paramount +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount7"
+        "url": "https://streamhdx.com/live1.php?stream=paramount2"
       }
     ]
   },
@@ -939,6 +944,16 @@
         "nombre": "Dsports",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Espn + | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnplus2"
+      },
+      {
+        "nombre": "Espn Deportes USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
       }
     ]
   },
