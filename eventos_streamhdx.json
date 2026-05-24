@@ -1,84 +1,5 @@
 [
   {
-    "titulo": "Primera División: Cerro vs Central Español",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Parma vs Sassuolo",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      },
-      {
-        "nombre": "ESPN MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnmx"
-      },
-      {
-        "nombre": "Paramount +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount1"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga SmartBank: Albacete vs Real Sociedad II",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "11:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "LaLiga Hypermotion",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga SmartBank: FC Andorra vs Ceuta",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "11:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "LaLiga Hypermotion 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion2"
-      }
-    ]
-  },
-  {
     "titulo": "Premier League: Brighton vs Manchester United",
     "categoria": "futbol",
     "clase": "ENG",
@@ -226,14 +147,14 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Telemundo",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/telemundo.php"
-      },
-      {
         "nombre": "Espn 3 BO",
         "calidad": "720p",
         "url": "https://streamhdx.com/channels/2/?id=espn3bo"
+      },
+      {
+        "nombre": "Telemundo",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/telemundo.php"
       }
     ]
   },
@@ -247,11 +168,6 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Universo",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/universo.php"
-      },
-      {
         "nombre": "Espn 7 BO",
         "calidad": "720p",
         "url": "https://streamhdx.com/channels/2/?id=espn7bo"
@@ -260,6 +176,11 @@
         "nombre": "Disney +",
         "calidad": "720p",
         "url": "https://streamhdx.com/pre.php?stream=disney3pl"
+      },
+      {
+        "nombre": "Universo",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/universo.php"
       }
     ]
   },
@@ -292,6 +213,11 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney7"
+      },
+      {
+        "nombre": "Espn 5",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn5"
       }
     ]
   },
@@ -352,9 +278,14 @@
         "url": "https://streamhdx.com/live1.php?stream=fox3ar"
       },
       {
-        "nombre": "Disney+ AR",
+        "nombre": "Fanatiz | Español",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1ar"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
+      },
+      {
+        "nombre": "Fanatiz | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz10"
       }
     ]
   },
