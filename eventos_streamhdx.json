@@ -1,26 +1,5 @@
 [
   {
-    "titulo": "Eredivisie: Ajax vs Utrecht",
-    "categoria": "futbol",
-    "clase": "HOL",
-    "fecha": "Domingo 24 de Mayo 2026",
-    "fecha_iso": "2026-05-24",
-    "hora": "07:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney6"
-      },
-      {
-        "nombre": "ESPN NL1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn_nl1"
-      }
-    ]
-  },
-  {
     "titulo": "Primera División: Cerro vs Central Español",
     "categoria": "futbol",
     "clase": "URU",
@@ -80,11 +59,6 @@
         "nombre": "LaLiga Hypermotion",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=laligahypermotion"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
       }
     ]
   },
@@ -101,11 +75,6 @@
         "nombre": "LaLiga Hypermotion 2",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=laligahypermotion2"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
       }
     ]
   },
