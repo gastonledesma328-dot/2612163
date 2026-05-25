@@ -170,22 +170,6 @@
     ]
   },
   {
-    "titulo": "MLB: Reds vs Mets",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Lunes 25 de Mayo 2026",
-    "fecha_iso": "2026-05-25",
-    "hora": "17:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb5"
-      }
-    ]
-  },
-  {
     "titulo": "Liga 1: Comerciantes Unidos vs Deportivo Garcilaso",
     "categoria": "futbol",
     "clase": "PE",
