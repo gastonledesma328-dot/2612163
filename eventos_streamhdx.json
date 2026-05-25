@@ -1,6 +1,6 @@
 [
   {
-    "titulo": "League Two: Notts County vs Salford City",
+    "titulo": "League Two: Notts County vs Salford City | FINAL",
     "categoria": "futbol",
     "clase": "ENG",
     "fecha": "Lunes 25 de Mayo 2026",
@@ -9,9 +9,30 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Disney+",
+        "nombre": "Disney +",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "Paramount +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=paramount1"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Imposible Sub-17: U. de Chile vs Fortaleza",
+    "categoria": "futbol",
+    "clase": "FUT",
+    "fecha": "Lunes 25 de Mayo 2026",
+    "fecha_iso": "2026-05-25",
+    "hora": "11:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney15"
       }
     ]
   },
@@ -129,6 +150,22 @@
         "nombre": "ESPN 2",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Scottish Premiership: St. Mirren vs Partick Thistle | Final 2/2",
+    "categoria": "futbol",
+    "clase": "ESC",
+    "fecha": "Lunes 25 de Mayo 2026",
+    "fecha_iso": "2026-05-25",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Paramount +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=paramount1"
       }
     ]
   },
