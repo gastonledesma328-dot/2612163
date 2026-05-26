@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Amistoso: Marruecos vs Burundi",
-    "categoria": "futbol",
-    "clase": "FUT",
-    "fecha": "Martes 26 de Mayo 2026",
-    "fecha_iso": "2026-05-26",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
     "titulo": "Torneo de Reserva: Defensa y Justicia Res. vs Independiente",
     "categoria": "futbol",
     "clase": "AR",
@@ -32,9 +16,9 @@
     ]
   },
   {
-    "titulo": "Tenis: Roland Garros - Día #3 - Primera Ronda",
+    "titulo": "Fórmula S - Kartódromo de Buenos Aires",
     "categoria": "futbol",
-    "clase": "ATP",
+    "clase": "FUT:",
     "fecha": "Martes 26 de Mayo 2026",
     "fecha_iso": "2026-05-26",
     "hora": "15:00",
@@ -65,6 +49,22 @@
         "nombre": "Fox Sports 2 AR",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fox2ar"
+      }
+    ]
+  },
+  {
+    "titulo": "Amisto Internacional: Nigeria vs Zimbabue",
+    "categoria": "futbol",
+    "clase": "FUT",
+    "fecha": "Martes 26 de Mayo 2026",
+    "fecha_iso": "2026-05-26",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento1"
       }
     ]
   },
