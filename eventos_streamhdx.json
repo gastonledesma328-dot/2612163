@@ -1,122 +1,11 @@
 [
   {
-    "titulo": "Torneo de Reserva: Defensa y Justicia Res. vs Independiente",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Martes 26 de Mayo 2026",
-    "fecha_iso": "2026-05-26",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4"
-      }
-    ]
-  },
-  {
-    "titulo": "Fórmula S - Kartódromo de Buenos Aires",
-    "categoria": "futbol",
-    "clase": "FUT:",
-    "fecha": "Martes 26 de Mayo 2026",
-    "fecha_iso": "2026-05-26",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "2. Bundesliga: Greuther Fürth vs Rot-Weiss Essen",
-    "categoria": "futbol",
-    "clase": "ALE",
-    "fecha": "Martes 26 de Mayo 2026",
-    "fecha_iso": "2026-05-26",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Fox Sports 2 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox2ar"
-      }
-    ]
-  },
-  {
-    "titulo": "Amisto Internacional: Nigeria vs Zimbabue",
-    "categoria": "futbol",
-    "clase": "FUT",
-    "fecha": "Martes 26 de Mayo 2026",
-    "fecha_iso": "2026-05-26",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
-    "titulo": "Ligue 1: Saint-Étienne vs Nice",
-    "categoria": "futbol",
-    "clase": "FRA",
-    "fecha": "Martes 26 de Mayo 2026",
-    "fecha_iso": "2026-05-26",
-    "hora": "15:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "ESPN 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Imposible Sub-17: Boca Juniors vs U de Chile",
-    "categoria": "futbol",
-    "clase": "FUT",
-    "fecha": "Martes 26 de Mayo 2026",
-    "fecha_iso": "2026-05-26",
-    "hora": "15:50",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Imposible Sub-17: Fluminense vs River Plate",
     "categoria": "futbol",
     "clase": "FUT",
     "fecha": "Martes 26 de Mayo 2026",
     "fecha_iso": "2026-05-26",
-    "hora": "17:25",
+    "hora": "17:55",
     "duracion_min": 140,
     "canales": [
       {
@@ -202,6 +91,11 @@
     "hora": "19:00",
     "duracion_min": 140,
     "canales": [
+      {
+        "nombre": "Dsports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
+      },
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
@@ -575,6 +469,11 @@
     "hora": "21:30",
     "duracion_min": 140,
     "canales": [
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsports"
+      },
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
