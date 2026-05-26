@@ -1,68 +1,5 @@
 [
   {
-    "titulo": "NBA: Cleveland Cavaliers vs New York Knicks",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Lunes 25 de Mayo 2026",
-    "fecha_iso": "2026-05-25",
-    "hora": "21:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      },
-      {
-        "nombre": "NBA League Pass",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=nba1"
-      },
-      {
-        "nombre": "ESPN MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnmx"
-      }
-    ]
-  },
-  {
-    "titulo": "NHL: Montreal Canadiens vs Carolina Hurricanes",
-    "categoria": "futbol",
-    "clase": "NHL",
-    "fecha": "Lunes 25 de Mayo 2026",
-    "fecha_iso": "2026-05-25",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera B: Real Cartagena vs Envigado | Final (1/2)",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Lunes 25 de Mayo 2026",
-    "fecha_iso": "2026-05-25",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=winplus"
-      },
-      {
-        "nombre": "Win Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=winsports"
-      }
-    ]
-  },
-  {
     "titulo": "Amistoso: Marruecos vs Burundi",
     "categoria": "futbol",
     "clase": "FUT",
@@ -357,22 +294,6 @@
     ]
   },
   {
-    "titulo": "MLB: Nationals vs Guardians",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Martes 26 de Mayo 2026",
-    "fecha_iso": "2026-05-26",
-    "hora": "19:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb1"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Rays vs Orioles",
     "categoria": "futbol",
     "clase": "MLB",
@@ -385,22 +306,6 @@
         "nombre": "MLB | Inglés - Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=mlb2"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Angels vs Tigers",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Martes 26 de Mayo 2026",
-    "fecha_iso": "2026-05-26",
-    "hora": "19:40",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb3"
       }
     ]
   },
@@ -437,22 +342,6 @@
     ]
   },
   {
-    "titulo": "MLB: Marlins vs Blue Jays",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Martes 26 de Mayo 2026",
-    "fecha_iso": "2026-05-26",
-    "hora": "20:07",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb6"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Reds vs Mets",
     "categoria": "futbol",
     "clase": "MLB",
@@ -481,22 +370,6 @@
         "nombre": "MLB | Inglés - Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=mlb10"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Twins vs White Sox",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Martes 26 de Mayo 2026",
-    "fecha_iso": "2026-05-26",
-    "hora": "20:40",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb8"
       }
     ]
   },
@@ -775,22 +648,6 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney12"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Diamondbacks vs Giants",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Martes 26 de Mayo 2026",
-    "fecha_iso": "2026-05-26",
-    "hora": "22:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb12"
       }
     ]
   },
