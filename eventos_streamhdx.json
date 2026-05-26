@@ -92,9 +92,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Dsports +",
+        "nombre": "Dsports PE",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
+        "url": "https://streamhdx.com/live1.php?stream=evento1"
       },
       {
         "nombre": "Fanatiz",
@@ -116,6 +116,16 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney3"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Espn 2 AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2ar"
       },
       {
         "nombre": "Fanatiz",
