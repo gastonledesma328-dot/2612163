@@ -25,7 +25,7 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLB | Inglés - Español",
+        "nombre": "MLB | Inglés",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=mlb1"
       }
