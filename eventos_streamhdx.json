@@ -1,121 +1,5 @@
 [
   {
-    "titulo": "MLB:Toronto Blue Jays vs. Miami Marlins",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Miércoles 27 de Mayo 2026",
-    "fecha_iso": "2026-05-27",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 7",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn7"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Brewers vs Cardinals",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Miércoles 27 de Mayo 2026",
-    "fecha_iso": "2026-05-27",
-    "hora": "14:40",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb1"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso Internacional: Jamaica vs India",
-    "categoria": "futbol",
-    "clase": "FUT",
-    "fecha": "Miércoles 27 de Mayo 2026",
-    "fecha_iso": "2026-05-27",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento5"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Conference League: Crystal Palace vs Rayo Vallecano - Final",
-    "categoria": "futbol",
-    "clase": "UCL",
-    "fecha": "Miércoles 27 de Mayo 2026",
-    "fecha_iso": "2026-05-27",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Espn",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Espn MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnmx"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
-      },
-      {
-        "nombre": "Paramount +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount1"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Padres vs Phillies",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Miércoles 27 de Mayo 2026",
-    "fecha_iso": "2026-05-27",
-    "hora": "17:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa BetPlay DIMAYOR: Boyacá Chicó vs Llaneros",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Miércoles 27 de Mayo 2026",
-    "fecha_iso": "2026-05-27",
-    "hora": "18:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Libertadores: Independiente del Valle vs Rosario Central",
     "categoria": "futbol",
     "clase": "LIB",
@@ -256,7 +140,7 @@
       {
         "nombre": "Espn 3 AR",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsports"
+        "url": "https://streamhdx.com/live1.php?stream=espn3ar"
       },
       {
         "nombre": "Fanatiz",
