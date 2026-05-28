@@ -1,281 +1,5 @@
 [
   {
-    "titulo": "Copa Libertadores: Independiente del Valle vs Rosario Central",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Miércoles 27 de Mayo 2026",
-    "fecha_iso": "2026-05-27",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Telefe",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=telefe"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney8"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz8"
-      },
-      {
-        "nombre": "Espn",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Espn 4 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4mx"
-      },
-      {
-        "nombre": "Fox Sports 1 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Libertad vs UCV",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Miércoles 27 de Mayo 2026",
-    "fecha_iso": "2026-05-27",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney7"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz7"
-      },
-      {
-        "nombre": "Espn 7",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn7"
-      },
-      {
-        "nombre": "Fox Sports 2 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox2ar"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Atlético Mineiro vs Academia Puerto Cabello",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Miércoles 27 de Mayo 2026",
-    "fecha_iso": "2026-05-27",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
-      },
-      {
-        "nombre": "Espn 4",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Caracas vs Botafogo",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Miércoles 27 de Mayo 2026",
-    "fecha_iso": "2026-05-27",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz6"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Cienciano vs Juventud",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Miércoles 27 de Mayo 2026",
-    "fecha_iso": "2026-05-27",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney6"
-      },
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Espn 3 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3ar"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz5"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Olimpia vs Audax Italiano",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Miércoles 27 de Mayo 2026",
-    "fecha_iso": "2026-05-27",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
-      },
-      {
-        "nombre": "Espn 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Racing Club vs Independiente Petrolero",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Miércoles 27 de Mayo 2026",
-    "fecha_iso": "2026-05-27",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney5"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
-      },
-      {
-        "nombre": "Espn 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Vasco da Gama vs Barracas Central",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Miércoles 27 de Mayo 2026",
-    "fecha_iso": "2026-05-27",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
-      },
-      {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Orioles vs Rays",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Miércoles 27 de Mayo 2026",
-    "fecha_iso": "2026-05-27",
-    "hora": "19:35",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb3"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Pirates vs Cubs",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Miércoles 27 de Mayo 2026",
-    "fecha_iso": "2026-05-27",
-    "hora": "19:40",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb4"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Red Sox vs Braves",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Miércoles 27 de Mayo 2026",
-    "fecha_iso": "2026-05-27",
-    "hora": "19:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb5"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Royals vs Yankees",
     "categoria": "futbol",
     "clase": "MLB",
@@ -285,9 +9,25 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLB | Inglés - Español",
+        "nombre": "MLB | Inglés",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=mlb6"
+      }
+    ]
+  },
+  {
+    "titulo": "NHL: Colorado Avalanche vs Vegas Golden Knights",
+    "categoria": "futbol",
+    "clase": "NHL",
+    "fecha": "Miércoles 27 de Mayo 2026",
+    "fecha_iso": "2026-05-27",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney14"
       }
     ]
   },
@@ -457,6 +197,16 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "Dsports CL",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/dgo.php"
+      },
+      {
+        "nombre": "Como IT",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/cobo.php?id=como_it3"
+      },
+      {
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney9"
@@ -484,34 +234,18 @@
     ]
   },
   {
-    "titulo": "NHL: Colorado Avalanche vs Vegas Golden Knights",
+    "titulo": "Noche De Copas: Libertadores y Sudamericana",
     "categoria": "futbol",
-    "clase": "NHL",
+    "clase": "LIB",
     "fecha": "Miércoles 27 de Mayo 2026",
     "fecha_iso": "2026-05-27",
-    "hora": "22:00",
+    "hora": "21:30",
     "duracion_min": 140,
     "canales": [
       {
         "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney14"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Dodgers vs Rockies",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Miércoles 27 de Mayo 2026",
-    "fecha_iso": "2026-05-27",
-    "hora": "23:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB | Inglés - Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlb8"
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
       }
     ]
   },
