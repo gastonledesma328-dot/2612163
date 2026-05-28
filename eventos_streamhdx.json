@@ -9,9 +9,14 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Disney+",
+        "nombre": "Disney +",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "Vix +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix1"
       },
       {
         "nombre": "Fox Sports 2 USA",
