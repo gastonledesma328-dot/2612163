@@ -1,48 +1,324 @@
 [
   {
-    "titulo": "Espn - Fox",
+    "titulo": "Sorteo Octavos de final Libertadores y Sudamericana",
     "categoria": "futbol",
     "clase": "LIB",
-    "fecha": "Jueves 28 de Mayo 2026",
-    "fecha_iso": "2026-05-28",
-    "hora": "21:30",
+    "fecha": "Viernes 29 de Mayo 2026",
+    "fecha_iso": "2026-05-29",
+    "hora": "12:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Espn AR",
+        "nombre": "ESPN 3",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnar"
+        "url": "https://streamhdx.com/live1.php?stream=espn3"
       },
       {
-        "nombre": "Fox Sports AR",
+        "nombre": "Dsports",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
+        "url": "https://streamhdx.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tntsports"
       }
     ]
   },
   {
-    "titulo": "NBA: Thunder vs Spurs",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Jueves 28 de Mayo 2026",
-    "fecha_iso": "2026-05-28",
-    "hora": "21:30",
-    "duracion_min": 200,
+    "titulo": "Serie B: Monza vs Catanzaro",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Viernes 29 de Mayo 2026",
+    "fecha_iso": "2026-05-29",
+    "hora": "15:00",
+    "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Max",
+        "nombre": "Dsports +",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max1"
+        "url": "https://streamhdx.com/live1.php?stream=dsportsplus"
       },
       {
-        "nombre": "NBA League Pass",
+        "nombre": "Espn 3 MX",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=nba1"
+        "url": "https://streamhdx.com/live1.php?stream=espn3mx"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Bosnia-Herzegovina vs Macedonia del Norte",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Viernes 29 de Mayo 2026",
+    "fecha_iso": "2026-05-29",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
+      }
+    ]
+  },
+  {
+    "titulo": "Ligue 1: Nice vs Saint-Étienne",
+    "categoria": "futbol",
+    "clase": "FRA",
+    "fecha": "Viernes 29 de Mayo 2026",
+    "fecha_iso": "2026-05-29",
+    "hora": "15:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney2"
       },
       {
-        "nombre": "Amazon Prime",
+        "nombre": "Espn 5",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=amazon1"
+        "url": "https://streamhdx.com/live1.php?stream=espn5"
+      },
+      {
+        "nombre": "Espn 4 AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn4ar"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Colombia vs Costa Rica",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Viernes 29 de Mayo 2026",
+    "fecha_iso": "2026-05-29",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "RCN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento1"
+      },
+      {
+        "nombre": "Caracol",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento2"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga 1: Atlético Grau vs Deportivo Moquegua",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Viernes 29 de Mayo 2026",
+    "fecha_iso": "2026-05-29",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Liga1max",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=liga1max"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Ecuador: Deportes Quindío vs Técnico Universitario",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Viernes 29 de Mayo 2026",
+    "fecha_iso": "2026-05-29",
+    "hora": "17:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports Eventos",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento5"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Colombia: Cúcuta Deportivo vs Fortaleza CEIF",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Viernes 29 de Mayo 2026",
+    "fecha_iso": "2026-05-29",
+    "hora": "18:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Cobresal vs Ñublense",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Viernes 29 de Mayo 2026",
+    "fecha_iso": "2026-05-29",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports CL",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Cerro Largo vs Cerro",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Viernes 29 de Mayo 2026",
+    "fecha_iso": "2026-05-29",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney3"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Colombia: Leones vs Medellín",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Viernes 29 de Mayo 2026",
+    "fecha_iso": "2026-05-29",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Ecuador: Huaquillas vs Leones del Norte",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Viernes 29 de Mayo 2026",
+    "fecha_iso": "2026-05-29",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports Eventos",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento5"
+      }
+    ]
+  },
+  {
+    "titulo": "ESPN Knockout – Ivan Ricardo Actis vs. Victor Garcia",
+    "categoria": "box",
+    "clase": "BOX",
+    "fecha": "Viernes 29 de Mayo 2026",
+    "fecha_iso": "2026-05-29",
+    "hora": "21:00",
+    "duracion_min": 400,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "Finales de Conferencia - Carolina Hurricanes vs. Montreal Canadiens",
+    "categoria": "futbol",
+    "clase": "NHL",
+    "fecha": "Viernes 29 de Mayo 2026",
+    "fecha_iso": "2026-05-29",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn4"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie B: Juventude vs América Mineiro",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Viernes 29 de Mayo 2026",
+    "fecha_iso": "2026-05-29",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney + BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1br"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Univ. Concepción vs Unión La Calera",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Viernes 29 de Mayo 2026",
+    "fecha_iso": "2026-05-29",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports CL",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Colombia: Atlético Cali vs Millonarios",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Viernes 29 de Mayo 2026",
+    "fecha_iso": "2026-05-29",
+    "hora": "22:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
+      }
+    ]
+  },
+  {
+    "titulo": "ESPN Knockout – MMA – Lucas Fernando vs. Leon Soares",
+    "categoria": "box",
+    "clase": "BOX",
+    "fecha": "Viernes 29 de Mayo 2026",
+    "fecha_iso": "2026-05-29",
+    "hora": "22:25",
+    "duracion_min": 400,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn3"
       }
     ]
   }
