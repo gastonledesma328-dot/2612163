@@ -1,121 +1,6 @@
 [
   {
-    "titulo": "Copa Libertadores: Cerro Porteño vs Sporting Cristal",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Jueves 28 de Mayo 2026",
-    "fecha_iso": "2026-05-28",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Fox Sports 3 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox3ar"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Palmeiras vs Junior",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Jueves 28 de Mayo 2026",
-    "fecha_iso": "2026-05-28",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
-      },
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "ESPN 2 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2mx"
-      },
-      {
-        "nombre": "Fox Sports 2 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox2ar"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Imposible Sub-17: Boca Juniors vs. Atletico Nacional #Cuartos de Final",
-    "categoria": "futbol",
-    "clase": "fut",
-    "fecha": "Jueves 28 de Mayo 2026",
-    "fecha_iso": "2026-05-28",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Ecuador: El Nacional vs U. Católica",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Jueves 28 de Mayo 2026",
-    "fecha_iso": "2026-05-28",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports Eventos",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento5"
-      }
-    ]
-  },
-  {
-    "titulo": "Torneo Proyección: River Plate Res. vs San Lorenzo Res.",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Jueves 28 de Mayo 2026",
-    "fecha_iso": "2026-05-28",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Premium",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tntsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Boca Juniors vs CDU Católica",
+    "titulo": "Espn - Fox",
     "categoria": "futbol",
     "clase": "LIB",
     "fecha": "Jueves 28 de Mayo 2026",
@@ -124,112 +9,14 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Disney+",
+        "nombre": "Espn AR",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
+        "url": "https://streamhdx.com/live1.php?stream=espnar"
       },
       {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
-      },
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "ESPN 2 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2mx"
-      },
-      {
-        "nombre": "Fox Sports 1 AR",
+        "nombre": "Fox Sports AR",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fox1ar"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Cruzeiro vs Barcelona SC",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Jueves 28 de Mayo 2026",
-    "fecha_iso": "2026-05-28",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney5"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
-      },
-      {
-        "nombre": "ESPN 7",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn7"
-      },
-      {
-        "nombre": "Fox Sports 2 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox2ar"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: América de Cali vs Macará",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Jueves 28 de Mayo 2026",
-    "fecha_iso": "2026-05-28",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney7"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz6"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Tigre vs Alianza Atlético",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Jueves 28 de Mayo 2026",
-    "fecha_iso": "2026-05-28",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney6"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz5"
-      },
-      {
-        "nombre": "ESPN 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
       }
     ]
   },
@@ -251,6 +38,11 @@
         "nombre": "NBA League Pass",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=nba1"
+      },
+      {
+        "nombre": "Amazon Prime",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=amazon1"
       }
     ]
   }
