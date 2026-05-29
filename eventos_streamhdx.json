@@ -1,31 +1,5 @@
 [
   {
-    "titulo": "Sorteo Octavos de final Libertadores y Sudamericana",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Viernes 29 de Mayo 2026",
-    "fecha_iso": "2026-05-29",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      },
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tntsports"
-      }
-    ]
-  },
-  {
     "titulo": "Serie B: Monza vs Catanzaro",
     "categoria": "futbol",
     "clase": "IT",
@@ -77,6 +51,11 @@
         "url": "https://streamhdx.com/live1.php?stream=disney2"
       },
       {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
+      },
+      {
         "nombre": "Espn 5",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn5"
@@ -110,6 +89,27 @@
     ]
   },
   {
+    "titulo": "Primera B: Envigado vs Real Cartagena | Final (2/2)",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Viernes 29 de Mayo 2026",
+    "fecha_iso": "2026-05-29",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=winplus"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
+      }
+    ]
+  },
+  {
     "titulo": "Copa Ecuador: Deportes Quindío vs Técnico Universitario",
     "categoria": "futbol",
     "clase": "ECUA",
@@ -122,22 +122,6 @@
         "nombre": "Dsports Eventos",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=evento5"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Colombia: Cúcuta Deportivo vs Fortaleza CEIF",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Viernes 29 de Mayo 2026",
-    "fecha_iso": "2026-05-29",
-    "hora": "18:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
       }
     ]
   },
