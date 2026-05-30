@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "LaLiga SmartBank: Ceuta vs Albacete",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Sábado 30 de Mayo 2026",
-    "fecha_iso": "2026-05-30",
-    "hora": "11:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "La Liga Hypermotion",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga SmartBank: Real Sociedad II vs Cultural Leonesa",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Sábado 30 de Mayo 2026",
-    "fecha_iso": "2026-05-30",
-    "hora": "11:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "La Liga Hypermotion 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion2"
-      }
-    ]
-  },
-  {
     "titulo": "Serie A: Manta vs Libertad",
     "categoria": "futbol",
     "clase": "ECUA",
@@ -88,6 +56,21 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "La 1 ES | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/ote.php?id=la1spain"
+      },
+      {
+        "nombre": "Fox One | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/foxone.php"
+      },
+      {
+        "nombre": "CBS Sports | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channels/cbs.php"
+      },
+      {
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney2"
@@ -111,6 +94,11 @@
         "nombre": "La 1 ES",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=evento10"
+      },
+      {
+        "nombre": "Movistar Liga de Campeones",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=mlaliga"
       },
       {
         "nombre": "Max",
