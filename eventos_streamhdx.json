@@ -16,37 +16,6 @@
     ]
   },
   {
-    "titulo": "Liga 1: ADT vs Cusco",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 30 de Mayo 2026",
-    "fecha_iso": "2026-05-30",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Liga1max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=liga1max"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
-      },
-      {
-        "nombre": "Movistar Deportes",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=movistar_deportes_peru"
-      },
-      {
-        "nombre": "L1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=liga1"
-      }
-    ]
-  },
-  {
     "titulo": "UEFA Champions League: PSG vs Arsenal",
     "categoria": "futbol",
     "clase": "CHA",
