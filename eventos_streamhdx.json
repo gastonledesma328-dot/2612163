@@ -1,122 +1,5 @@
 [
   {
-    "titulo": "Copa Ecuador: Huaquillas vs Leones del Norte",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Viernes 29 de Mayo 2026",
-    "fecha_iso": "2026-05-29",
-    "hora": "20:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports Eventos",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento5"
-      }
-    ]
-  },
-  {
-    "titulo": "ESPN Knockout – Ivan Ricardo Actis vs. Victor Garcia",
-    "categoria": "box",
-    "clase": "BOX",
-    "fecha": "Viernes 29 de Mayo 2026",
-    "fecha_iso": "2026-05-29",
-    "hora": "21:00",
-    "duracion_min": 400,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "Finales de Conferencia - Carolina Hurricanes vs. Montreal Canadiens",
-    "categoria": "futbol",
-    "clase": "NHL",
-    "fecha": "Viernes 29 de Mayo 2026",
-    "fecha_iso": "2026-05-29",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn4"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie B: Juventude vs América Mineiro",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Viernes 29 de Mayo 2026",
-    "fecha_iso": "2026-05-29",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "X Sports BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2br"
-      },
-      {
-        "nombre": "Disney + BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1br"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Univ. Concepción vs Unión La Calera",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Viernes 29 de Mayo 2026",
-    "fecha_iso": "2026-05-29",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports CL",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Colombia: Atlético Cali vs Millonarios",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Viernes 29 de Mayo 2026",
-    "fecha_iso": "2026-05-29",
-    "hora": "22:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
-      }
-    ]
-  },
-  {
-    "titulo": "ESPN Knockout – MMA – Lucas Fernando vs. Leon Soares",
-    "categoria": "box",
-    "clase": "BOX",
-    "fecha": "Viernes 29 de Mayo 2026",
-    "fecha_iso": "2026-05-29",
-    "hora": "22:25",
-    "duracion_min": 400,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
     "titulo": "UFC: Y. Song vs. D. Figueiredo",
     "categoria": "ufc",
     "clase": "UFC",
@@ -126,17 +9,17 @@
     "duracion_min": 480,
     "canales": [
       {
-        "nombre": "Paramount + |Español",
+        "nombre": "Paramount + | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=paramount1"
       },
       {
-        "nombre": "Paramount + |Portugues",
+        "nombre": "Paramount + | Portugues",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=paramount2"
       },
       {
-        "nombre": "Paramount + |Ingles",
+        "nombre": "Paramount + | Ingles",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=paramount3"
       }
@@ -208,6 +91,22 @@
         "nombre": "La Liga Hypermotion 2",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=laligahypermotion2"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A: Manta vs Libertad",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Sábado 30 de Mayo 2026",
+    "fecha_iso": "2026-05-30",
+    "hora": "11:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping Sports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
       }
     ]
   },
@@ -389,22 +288,6 @@
         "nombre": "TNT Sports CL",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Manta vs Libertad",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Sábado 30 de Mayo 2026",
-    "fecha_iso": "2026-05-30",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
       }
     ]
   },
