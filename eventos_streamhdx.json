@@ -1,100 +1,5 @@
 [
   {
-    "titulo": "Serie A: Manta vs Libertad",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Sábado 30 de Mayo 2026",
-    "fecha_iso": "2026-05-30",
-    "hora": "11:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Argentina: Gimnasia Jujuy vs Belgrano",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Sábado 30 de Mayo 2026",
-    "fecha_iso": "2026-05-30",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
-      },
-      {
-        "nombre": "TyC Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tycsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Athletico-PR vs Mirassol",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Sábado 30 de Mayo 2026",
-    "fecha_iso": "2026-05-30",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
-      },
-      {
-        "nombre": "Premiere 4 BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=premiere4"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Flamengo vs Coritiba",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Sábado 30 de Mayo 2026",
-    "fecha_iso": "2026-05-30",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Sportv BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
-      },
-      {
-        "nombre": "Premiere BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=premiere1"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga SmartBank: Granada vs Sporting Gijón",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Sábado 30 de Mayo 2026",
-    "fecha_iso": "2026-05-30",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "La Liga Hypermotion",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion"
-      }
-    ]
-  },
-  {
     "titulo": "Liga 1: Universitario vs Sport Huancayo",
     "categoria": "futbol",
     "clase": "PE",
@@ -112,59 +17,6 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fanatiz11"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: La Serena vs Colo-Colo",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Sábado 30 de Mayo 2026",
-    "fecha_iso": "2026-05-30",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports CL",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: LDU Quito vs Orense",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Sábado 30 de Mayo 2026",
-    "fecha_iso": "2026-05-30",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Deportivo Garcilaso vs Juan Pablo II College",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 30 de Mayo 2026",
-    "fecha_iso": "2026-05-30",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Liga1max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=liga1max"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
       }
     ]
   },
@@ -249,6 +101,22 @@
         "nombre": "TNT Sports CL",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Imposible Argentinos Juniors vs. Atletico Nacional | FInal",
+    "categoria": "futbol",
+    "clase": "FUT",
+    "fecha": "Sábado 30 de Mayo 2026",
+    "fecha_iso": "2026-05-30",
+    "hora": "18:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
       }
     ]
   },
