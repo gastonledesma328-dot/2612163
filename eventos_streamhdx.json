@@ -16,113 +16,6 @@
     ]
   },
   {
-    "titulo": "UEFA Champions League: PSG vs Arsenal",
-    "categoria": "futbol",
-    "clase": "CHA",
-    "fecha": "Sábado 30 de Mayo 2026",
-    "fecha_iso": "2026-05-30",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "La 1 ES | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/ote.php?id=la1spain"
-      },
-      {
-        "nombre": "Fox One | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/foxone.php"
-      },
-      {
-        "nombre": "CBS Sports | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/cbs.php"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "ESPN CO",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "ESPN AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnar"
-      },
-      {
-        "nombre": "La 1 ES",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento10"
-      },
-      {
-        "nombre": "Movistar Liga de Campeones",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=mlaliga"
-      },
-      {
-        "nombre": "Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max1"
-      },
-      {
-        "nombre": "Max BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento8"
-      },
-      {
-        "nombre": "Fox Sports 1 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
-      },
-      {
-        "nombre": "Paramount +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount1"
-      },
-      {
-        "nombre": "VIX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix2"
-      },
-      {
-        "nombre": "Fox One",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=foxone"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Danubio vs Progreso",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 30 de Mayo 2026",
-    "fecha_iso": "2026-05-30",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Argentina: Gimnasia Jujuy vs Belgrano",
     "categoria": "futbol",
     "clase": "AR",
@@ -239,6 +132,22 @@
     ]
   },
   {
+    "titulo": "Serie A: LDU Quito vs Orense",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Sábado 30 de Mayo 2026",
+    "fecha_iso": "2026-05-30",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping Sports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
     "titulo": "Liga 1: Deportivo Garcilaso vs Juan Pablo II College",
     "categoria": "futbol",
     "clase": "PE",
@@ -340,22 +249,6 @@
         "nombre": "TNT Sports CL",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: LDU Quito vs Orense",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Sábado 30 de Mayo 2026",
-    "fecha_iso": "2026-05-30",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
       }
     ]
   },
