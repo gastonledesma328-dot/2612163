@@ -1,53 +1,765 @@
 [
   {
-    "titulo": "Amistoso: México vs Australia",
+    "titulo": "MotoGP GP Italia - Moto3 / Moto2 / MotoGP",
     "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 30 de Mayo 2026",
-    "fecha_iso": "2026-05-30",
-    "hora": "23:00",
+    "clase": "motogp",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "05:45",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Canal 5 MX",
+        "nombre": "ESPN 4",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=canal5mx"
-      },
-      {
-        "nombre": "TUDN MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tudnmx"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
-      },
-      {
-        "nombre": "Fox Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
-      },
-      {
-        "nombre": "Azteca 7",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=azteca7"
+        "url": "https://streamhdx.com/live1.php?stream=espn4"
       }
     ]
   },
   {
-    "titulo": "ESPN Knockout: Francisco Rodriguez vs. Angelino Cordova",
-    "categoria": "box",
-    "clase": "BOX",
-    "fecha": "Sábado 30 de Mayo 2026",
-    "fecha_iso": "2026-05-30",
-    "hora": "23:00",
-    "duracion_min": 400,
+    "titulo": "Amistoso Internacional: Japón vs Islandia",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "07:25",
+    "duracion_min": 140,
     "canales": [
+      {
+        "nombre": "Sportv BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Suiza vs Jordania",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "ESPN CO",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnco"
+      },
       {
         "nombre": "ESPN",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "ESPN AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnar"
+      },
+      {
+        "nombre": "Vix 1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix1"
+      },
+      {
+        "nombre": "Fox Sports 2 USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=f2usa"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Albion vs Torque",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney2"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: República Checa vs Kosovo",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney3"
+      },
+      {
+        "nombre": "Vix 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix2"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: RB Bragantino vs Internacional",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+      },
+      {
+        "nombre": "Premiere 1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=premiere1"
+      }
+    ]
+  },
+  {
+    "titulo": "FA Women's Cup: Brighton vs Manchester City",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 7",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn7"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Polonia vs Ucrania",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "12:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney4"
+      },
+      {
+        "nombre": "Vix 3",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix3"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Juventud vs Wanderers",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "12:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga 1: Melgar vs Alianza Atlético",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
+      },
+      {
+        "nombre": "Liga1Max",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=liga1max"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga SmartBank: Almería vs Real Valladolid",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports Eventos",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento7"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga SmartBank: Burgos vs FC Andorra",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney6"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga SmartBank: CD Castellón vs Eibar",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "LaLiga Hypermotion 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion2"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga SmartBank: Deportivo La Coruña vs Las Palmas",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "LaLiga Hypermotion 3",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion3"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga SmartBank: Multigol",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "LaLiga Hypermotion",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga SmartBank: Racing Santander vs Cádiz",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney5"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga SmartBank: Real Zaragoza vs Málaga",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney7"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División de Chile: Deportes Limache vs Coquimbo Unido",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A de Ecuador: Mushuc Runa vs Aucas",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga 1: FC Cajamarca vs Alianza Lima",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "15:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
+      },
+      {
+        "nombre": "Liga1Max",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=liga1max"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Argentina: Estudiantes vs Rosario Central",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
+      },
+      {
+        "nombre": "TyC Sports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tycsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Alemania vs Finlandia",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "15:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney9"
+      },
+      {
+        "nombre": "ESPN CO",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnco"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "ESPN AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnar"
+      },
+      {
+        "nombre": "Vix 4",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix4"
+      },
+      {
+        "nombre": "Fox Sports 2 USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=f2usa"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Palmeiras vs Chapecoense",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz6"
+      },
+      {
+        "nombre": "Premiere 1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=premiere1"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Vasco da Gama vs Atlético Mineiro",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz5"
+      },
+      {
+        "nombre": "Prime Video",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=amazon1"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga SmartBank: Córdoba vs Huesca",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "LaLiga Hypermotion 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion2"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga SmartBank: Leganés vs Mirandés",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "LaLiga Hypermotion",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División de Chile: Huachipato vs Universidad Católica",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: EE. UU. vs Senegal",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "16:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney10"
+      },
+      {
+        "nombre": "Telemundo",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "Universo",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=universo"
+      },
+      {
+        "nombre": "Max 1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=max1"
+      },
+      {
+        "nombre": "Peacock TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=peacock1"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga 1: Los Chankas vs UTC Cajamarca",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "17:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz7"
+      },
+      {
+        "nombre": "Liga1Max",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=liga1max"
+      },
+      {
+        "nombre": "Liga 1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=liga1"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A de Ecuador: Guayaquil City vs Independiente del Valle",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "17:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Brasil vs Panamá",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "SportTV BR 1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División de Chile: O'Higgins vs Everton",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Deportivo Maldonado vs Nacional",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney11"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Argentina: Racing Club vs Defensa y Justicia",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz9"
+      },
+      {
+        "nombre": "TyC Sports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tycsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga 1: Cienciano vs Sporting Cristal",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz8"
+      },
+      {
+        "nombre": "Liga1Max",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=liga1max"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A de Ecuador: Emelec vs Universidad Católica",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "20:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Cruzeiro vs Fluminense",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz10"
+      },
+      {
+        "nombre": "Premiere 3",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=premiere3"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Remo vs São Paulo",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz11"
+      },
+      {
+        "nombre": "Premiere 1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=premiere1"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División de Chile: Palestino vs Audax Italiano",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
       }
     ]
   }
