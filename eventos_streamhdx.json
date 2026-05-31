@@ -1,120 +1,5 @@
 [
   {
-    "titulo": "Primera División: Juventud vs Wanderers",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Domingo 31 de Mayo 2026",
-    "fecha_iso": "2026-05-31",
-    "hora": "12:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney8"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A de Ecuador: Mushuc Runa vs Aucas",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Domingo 31 de Mayo 2026",
-    "fecha_iso": "2026-05-31",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: FC Cajamarca vs Alianza Lima",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Domingo 31 de Mayo 2026",
-    "fecha_iso": "2026-05-31",
-    "hora": "15:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz3"
-      },
-      {
-        "nombre": "Liga1Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=liga1max"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Argentina: Estudiantes vs Rosario Central",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Domingo 31 de Mayo 2026",
-    "fecha_iso": "2026-05-31",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz4"
-      },
-      {
-        "nombre": "TyC Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tycsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Alemania vs Finlandia",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Domingo 31 de Mayo 2026",
-    "fecha_iso": "2026-05-31",
-    "hora": "15:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney9"
-      },
-      {
-        "nombre": "Vix +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix4"
-      },
-      {
-        "nombre": "ESPN AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnar"
-      },
-      {
-        "nombre": "ESPN CO",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Fox Sports 2 USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=f2usa"
-      }
-    ]
-  },
-  {
     "titulo": "Brasileirão: Palmeiras vs Chapecoense",
     "categoria": "futbol",
     "clase": "BRA",
@@ -153,22 +38,6 @@
         "nombre": "Prime Video",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga SmartBank: Córdoba vs Huesca",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 31 de Mayo 2026",
-    "fecha_iso": "2026-05-31",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "LaLiga Hypermotion 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion2"
       }
     ]
   },
@@ -214,9 +83,14 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Disney+",
+        "nombre": "Disney +",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney10"
+      },
+      {
+        "nombre": "Espn MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnmx"
       },
       {
         "nombre": "Telemundo",
@@ -229,14 +103,30 @@
         "url": "https://streamhdx.com/live1.php?stream=universo"
       },
       {
-        "nombre": "Max 1",
+        "nombre": "Max | Ingles",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=max1"
       },
       {
-        "nombre": "Peacock TV",
+        "nombre": "Peacock TV | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=peacock1"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Deportivo Maldonado vs Nacional",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Domingo 31 de Mayo 2026",
+    "fecha_iso": "2026-05-31",
+    "hora": "16:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney11"
       }
     ]
   },
@@ -255,14 +145,14 @@
         "url": "https://streamhdx.com/live1.php?stream=fanatiz7"
       },
       {
-        "nombre": "Liga1Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=liga1max"
-      },
-      {
         "nombre": "Liga 1",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=liga1"
+      },
+      {
+        "nombre": "Liga1Max",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=liga1max"
       }
     ]
   },
@@ -292,7 +182,12 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "SportTV BR 1",
+        "nombre": "RPC",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento1"
+      },
+      {
+        "nombre": "SportTV BR",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
       }
@@ -311,22 +206,6 @@
         "nombre": "TNT Sports Chile",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Deportivo Maldonado vs Nacional",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Domingo 31 de Mayo 2026",
-    "fecha_iso": "2026-05-31",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney11"
       }
     ]
   },
