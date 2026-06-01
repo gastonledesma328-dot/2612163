@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Primera División de Chile: Palestino vs Audax Italiano",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Domingo 31 de Mayo 2026",
-    "fecha_iso": "2026-05-31",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
     "titulo": "Amistoso: Bulgaria vs Montenegro",
     "categoria": "futbol",
     "clase": "FIFA",
