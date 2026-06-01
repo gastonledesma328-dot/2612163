@@ -1,52 +1,5 @@
 [
   {
-    "titulo": "Primera División: Boston River vs Liverpool",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Lunes 01 de Junio 2026",
-    "fecha_iso": "2026-06-01",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney5"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Austria vs Túnez",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Lunes 01 de Junio 2026",
-    "fecha_iso": "2026-06-01",
-    "hora": "15:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney6"
-      },
-      {
-        "nombre": "Vix 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix5"
-      },
-      {
-        "nombre": "ESPN AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnar"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      }
-    ]
-  },
-  {
     "titulo": "Serie A de Ecuador: Leones del Norte vs Macará",
     "categoria": "futbol",
     "clase": "ECUA",
