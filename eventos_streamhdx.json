@@ -1,153 +1,5 @@
 [
   {
-    "titulo": "Amistoso: Brasil vs Panamá",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Domingo 31 de Mayo 2026",
-    "fecha_iso": "2026-05-31",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "RPC",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
-      },
-      {
-        "nombre": "SportTV BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División de Chile: O'Higgins vs Everton",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Domingo 31 de Mayo 2026",
-    "fecha_iso": "2026-05-31",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Deportivo Maldonado vs Nacional",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Domingo 31 de Mayo 2026",
-    "fecha_iso": "2026-05-31",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney11"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Argentina: Racing Club vs Defensa y Justicia SUSPENDIDO",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Domingo 31 de Mayo 2026",
-    "fecha_iso": "2026-05-31",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TYC Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tycsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Cienciano vs Sporting Cristal",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Domingo 31 de Mayo 2026",
-    "fecha_iso": "2026-05-31",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz8"
-      },
-      {
-        "nombre": "Liga1Max",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=liga1max"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A de Ecuador: Emelec vs Universidad Católica",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Domingo 31 de Mayo 2026",
-    "fecha_iso": "2026-05-31",
-    "hora": "20:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Cruzeiro vs Fluminense",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Domingo 31 de Mayo 2026",
-    "fecha_iso": "2026-05-31",
-    "hora": "20:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz10"
-      },
-      {
-        "nombre": "Premiere 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=premiere3"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Remo vs São Paulo",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Domingo 31 de Mayo 2026",
-    "fecha_iso": "2026-05-31",
-    "hora": "20:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz11"
-      },
-      {
-        "nombre": "Premiere 1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=premiere1"
-      }
-    ]
-  },
-  {
     "titulo": "Primera División de Chile: Palestino vs Audax Italiano",
     "categoria": "futbol",
     "clase": "CH",
@@ -160,6 +12,253 @@
         "nombre": "TNT Sports Chile",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Bulgaria vs Montenegro",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Lunes 01 de Junio 2026",
+    "fecha_iso": "2026-06-01",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "Vix 1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix1"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Eslovaquia vs Malta",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Lunes 01 de Junio 2026",
+    "fecha_iso": "2026-06-01",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney2"
+      },
+      {
+        "nombre": "Vix 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix2"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Noruega vs Suecia",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Lunes 01 de Junio 2026",
+    "fecha_iso": "2026-06-01",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney3"
+      },
+      {
+        "nombre": "Vix 3",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix3"
+      },
+      {
+        "nombre": "SportTV BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
+      },
+      {
+        "nombre": "Fox Sports 2 USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=f2usa"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Turquía vs Macedonia del Norte",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Lunes 01 de Junio 2026",
+    "fecha_iso": "2026-06-01",
+    "hora": "14:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney4"
+      },
+      {
+        "nombre": "Vix 4",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix4"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Boston River vs Liverpool",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Lunes 01 de Junio 2026",
+    "fecha_iso": "2026-06-01",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney5"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Austria vs Túnez",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Lunes 01 de Junio 2026",
+    "fecha_iso": "2026-06-01",
+    "hora": "15:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney6"
+      },
+      {
+        "nombre": "Vix 5",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix5"
+      },
+      {
+        "nombre": "ESPN AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnar"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A de Ecuador: Leones del Norte vs Macará",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Lunes 01 de Junio 2026",
+    "fecha_iso": "2026-06-01",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Colombia vs Costa Rica",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Lunes 01 de Junio 2026",
+    "fecha_iso": "2026-06-01",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Gol Caracol",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento1"
+      },
+      {
+        "nombre": "Deportes RCN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento2"
+      },
+      {
+        "nombre": "SportTV BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Peñarol vs Central Español",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Lunes 01 de Junio 2026",
+    "fecha_iso": "2026-06-01",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney7"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A de Ecuador: Técnico Universitario vs Barcelona",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Lunes 01 de Junio 2026",
+    "fecha_iso": "2026-06-01",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Canadá vs Uzbekistán",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Lunes 01 de Junio 2026",
+    "fecha_iso": "2026-06-01",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fox Sports 2 USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=f2usa"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Arizona Diamondbacks vs Los Angeles Dodgers",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Lunes 01 de Junio 2026",
+    "fecha_iso": "2026-06-01",
+    "hora": "22:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn3"
       }
     ]
   }
