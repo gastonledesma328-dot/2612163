@@ -1,36 +1,5 @@
 [
   {
-    "titulo": "Amistoso: Croacia vs Bélgica",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Martes 02 de Junio 2026",
-    "fecha_iso": "2026-06-02",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "VIX +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix1"
-      },
-      {
-        "nombre": "ESPN AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnar"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      }
-    ]
-  },
-  {
     "titulo": "Amistoso: Georgia vs Rumania",
     "categoria": "futbol",
     "clase": "FIFA",
