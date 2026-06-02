@@ -1,87 +1,80 @@
 [
   {
-    "titulo": "Serie A de Ecuador: Leones del Norte vs Macará",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Lunes 01 de Junio 2026",
-    "fecha_iso": "2026-06-01",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Colombia vs Costa Rica",
+    "titulo": "Amistoso: Croacia vs Bélgica",
     "categoria": "futbol",
     "clase": "FIFA",
-    "fecha": "Lunes 01 de Junio 2026",
-    "fecha_iso": "2026-06-01",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Gol Caracol",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
-      },
-      {
-        "nombre": "Deportes RCN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento2"
-      },
-      {
-        "nombre": "SportTV BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Peñarol vs Central Español",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Lunes 01 de Junio 2026",
-    "fecha_iso": "2026-06-01",
-    "hora": "20:00",
+    "fecha": "Martes 02 de Junio 2026",
+    "fecha_iso": "2026-06-02",
+    "hora": "13:00",
     "duracion_min": 140,
     "canales": [
       {
         "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney7"
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "VIX +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix1"
+      },
+      {
+        "nombre": "ESPN AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnar"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
       }
     ]
   },
   {
-    "titulo": "Serie A de Ecuador: Técnico Universitario vs Barcelona",
+    "titulo": "Amistoso: Georgia vs Rumania",
     "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Lunes 01 de Junio 2026",
-    "fecha_iso": "2026-06-01",
-    "hora": "21:30",
+    "clase": "FIFA",
+    "fecha": "Martes 02 de Junio 2026",
+    "fecha_iso": "2026-06-02",
+    "hora": "14:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Zapping EC",
+        "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=zapping_ec"
+        "url": "https://streamhdx.com/live1.php?stream=disney2"
+      },
+      {
+        "nombre": "VIX +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix2"
       }
     ]
   },
   {
-    "titulo": "Amistoso: Canadá vs Uzbekistán",
+    "titulo": "Amistoso: Gales vs Ghana",
     "categoria": "futbol",
     "clase": "FIFA",
-    "fecha": "Lunes 01 de Junio 2026",
-    "fecha_iso": "2026-06-01",
-    "hora": "22:00",
+    "fecha": "Martes 02 de Junio 2026",
+    "fecha_iso": "2026-06-02",
+    "hora": "15:45",
     "duracion_min": 140,
     "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney3"
+      },
+      {
+        "nombre": "VIX +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix3"
+      },
+      {
+        "nombre": "SportTV BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
+      },
       {
         "nombre": "Fox Sports 2 USA",
         "calidad": "720p",
@@ -90,18 +83,60 @@
     ]
   },
   {
-    "titulo": "MLB: Arizona Diamondbacks vs Los Angeles Dodgers",
+    "titulo": "Amistoso: Haití vs Nueva Zelanda",
     "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Lunes 01 de Junio 2026",
-    "fecha_iso": "2026-06-01",
-    "hora": "22:30",
+    "clase": "FIFA",
+    "fecha": "Martes 02 de Junio 2026",
+    "fecha_iso": "2026-06-02",
+    "hora": "21:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "ESPN 3",
+        "nombre": "Fox Deportes USA",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
+        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Argentina: Barracas Central vs Huracán",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Martes 02 de Junio 2026",
+    "fecha_iso": "2026-06-02",
+    "hora": "21:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tycsports"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+      }
+    ]
+  },
+  {
+    "titulo": "Categoría Primera A: Junior vs Atlético Nacional",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Martes 02 de Junio 2026",
+    "fecha_iso": "2026-06-02",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
+      },
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=winplus"
       }
     ]
   }
