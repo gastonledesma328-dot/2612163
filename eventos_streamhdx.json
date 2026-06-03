@@ -1,58 +1,6 @@
 [
   {
-    "titulo": "Amistoso: Georgia vs Rumania",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Martes 02 de Junio 2026",
-    "fecha_iso": "2026-06-02",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "VIX +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix2"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Gales vs Ghana",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Martes 02 de Junio 2026",
-    "fecha_iso": "2026-06-02",
-    "hora": "15:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
-      },
-      {
-        "nombre": "VIX +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix3"
-      },
-      {
-        "nombre": "SportTV BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
-      },
-      {
-        "nombre": "Fox Sports 2 USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=f2usa"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Haití vs Nueva Zelanda",
+    "titulo": "Amistoso: Haití vs Nueva Zelanda (Tim Payne)",
     "categoria": "futbol",
     "clase": "FIFA",
     "fecha": "Martes 02 de Junio 2026",
@@ -60,6 +8,21 @@
     "hora": "21:00",
     "duracion_min": 140,
     "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "Espn 2 AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2ar"
+      },
+      {
+        "nombre": "Espn 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      },
       {
         "nombre": "Fox Deportes USA",
         "calidad": "720p",
