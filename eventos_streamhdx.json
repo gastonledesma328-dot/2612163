@@ -1,47 +1,5 @@
 [
   {
-    "titulo": "Amistoso: Albania vs Israel",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Miércoles 03 de Junio 2026",
-    "fecha_iso": "2026-06-03",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "Vix 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix3"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: RD del Congo vs Dinamarca",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Miércoles 03 de Junio 2026",
-    "fecha_iso": "2026-06-03",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Vix 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix2"
-      }
-    ]
-  },
-  {
     "titulo": "Amistoso: Luxemburgo vs Italia",
     "categoria": "futbol",
     "clase": "FIFA",
