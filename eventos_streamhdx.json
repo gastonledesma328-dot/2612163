@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Amistoso: Gibraltar vs Islas Vírgenes Británicas",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Miércoles 03 de Junio 2026",
-    "fecha_iso": "2026-06-03",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Vix 1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix1"
-      }
-    ]
-  },
-  {
     "titulo": "Amistoso: Albania vs Israel",
     "categoria": "futbol",
     "clase": "FIFA",
@@ -189,7 +173,7 @@
     ]
   },
   {
-    "titulo": "Final: San Antonio Spurs vs New York Knicks",
+    "titulo": "NBA : San Antonio Spurs vs New York Knicks",
     "categoria": "nba",
     "clase": "NBA",
     "fecha": "Miércoles 03 de Junio 2026",
@@ -219,7 +203,7 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "RPC",
+        "nombre": "Telemetro",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=evento9"
       }
