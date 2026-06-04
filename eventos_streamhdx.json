@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Formula 2: Monte Carlo - Práctica",
-    "categoria": "futbol",
-    "clase": "F2",
-    "fecha": "Jueves 04 de Junio 2026",
-    "fecha_iso": "2026-06-04",
-    "hora": "09:50",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
     "titulo": "Amistoso: Eslovenia vs Chipre",
     "categoria": "futbol",
     "clase": "FIFA",
