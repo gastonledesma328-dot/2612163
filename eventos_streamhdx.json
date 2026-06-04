@@ -1,89 +1,5 @@
 [
   {
-    "titulo": "Amistoso: Eslovenia vs Chipre",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Jueves 04 de Junio 2026",
-    "fecha_iso": "2026-06-04",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "Vix 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix2"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Irlanda del Norte vs Guinea",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Jueves 04 de Junio 2026",
-    "fecha_iso": "2026-06-04",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Vix 1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix1"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Andorra vs Liechtenstein",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Jueves 04 de Junio 2026",
-    "fecha_iso": "2026-06-04",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
-      },
-      {
-        "nombre": "Vix 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix3"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Suecia vs Grecia",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Jueves 04 de Junio 2026",
-    "fecha_iso": "2026-06-04",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
-      },
-      {
-        "nombre": "Vix 4",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix4"
-      }
-    ]
-  },
-  {
     "titulo": "Amistoso: España vs Iraq",
     "categoria": "futbol",
     "clase": "FIFA",
@@ -98,6 +14,11 @@
         "url": "https://streamhdx.com/live1.php?stream=disney5"
       },
       {
+        "nombre": "Espn 2 AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2ar"
+      },
+      {
         "nombre": "La 1 ES",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=evento1"
@@ -106,6 +27,11 @@
         "nombre": "Vix 5",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=vix5"
+      },
+      {
+        "nombre": "Espn 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
       }
     ]
   },
