@@ -1,77 +1,5 @@
 [
   {
-    "titulo": "Amistoso: España vs Iraq",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Jueves 04 de Junio 2026",
-    "fecha_iso": "2026-06-04",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney5"
-      },
-      {
-        "nombre": "Espn 2 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2ar"
-      },
-      {
-        "nombre": "La 1 ES",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
-      },
-      {
-        "nombre": "Vix 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix5"
-      },
-      {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Francia vs Costa de Marfil",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Jueves 04 de Junio 2026",
-    "fecha_iso": "2026-06-04",
-    "hora": "16:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney6"
-      },
-      {
-        "nombre": "Espn AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnar"
-      },
-      {
-        "nombre": "Vix 6",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix6"
-      },
-      {
-        "nombre": "Espn",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "SportTV BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Ecuador: Deportivo Cuenca Juniors vs Macará",
     "categoria": "futbol",
     "clase": "ECUA",
@@ -96,6 +24,11 @@
     "hora": "21:00",
     "duracion_min": 140,
     "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
+      },
       {
         "nombre": "SportTV BR",
         "calidad": "720p",
