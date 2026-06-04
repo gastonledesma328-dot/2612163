@@ -1,136 +1,5 @@
 [
   {
-    "titulo": "Amistoso: Luxemburgo vs Italia",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Miércoles 03 de Junio 2026",
-    "fecha_iso": "2026-06-03",
-    "hora": "15:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
-      },
-      {
-        "nombre": "Vix 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix5"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Países Bajos vs Argelia",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Miércoles 03 de Junio 2026",
-    "fecha_iso": "2026-06-03",
-    "hora": "15:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
-      },
-      {
-        "nombre": "Vix 4",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix4"
-      },
-      {
-        "nombre": "ESPN AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnar"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Polonia vs Nigeria",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Miércoles 03 de Junio 2026",
-    "fecha_iso": "2026-06-03",
-    "hora": "15:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney5"
-      },
-      {
-        "nombre": "Vix 6",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix6"
-      },
-      {
-        "nombre": "SportTV BR 1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Ecuador: Gualaceo vs Mushuc Runa",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Miércoles 03 de Junio 2026",
-    "fecha_iso": "2026-06-03",
-    "hora": "17:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports Eventos",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento5"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Corea del Sur vs El Salvador",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Miércoles 03 de Junio 2026",
-    "fecha_iso": "2026-06-03",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "SportTV BR 1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Argentina: San Lorenzo vs Deportivo Riestra",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Miércoles 03 de Junio 2026",
-    "fecha_iso": "2026-06-03",
-    "hora": "21:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tycsports"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
-      }
-    ]
-  },
-  {
     "titulo": "NBA : San Antonio Spurs vs New York Knicks",
     "categoria": "nba",
     "clase": "NBA",
@@ -140,14 +9,19 @@
     "duracion_min": 200,
     "canales": [
       {
-        "nombre": "NBA League Pass",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=nba1"
-      },
-      {
-        "nombre": "Amazon Prime",
+        "nombre": "Amazon Prime | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=amazon1"
+      },
+      {
+        "nombre": "Espn Deportes | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
+      },
+      {
+        "nombre": "NBA League Pass | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=nba1"
       }
     ]
   },
@@ -161,9 +35,265 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Telemetro",
+        "nombre": "RPC",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=evento9"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Corea del Sur vs El Salvador",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Miércoles 03 de Junio 2026",
+    "fecha_iso": "2026-06-03",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "SportTV BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 2: Monte Carlo - Práctica",
+    "categoria": "futbol",
+    "clase": "F2",
+    "fecha": "Jueves 04 de Junio 2026",
+    "fecha_iso": "2026-06-04",
+    "hora": "09:50",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Eslovenia vs Chipre",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Jueves 04 de Junio 2026",
+    "fecha_iso": "2026-06-04",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney2"
+      },
+      {
+        "nombre": "Vix 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix2"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Irlanda del Norte vs Guinea",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Jueves 04 de Junio 2026",
+    "fecha_iso": "2026-06-04",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "Vix 1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix1"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Andorra vs Liechtenstein",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Jueves 04 de Junio 2026",
+    "fecha_iso": "2026-06-04",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney3"
+      },
+      {
+        "nombre": "Vix 3",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix3"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Suecia vs Grecia",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Jueves 04 de Junio 2026",
+    "fecha_iso": "2026-06-04",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney4"
+      },
+      {
+        "nombre": "Vix 4",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix4"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: España vs Iraq",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Jueves 04 de Junio 2026",
+    "fecha_iso": "2026-06-04",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney5"
+      },
+      {
+        "nombre": "La 1 ES",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento1"
+      },
+      {
+        "nombre": "Vix 5",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix5"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Francia vs Costa de Marfil",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Jueves 04 de Junio 2026",
+    "fecha_iso": "2026-06-04",
+    "hora": "16:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney6"
+      },
+      {
+        "nombre": "Espn AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnar"
+      },
+      {
+        "nombre": "Vix 6",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix6"
+      },
+      {
+        "nombre": "Espn",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "SportTV BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Ecuador: Deportivo Cuenca Juniors vs Macará",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Jueves 04 de Junio 2026",
+    "fecha_iso": "2026-06-04",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports Eventos",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento5"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: República Checa vs Guatemala",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Jueves 04 de Junio 2026",
+    "fecha_iso": "2026-06-04",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "SportTV BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
+      },
+      {
+        "nombre": "Vix 7",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix7"
+      },
+      {
+        "nombre": "Fox Sports 2 USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=f2usa"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: México vs Serbia",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Jueves 04 de Junio 2026",
+    "fecha_iso": "2026-06-04",
+    "hora": "23:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Canal 5 MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=canal5mx"
+      },
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
+      },
+      {
+        "nombre": "TUDN MX",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tudnmx"
+      },
+      {
+        "nombre": "Fox Deportes USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
+      },
+      {
+        "nombre": "Vix 8",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix8"
       }
     ]
   }
