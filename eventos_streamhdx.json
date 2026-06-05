@@ -1,84 +1,5 @@
 [
   {
-    "titulo": "Amistoso: Azerbaiyán vs Malta",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Viernes 05 de Junio 2026",
-    "fecha_iso": "2026-06-05",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney15"
-      },
-      {
-        "nombre": "Vix 7",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix7"
-      }
-    ]
-  },
-  {
-    "titulo": "Clasificatorias Mundial Femenino: Bélgica vs Luxemburgo",
-    "categoria": "futbol",
-    "clase": "MUNDIALF",
-    "fecha": "Viernes 05 de Junio 2026",
-    "fecha_iso": "2026-06-05",
-    "hora": "15:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney16"
-      }
-    ]
-  },
-  {
-    "titulo": "Clasificatorias Mundial Femenino: Alemania vs Noruega",
-    "categoria": "futbol",
-    "clase": "MUNDIALF",
-    "fecha": "Viernes 05 de Junio 2026",
-    "fecha_iso": "2026-06-05",
-    "hora": "15:35",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney17"
-      }
-    ]
-  },
-  {
-    "titulo": "Clasificatorias Mundial Femenino: España vs Inglaterra",
-    "categoria": "futbol",
-    "clase": "MUNDIALF",
-    "fecha": "Viernes 05 de Junio 2026",
-    "fecha_iso": "2026-06-05",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney18"
-      },
-      {
-        "nombre": "La 1 ES",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento9"
-      },
-      {
-        "nombre": "Espn 3 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3mx"
-      }
-    ]
-  },
-  {
     "titulo": "Primera División: Wanderers vs Danubio",
     "categoria": "futbol",
     "clase": "URU",
@@ -100,7 +21,7 @@
     "clase": "FIFA",
     "fecha": "Viernes 05 de Junio 2026",
     "fecha_iso": "2026-06-05",
-    "hora": "19:15",
+    "hora": "19:45",
     "duracion_min": 140,
     "canales": [
       {
