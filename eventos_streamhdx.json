@@ -1,146 +1,5 @@
 [
   {
-    "titulo": "Amistoso: México vs Serbia",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Jueves 04 de Junio 2026",
-    "fecha_iso": "2026-06-04",
-    "hora": "23:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Canal 5 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=canal5mx"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tudn_usa"
-      },
-      {
-        "nombre": "TUDN MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tudnmx"
-      },
-      {
-        "nombre": "Fox Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
-      },
-      {
-        "nombre": "Vix +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix8"
-      },
-      {
-        "nombre": "vix + | CAM Capitan",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix1"
-      },
-      {
-        "nombre": "vix + | CAM Inchada",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix2"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Mónaco - Práctica #1",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 05 de Junio 2026",
-    "fecha_iso": "2026-06-05",
-    "hora": "08:25",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Fox Sports 1 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
-      },
-      {
-        "nombre": "DAZN F1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=daznf1"
-      },
-      {
-        "nombre": "Sky F1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sky_f1"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Mónaco - Práctica #1 | Cámara On Board",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 05 de Junio 2026",
-    "fecha_iso": "2026-06-05",
-    "hora": "08:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Mónaco - Práctica #1 | On Board Colapinto",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 05 de Junio 2026",
-    "fecha_iso": "2026-06-05",
-    "hora": "08:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Mónaco - Práctica #1 | On Board Leclerc",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 05 de Junio 2026",
-    "fecha_iso": "2026-06-05",
-    "hora": "08:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 2: Monte Carlo - Clasificación",
-    "categoria": "futbol",
-    "clase": "F2",
-    "fecha": "Viernes 05 de Junio 2026",
-    "fecha_iso": "2026-06-05",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
     "titulo": "Formula 1: GP Mónaco - Práctica #2",
     "categoria": "futbol",
     "clase": "F1",
@@ -168,54 +27,6 @@
         "nombre": "Sky F1",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=sky_f1"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Mónaco - Práctica #2 | Cámara On Board",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 05 de Junio 2026",
-    "fecha_iso": "2026-06-05",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney6"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Mónaco - Práctica #2 | On Board Colapinto",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 05 de Junio 2026",
-    "fecha_iso": "2026-06-05",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney7"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Mónaco - Práctica #2 | On Board Leclerc",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 05 de Junio 2026",
-    "fecha_iso": "2026-06-05",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney8"
       }
     ]
   },
@@ -521,6 +332,48 @@
         "nombre": "Fox Deportes USA",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=fox_deportes_usa"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de La Liga: Deportes Concepción vs Coquimbo Unido",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Viernes 05 de Junio 2026",
+    "fecha_iso": "2026-06-05",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports CL",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA: Spurs vs Knicks",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Viernes 05 de Junio 2026",
+    "fecha_iso": "2026-06-05",
+    "hora": "21:30",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Amazon Prime | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=amazon1"
+      },
+      {
+        "nombre": "NBA League Pass | Ingles",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=nba1"
+      },
+      {
+        "nombre": "Espn Deportes | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
       }
     ]
   }
