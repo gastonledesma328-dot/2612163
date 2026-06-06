@@ -1,47 +1,5 @@
 [
   {
-    "titulo": "ESPN Knockout: Edward Vazquez vs Daniel Lugo",
-    "categoria": "box",
-    "clase": "BOX",
-    "fecha": "Viernes 05 de Junio 2026",
-    "fecha_iso": "2026-06-05",
-    "hora": "20:30",
-    "duracion_min": 400,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA: Spurs vs Knicks",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Viernes 05 de Junio 2026",
-    "fecha_iso": "2026-06-05",
-    "hora": "21:30",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Amazon Prime | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=amazon1"
-      },
-      {
-        "nombre": "NBA League Pass | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=nba1"
-      },
-      {
-        "nombre": "Espn Deportes | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
-      }
-    ]
-  },
-  {
     "titulo": "ESPN Knockout – Masamichi Yabuki vs. Rene Calixto",
     "categoria": "box",
     "clase": "BOX",
