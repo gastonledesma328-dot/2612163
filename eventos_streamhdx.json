@@ -452,6 +452,22 @@
     ]
   },
   {
+    "titulo": "Primera División: Nacional vs Juventud",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Sábado 06 de Junio 2026",
+    "fecha_iso": "2026-06-06",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney3"
+      }
+    ]
+  },
+  {
     "titulo": "Amistoso: Australia vs Suiza",
     "categoria": "futbol",
     "clase": "FIFA",
@@ -605,22 +621,6 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney4"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Nacional vs Juventud",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
       }
     ]
   },
