@@ -1,94 +1,5 @@
 [
   {
-    "titulo": "Primera División: Nacional vs Juventud",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
-    "titulo": "La Liga 2: CD Castellón vs Almería | Semifinal IDA",
-    "categoria": "futbol",
-    "clase": "LALIGA2",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Bolivia vs Escocia",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Espn 3 MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn3mx"
-      },
-      {
-        "nombre": "Espn Deportes",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Inglaterra vs Nueva Zelanda",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "Espn AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnar"
-      },
-      {
-        "nombre": "Espn",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Vix 10",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix10"
-      }
-    ]
-  },
-  {
     "titulo": "UFC B. Muhammad vs.G. Bonfim",
     "categoria": "ufc",
     "clase": "UFC",
@@ -111,11 +22,6 @@
         "nombre": "Paramount + | Portugués",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=paramount3"
-      },
-      {
-        "nombre": "UFC | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento7"
       }
     ]
   },
@@ -129,9 +35,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Disney+",
+        "nombre": "Universo USA",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
+        "url": "https://streamhdx.com/live1.php?stream=universo"
       },
       {
         "nombre": "Peacock TV",
@@ -142,6 +48,22 @@
         "nombre": "MAX USA",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=evento4"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Nacional vs Juventud",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Sábado 06 de Junio 2026",
+    "fecha_iso": "2026-06-06",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney3"
       }
     ]
   },
@@ -224,7 +146,7 @@
       {
         "nombre": "MAX",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max2"
+        "url": "https://streamhdx.com/live1.php?stream=max3"
       }
     ]
   },
@@ -238,9 +160,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "TNT Sports CL",
+        "nombre": "MAX",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tntsportschile"
+        "url": "https://streamhdx.com/live1.php?stream=max2"
       }
     ]
   },
@@ -254,6 +176,11 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "Dsports PE",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento2"
+      },
+      {
         "nombre": "TYC Sports",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=tycsports"
@@ -262,11 +189,6 @@
         "nombre": "Telefe",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=telefe"
-      },
-      {
-        "nombre": "Dsports PE",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento2"
       },
       {
         "nombre": "Espn Deportes",
