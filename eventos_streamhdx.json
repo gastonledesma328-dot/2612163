@@ -1,145 +1,5 @@
 [
   {
-    "titulo": "Amistoso: Portugal vs Chile",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "14:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney15"
-      },
-      {
-        "nombre": "Espn AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnar"
-      },
-      {
-        "nombre": "Vix 6",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix6"
-      },
-      {
-        "nombre": "Espn",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Chilevision",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento8"
-      },
-      {
-        "nombre": "SporTV PT",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sportv1pt"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Rumania vs Gales",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "14:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney16"
-      },
-      {
-        "nombre": "Vix 7",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix7"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Albania vs Luxemburgo",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney17"
-      },
-      {
-        "nombre": "Vix 8",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix8"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Torque vs Deportivo Maldonado",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney18"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: EE. UU. vs Alemania",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney19"
-      },
-      {
-        "nombre": "Espn MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnmx"
-      },
-      {
-        "nombre": "Telemunda USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=telemundo"
-      },
-      {
-        "nombre": "Universo USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=universo"
-      },
-      {
-        "nombre": "MAX USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
-      },
-      {
-        "nombre": "Peacock TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=peacock1"
-      }
-    ]
-  },
-  {
     "titulo": "Primera División: Nacional vs Juventud",
     "categoria": "futbol",
     "clase": "URU",
@@ -152,43 +12,6 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Australia vs Suiza",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney20"
-      },
-      {
-        "nombre": "Vix 9",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix9"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Panamá vs Bosnia-Herzegovina",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "RPC",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento3"
       }
     ]
   },
@@ -275,11 +98,6 @@
     "duracion_min": 480,
     "canales": [
       {
-        "nombre": "UFC | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento7"
-      },
-      {
         "nombre": "Paramount + | Español",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=paramount1"
@@ -293,6 +111,11 @@
         "nombre": "Paramount + | Portugués",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=paramount3"
+      },
+      {
+        "nombre": "UFC | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento7"
       }
     ]
   },
