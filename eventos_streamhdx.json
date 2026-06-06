@@ -1,110 +1,5 @@
 [
   {
-    "titulo": "Amistoso: Armenia vs Kazajistán",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney13"
-      },
-      {
-        "nombre": "Vix 4",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix4"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Mónaco - Clasificación | Cámara On Board",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney10"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Mónaco - Clasificación | On Board Colapinto",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney9"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Mónaco - Clasificación | On Board Leclerc",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney11"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Mónaco – Clasificación",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney8"
-      },
-      {
-        "nombre": "Fox Sports 1 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
-      },
-      {
-        "nombre": "Sportv 3 BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sporttvbr3"
-      },
-      {
-        "nombre": "Sky Sports F1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sky_f1"
-      },
-      {
-        "nombre": "F1",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=daznf1"
-      }
-    ]
-  },
-  {
     "titulo": "Amistoso: Estonia vs Islas Feroe",
     "categoria": "futbol",
     "clase": "FIFA",
@@ -174,6 +69,16 @@
         "nombre": "Espn",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "Chilevision",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento8"
+      },
+      {
+        "nombre": "SporTV PT",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sportv1pt"
       }
     ]
   },
@@ -268,6 +173,11 @@
         "nombre": "MAX USA",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=evento1"
+      },
+      {
+        "nombre": "Peacock TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=peacock1"
       }
     ]
   },
@@ -425,6 +335,11 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=disney4"
+      },
+      {
+        "nombre": "Peacock TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=peacock2"
       }
     ]
   },
@@ -482,6 +397,11 @@
         "nombre": "Sportv BR",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
+      },
+      {
+        "nombre": "SporTV PT",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sportv1pt"
       }
     ]
   },
