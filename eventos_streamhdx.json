@@ -1,47 +1,5 @@
 [
   {
-    "titulo": "Amistoso: Estonia vs Islas Feroe",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney12"
-      },
-      {
-        "nombre": "Vix 3",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix3"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Gibraltar vs Islas Caimán",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney14"
-      },
-      {
-        "nombre": "Vix 5",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix5"
-      }
-    ]
-  },
-  {
     "titulo": "Amistoso: Portugal vs Chile",
     "categoria": "futbol",
     "clase": "FIFA",
@@ -178,6 +136,22 @@
         "nombre": "Peacock TV",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=peacock1"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Nacional vs Juventud",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Sábado 06 de Junio 2026",
+    "fecha_iso": "2026-06-06",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney3"
       }
     ]
   },
@@ -340,22 +314,11 @@
         "nombre": "Peacock TV",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=peacock2"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Nacional vs Juventud",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
+      },
       {
-        "nombre": "Disney+",
+        "nombre": "MAX USA",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
+        "url": "https://streamhdx.com/live1.php?stream=evento4"
       }
     ]
   },
