@@ -1,26 +1,5 @@
 [
   {
-    "titulo": "Amistoso: Ecuador vs Guatemala",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Domingo 07 de Junio 2026",
-    "fecha_iso": "2026-06-07",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsportsar"
-      },
-      {
-        "nombre": "Sportdigital",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sportdigital"
-      }
-    ]
-  },
-  {
     "titulo": "Primera División: Defensor Sporting vs Boston River",
     "categoria": "futbol",
     "clase": "URU",
@@ -93,9 +72,14 @@
         "url": "https://streamhdx.com/live1.php?stream=evento3"
       },
       {
-        "nombre": "SportTV 1 PT",
+        "nombre": "Sportv 1 PT",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=sportv1pt"
+      },
+      {
+        "nombre": "Sportv 1 BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
       },
       {
         "nombre": "ESPN Deportes",
