@@ -1,172 +1,5 @@
 [
   {
-    "titulo": "UFC B. Muhammad vs.G. Bonfim",
-    "categoria": "ufc",
-    "clase": "UFC",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "17:00",
-    "duracion_min": 480,
-    "canales": [
-      {
-        "nombre": "Paramount + | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount1"
-      },
-      {
-        "nombre": "Paramount + | Ingles",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount2"
-      },
-      {
-        "nombre": "Paramount + | Portugués",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=paramount3"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso Femenino: Brasil vs EE. UU.",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Universo USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=universo"
-      },
-      {
-        "nombre": "Peacock TV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=peacock2"
-      },
-      {
-        "nombre": "MAX USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento4"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Nacional vs Juventud",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Brasil vs Egipto",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney6"
-      },
-      {
-        "nombre": "Espn AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnar"
-      },
-      {
-        "nombre": "Espn",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Espn MX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnmx"
-      },
-      {
-        "nombre": "Espn Deportes",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
-      },
-      {
-        "nombre": "Sportv BR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
-      },
-      {
-        "nombre": "SporTV PT",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sportv1pt"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Venezuela vs Turquía",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney5"
-      },
-      {
-        "nombre": "Vix 11",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix11"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de la Liga: Universidad Católica vs Cobresal",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MAX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max3"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de la Liga: Ñublense vs Univ. Concepción",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MAX",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max2"
-      }
-    ]
-  },
-  {
     "titulo": "Amistoso: Argentina vs Honduras",
     "categoria": "futbol",
     "clase": "FIFA",
@@ -176,7 +9,7 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Dsports PE",
+        "nombre": "Dsports",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=evento2"
       },
@@ -194,6 +27,554 @@
         "nombre": "Espn Deportes",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espndeportes"
+      },
+      {
+        "nombre": "CazéTV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento10"
+      },
+      {
+        "nombre": "Xsports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento11"
+      }
+    ]
+  },
+  {
+    "titulo": "ESPN Knockout: Brandon Mosqueda vs. Isaac Aranda",
+    "categoria": "box",
+    "clase": "BOX",
+    "fecha": "Sábado 06 de Junio 2026",
+    "fecha_iso": "2026-06-06",
+    "hora": "23:00",
+    "duracion_min": 400,
+    "canales": [
+      {
+        "nombre": "Espn",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 3: Mónaco - Carrera",
+    "categoria": "futbol",
+    "clase": "F3",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "02:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 2: Monte Carlo - Carrera",
+    "categoria": "futbol",
+    "clase": "F2",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "04:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "MOTOGP: Hungría - Carrera Moto3/Moto2/MotoGP",
+    "categoria": "futbol",
+    "clase": "MotoGP",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "05:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Liechtenstein vs Chipre",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney7"
+      },
+      {
+        "nombre": "Vix 1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix1"
+      },
+      {
+        "nombre": "Fox Sports 2 USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=f2usa"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Mónaco - Carrera",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "Fox Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "F1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=daznf1"
+      },
+      {
+        "nombre": "Sky F1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sky_f1"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Mónaco - Carrera | Cámara On Board",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney4"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Mónaco - Carrera | On Board Colapinto",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney3"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Mónaco - Carrera | On Board Leclerc",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney5"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Mónaco - F1 Kids",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney6"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Mónaco - Race Hub",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney2"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Progreso vs Albion",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney8"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Dinamarca vs Ucrania",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney9"
+      },
+      {
+        "nombre": "Vix 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix2"
+      },
+      {
+        "nombre": "Fox Sports 2 USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=f2usa"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de la Liga: La Serena vs Unión La Calera",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Max 1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=max1"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de la Liga: Universidad de Chile vs Audax Italiano",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Max 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=max2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: New York Yankees vs Boston Red Sox",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "14:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 5",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Kosovo vs Andorra",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney10"
+      },
+      {
+        "nombre": "Vix 3",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix3"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Cerro vs Peñarol",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney11"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Croacia vs Eslovenia",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "15:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney12"
+      },
+      {
+        "nombre": "Vix 4",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix4"
+      },
+      {
+        "nombre": "ESPN AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnar"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "Fox Sports 2 USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=f2usa"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Grecia vs Italia",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney13"
+      },
+      {
+        "nombre": "Vix 5",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix5"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Marruecos vs Noruega",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "XSports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento11"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de la Liga: Huachipato vs Colo-Colo",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Max 3",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=max3"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Ecuador vs Guatemala",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsportsar"
+      },
+      {
+        "nombre": "Sportdigital",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sportdigital"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Defensor Sporting vs Boston River",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney14"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de la Liga: Deportes Limache vs Everton",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Max 4",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=max4"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de la Liga: O'Higgins vs Palestino",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Max 5",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=max5"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Colombia vs Jordania",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsportsar"
+      },
+      {
+        "nombre": "Caracol TV",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento2"
+      },
+      {
+        "nombre": "Deportes RCN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento3"
+      },
+      {
+        "nombre": "SportTV 1 PT",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sportv1pt"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Chicago Cubs vs San Francisco Giants",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
       }
     ]
   }
