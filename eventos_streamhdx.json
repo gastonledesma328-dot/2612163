@@ -1,26 +1,5 @@
 [
   {
-    "titulo": "MOTOGP: Hungría - Carrera Moto2/MotoGP",
-    "categoria": "futbol",
-    "clase": "MotoGP",
-    "fecha": "Domingo 07 de Junio 2026",
-    "fecha_iso": "2026-06-07",
-    "hora": "07:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "Sportv 4 PT",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento8"
-      }
-    ]
-  },
-  {
     "titulo": "Amistoso: Liechtenstein vs Chipre",
     "categoria": "futbol",
     "clase": "FIFA",
@@ -74,6 +53,11 @@
         "nombre": "Sky F1",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=sky_f1"
+      },
+      {
+        "nombre": "Sportv 3 BR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sporttvbr3"
       }
     ]
   },
@@ -364,6 +348,11 @@
         "nombre": "SportTV 1 PT",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=sportv1pt"
+      },
+      {
+        "nombre": "Fubo Sports Network",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento12"
       }
     ]
   },
