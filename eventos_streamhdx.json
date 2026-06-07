@@ -1,106 +1,22 @@
 [
   {
-    "titulo": "Amistoso: Argentina vs Honduras",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento2"
-      },
-      {
-        "nombre": "TYC Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tycsports"
-      },
-      {
-        "nombre": "Telefe",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=telefe"
-      },
-      {
-        "nombre": "Espn Deportes",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
-      },
-      {
-        "nombre": "CazéTV",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento10"
-      },
-      {
-        "nombre": "Xsports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento11"
-      }
-    ]
-  },
-  {
-    "titulo": "ESPN Knockout: Brandon Mosqueda vs. Isaac Aranda",
-    "categoria": "box",
-    "clase": "BOX",
-    "fecha": "Sábado 06 de Junio 2026",
-    "fecha_iso": "2026-06-06",
-    "hora": "23:00",
-    "duracion_min": 400,
-    "canales": [
-      {
-        "nombre": "Espn",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 3: Mónaco - Carrera",
-    "categoria": "futbol",
-    "clase": "F3",
-    "fecha": "Domingo 07 de Junio 2026",
-    "fecha_iso": "2026-06-07",
-    "hora": "02:40",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 2: Monte Carlo - Carrera",
-    "categoria": "futbol",
-    "clase": "F2",
-    "fecha": "Domingo 07 de Junio 2026",
-    "fecha_iso": "2026-06-07",
-    "hora": "04:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "MOTOGP: Hungría - Carrera Moto3/Moto2/MotoGP",
+    "titulo": "MOTOGP: Hungría - Carrera Moto2/MotoGP",
     "categoria": "futbol",
     "clase": "MotoGP",
     "fecha": "Domingo 07 de Junio 2026",
     "fecha_iso": "2026-06-07",
-    "hora": "05:45",
+    "hora": "07:15",
     "duracion_min": 140,
     "canales": [
       {
         "nombre": "ESPN 2",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "Sportv 4 PT",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento8"
       }
     ]
   },
@@ -258,6 +174,22 @@
     ]
   },
   {
+    "titulo": "Roland Garros – F. Cobolli (ITA) vs. A. Zverev (GER) | Final",
+    "categoria": "futbol",
+    "clase": "ROLAND",
+    "fecha": "Domingo 07 de Junio 2026",
+    "fecha_iso": "2026-06-07",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      }
+    ]
+  },
+  {
     "titulo": "Amistoso: Dinamarca vs Ucrania",
     "categoria": "futbol",
     "clase": "FIFA",
@@ -280,6 +212,11 @@
         "nombre": "Fox Sports 2 USA",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=f2usa"
+      },
+      {
+        "nombre": "SportTV 1 PT",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sportv1pt"
       }
     ]
   },
@@ -422,6 +359,11 @@
         "nombre": "Vix 5",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=vix5"
+      },
+      {
+        "nombre": "SportTV 1 PT",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sportv1pt"
       }
     ]
   },
@@ -434,6 +376,11 @@
     "hora": "16:00",
     "duracion_min": 140,
     "canales": [
+      {
+        "nombre": "Espn Deportes",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
+      },
       {
         "nombre": "XSports",
         "calidad": "720p",
