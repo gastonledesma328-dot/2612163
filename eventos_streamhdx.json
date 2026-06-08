@@ -1,5 +1,31 @@
 [
   {
+    "titulo": "CANALES 24/7",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Lunes 08 de Junio 2026",
+    "fecha_iso": "2026-06-08",
+    "hora": "02:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 1 AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnar"
+      },
+      {
+        "nombre": "Fox 1 AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "Dsports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=dsportsar"
+      }
+    ]
+  },
+  {
     "titulo": "Categoría Primera A: Atlético Nacional vs Junior | Final Vuelta",
     "categoria": "futbol",
     "clase": "COL",
@@ -9,14 +35,19 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "Fanatiz | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+      },
+      {
         "nombre": "Win Sports +",
         "calidad": "720p",
         "url": "https://streamhdx.com/live1.php?stream=winplus"
       },
       {
-        "nombre": "Fanatiz",
+        "nombre": "Fanatiz | Sonido Ambiente",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
+        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
       }
     ]
   },
