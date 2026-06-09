@@ -1,73 +1,5 @@
 [
   {
-    "titulo": "CANALES 24/7",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Lunes 08 de Junio 2026",
-    "fecha_iso": "2026-06-08",
-    "hora": "02:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 1 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnar"
-      },
-      {
-        "nombre": "Fox 1 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fox1ar"
-      },
-      {
-        "nombre": "Dsports 1 AR",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=dsportsar"
-      }
-    ]
-  },
-  {
-    "titulo": "Categoría Primera A: Atlético Nacional vs Junior | Final Vuelta",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Lunes 08 de Junio 2026",
-    "fecha_iso": "2026-06-08",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz | Español",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz1"
-      },
-      {
-        "nombre": "Win Sports +",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=winplus"
-      },
-      {
-        "nombre": "Fanatiz | Sonido Ambiente",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=fanatiz2"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Liverpool vs Cerro Largo",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Lunes 08 de Junio 2026",
-    "fecha_iso": "2026-06-08",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
     "titulo": "NBA: Knicks vs Spurs",
     "categoria": "nba",
     "clase": "NBA",
@@ -79,17 +11,17 @@
       {
         "nombre": "Amazon Prime",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=amazon1"
+        "url": "https://stream-xhd.com/live1.php?stream=amazon1"
       },
       {
         "nombre": "Espn Deportes",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
+        "url": "https://stream-xhd.com/live1.php?stream=espndeportes"
       },
       {
         "nombre": "NBA League Pass",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=nba1"
+        "url": "https://stream-xhd.com/live1.php?stream=nba1"
       }
     ]
   },
@@ -105,57 +37,52 @@
       {
         "nombre": "ESPN AR",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnar"
+        "url": "https://stream-xhd.com/live1.php?stream=espnar"
       },
       {
         "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
+        "url": "https://stream-xhd.com/live1.php?stream=disney4"
       },
       {
         "nombre": "ATV",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=atv"
+        "url": "https://stream-xhd.com/live1.php?stream=atv"
       },
       {
         "nombre": "La 1 ES",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
+        "url": "https://stream-xhd.com/live1.php?stream=evento1"
       },
       {
         "nombre": "América TV",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=americatv"
+        "url": "https://stream-xhd.com/live1.php?stream=americatv"
       },
       {
         "nombre": "Movistar Deportes",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=movistar_deportes_peru"
-      },
-      {
-        "nombre": "La 1 ES",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
+        "url": "https://stream-xhd.com/live1.php?stream=movistar_deportes_peru"
       },
       {
         "nombre": "Vix 3",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix3"
+        "url": "https://stream-xhd.com/live1.php?stream=vix3"
       },
       {
         "nombre": "ESPN MX",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espnmx"
+        "url": "https://stream-xhd.com/live1.php?stream=espnmx"
       },
       {
         "nombre": "SportTV BR 1",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
+        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
       },
       {
         "nombre": "SportTV 1 PT",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sportv1pt"
+        "url": "https://stream-xhd.com/live1.php?stream=sportv1pt"
       }
     ]
   },
@@ -171,17 +98,17 @@
       {
         "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney1"
+        "url": "https://stream-xhd.com/live1.php?stream=disney1"
       },
       {
         "nombre": "Vix 1",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix1"
+        "url": "https://stream-xhd.com/live1.php?stream=vix1"
       },
       {
         "nombre": "SportTV BR 1",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
+        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
       }
     ]
   },
@@ -197,12 +124,12 @@
       {
         "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney2"
+        "url": "https://stream-xhd.com/live1.php?stream=disney2"
       },
       {
         "nombre": "Vix 2",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix2"
+        "url": "https://stream-xhd.com/live1.php?stream=vix2"
       }
     ]
   },
@@ -218,12 +145,12 @@
       {
         "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney3"
+        "url": "https://stream-xhd.com/live1.php?stream=disney3"
       },
       {
         "nombre": "Vix 3",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix3"
+        "url": "https://stream-xhd.com/live1.php?stream=vix3"
       }
     ]
   },
@@ -239,7 +166,7 @@
       {
         "nombre": "Chilevisión",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento5"
+        "url": "https://stream-xhd.com/live1.php?stream=evento5"
       }
     ]
   },
@@ -255,12 +182,12 @@
       {
         "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney4"
+        "url": "https://stream-xhd.com/live1.php?stream=disney4"
       },
       {
         "nombre": "Vix 4",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix4"
+        "url": "https://stream-xhd.com/live1.php?stream=vix4"
       }
     ]
   },
@@ -276,22 +203,22 @@
       {
         "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney5"
+        "url": "https://stream-xhd.com/live1.php?stream=disney5"
       },
       {
         "nombre": "Vix 5",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix5"
+        "url": "https://stream-xhd.com/live1.php?stream=vix5"
       },
       {
         "nombre": "SportTV BR 1",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
+        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
       },
       {
         "nombre": "Fox Sports 2 USA",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=f2usa"
+        "url": "https://stream-xhd.com/live1.php?stream=f2usa"
       }
     ]
   },
@@ -307,17 +234,17 @@
       {
         "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney6"
+        "url": "https://stream-xhd.com/live1.php?stream=disney6"
       },
       {
         "nombre": "ESPN 2 AR",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2ar"
+        "url": "https://stream-xhd.com/live1.php?stream=espn2ar"
       },
       {
         "nombre": "ESPN 2",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
+        "url": "https://stream-xhd.com/live1.php?stream=espn2"
       }
     ]
   },
@@ -333,12 +260,12 @@
       {
         "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney7"
+        "url": "https://stream-xhd.com/live1.php?stream=disney7"
       },
       {
         "nombre": "Vix 6",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix6"
+        "url": "https://stream-xhd.com/live1.php?stream=vix6"
       }
     ]
   },
@@ -354,17 +281,17 @@
       {
         "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney9"
+        "url": "https://stream-xhd.com/live1.php?stream=disney9"
       },
       {
         "nombre": "ESPN 2 AR",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2ar"
+        "url": "https://stream-xhd.com/live1.php?stream=espn2ar"
       },
       {
         "nombre": "ESPN 2",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espn2"
+        "url": "https://stream-xhd.com/live1.php?stream=espn2"
       }
     ]
   },
@@ -380,7 +307,7 @@
       {
         "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=disney8"
+        "url": "https://stream-xhd.com/live1.php?stream=disney8"
       }
     ]
   },
@@ -396,7 +323,7 @@
       {
         "nombre": "TDP ES",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento9"
+        "url": "https://stream-xhd.com/live1.php?stream=evento9"
       }
     ]
   },
@@ -412,7 +339,7 @@
       {
         "nombre": "ESPN Deportes",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
+        "url": "https://stream-xhd.com/live1.php?stream=espndeportes"
       }
     ]
   },
@@ -428,17 +355,17 @@
       {
         "nombre": "Peacock TV",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=peacock1"
+        "url": "https://stream-xhd.com/live1.php?stream=peacock1"
       },
       {
         "nombre": "Max",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=max1"
+        "url": "https://stream-xhd.com/live1.php?stream=max1"
       },
       {
         "nombre": "SportTV BR 1",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
+        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
       }
     ]
   },
@@ -454,32 +381,32 @@
       {
         "nombre": "Dsports",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento1"
+        "url": "https://stream-xhd.com/live1.php?stream=evento1"
       },
       {
         "nombre": "TyC Sports",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=tycsports"
+        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
       },
       {
         "nombre": "Telefe",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=telefe"
+        "url": "https://stream-xhd.com/live1.php?stream=telefe"
       },
       {
         "nombre": "CazéTV",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento6"
+        "url": "https://stream-xhd.com/live1.php?stream=evento6"
       },
       {
         "nombre": "ESPN Deportes",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
+        "url": "https://stream-xhd.com/live1.php?stream=espndeportes"
       },
       {
         "nombre": "Vix 7",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=vix7"
+        "url": "https://stream-xhd.com/live1.php?stream=vix7"
       }
     ]
   },
@@ -495,7 +422,7 @@
       {
         "nombre": "Eventos",
         "calidad": "720p",
-        "url": "https://streamhdx.com/live1.php?stream=evento2"
+        "url": "https://stream-xhd.com/live1.php?stream=evento2"
       }
     ]
   }
