@@ -1,120 +1,5 @@
 [
   {
-    "titulo": "Amistoso: Lituania vs Estonia",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Martes 09 de Junio 2026",
-    "fecha_iso": "2026-06-09",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney3"
-      },
-      {
-        "nombre": "Vix 3",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=vix3"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: RD del Congo vs Chile",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Martes 09 de Junio 2026",
-    "fecha_iso": "2026-06-09",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Chilevisión",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=evento5"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Bielorrusia vs Burkina Faso",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Martes 09 de Junio 2026",
-    "fecha_iso": "2026-06-09",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney4"
-      },
-      {
-        "nombre": "Vix 4",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=vix4"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Hungría vs Kazajistán",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Martes 09 de Junio 2026",
-    "fecha_iso": "2026-06-09",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney5"
-      },
-      {
-        "nombre": "Vix 5",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=vix5"
-      },
-      {
-        "nombre": "SportTV BR 1",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
-      },
-      {
-        "nombre": "Fox Sports 2 USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=f2usa"
-      }
-    ]
-  },
-  {
-    "titulo": "Clasificatorias Mundial Femenino: Suecia vs Italia",
-    "categoria": "futbol",
-    "clase": "MUNDF",
-    "fecha": "Martes 09 de Junio 2026",
-    "fecha_iso": "2026-06-09",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney6"
-      },
-      {
-        "nombre": "ESPN 2 AR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn2ar"
-      },
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "Amistoso: Azerbaiyán vs San Marino",
     "categoria": "futbol",
     "clase": "FIFA",
@@ -178,22 +63,6 @@
     ]
   },
   {
-    "titulo": "Clasificatorias Mundial Femenino: Islandia vs España",
-    "categoria": "futbol",
-    "clase": "MUNDF",
-    "fecha": "Martes 09 de Junio 2026",
-    "fecha_iso": "2026-06-09",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TDP ES",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=evento9"
-      }
-    ]
-  },
-  {
     "titulo": "LaLiga SmartBank: Almería vs CD Castellón",
     "categoria": "futbol",
     "clase": "LALIGA2",
@@ -202,6 +71,11 @@
     "hora": "16:00",
     "duracion_min": 140,
     "canales": [
+      {
+        "nombre": "Liga Hyper 1",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=laligahypermotion"
+      },
       {
         "nombre": "ESPN Deportes",
         "calidad": "720p",
