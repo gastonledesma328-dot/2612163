@@ -1,58 +1,11 @@
 [
   {
-    "titulo": "Amistoso: Armenia vs Moldavia",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Martes 09 de Junio 2026",
-    "fecha_iso": "2026-06-09",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Vix 1",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=vix1"
-      },
-      {
-        "nombre": "SportTV BR 1",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Letonia vs Islas Feroe",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Martes 09 de Junio 2026",
-    "fecha_iso": "2026-06-09",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "Vix 2",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=vix2"
-      }
-    ]
-  },
-  {
     "titulo": "Amistoso: Lituania vs Estonia",
     "categoria": "futbol",
     "clase": "FIFA",
     "fecha": "Martes 09 de Junio 2026",
     "fecha_iso": "2026-06-09",
-    "hora": "12:00",
+    "hora": "13:00",
     "duracion_min": 140,
     "canales": [
       {
@@ -73,7 +26,7 @@
     "clase": "FIFA",
     "fecha": "Martes 09 de Junio 2026",
     "fecha_iso": "2026-06-09",
-    "hora": "12:00",
+    "hora": "13:00",
     "duracion_min": 140,
     "canales": [
       {
