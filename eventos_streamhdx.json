@@ -14,11 +14,6 @@
         "url": "https://stream-xhd.com/live1.php?stream=peacock1"
       },
       {
-        "nombre": "Max",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=max1"
-      },
-      {
         "nombre": "SportTV BR 1",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
@@ -58,11 +53,6 @@
         "nombre": "ESPN Deportes",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=espndeportes"
-      },
-      {
-        "nombre": "Vix 7",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=vix7"
       }
     ]
   },
@@ -79,6 +69,157 @@
         "nombre": "Eventos",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=evento2"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Pakistán vs Afganistán",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Miércoles 10 de Junio 2026",
+    "fecha_iso": "2026-06-10",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Eventos",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento3"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga2: Málaga vs Las Palmas",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Miércoles 10 de Junio 2026",
+    "fecha_iso": "2026-06-10",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2 AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2ar"
+      },
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
+      },
+      {
+        "nombre": "LaLiga TV Hypermotion",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=laligahypermotion"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Portugal vs Nigeria",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Miércoles 10 de Junio 2026",
+    "fecha_iso": "2026-06-10",
+    "hora": "16:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "ESPN AR",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espnar"
+      },
+      {
+        "nombre": "Vix 1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix1"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "SportTV BR 1",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=sporttvbr1"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Inglaterra vs Costa Rica",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Miércoles 10 de Junio 2026",
+    "fecha_iso": "2026-06-10",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=disney2"
+      },
+      {
+        "nombre": "Vix 2",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=vix2"
+      },
+      {
+        "nombre": "Fox Sports 2 USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=f2usa"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Bolivia vs Argelia",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Miércoles 10 de Junio 2026",
+    "fecha_iso": "2026-06-10",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Eventos",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=evento3"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA: New York Knicks vs San Antonio Spurs",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Miércoles 10 de Junio 2026",
+    "fecha_iso": "2026-06-10",
+    "hora": "23:30",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "ESPN Deportes",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=espndeportes"
+      },
+      {
+        "nombre": "Amazon Prime",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=amazon1"
+      },
+      {
+        "nombre": "NBA League Pass",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/live1.php?stream=nba1"
       }
     ]
   }
