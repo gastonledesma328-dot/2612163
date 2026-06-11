@@ -1,131 +1,5 @@
 [
   {
-    "titulo": "Copa Del Mundo 2026: México vs. Sudáfrica",
-    "categoria": "futbol",
-    "clase": "MUNDIAL",
-    "fecha": "Jueves 11 de Junio 2026",
-    "fecha_iso": "2026-06-11",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports | Recomendado",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=dsports1"
-      },
-      {
-        "nombre": "Telemundo | Recomendado",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=telemundo"
-      },
-      {
-        "nombre": "La 1 ES | Recomendado",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel/?id=la1es"
-      },
-      {
-        "nombre": "Canal 9 MX | Recomendado",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel/?id=canal9mx"
-      },
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Telefe",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=telefe"
-      },
-      {
-        "nombre": "Paramount +",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=paramount1"
-      },
-      {
-        "nombre": "VIX +",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=vix1"
-      },
-      {
-        "nombre": "TUDN MX",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tudnmx"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=canal5mx"
-      },
-      {
-        "nombre": "Fox one USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=foxone1usa"
-      },
-      {
-        "nombre": "Azteca 7",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=azteca7"
-      },
-      {
-        "nombre": "Gen PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=genpy"
-      },
-      {
-        "nombre": "Trece PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
-      },
-      {
-        "nombre": "America TV PE",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=americatv"
-      },
-      {
-        "nombre": "La 1 ES",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=la1es"
-      },
-      {
-        "nombre": "Telemundo USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
-      },
-      {
-        "nombre": "Peacock USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=peacock1"
-      },
-      {
-        "nombre": "Deportes RCN",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=evento5"
-      },
-      {
-        "nombre": "Caracol TV",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=evento6"
-      },
-      {
-        "nombre": "SportTV BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
-      },
-      {
-        "nombre": "CazéTV BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=evento10"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Baltimore Orioles vs. Seattle Mariners",
     "categoria": "futbol",
     "clase": "MLB",
@@ -167,14 +41,29 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Dsports AR",
+        "nombre": "Dsports | Recomendado",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsportsar"
+        "url": "https://stream-xhd.com/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "Telemundo | Recomendado",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel2/?id=telemundo"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports"
       },
       {
         "nombre": "TYC Sports",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=tycsports"
+      },
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=winplus"
       },
       {
         "nombre": "Paramount +",
@@ -185,11 +74,6 @@
         "nombre": "CazéTV BR",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=evento10"
-      },
-      {
-        "nombre": "VIX +",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=vix1"
       },
       {
         "nombre": "Gen PY",
