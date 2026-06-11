@@ -1,41 +1,5 @@
 [
   {
-    "titulo": "Copa Del Mundo 2026: Ceremonia de Inauguración - México",
-    "categoria": "futbol",
-    "clase": "MUNDIAL",
-    "fecha": "Jueves 11 de Junio 2026",
-    "fecha_iso": "2026-06-11",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports FHD",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=dsports1"
-      },
-      {
-        "nombre": "La 1 ES | Recomendado",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel/?id=la1es"
-      },
-      {
-        "nombre": "Canal 9 MX | Recomendado",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel/?id=canal9mx"
-      },
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "America TV PE",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=americatv"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Del Mundo 2026: México vs. Sudáfrica",
     "categoria": "futbol",
     "clase": "MUNDIAL",
@@ -90,6 +54,11 @@
         "url": "https://stream-xhd.com/live1.php?stream=vix1"
       },
       {
+        "nombre": "TUDN MX",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tudnmx"
+      },
+      {
         "nombre": "Canal 5 MX",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=canal5mx"
@@ -98,11 +67,6 @@
         "nombre": "Fox one USA",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=foxone1usa"
-      },
-      {
-        "nombre": "TUDN MX",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tudnmx"
       },
       {
         "nombre": "Azteca 7",
