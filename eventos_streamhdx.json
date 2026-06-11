@@ -1,33 +1,27 @@
 [
   {
-    "titulo": "MLB: New York Mets vs. St. Louis Cardinals",
-    "categoria": "futbol",
-    "clase": "MLB",
+    "titulo": "NBA: New York Knicks vs San Antonio Spurs",
+    "categoria": "nba",
+    "clase": "NBA",
     "fecha": "Miércoles 10 de Junio 2026",
     "fecha_iso": "2026-06-10",
-    "hora": "20:00",
-    "duracion_min": 140,
+    "hora": "21:30",
+    "duracion_min": 200,
     "canales": [
       {
-        "nombre": "Espn 5",
+        "nombre": "Amazon Prime",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Bolivia vs Argelia",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Miércoles 10 de Junio 2026",
-    "fecha_iso": "2026-06-10",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
+        "url": "https://stream-xhd.com/live1.php?stream=amazon1"
+      },
       {
-        "nombre": "Eventos",
+        "nombre": "ESPN Deportes",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=evento3"
+        "url": "https://stream-xhd.com/live1.php?stream=espndeportes"
+      },
+      {
+        "nombre": "NBA League Pass",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=nba1"
       }
     ]
   },
@@ -48,32 +42,6 @@
     ]
   },
   {
-    "titulo": "NBA: New York Knicks vs San Antonio Spurs",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Miércoles 10 de Junio 2026",
-    "fecha_iso": "2026-06-10",
-    "hora": "23:30",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "ESPN Deportes",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espndeportes"
-      },
-      {
-        "nombre": "Amazon Prime",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=amazon1"
-      },
-      {
-        "nombre": "NBA League Pass",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=nba1"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Del Mundo 2026: México vs. Sudáfrica",
     "categoria": "futbol",
     "clase": "MUNDIAL",
@@ -83,9 +51,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Dsports AR",
+        "nombre": "Dsports",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsportsar"
+        "url": "https://stream-xhd.com/live1.php?stream=dsports"
       },
       {
         "nombre": "Disney +",
