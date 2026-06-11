@@ -1,43 +1,32 @@
 [
   {
-    "titulo": "NBA: New York Knicks vs San Antonio Spurs",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Miércoles 10 de Junio 2026",
-    "fecha_iso": "2026-06-10",
-    "hora": "21:30",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Amazon Prime",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=amazon1"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espndeportes"
-      },
-      {
-        "nombre": "NBA League Pass",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=nba1"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Oakland Athletics vs. Milwaukee Brewers",
+    "titulo": "Copa Del Mundo 2026: Ceremonia de Inauguración - México",
     "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Miércoles 10 de Junio 2026",
-    "fecha_iso": "2026-06-10",
-    "hora": "22:00",
+    "clase": "MUNDIAL",
+    "fecha": "Jueves 11 de Junio 2026",
+    "fecha_iso": "2026-06-11",
+    "hora": "14:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Disney+",
+        "nombre": "La 1 ES | Recomendado",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney1"
+        "url": "https://stream-xhd.com/channel/?id=la1es"
+      },
+      {
+        "nombre": "Canal 9 MX | Recomendado",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel/?id=canal9mx"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "America TV PE",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=americatv"
       }
     ]
   },
@@ -59,6 +48,16 @@
         "nombre": "Disney +",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "La 1 ES | Recomendado",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel/?id=la1es"
+      },
+      {
+        "nombre": "Canal 9 MX | Recomendado",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel/?id=canal9mx"
       },
       {
         "nombre": "Telefe",
@@ -159,7 +158,7 @@
     ]
   },
   {
-    "titulo": "NHL: Juego #4 – Vegas Golden Knights vs. Carolina Hurricanes",
+    "titulo": "NHL: Vegas Golden Knights vs. Carolina Hurricanes",
     "categoria": "futbol",
     "clase": "NHL",
     "fecha": "Jueves 11 de Junio 2026",
