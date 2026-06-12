@@ -1,6 +1,202 @@
 [
   {
-    "titulo": "Copa Del Mundo 2026: Canadá vs Bosnia",
+    "titulo": "Formula 3: Barcelona - Carrera Sprint",
+    "categoria": "futbol",
+    "clase": "F3",
+    "fecha": "Viernes 12 de Junio 2026",
+    "fecha_iso": "2026-06-12",
+    "hora": "05:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Barcelona - Práctica #3",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 12 de Junio 2026",
+    "fecha_iso": "2026-06-12",
+    "hora": "07:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "Fox Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "Sky F1",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=sky_f1"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Barcelona - Práctica #3 | Cámara On Board",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 12 de Junio 2026",
+    "fecha_iso": "2026-06-12",
+    "hora": "07:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney2"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Barcelona - Práctica #3 | On Board Colapinto",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 12 de Junio 2026",
+    "fecha_iso": "2026-06-12",
+    "hora": "07:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney3"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Barcelona - Práctica #3 | On Board Piastri",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 12 de Junio 2026",
+    "fecha_iso": "2026-06-12",
+    "hora": "07:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney4"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 2: Barcelona - Carrera Sprint",
+    "categoria": "futbol",
+    "clase": "F2",
+    "fecha": "Viernes 12 de Junio 2026",
+    "fecha_iso": "2026-06-12",
+    "hora": "09:05",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Barcelona - Clasificación",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 12 de Junio 2026",
+    "fecha_iso": "2026-06-12",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney5"
+      },
+      {
+        "nombre": "Fox Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "Sky F1",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=sky_f1"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Barcelona | Cámara On Board",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 12 de Junio 2026",
+    "fecha_iso": "2026-06-12",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney6"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Barcelona | On Board Colapinto",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 12 de Junio 2026",
+    "fecha_iso": "2026-06-12",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney7"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Barcelona | On Board Piastri",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 12 de Junio 2026",
+    "fecha_iso": "2026-06-12",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney8"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División de Chile: Coquimbo Unido vs O'Higgins",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Viernes 12 de Junio 2026",
+    "fecha_iso": "2026-06-12",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Max 1",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=max1"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Del Mundo 2026: Qatar vs Suiza",
     "categoria": "futbol",
     "clase": "MUNDIAL",
     "fecha": "Viernes 12 de Junio 2026",
@@ -19,11 +215,6 @@
         "url": "https://stream-xhd.com/channel2/?id=telemundo"
       },
       {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney9"
-      },
-      {
         "nombre": "Dsports",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=dsports"
@@ -34,24 +225,14 @@
         "url": "https://stream-xhd.com/live1.php?stream=vix1"
       },
       {
-        "nombre": "Paramount +",
+        "nombre": "Gen PY",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=paramount1"
+        "url": "https://stream-xhd.com/live1.php?stream=genpy"
       },
       {
-        "nombre": "La 1 ES",
+        "nombre": "Trece PY",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=la1es"
-      },
-      {
-        "nombre": "America TV",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=americatv"
-      },
-      {
-        "nombre": "Unicanal PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=unicanalpy"
+        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
       },
       {
         "nombre": "Win Sports +",
@@ -76,18 +257,120 @@
     ]
   },
   {
-    "titulo": "Copa de la Liga: Bentín Tacna vs Melgar",
+    "titulo": "Primera División de Chile: Everton vs Palestino",
     "categoria": "futbol",
-    "clase": "PE",
+    "clase": "CH",
     "fecha": "Viernes 12 de Junio 2026",
     "fecha_iso": "2026-06-12",
-    "hora": "17:30",
+    "hora": "16:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Bicolor +",
+        "nombre": "Max 2",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
+        "url": "https://stream-xhd.com/live1.php?stream=max2"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División de Chile: Colo-Colo vs Cobresal",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Viernes 12 de Junio 2026",
+    "fecha_iso": "2026-06-12",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Max 3",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=max3"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Del Mundo 2026: Brasil vs Marruecos",
+    "categoria": "futbol",
+    "clase": "MUNDIAL",
+    "fecha": "Viernes 12 de Junio 2026",
+    "fecha_iso": "2026-06-12",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports | Recomendado",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "Telemundo | Recomendado",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel2/?id=telemundo"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney9"
+      },
+      {
+        "nombre": "Vix 2",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=vix2"
+      },
+      {
+        "nombre": "Telefe",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=telefe"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=canal5mx"
+      },
+      {
+        "nombre": "Azteca 7",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=azteca7"
+      },
+      {
+        "nombre": "La 1 ES",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=la1es"
+      },
+      {
+        "nombre": "Gen PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=genpy"
+      },
+      {
+        "nombre": "Trece PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
+      },
+      {
+        "nombre": "Sportv BR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
+      },
+      {
+        "nombre": "CazéTV BR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=evento10"
+      },
+      {
+        "nombre": "Telemundo USA",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "Peacock USA",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=peacock1"
       }
     ]
   },
@@ -108,12 +391,28 @@
     ]
   },
   {
-    "titulo": "MLB: Baltimore Orioles vs San Diego Padres",
+    "titulo": "ESPN Knockout: Antonio Vargas vs Jesse Rodriguez",
+    "categoria": "box",
+    "clase": "BOX",
+    "fecha": "Viernes 12 de Junio 2026",
+    "fecha_iso": "2026-06-12",
+    "hora": "20:00",
+    "duracion_min": 400,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Philadelphia Phillies vs. Milwaukee Brewers",
     "categoria": "futbol",
     "clase": "MLB",
     "fecha": "Viernes 12 de Junio 2026",
     "fecha_iso": "2026-06-12",
-    "hora": "20:00",
+    "hora": "20:30",
     "duracion_min": 140,
     "canales": [
       {
@@ -136,6 +435,22 @@
         "nombre": "Max",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=max1"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División de Chile: Ñublense vs Huachipato",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Viernes 12 de Junio 2026",
+    "fecha_iso": "2026-06-12",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Max 4",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=max4"
       }
     ]
   },
@@ -246,6 +561,57 @@
     ]
   },
   {
+    "titulo": "Copa Del Mundo 2026: Haití vs Escocia",
+    "categoria": "futbol",
+    "clase": "MUNDIAL",
+    "fecha": "Viernes 12 de Junio 2026",
+    "fecha_iso": "2026-06-12",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports | Recomendado",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "Telemundo | Recomendado",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel2/?id=telemundo"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Vix 3",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=vix3"
+      },
+      {
+        "nombre": "TYC Sports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
+      },
+      {
+        "nombre": "CazéTV BR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=evento10"
+      },
+      {
+        "nombre": "Telemundo USA",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "Peacock USA",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=peacock1"
+      }
+    ]
+  },
+  {
     "titulo": "Copa de la Liga: Pirata FC vs Universitario",
     "categoria": "futbol",
     "clase": "PE",
@@ -258,6 +624,67 @@
         "nombre": "Bicolor +",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=bicolor"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Del Mundo 2026: Australia vs Turquía",
+    "categoria": "futbol",
+    "clase": "MUNDIAL",
+    "fecha": "Sábado 13 de Junio 2026",
+    "fecha_iso": "2026-06-13",
+    "hora": "01:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports | Recomendado",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "Telemundo | Recomendado",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel2/?id=telemundo"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "TYC Sports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
+      },
+      {
+        "nombre": "Unicanal PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=unicanalpy"
+      },
+      {
+        "nombre": "Vix 4",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=vix4"
+      },
+      {
+        "nombre": "Sportv BR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
+      },
+      {
+        "nombre": "CazéTV BR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=evento10"
+      },
+      {
+        "nombre": "Telemundo USA",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "Peacock USA",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=peacock1"
       }
     ]
   }
