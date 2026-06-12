@@ -1,79 +1,5 @@
 [
   {
-    "titulo": "Formula 1: GP Barcelona - Práctica #2",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 12 de Junio 2026",
-    "fecha_iso": "2026-06-12",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney5"
-      },
-      {
-        "nombre": "Fox Sports 1 AR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=fox1ar"
-      },
-      {
-        "nombre": "Sky F1",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=sky_f1"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Barcelona | Cámara On Board",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 12 de Junio 2026",
-    "fecha_iso": "2026-06-12",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney6"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Barcelona | On Board Colapinto",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 12 de Junio 2026",
-    "fecha_iso": "2026-06-12",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney7"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Barcelona | On Board Piastri",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 12 de Junio 2026",
-    "fecha_iso": "2026-06-12",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney8"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Del Mundo 2026: Canadá vs Bosnia",
     "categoria": "futbol",
     "clase": "MUNDIAL",
@@ -93,14 +19,14 @@
         "url": "https://stream-xhd.com/channel2/?id=telemundo"
       },
       {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsports"
-      },
-      {
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=disney9"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports"
       },
       {
         "nombre": "Vix 1",
@@ -138,11 +64,6 @@
         "url": "https://stream-xhd.com/live1.php?stream=evento10"
       },
       {
-        "nombre": "Fox One USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=foxone1usa"
-      },
-      {
         "nombre": "Telemundo USA",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=telemundo"
@@ -151,6 +72,22 @@
         "nombre": "Peacock USA",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=peacock1"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de la Liga: Bentín Tacna vs Melgar",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Viernes 12 de Junio 2026",
+    "fecha_iso": "2026-06-12",
+    "hora": "17:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Bicolor +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
       }
     ]
   },
@@ -305,6 +242,22 @@
         "nombre": "Peacock USA",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=peacock1"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de la Liga: Pirata FC vs Universitario",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Viernes 12 de Junio 2026",
+    "fecha_iso": "2026-06-12",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Bicolor +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
       }
     ]
   }
