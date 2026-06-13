@@ -189,6 +189,11 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "TNT Sports CL",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
+      },
+      {
         "nombre": "Max 1",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=max1"
@@ -266,6 +271,11 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "TNT Sports CL",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
+      },
+      {
         "nombre": "Max 2",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=max2"
@@ -281,6 +291,11 @@
     "hora": "18:30",
     "duracion_min": 140,
     "canales": [
+      {
+        "nombre": "TNT Sports CL",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
+      },
       {
         "nombre": "Max 3",
         "calidad": "720p",
@@ -375,22 +390,6 @@
     ]
   },
   {
-    "titulo": "MLB: Pittsburgh Pirates vs Miami Marlins",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Viernes 12 de Junio 2026",
-    "fecha_iso": "2026-06-12",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
     "titulo": "ESPN Knockout: Antonio Vargas vs Jesse Rodriguez",
     "categoria": "box",
     "clase": "BOX",
@@ -435,6 +434,11 @@
         "nombre": "Max",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=max1"
+      },
+      {
+        "nombre": "TNT Sports CL",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
       }
     ]
   },
@@ -447,6 +451,11 @@
     "hora": "21:00",
     "duracion_min": 140,
     "canales": [
+      {
+        "nombre": "TNT Sports CL",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
+      },
       {
         "nombre": "Max 4",
         "calidad": "720p",
@@ -487,6 +496,11 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=disney11"
+      },
+      {
+        "nombre": "Chilevision",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
       },
       {
         "nombre": "Vix 2",
