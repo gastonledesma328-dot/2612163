@@ -1,100 +1,5 @@
 [
   {
-    "titulo": "Formula 1: GP Barcelona - Práctica #3",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 12 de Junio 2026",
-    "fecha_iso": "2026-06-12",
-    "hora": "07:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Fox Sports 1 AR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=fox1ar"
-      },
-      {
-        "nombre": "Sky F1",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=sky_f1"
-      },
-      {
-        "nombre": "F1",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=daznf1"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Barcelona - Práctica #3 | Cámara On Board",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 12 de Junio 2026",
-    "fecha_iso": "2026-06-12",
-    "hora": "07:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney2"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Barcelona - Práctica #3 | On Board Colapinto",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 12 de Junio 2026",
-    "fecha_iso": "2026-06-12",
-    "hora": "07:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Barcelona - Práctica #3 | On Board Piastri",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 12 de Junio 2026",
-    "fecha_iso": "2026-06-12",
-    "hora": "07:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney4"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 2: Barcelona - Carrera Sprint",
-    "categoria": "futbol",
-    "clase": "F2",
-    "fecha": "Viernes 12 de Junio 2026",
-    "fecha_iso": "2026-06-12",
-    "hora": "09:05",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "Formula 1: GP Barcelona - Clasificación",
     "categoria": "futbol",
     "clase": "F1",
@@ -122,54 +27,6 @@
         "nombre": "F1",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=daznf1"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Barcelona | Cámara On Board",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 12 de Junio 2026",
-    "fecha_iso": "2026-06-12",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney6"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Barcelona | On Board Colapinto",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 12 de Junio 2026",
-    "fecha_iso": "2026-06-12",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney7"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Barcelona | On Board Piastri",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 12 de Junio 2026",
-    "fecha_iso": "2026-06-12",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney8"
       }
     ]
   },
@@ -393,6 +250,11 @@
         "nombre": "Canal 5 MX",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=canal5mx"
+      },
+      {
+        "nombre": "America TV",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=americatv"
       },
       {
         "nombre": "Azteca 7",
