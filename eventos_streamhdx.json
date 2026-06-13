@@ -1,36 +1,5 @@
 [
   {
-    "titulo": "Formula 1: GP Barcelona - Clasificación",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 12 de Junio 2026",
-    "fecha_iso": "2026-06-12",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney5"
-      },
-      {
-        "nombre": "Fox Sports 1 AR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=fox1ar"
-      },
-      {
-        "nombre": "Sky F1",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=sky_f1"
-      },
-      {
-        "nombre": "F1",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=daznf1"
-      }
-    ]
-  },
-  {
     "titulo": "Copa de la Liga: CDU San Martín vs Sport Boys Association",
     "categoria": "futbol",
     "clase": "PE",
