@@ -38,6 +38,11 @@
         "nombre": "Sky F1",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=sky_f1"
+      },
+      {
+        "nombre": "F1",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=daznf1"
       }
     ]
   },
@@ -128,6 +133,11 @@
         "nombre": "Sky F1",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=sky_f1"
+      },
+      {
+        "nombre": "F1",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=daznf1"
       }
     ]
   },
@@ -180,6 +190,22 @@
     ]
   },
   {
+    "titulo": "Copa de la Liga: CDU San Martín vs Sport Boys Association",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Viernes 12 de Junio 2026",
+    "fecha_iso": "2026-06-12",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Bicolor+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
+      }
+    ]
+  },
+  {
     "titulo": "Primera División de Chile: Coquimbo Unido vs O'Higgins",
     "categoria": "futbol",
     "clase": "CH",
@@ -197,6 +223,22 @@
         "nombre": "Max 1",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=max1"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de la Liga: Carlos A. Mannucci vs Alianza Atlético",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Viernes 12 de Junio 2026",
+    "fecha_iso": "2026-06-12",
+    "hora": "15:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Bicolor+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
       }
     ]
   },
@@ -245,6 +287,11 @@
         "url": "https://stream-xhd.com/live1.php?stream=winplus"
       },
       {
+        "nombre": "Chilevision",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
+      },
+      {
         "nombre": "CazéTV BR",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=evento10"
@@ -279,6 +326,22 @@
         "nombre": "Max 2",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=max2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de la Liga: Comerciantes Unidos vs Sporting Cristal",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Viernes 12 de Junio 2026",
+    "fecha_iso": "2026-06-12",
+    "hora": "17:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Bicolor+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
       }
     ]
   },
@@ -358,6 +421,11 @@
         "url": "https://stream-xhd.com/live1.php?stream=la1es"
       },
       {
+        "nombre": "Chilevision",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
+      },
+      {
         "nombre": "Gen PY",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=genpy"
@@ -406,39 +474,18 @@
     ]
   },
   {
-    "titulo": "MLB: Philadelphia Phillies vs. Milwaukee Brewers",
+    "titulo": "Copa de la Liga: Binacional vs Cienciano",
     "categoria": "futbol",
-    "clase": "MLB",
+    "clase": "PE",
     "fecha": "Viernes 12 de Junio 2026",
     "fecha_iso": "2026-06-12",
     "hora": "20:30",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Disney+",
+        "nombre": "Bicolor+",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney10"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División de Chile: Audax Italiano vs La Serena",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Viernes 12 de Junio 2026",
-    "fecha_iso": "2026-06-12",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Max",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=max1"
-      },
-      {
-        "nombre": "TNT Sports CL",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
+        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
       }
     ]
   },
@@ -464,113 +511,28 @@
     ]
   },
   {
-    "titulo": "Copa Del Mundo 2026: Estados Unidos vs Paraguay",
-    "categoria": "futbol",
-    "clase": "MUNDIAL",
+    "titulo": "NBA: San Antonio Spurs vs New York Knicks",
+    "categoria": "nba",
+    "clase": "NBA",
     "fecha": "Viernes 12 de Junio 2026",
     "fecha_iso": "2026-06-12",
-    "hora": "22:00",
-    "duracion_min": 140,
+    "hora": "21:30",
+    "duracion_min": 200,
     "canales": [
       {
-        "nombre": "Dsports | Recomendado",
+        "nombre": "NBA League Pass",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=dsports1"
+        "url": "https://stream-xhd.com/live1.php?stream=nba1"
       },
       {
-        "nombre": "Telemundo | Recomendado",
+        "nombre": "Amazon Prime",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=telemundo"
+        "url": "https://stream-xhd.com/live1.php?stream=amazon1"
       },
       {
-        "nombre": "Dsports",
+        "nombre": "ESPN Deportes",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Gen PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=genpy"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney11"
-      },
-      {
-        "nombre": "Chilevision",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
-      },
-      {
-        "nombre": "Vix 2",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=vix2"
-      },
-      {
-        "nombre": "Telefe",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=telefe"
-      },
-      {
-        "nombre": "TYC Sports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=canal5mx"
-      },
-      {
-        "nombre": "Azteca 7",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=azteca7"
-      },
-      {
-        "nombre": "Trece PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
-      },
-      {
-        "nombre": "Unicanal PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=unicanalpy"
-      },
-      {
-        "nombre": "AmericaTV PE",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=americatv"
-      },
-      {
-        "nombre": "Gol Caracol",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=evento6"
-      },
-      {
-        "nombre": "Paramount +",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=paramount1"
-      },
-      {
-        "nombre": "Sportv BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
-      },
-      {
-        "nombre": "CazéTV BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=evento10"
-      },
-      {
-        "nombre": "Telemundo USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
-      },
-      {
-        "nombre": "Peacock USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=peacock1"
+        "url": "https://stream-xhd.com/live1.php?stream=espndeportes"
       }
     ]
   },
@@ -622,22 +584,6 @@
         "nombre": "Peacock USA",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=peacock1"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de la Liga: Pirata FC vs Universitario",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Viernes 12 de Junio 2026",
-    "fecha_iso": "2026-06-12",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Bicolor +",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
       }
     ]
   },
