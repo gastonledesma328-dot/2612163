@@ -1,42 +1,5 @@
 [
   {
-    "titulo": "Copa de la Liga: CDU San Martín vs Sport Boys Association",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Viernes 12 de Junio 2026",
-    "fecha_iso": "2026-06-12",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Bicolor+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División de Chile: Coquimbo Unido vs O'Higgins",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Viernes 12 de Junio 2026",
-    "fecha_iso": "2026-06-12",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports CL",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
-      },
-      {
-        "nombre": "Max 1",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=max1"
-      }
-    ]
-  },
-  {
     "titulo": "Copa de la Liga: Carlos A. Mannucci vs Alianza Atlético",
     "categoria": "futbol",
     "clase": "PE",
@@ -77,7 +40,7 @@
         "url": "https://stream-xhd.com/live1.php?stream=dsports"
       },
       {
-        "nombre": "Vix 1",
+        "nombre": "Vix + Mundial",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=vix1"
       },
@@ -206,7 +169,7 @@
         "url": "https://stream-xhd.com/live1.php?stream=disney9"
       },
       {
-        "nombre": "Vix 2",
+        "nombre": "Vix + Mundial",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=vix2"
       },
@@ -376,7 +339,7 @@
         "url": "https://stream-xhd.com/live1.php?stream=dsports"
       },
       {
-        "nombre": "Vix 3",
+        "nombre": "Vix + Mundial",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=vix3"
       },
@@ -437,7 +400,7 @@
         "url": "https://stream-xhd.com/live1.php?stream=unicanalpy"
       },
       {
-        "nombre": "Vix 4",
+        "nombre": "Vix + Mundial",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=vix4"
       },
