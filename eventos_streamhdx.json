@@ -1,159 +1,5 @@
 [
   {
-    "titulo": "LaLiga Hypermotion: Málaga vs UD Almería | Playoffs Final",
-    "categoria": "futbol",
-    "clase": "LALIGA2",
-    "fecha": "Domingo 14 de Junio 2026",
-    "fecha_iso": "2026-06-14",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=laligahypermotion"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División de Chile: Unión La Calera vs Universidad de Chile",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Domingo 14 de Junio 2026",
-    "fecha_iso": "2026-06-14",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports CL",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Del Mundo 2026: Países Bajos vs Japón",
-    "categoria": "futbol",
-    "clase": "MUNDIAL",
-    "fecha": "Domingo 14 de Junio 2026",
-    "fecha_iso": "2026-06-14",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports + | Recomendado",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=dsportsplus"
-      },
-      {
-        "nombre": "Telemundo | Recomendado",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=telemundo"
-      },
-      {
-        "nombre": "Canal 5 MX | Recomendado",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel3/?id=canal5mx"
-      },
-      {
-        "nombre": "Sportv BR | Recomendado",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel3/?id=sportv"
-      },
-      {
-        "nombre": "Dsports +",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsportsplus"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney6"
-      },
-      {
-        "nombre": "Paramount +",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=paramount1"
-      },
-      {
-        "nombre": "TYC Sports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
-      },
-      {
-        "nombre": "Telefe",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=telefe"
-      },
-      {
-        "nombre": "Chilevision",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=canal5mx"
-      },
-      {
-        "nombre": "Azteca 7",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=azteca7"
-      },
-      {
-        "nombre": "Gen PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=genpy"
-      },
-      {
-        "nombre": "Trece PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
-      },
-      {
-        "nombre": "Caracol TV",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=evento6"
-      },
-      {
-        "nombre": "Vix + Mundial",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=vix1"
-      },
-      {
-        "nombre": "Sportv BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
-      },
-      {
-        "nombre": "CazéTV BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=cazetv"
-      },
-      {
-        "nombre": "Telemundo USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de la Liga: U. César Vallejo vs Alianza Lima",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Domingo 14 de Junio 2026",
-    "fecha_iso": "2026-06-14",
-    "hora": "17:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Bicolor+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
-      }
-    ]
-  },
-  {
     "titulo": "ESPN Knockout: Jonathan González vs Abraham Pérez",
     "categoria": "box",
     "clase": "BOX",
@@ -205,6 +51,11 @@
         "url": "https://stream-xhd.com/channel2/?id=telemundo"
       },
       {
+        "nombre": "Sportv | Recomendado",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel3/?id=sportv"
+      },
+      {
         "nombre": "Dsports",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=dsports"
@@ -223,6 +74,11 @@
         "nombre": "Telefe",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=telefe"
+      },
+      {
+        "nombre": "America TV",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=americatv"
       },
       {
         "nombre": "Unicanal PY",
@@ -289,6 +145,22 @@
     ]
   },
   {
+    "titulo": "NHL:Vegas Golden Knights vs Carolina Hurricanes",
+    "categoria": "futbol",
+    "clase": "NHL",
+    "fecha": "Domingo 14 de Junio 2026",
+    "fecha_iso": "2026-06-14",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
     "titulo": "UFC: Ilia Topuria vs Justin Gaethje",
     "categoria": "ufc",
     "clase": "UFC",
@@ -311,22 +183,6 @@
         "nombre": "Paramount+ | Portugués",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=paramount4"
-      }
-    ]
-  },
-  {
-    "titulo": "Vegas Golden Knights vs Carolina Hurricanes",
-    "categoria": "futbol",
-    "clase": "NHL:",
-    "fecha": "Domingo 14 de Junio 2026",
-    "fecha_iso": "2026-06-14",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn3"
       }
     ]
   },
