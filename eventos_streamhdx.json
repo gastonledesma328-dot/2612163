@@ -1,92 +1,5 @@
 [
   {
-    "titulo": "Copa Del Mundo 2026: Alemania vs Curazao",
-    "categoria": "futbol",
-    "clase": "MUNDIAL",
-    "fecha": "Domingo 14 de Junio 2026",
-    "fecha_iso": "2026-06-14",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports | Recomendado",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=dsports1"
-      },
-      {
-        "nombre": "La 1 ES | Recomendado",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel/?id=la1es"
-      },
-      {
-        "nombre": "Telemundo | Recomendado",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=telemundo"
-      },
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Paramount +",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=paramount1"
-      },
-      {
-        "nombre": "Chilevision",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
-      },
-      {
-        "nombre": "Gen PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=genpy"
-      },
-      {
-        "nombre": "Trece PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
-      },
-      {
-        "nombre": "Vix + Mundial",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=vix1"
-      },
-      {
-        "nombre": "La 1 ES",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=la1es"
-      },
-      {
-        "nombre": "CazéTV BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=cazetv"
-      },
-      {
-        "nombre": "Telemundo USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de la Liga: Alianza Universidad vs Sport Huancayo",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Domingo 14 de Junio 2026",
-    "fecha_iso": "2026-06-14",
-    "hora": "15:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Bicolor+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
-      }
-    ]
-  },
-  {
     "titulo": "LaLiga Hypermotion: Málaga vs UD Almería | Playoffs Final",
     "categoria": "futbol",
     "clase": "LALIGA2",
@@ -128,9 +41,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Dsports | Recomendado",
+        "nombre": "Dsports + | Recomendado",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=dsports1"
+        "url": "https://stream-xhd.com/channel2/?id=dsportsplus"
       },
       {
         "nombre": "Telemundo | Recomendado",
@@ -143,9 +56,14 @@
         "url": "https://stream-xhd.com/channel3/?id=canal5mx"
       },
       {
-        "nombre": "Dsports",
+        "nombre": "Sportv BR | Recomendado",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsports"
+        "url": "https://stream-xhd.com/channel3/?id=sportv"
+      },
+      {
+        "nombre": "Dsports +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsportsplus"
       },
       {
         "nombre": "Disney+",
@@ -191,11 +109,6 @@
         "nombre": "Trece PY",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=trecepy"
-      },
-      {
-        "nombre": "America TV",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=americatv"
       },
       {
         "nombre": "Caracol TV",
