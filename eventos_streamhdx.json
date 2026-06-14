@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "Formula 3: Barcelona - Carrera",
-    "categoria": "futbol",
-    "clase": "F3",
-    "fecha": "Domingo 14 de Junio 2026",
-    "fecha_iso": "2026-06-14",
-    "hora": "03:35",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 2: Barcelona - Carrera",
-    "categoria": "futbol",
-    "clase": "F2",
-    "fecha": "Domingo 14 de Junio 2026",
-    "fecha_iso": "2026-06-14",
-    "hora": "06:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "Formula 1: GP Barcelona - Carrera",
     "categoria": "futbol",
     "clase": "F1",
@@ -59,6 +27,11 @@
         "nombre": "F1",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=daznf1"
+      },
+      {
+        "nombre": "Sportv 3 BR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr3"
       }
     ]
   },
