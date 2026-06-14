@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "Copa de la Liga: Ayacucho vs Los Chankas",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Domingo 14 de Junio 2026",
-    "fecha_iso": "2026-06-14",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Bicolor+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División de Chile: Deportes Concepción vs Deportes Limache",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Domingo 14 de Junio 2026",
-    "fecha_iso": "2026-06-14",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports CL",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Del Mundo 2026: Alemania vs Curazao",
     "categoria": "futbol",
     "clase": "MUNDIAL",
@@ -83,7 +51,7 @@
       {
         "nombre": "Vix + Mundial",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=vix"
+        "url": "https://stream-xhd.com/live1.php?stream=vix1"
       },
       {
         "nombre": "La 1 ES",
@@ -235,6 +203,11 @@
         "url": "https://stream-xhd.com/live1.php?stream=evento6"
       },
       {
+        "nombre": "Vix + Mundial",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=vix1"
+      },
+      {
         "nombre": "Sportv BR",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
@@ -347,6 +320,11 @@
         "nombre": "Chilevision",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=chilevision"
+      },
+      {
+        "nombre": "Vix + Mundial",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=vix1"
       },
       {
         "nombre": "Sportv BR",
@@ -472,6 +450,11 @@
         "nombre": "TYC Sports",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=tycsports"
+      },
+      {
+        "nombre": "Vix + Mundial",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=vix1"
       },
       {
         "nombre": "Gen PY",
