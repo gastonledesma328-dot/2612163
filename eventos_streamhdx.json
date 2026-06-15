@@ -1,128 +1,5 @@
 [
   {
-    "titulo": "NHL:Vegas Golden Knights vs Carolina Hurricanes",
-    "categoria": "futbol",
-    "clase": "NHL",
-    "fecha": "Domingo 14 de Junio 2026",
-    "fecha_iso": "2026-06-14",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "UFC: Ilia Topuria vs Justin Gaethje",
-    "categoria": "ufc",
-    "clase": "UFC",
-    "fecha": "Domingo 14 de Junio 2026",
-    "fecha_iso": "2026-06-14",
-    "hora": "21:00",
-    "duracion_min": 480,
-    "canales": [
-      {
-        "nombre": "Paramount+ | Español",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=paramount2"
-      },
-      {
-        "nombre": "Paramount+ | Inglés",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=paramount3"
-      },
-      {
-        "nombre": "Paramount+ | Portugués",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=paramount4"
-      },
-      {
-        "nombre": "TNT Sports 1 UK",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel3/?id=tnt1uk"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Del Mundo 2026: Suecia vs Túnez",
-    "categoria": "futbol",
-    "clase": "MUNDIAL",
-    "fecha": "Domingo 14 de Junio 2026",
-    "fecha_iso": "2026-06-14",
-    "hora": "23:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports | Recomendado",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=dsports1"
-      },
-      {
-        "nombre": "Telemundo | Recomendado",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=telemundo"
-      },
-      {
-        "nombre": "Sportv | Recomendado",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channels/?id=sportv"
-      },
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Paramount +",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=paramount1"
-      },
-      {
-        "nombre": "Dsports Mosaico | Publico",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsportsplus"
-      },
-      {
-        "nombre": "TYC Sports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
-      },
-      {
-        "nombre": "Vix + Mundial",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=vix1"
-      },
-      {
-        "nombre": "Gen PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=genpy"
-      },
-      {
-        "nombre": "Trece PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
-      },
-      {
-        "nombre": "Sportv BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
-      },
-      {
-        "nombre": "CazéTV BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=cazetv"
-      },
-      {
-        "nombre": "Telemundo USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Del Mundo 2026: España vs Islas de Cabo Verde",
     "categoria": "futbol",
     "clase": "MUNDIAL",
@@ -145,6 +22,11 @@
         "nombre": "Telemundo | Recomendado",
         "calidad": "720p",
         "url": "https://stream-xhd.com/channel2/?id=telemundo"
+      },
+      {
+        "nombre": "Canal 4 SV | Recomendado",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel3/?id=canal4sv"
       },
       {
         "nombre": "Dsports",
@@ -190,6 +72,22 @@
         "nombre": "Caracol TV",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=evento6"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de la Liga: Llacuabamba vs UTC Cajamarca",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Lunes 15 de Junio 2026",
+    "fecha_iso": "2026-06-15",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Bicolor+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
       }
     ]
   },
@@ -260,6 +158,22 @@
     ]
   },
   {
+    "titulo": "Copa de la Liga: Estudiantil CNI vs Unión Comercio",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Lunes 15 de Junio 2026",
+    "fecha_iso": "2026-06-15",
+    "hora": "17:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Bicolor+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
+      }
+    ]
+  },
+  {
     "titulo": "Copa Del Mundo 2026: Arabia Saudita vs Uruguay",
     "categoria": "futbol",
     "clase": "MUNDIAL",
@@ -281,7 +195,12 @@
       {
         "nombre": "Sportv BR | Recomendado",
         "calidad": "720p",
-        "url": "https://streamhdx.com/channels/?id=sportv"
+        "url": "https://stream-xhd.com/channel3/?id=sportv"
+      },
+      {
+        "nombre": "Fox Sports 1 USA | Recomendado",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel3/?id=fs1usa"
       },
       {
         "nombre": "Dsports",
