@@ -1,101 +1,5 @@
 [
   {
-    "titulo": "Copa Del Mundo 2026: Francia vs Senegal",
-    "categoria": "futbol",
-    "clase": "MUNDIAL",
-    "fecha": "Martes 16 de Junio 2026",
-    "fecha_iso": "2026-06-16",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports | Recomendado",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=dsports1"
-      },
-      {
-        "nombre": "Telemundo | Recomendado",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=telemundo"
-      },
-      {
-        "nombre": "La 1 ES | Recomendado",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel/?id=la1es"
-      },
-      {
-        "nombre": "Sportv BR | Recomendado",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel3/?id=sportv"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "TYC Sports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
-      },
-      {
-        "nombre": "Sportv BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
-      },
-      {
-        "nombre": "Fox One USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=foxoneusa"
-      },
-      {
-        "nombre": "America TV GO",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=americatv"
-      },
-      {
-        "nombre": "Vix + Mundial",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=vix1"
-      },
-      {
-        "nombre": "La 1 ES",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=la1es"
-      },
-      {
-        "nombre": "Chilevision",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
-      },
-      {
-        "nombre": "CazéTV BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=cazetv"
-      },
-      {
-        "nombre": "Gen PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=genpy"
-      },
-      {
-        "nombre": "Trece PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
-      },
-      {
-        "nombre": "Telemundo USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Del Mundo 2026: Iraq vs Noruega",
     "categoria": "futbol",
     "clase": "MUNDIAL",
@@ -105,7 +9,7 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Dsports | Recomendado",
+        "nombre": "Dsports + | Recomendado",
         "calidad": "720p",
         "url": "https://stream-xhd.com/channel2/?id=dsportsplus"
       },
@@ -115,7 +19,7 @@
         "url": "https://stream-xhd.com/channel2/?id=telemundo"
       },
       {
-        "nombre": "Dsports",
+        "nombre": "Dsports +",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=dsportsplus"
       },
@@ -128,11 +32,6 @@
         "nombre": "CazéTV BR",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=cazetv"
-      },
-      {
-        "nombre": "Win Sports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=winsports"
       },
       {
         "nombre": "Vix + Mundial",
@@ -210,11 +109,6 @@
         "nombre": "Canal 5 MX | Recomendado",
         "calidad": "720p",
         "url": "https://stream-xhd.com/channel3/?id=canal5mx"
-      },
-      {
-        "nombre": "VIX + Mundial | Recomendado",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel3/?id=vix"
       },
       {
         "nombre": "Azteca 7 | Recomendado",
