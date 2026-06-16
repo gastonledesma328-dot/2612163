@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "MLB: Los Angeles Dodgers vs Tampa Bay Rays",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Lunes 15 de Junio 2026",
-    "fecha_iso": "2026-06-15",
-    "hora": "23:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Del Mundo 2026: Francia vs Senegal",
     "categoria": "futbol",
     "clase": "MUNDIAL",
