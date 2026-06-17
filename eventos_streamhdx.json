@@ -1,76 +1,5 @@
 [
   {
-    "titulo": "Copa Del Mundo 2026: Portugal vs RD del Congo",
-    "categoria": "futbol",
-    "clase": "MUNDIAL",
-    "fecha": "Miércoles 17 de Junio 2026",
-    "fecha_iso": "2026-06-17",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports FHD | Espanish",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=dsports1"
-      },
-      {
-        "nombre": "Telemundo | Espanish",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=telemundo"
-      },
-      {
-        "nombre": "Fox One USA | Ingles",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel3/?id=foxoneusa"
-      },
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "CazéTV BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=cazetv"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=canal5mx"
-      },
-      {
-        "nombre": "Vix + Mundial",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=vix1"
-      },
-      {
-        "nombre": "Azteca 7",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=azteca7"
-      },
-      {
-        "nombre": "Gen PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=genpy"
-      },
-      {
-        "nombre": "Trece PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
-      },
-      {
-        "nombre": "Fox One USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=foxoneusa"
-      },
-      {
-        "nombre": "Telemundo USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Del Mundo 2026: Inglaterra vs Croacia",
     "categoria": "futbol",
     "clase": "MUNDIAL",
@@ -88,21 +17,6 @@
         "nombre": "La 1 ES | Espanish",
         "calidad": "720p",
         "url": "https://stream-xhd.com/channel/?id=la1es"
-      },
-      {
-        "nombre": "Canal 4 SV | Espanish",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel3/?id=canal4sv"
-      },
-      {
-        "nombre": "Telemundo | Espanish",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=telemundo"
-      },
-      {
-        "nombre": "Sportv BR | Portugues",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel3/?id=sportv"
       },
       {
         "nombre": "Fox One USA | Ingles",
@@ -123,6 +37,11 @@
         "nombre": "Telefe",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=telefe"
+      },
+      {
+        "nombre": "Sportv BR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=sportv"
       },
       {
         "nombre": "Tyc Sports",
@@ -194,11 +113,6 @@
         "nombre": "Dsports + FHD | Espanish",
         "calidad": "720p",
         "url": "https://stream-xhd.com/channel2/?id=dsportsplus"
-      },
-      {
-        "nombre": "Telemundo | Espanish",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=telemundo"
       },
       {
         "nombre": "Fox Sports 1 USA | English",
@@ -287,16 +201,6 @@
         "nombre": "Dsports FHD | Espanish",
         "calidad": "720p",
         "url": "https://stream-xhd.com/channel2/?id=dsports1"
-      },
-      {
-        "nombre": "Telemundo | Espanish",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=telemundo"
-      },
-      {
-        "nombre": "Sportv BR | Portugues",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel3/?id=sportv"
       },
       {
         "nombre": "Fox Sports 1 USA | English",
