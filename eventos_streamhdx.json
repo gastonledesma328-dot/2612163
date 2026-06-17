@@ -1,106 +1,5 @@
 [
   {
-    "titulo": "Copa Del Mundo 2026: Inglaterra vs Croacia",
-    "categoria": "futbol",
-    "clase": "MUNDIAL",
-    "fecha": "Miércoles 17 de Junio 2026",
-    "fecha_iso": "2026-06-17",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports FHD | Espanish",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=dsports1"
-      },
-      {
-        "nombre": "La 1 ES | Espanish",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel/?id=la1es"
-      },
-      {
-        "nombre": "Fox One USA | Ingles",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel3/?id=foxoneusa"
-      },
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Telefe",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=telefe"
-      },
-      {
-        "nombre": "Sportv BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=sportv"
-      },
-      {
-        "nombre": "Tyc Sports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=canal5mx"
-      },
-      {
-        "nombre": "Vix + Mundial",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=vix1"
-      },
-      {
-        "nombre": "America TV",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=americatv"
-      },
-      {
-        "nombre": "Azteca 7",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=azteca7"
-      },
-      {
-        "nombre": "CazéTV BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=cazetv"
-      },
-      {
-        "nombre": "Chilevision",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
-      },
-      {
-        "nombre": "Telemundo USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
-      },
-      {
-        "nombre": "Gen PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=genpy"
-      },
-      {
-        "nombre": "Trece PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
-      },
-      {
-        "nombre": "Fox One USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=foxoneusa"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Del Mundo 2026: Ghana vs Panamá",
     "categoria": "futbol",
     "clase": "MUNDIAL",
@@ -226,6 +125,11 @@
         "nombre": "Vix + Mundial",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=vix1"
+      },
+      {
+        "nombre": "Sportv BR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
       },
       {
         "nombre": "Chilevision",
