@@ -1,81 +1,5 @@
 [
   {
-    "titulo": "Copa Del Mundo 2026: Países Bajos vs Suecia",
-    "categoria": "futbol",
-    "clase": "MUNDIAL",
-    "fecha": "Sábado 20 de Junio 2026",
-    "fecha_iso": "2026-06-20",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports FHD | Espanish",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=dsports1"
-      },
-      {
-        "nombre": "Fox One USA | Esglish",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel3/?id=foxoneusa"
-      },
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Vix + Mundial",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=vix1"
-      },
-      {
-        "nombre": "TYC Sports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
-      },
-      {
-        "nombre": "CazéTV BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=cazetv"
-      },
-      {
-        "nombre": "America TV",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=americatv"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=canal5mx"
-      },
-      {
-        "nombre": "Azteca 7",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=azteca7"
-      },
-      {
-        "nombre": "Unicanal PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=unicanalpy"
-      },
-      {
-        "nombre": "Telemundo USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
-      },
-      {
-        "nombre": "Telemundo | Espanish VPN USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=telemundo"
-      },
-      {
-        "nombre": "Fox One USA | Esglish",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=foxoneusa"
-      }
-    ]
-  },
-  {
     "titulo": "ESPN Knockout: Ryan Garner vs Michael Magnesi",
     "categoria": "box",
     "clase": "BOX",
@@ -88,22 +12,6 @@
         "nombre": "ESPN 3",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de la Liga: FC Cajamarca vs Llacuabamba",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 20 de Junio 2026",
-    "fecha_iso": "2026-06-20",
-    "hora": "15:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Bicolor+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
       }
     ]
   },
