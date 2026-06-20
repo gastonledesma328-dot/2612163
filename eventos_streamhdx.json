@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Copa de la Liga: AD Cantolao vs San Martín",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 20 de Junio 2026",
-    "fecha_iso": "2026-06-20",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Bicolor+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Del Mundo 2026: Países Bajos vs Suecia",
     "categoria": "futbol",
     "clase": "MUNDIAL",
