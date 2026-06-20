@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "MotoGP: GP Chequia – Clasificación",
-    "categoria": "futbol",
-    "clase": "MotoGP",
-    "fecha": "Sábado 20 de Junio 2026",
-    "fecha_iso": "2026-06-20",
-    "hora": "05:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "MotoGP: GP Chequia – Sprint",
-    "categoria": "futbol",
-    "clase": "MotoGP",
-    "fecha": "Sábado 20 de Junio 2026",
-    "fecha_iso": "2026-06-20",
-    "hora": "09:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 4",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn4"
-      }
-    ]
-  },
-  {
     "titulo": "Copa de la Liga: AD Cantolao vs San Martín",
     "categoria": "futbol",
     "clase": "PE",
