@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "ESPN Knockout: Ryan Garner vs Michael Magnesi",
-    "categoria": "box",
-    "clase": "BOX",
-    "fecha": "Sábado 20 de Junio 2026",
-    "fecha_iso": "2026-06-20",
-    "hora": "15:00",
-    "duracion_min": 400,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de la Liga: Juan Pablo II vs ADA Jaén",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 20 de Junio 2026",
-    "fecha_iso": "2026-06-20",
-    "hora": "17:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Bicolor+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=bicolor2"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Del Mundo 2026: Ecuador vs Curazao",
     "categoria": "futbol",
     "clase": "MUNDIAL",
@@ -54,6 +22,11 @@
         "nombre": "Dsports",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney1"
       },
       {
         "nombre": "Vix + Mundial",
@@ -105,6 +78,11 @@
         "nombre": "Paramount+ | Español",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=paramount2"
+      },
+      {
+        "nombre": "TNT Sports 1 | Inglés",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel3/?id=tnt1uk"
       },
       {
         "nombre": "Paramount+ | Inglés",
