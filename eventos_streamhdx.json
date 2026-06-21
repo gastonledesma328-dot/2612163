@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "MotoGP: GP Chequia – Carrera Moto3 / Moto2 / MotoGP",
-    "categoria": "futbol",
-    "clase": "MOTOGP",
-    "fecha": "Domingo 21 de Junio 2026",
-    "fecha_iso": "2026-06-21",
-    "hora": "05:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Del Mundo 2026: España vs Arabia Saudita",
     "categoria": "futbol",
     "clase": "MUNDIAL",
@@ -60,6 +44,21 @@
         "url": "https://stream-xhd.com/live1.php?stream=americatv"
       },
       {
+        "nombre": "TUDN MX",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tudnmx"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=canal5mx"
+      },
+      {
+        "nombre": "Vix + Mundial",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=vix1"
+      },
+      {
         "nombre": "Telemundo USA",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=Telemundo"
@@ -75,19 +74,9 @@
         "url": "https://stream-xhd.com/live1.php?stream=chilevision"
       },
       {
-        "nombre": "Canal 5 MX",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=canal5mx"
-      },
-      {
         "nombre": "Azteca 7",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=azteca7"
-      },
-      {
-        "nombre": "Vix + Mundial",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=vix1"
       },
       {
         "nombre": "Gen PY",
