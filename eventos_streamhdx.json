@@ -1,15 +1,170 @@
 [
   {
-    "titulo": "Copa Del Mundo 2026: Ecuador vs Curazao",
+    "titulo": "MotoGP: GP Chequia – Carrera Moto3 / Moto2 / MotoGP",
     "categoria": "futbol",
-    "clase": "MUNDIAL",
-    "fecha": "Sábado 20 de Junio 2026",
-    "fecha_iso": "2026-06-20",
-    "hora": "21:00",
+    "clase": "MOTOGP",
+    "fecha": "Domingo 21 de Junio 2026",
+    "fecha_iso": "2026-06-21",
+    "hora": "05:45",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Dsports FHD | Espanish",
+        "nombre": "Espn 2",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Del Mundo 2026: España vs Arabia Saudita",
+    "categoria": "futbol",
+    "clase": "MUNDIAL",
+    "fecha": "Domingo 21 de Junio 2026",
+    "fecha_iso": "2026-06-21",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports | Espanish",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "Fox One USA | English",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel3/?id=foxoneusa"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "TYC Sports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
+      },
+      {
+        "nombre": "Telefe",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=telefe"
+      },
+      {
+        "nombre": "America TV",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=americatv"
+      },
+      {
+        "nombre": "Telemundo USA",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=Telemundo"
+      },
+      {
+        "nombre": "CazéTV BR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=cazetv"
+      },
+      {
+        "nombre": "Chilevision",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=canal5mx"
+      },
+      {
+        "nombre": "Azteca 7",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=azteca7"
+      },
+      {
+        "nombre": "Vix + Mundial",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=vix1"
+      },
+      {
+        "nombre": "Gen PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=genpy"
+      },
+      {
+        "nombre": "Trece PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
+      },
+      {
+        "nombre": "Fox One USA | English",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=foxoneusa"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de la Liga: Moquegua vs Tacna Heroica",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Domingo 21 de Junio 2026",
+    "fecha_iso": "2026-06-21",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Bicolor+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Chile: Huachipato vs Deportes Puerto Montt",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 21 de Junio 2026",
+    "fecha_iso": "2026-06-21",
+    "hora": "14:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports CL",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de la Liga: Minas vs Sport Huancayo",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Domingo 21 de Junio 2026",
+    "fecha_iso": "2026-06-21",
+    "hora": "15:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Bicolor+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Del Mundo 2026: Bélgica vs Irán",
+    "categoria": "futbol",
+    "clase": "MUNDIAL",
+    "fecha": "Domingo 21 de Junio 2026",
+    "fecha_iso": "2026-06-21",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports | Espanish",
         "calidad": "720p",
         "url": "https://stream-xhd.com/channel2/?id=dsports1"
       },
@@ -24,24 +179,24 @@
         "url": "https://stream-xhd.com/live1.php?stream=dsports"
       },
       {
-        "nombre": "Disney +",
+        "nombre": "Telefe",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Vix + Mundial",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=vix1"
-      },
-      {
-        "nombre": "Telemundo USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
+        "url": "https://stream-xhd.com/live1.php?stream=telefe"
       },
       {
         "nombre": "CazéTV BR",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=cazetv"
+      },
+      {
+        "nombre": "Chilevision",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
+      },
+      {
+        "nombre": "Caracol TV",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=evento6"
       },
       {
         "nombre": "Gen PY",
@@ -54,55 +209,56 @@
         "url": "https://stream-xhd.com/live1.php?stream=trecepy"
       },
       {
+        "nombre": "Vix + Mundial",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=vix1"
+      },
+      {
         "nombre": "Fox Sports 1 USA | English",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=fs1usa"
-      },
-      {
-        "nombre": "Telemundo | Espanish VPN USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=telemundo"
       }
     ]
   },
   {
-    "titulo": "UFC: Manel Kape vs Kyoji Horiguchi",
-    "categoria": "ufc",
-    "clase": "UFC",
-    "fecha": "Sábado 20 de Junio 2026",
-    "fecha_iso": "2026-06-20",
-    "hora": "21:00",
-    "duracion_min": 480,
+    "titulo": "Copa Chile: Deportes Temuco vs Deportes Concepción",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 21 de Junio 2026",
+    "fecha_iso": "2026-06-21",
+    "hora": "17:00",
+    "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Paramount+ | Español",
+        "nombre": "TNT Sports CL",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=paramount2"
-      },
-      {
-        "nombre": "TNT Sports 1 | Inglés",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel3/?id=tnt1uk"
-      },
-      {
-        "nombre": "Paramount+ | Inglés",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=paramount3"
-      },
-      {
-        "nombre": "Paramount+ | Portugués",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=paramount4"
+        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
       }
     ]
   },
   {
-    "titulo": "Copa de la Liga: Carlos A. Mannucci vs Alianza Lima",
+    "titulo": "Copa de la Liga: Santos vs Ayacucho",
     "categoria": "futbol",
     "clase": "PE",
-    "fecha": "Sábado 20 de Junio 2026",
-    "fecha_iso": "2026-06-20",
-    "hora": "22:00",
+    "fecha": "Domingo 21 de Junio 2026",
+    "fecha_iso": "2026-06-21",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Bicolor+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=bicolor2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de la Liga: Estudiantil CNI vs Sporting Cristal",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Domingo 21 de Junio 2026",
+    "fecha_iso": "2026-06-21",
+    "hora": "17:30",
     "duracion_min": 140,
     "canales": [
       {
@@ -113,32 +269,16 @@
     ]
   },
   {
-    "titulo": "ESPN Knockout: Oscar Collazo vs Joey Canoy",
-    "categoria": "box",
-    "clase": "BOX",
-    "fecha": "Sábado 20 de Junio 2026",
-    "fecha_iso": "2026-06-20",
-    "hora": "22:00",
-    "duracion_min": 400,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Del Mundo 2026: Túnez vs Japón",
+    "titulo": "Copa Del Mundo 2026: Uruguay vs Islas de Cabo Verde",
     "categoria": "futbol",
     "clase": "MUNDIAL",
     "fecha": "Domingo 21 de Junio 2026",
     "fecha_iso": "2026-06-21",
-    "hora": "01:00",
+    "hora": "19:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Dsports FHD | Espanish",
+        "nombre": "Dsports | Espanish",
         "calidad": "720p",
         "url": "https://stream-xhd.com/channel2/?id=dsports1"
       },
@@ -158,19 +298,19 @@
         "url": "https://stream-xhd.com/live1.php?stream=dsports"
       },
       {
-        "nombre": "Vix + Mundial",
+        "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=vix1"
+        "url": "https://stream-xhd.com/live1.php?stream=disney2"
       },
       {
-        "nombre": "Sportv BR",
+        "nombre": "America TV",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
+        "url": "https://stream-xhd.com/live1.php?stream=americatv"
       },
       {
         "nombre": "Telemundo USA",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
+        "url": "https://stream-xhd.com/live1.php?stream=Telemundo"
       },
       {
         "nombre": "CazéTV BR",
@@ -178,9 +318,133 @@
         "url": "https://stream-xhd.com/live1.php?stream=cazetv"
       },
       {
-        "nombre": "Chilevision",
+        "nombre": "Sportv BR",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
+        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
+      },
+      {
+        "nombre": "Vix + Mundial",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=vix1"
+      },
+      {
+        "nombre": "Gen PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=genpy"
+      },
+      {
+        "nombre": "Trece PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
+      },
+      {
+        "nombre": "Fox Sports 1 USA | English",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=fs1usa"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Chile: Universidad de Chile vs Santiago Wanderers",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 21 de Junio 2026",
+    "fecha_iso": "2026-06-21",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports CL",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de la Liga: Cienciano vs Deportivo Garcilaso",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Domingo 21 de Junio 2026",
+    "fecha_iso": "2026-06-21",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Bicolor+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Chile: O'Higgins vs Unión Española",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 21 de Junio 2026",
+    "fecha_iso": "2026-06-21",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports CL",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Del Mundo 2026: Nueva Zelanda vs Egipto",
+    "categoria": "futbol",
+    "clase": "MUNDIAL",
+    "fecha": "Domingo 21 de Junio 2026",
+    "fecha_iso": "2026-06-21",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports | Espanish",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "Sportv BR | Portugues",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel3/?id=sportv"
+      },
+      {
+        "nombre": "Fox Sports 1 USA | English",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel3/?id=fs1usa"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "TYC Sports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
+      },
+      {
+        "nombre": "Telemundo USA",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=Telemundo"
+      },
+      {
+        "nombre": "CazéTV BR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=cazetv"
+      },
+      {
+        "nombre": "Sportv BR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
+      },
+      {
+        "nombre": "Vix + Mundial",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=vix1"
       },
       {
         "nombre": "Unicanal PY",
@@ -191,11 +455,6 @@
         "nombre": "Fox Sports 1 USA | English",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=fs1usa"
-      },
-      {
-        "nombre": "Telemundo | Espanish VPN USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=telemundo"
       }
     ]
   }
