@@ -14,6 +14,11 @@
         "url": "https://stream-xhd.com/channel2/?id=dsports1"
       },
       {
+        "nombre": "La 1 ES | Espanish",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel3/?id=la1es"
+      },
+      {
         "nombre": "Fox One USA | English",
         "calidad": "720p",
         "url": "https://stream-xhd.com/channel3/?id=foxoneusa"
@@ -61,12 +66,17 @@
       {
         "nombre": "Telemundo USA",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=Telemundo"
+        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
       },
       {
         "nombre": "CazéTV BR",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=cazetv"
+      },
+      {
+        "nombre": "La 1 ES",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=la1es"
       },
       {
         "nombre": "Chilevision",
@@ -176,6 +186,11 @@
         "nombre": "CazéTV BR",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=cazetv"
+      },
+      {
+        "nombre": "Telemundo USA",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
       },
       {
         "nombre": "Chilevision",
@@ -299,7 +314,7 @@
       {
         "nombre": "Telemundo USA",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=Telemundo"
+        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
       },
       {
         "nombre": "CazéTV BR",
@@ -418,7 +433,7 @@
       {
         "nombre": "Telemundo USA",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=Telemundo"
+        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
       },
       {
         "nombre": "CazéTV BR",
