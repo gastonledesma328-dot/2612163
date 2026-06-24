@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Boxeo: Lewis Crocker vs. Liam Paro",
-    "categoria": "box",
-    "clase": "BOX",
-    "fecha": "Miércoles 24 de Junio 2026",
-    "fecha_iso": "2026-06-24",
-    "hora": "06:00",
-    "duracion_min": 400,
-    "canales": [
-      {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Del Mundo 2026: Bosnia vs. Qatar",
     "categoria": "futbol",
     "clase": "MUNDIAL",
