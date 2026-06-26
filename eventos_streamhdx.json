@@ -1,139 +1,5 @@
 [
   {
-    "titulo": "Copa Del Mundo 2026: Japón vs Suecia",
-    "categoria": "futbol",
-    "clase": "MUNDIAL",
-    "fecha": "Jueves 25 de Junio 2026",
-    "fecha_iso": "2026-06-25",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports + | Espanish",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=dsportsplus"
-      },
-      {
-        "nombre": "Fox Sports 1 USA | English",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel3/?id=fs1usa"
-      },
-      {
-        "nombre": "Dsports +",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsportsplus"
-      },
-      {
-        "nombre": "Universo USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=universo"
-      },
-      {
-        "nombre": "TYC Sports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
-      },
-      {
-        "nombre": "CazéTV 2 BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=cazetv2"
-      },
-      {
-        "nombre": "Fox Sports 1 USA | English",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=fs1usa"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Del Mundo 2026: Túnez vs Países Bajos",
-    "categoria": "futbol",
-    "clase": "MUNDIAL",
-    "fecha": "Jueves 25 de Junio 2026",
-    "fecha_iso": "2026-06-25",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports | Espanish",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel2/?id=dsports1"
-      },
-      {
-        "nombre": "Fox ONE USA | English",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/channel3/?id=foxoneusa"
-      },
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "TV Publica",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tvpublica"
-      },
-      {
-        "nombre": "Telemundo USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
-      },
-      {
-        "nombre": "CazéTV BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=cazetv"
-      },
-      {
-        "nombre": "Chilevision",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
-      },
-      {
-        "nombre": "Unicanal PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=unicanalpy"
-      },
-      {
-        "nombre": "Fox ONE USA | English",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=foxoneusa"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División de Chile: Colo-Colo vs O'Higgins",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Jueves 25 de Junio 2026",
-    "fecha_iso": "2026-06-25",
-    "hora": "20:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División de Chile: Ñublense vs Univ. Concepción",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Jueves 25 de Junio 2026",
-    "fecha_iso": "2026-06-25",
-    "hora": "20:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Eventos",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Del Mundo 2026: Paraguay vs Australia",
     "categoria": "futbol",
     "clase": "MUNDIAL",
@@ -237,6 +103,663 @@
         "nombre": "Unicanal PY",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=unicanalpy"
+      },
+      {
+        "nombre": "CazéTV BR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=cazetv"
+      },
+      {
+        "nombre": "Fox ONE USA | English",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=foxoneusa"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 2: Spielberg - Práctica",
+    "categoria": "futbol",
+    "clase": "F2",
+    "fecha": "Viernes 26 de Junio 2026",
+    "fecha_iso": "2026-06-26",
+    "hora": "05:50",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Austria - Práctica #1",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 26 de Junio 2026",
+    "fecha_iso": "2026-06-26",
+    "hora": "08:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "Fox Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "F1",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=daznf1"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Austria | Cámara On Board",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 26 de Junio 2026",
+    "fecha_iso": "2026-06-26",
+    "hora": "08:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney2"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Austria | On Board Colapinto",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 26 de Junio 2026",
+    "fecha_iso": "2026-06-26",
+    "hora": "08:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney3"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Austria | On Board Verstappen",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 26 de Junio 2026",
+    "fecha_iso": "2026-06-26",
+    "hora": "08:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney4"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 3: Spielberg - Clasificación",
+    "categoria": "futbol",
+    "clase": "F3",
+    "fecha": "Viernes 26 de Junio 2026",
+    "fecha_iso": "2026-06-26",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney5"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 2: Spielberg - Clasificación",
+    "categoria": "futbol",
+    "clase": "F2",
+    "fecha": "Viernes 26 de Junio 2026",
+    "fecha_iso": "2026-06-26",
+    "hora": "10:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Austria - Práctica #2",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 26 de Junio 2026",
+    "fecha_iso": "2026-06-26",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney6"
+      },
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "Fox Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "F1",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=daznf1"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Austria | Cámara On Board",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 26 de Junio 2026",
+    "fecha_iso": "2026-06-26",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney7"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Austria | On Board Colapinto",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 26 de Junio 2026",
+    "fecha_iso": "2026-06-26",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney8"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Austria | On Board Verstappen",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 26 de Junio 2026",
+    "fecha_iso": "2026-06-26",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney9"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de la Liga: UTC vs FC Cajamarca",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Viernes 26 de Junio 2026",
+    "fecha_iso": "2026-06-26",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Bicolor +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de la Liga: Alianza Huánuco vs Minas",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Viernes 26 de Junio 2026",
+    "fecha_iso": "2026-06-26",
+    "hora": "15:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Bicolor +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Del Mundo 2026: Noruega vs Francia",
+    "categoria": "futbol",
+    "clase": "MUNDIAL",
+    "fecha": "Viernes 26 de Junio 2026",
+    "fecha_iso": "2026-06-26",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports | Espanish",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "Fox ONE USA | English",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel3/?id=foxoneusa"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney10"
+      },
+      {
+        "nombre": "Telemundo USA",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "TYC Sports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
+      },
+      {
+        "nombre": "America TV",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=americatv"
+      },
+      {
+        "nombre": "Telefe",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=telefe"
+      },
+      {
+        "nombre": "CazéTV BR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=cazetv"
+      },
+      {
+        "nombre": "Chilevision",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
+      },
+      {
+        "nombre": "Gen PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=genpy"
+      },
+      {
+        "nombre": "Trece PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
+      },
+      {
+        "nombre": "Fox ONE USA | English",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=foxoneusa"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Del Mundo 2026: Senegal vs Iraq",
+    "categoria": "futbol",
+    "clase": "MUNDIAL",
+    "fecha": "Viernes 26 de Junio 2026",
+    "fecha_iso": "2026-06-26",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports 2 | Espanish",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel2/?id=dsports2"
+      },
+      {
+        "nombre": "Fox Sports 1 USA | English",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel3/?id=fs1usa"
+      },
+      {
+        "nombre": "Dsports 2",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports2"
+      },
+      {
+        "nombre": "Universo USA",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=universo"
+      },
+      {
+        "nombre": "Unicanal PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=unicanalpy"
+      },
+      {
+        "nombre": "CazéTV 2 BR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=cazetv2"
+      },
+      {
+        "nombre": "Fox Sports 1 USA | English",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=fs1usa"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de la Liga: Sport Huancayo vs AD Tarma",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Viernes 26 de Junio 2026",
+    "fecha_iso": "2026-06-26",
+    "hora": "17:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Bicolor +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de la Liga: Universitario vs Atlético Grau",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Viernes 26 de Junio 2026",
+    "fecha_iso": "2026-06-26",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Bicolor+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
+      }
+    ]
+  },
+  {
+    "titulo": "LFA 236: Eduardo Torres vs Aziz Osorbek Uulu",
+    "categoria": "box",
+    "clase": "BOX",
+    "fecha": "Viernes 26 de Junio 2026",
+    "fecha_iso": "2026-06-26",
+    "hora": "20:30",
+    "duracion_min": 400,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Del Mundo 2026: Cabo Verde vs Arabia Saudita",
+    "categoria": "futbol",
+    "clase": "MUNDIAL",
+    "fecha": "Viernes 26 de Junio 2026",
+    "fecha_iso": "2026-06-26",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports 2 | Espanish",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel2/?id=dsports2"
+      },
+      {
+        "nombre": "Fox Sports 1 USA | English",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel3/?id=fs1usa"
+      },
+      {
+        "nombre": "Dsports 2",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports2"
+      },
+      {
+        "nombre": "Universo USA",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=universo"
+      },
+      {
+        "nombre": "Sportv 2 BR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr2"
+      },
+      {
+        "nombre": "Unicanal PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=unicanalpy"
+      },
+      {
+        "nombre": "Fox Sports 1 USA | English",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=fs1usa"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Del Mundo 2026: Uruguay vs España",
+    "categoria": "futbol",
+    "clase": "MUNDIAL",
+    "fecha": "Viernes 26 de Junio 2026",
+    "fecha_iso": "2026-06-26",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports | Espanish",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "La 1 ES | Espanish",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel3/?id=la1es"
+      },
+      {
+        "nombre": "Fox ONE USA | English",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel3/?id=foxoneusa"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Telemundo USA",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney11"
+      },
+      {
+        "nombre": "Vix + Mundial",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=vix1"
+      },
+      {
+        "nombre": "TYC Sports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
+      },
+      {
+        "nombre": "America TV",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=americatv"
+      },
+      {
+        "nombre": "TUDN MX",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tudnmx"
+      },
+      {
+        "nombre": "La 1 ES",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=la1es"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=canal5mx"
+      },
+      {
+        "nombre": "Telefe",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=telefe"
+      },
+      {
+        "nombre": "CazéTV BR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=cazetv"
+      },
+      {
+        "nombre": "Chilevision",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
+      },
+      {
+        "nombre": "Caracol TV",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=evento6"
+      },
+      {
+        "nombre": "Gen PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=genpy"
+      },
+      {
+        "nombre": "Trece PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
+      },
+      {
+        "nombre": "Fox ONE USA | English",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=foxoneusa"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Del Mundo 2026: Egipto vs Irán",
+    "categoria": "futbol",
+    "clase": "MUNDIAL",
+    "fecha": "Sábado 27 de Junio 2026",
+    "fecha_iso": "2026-06-27",
+    "hora": "00:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports + | Espanish",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel2/?id=dsportsplus"
+      },
+      {
+        "nombre": "Fox Sports 1 USA | English",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel3/?id=fs1usa"
+      },
+      {
+        "nombre": "Dsports +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsportsplus"
+      },
+      {
+        "nombre": "Universo USA",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=universo"
+      },
+      {
+        "nombre": "TYC Sports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
+      },
+      {
+        "nombre": "CazéTV 2 BR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=cazetv2"
+      },
+      {
+        "nombre": "Unicanal PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=unicanalpy"
+      },
+      {
+        "nombre": "Fox Sports 1 USA | English",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=fs1usa"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Del Mundo 2026: Nueva Zelanda vs Bélgica",
+    "categoria": "futbol",
+    "clase": "MUNDIAL",
+    "fecha": "Sábado 27 de Junio 2026",
+    "fecha_iso": "2026-06-27",
+    "hora": "00:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports | Espanish",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "Fox ONE USA | English",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel3/?id=foxoneusa"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Telemundo USA",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "Trece PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
       },
       {
         "nombre": "CazéTV BR",
