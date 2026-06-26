@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "Copa de la Liga: Alianza Huánuco vs Minas",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Viernes 26 de Junio 2026",
-    "fecha_iso": "2026-06-26",
-    "hora": "17:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Bicolor +",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de la Liga: Sport Huancayo vs AD Tarma",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Viernes 26 de Junio 2026",
-    "fecha_iso": "2026-06-26",
-    "hora": "17:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Bicolor +",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=bicolor2"
-      }
-    ]
-  },
-  {
     "titulo": "Copa de la Liga: Universitario vs Atlético Grau",
     "categoria": "futbol",
     "clase": "PE",
@@ -119,7 +87,12 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Dsports | Espanish",
+        "nombre": "Dsports Global |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel3/?id=dsports1"
+      },
+      {
+        "nombre": "Dsports Latam |",
         "calidad": "720p",
         "url": "https://stream-xhd.com/channel2/?id=dsports1"
       },
@@ -276,7 +249,12 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Dsports | Espanish",
+        "nombre": "Dsports Global |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel3/?id=dsports1"
+      },
+      {
+        "nombre": "Dsports Latam |",
         "calidad": "720p",
         "url": "https://stream-xhd.com/channel2/?id=dsports1"
       },
