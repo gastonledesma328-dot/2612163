@@ -1,42 +1,5 @@
 [
   {
-    "titulo": "Formula 2: Spielberg - Carrera",
-    "categoria": "futbol",
-    "clase": "F2",
-    "fecha": "Domingo 28 de Junio 2026",
-    "fecha_iso": "2026-06-28",
-    "hora": "05:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "MotoGP: GP Países Bajos - Carrera Moto3 / Moto2 / MotoGP",
-    "categoria": "futbol",
-    "clase": "MotoGP",
-    "fecha": "Domingo 28 de Junio 2026",
-    "fecha_iso": "2026-06-28",
-    "hora": "05:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "Formula 1: GP Austria - Carrera",
     "categoria": "futbol",
     "clase": "F1",
