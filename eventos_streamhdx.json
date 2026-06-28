@@ -48,38 +48,6 @@
     ]
   },
   {
-    "titulo": "Copa de la Liga: Alianza Lima vs Alianza Atlético",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Domingo 28 de Junio 2026",
-    "fecha_iso": "2026-06-28",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Bicolor +",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de la Liga: U. César Vallejo vs Carlos A. Mannucci",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Domingo 28 de Junio 2026",
-    "fecha_iso": "2026-06-28",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Bicolor +",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=bicolor2"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Milwaukee Brewers vs. Chicago Cubs",
     "categoria": "futbol",
     "clase": "MLB",
