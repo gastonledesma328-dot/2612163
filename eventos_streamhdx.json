@@ -1,360 +1,5 @@
 [
   {
-    "titulo": "ESPN Knockout: Jon Míguez vs Samuel Molina",
-    "categoria": "box",
-    "clase": "BOX",
-    "fecha": "Sábado 27 de Junio 2026",
-    "fecha_iso": "2026-06-27",
-    "hora": "15:00",
-    "duracion_min": 400,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de la Liga: Comerciantes FC vs Estudiantil CNI",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 27 de Junio 2026",
-    "fecha_iso": "2026-06-27",
-    "hora": "17:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Bicolor+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=bicolor2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de la Liga: Sporting Cristal vs Unión Comercio",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 27 de Junio 2026",
-    "fecha_iso": "2026-06-27",
-    "hora": "17:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Bicolor+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Del Mundo 2026: Croacia vs Ghana",
-    "categoria": "futbol",
-    "clase": "MUNDIAL",
-    "fecha": "Sábado 27 de Junio 2026",
-    "fecha_iso": "2026-06-27",
-    "hora": "18:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports 2 Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=dsports2"
-      },
-      {
-        "nombre": "Dsports 2 Solo Latam|",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel2/?id=dsports2"
-      },
-      {
-        "nombre": "Fox Sports 1 USA Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=fs1usa"
-      },
-      {
-        "nombre": "Dsports 2",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsports2"
-      },
-      {
-        "nombre": "Universo USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=universo"
-      },
-      {
-        "nombre": "Trece PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
-      },
-      {
-        "nombre": "CazéTV BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=cazetv"
-      },
-      {
-        "nombre": "Fox Sports 1 USA | English",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=fs1usa"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Del Mundo 2026: Panamá vs Inglaterra",
-    "categoria": "futbol",
-    "clase": "MUNDIAL",
-    "fecha": "Sábado 27 de Junio 2026",
-    "fecha_iso": "2026-06-27",
-    "hora": "18:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=dsports1"
-      },
-      {
-        "nombre": "Dsports Solo Latam|",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel2/?id=dsports1"
-      },
-      {
-        "nombre": "Fox ONE USA Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=foxoneusa"
-      },
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Telemundo USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
-      },
-      {
-        "nombre": "Sportv BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
-      },
-      {
-        "nombre": "TV Publica",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tvpublica"
-      },
-      {
-        "nombre": "TYC Sports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=canal5mx"
-      },
-      {
-        "nombre": "TUDN MX",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tudnmx"
-      },
-      {
-        "nombre": "Gen PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=genpy"
-      },
-      {
-        "nombre": "Fox ONE USA | English",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=foxoneusa"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Chile: Audax Italiano vs Magallanes",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Sábado 27 de Junio 2026",
-    "fecha_iso": "2026-06-27",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Del Mundo 2026: Colombia vs Portugal",
-    "categoria": "futbol",
-    "clase": "MUNDIAL",
-    "fecha": "Sábado 27 de Junio 2026",
-    "fecha_iso": "2026-06-27",
-    "hora": "20:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=dsports1"
-      },
-      {
-        "nombre": "La 1 ES Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=la1es"
-      },
-      {
-        "nombre": "Dsports Solo Latam |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel2/?id=dsports1"
-      },
-      {
-        "nombre": "Fox ONE USA Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=foxoneusa"
-      },
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney9"
-      },
-      {
-        "nombre": "Telemundo USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
-      },
-      {
-        "nombre": "America TV",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=americatv"
-      },
-      {
-        "nombre": "Sportv BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
-      },
-      {
-        "nombre": "Chilevision",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
-      },
-      {
-        "nombre": "Caracol TV",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=evento6"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=canal5mx"
-      },
-      {
-        "nombre": "TUDN MX",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tudnmx"
-      },
-      {
-        "nombre": "Unicanal PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=unicanalpy"
-      },
-      {
-        "nombre": "Fox ONE USA | English",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=foxoneusa"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Del Mundo 2026: RD del Congo vs Uzbekistán",
-    "categoria": "futbol",
-    "clase": "MUNDIAL",
-    "fecha": "Sábado 27 de Junio 2026",
-    "fecha_iso": "2026-06-27",
-    "hora": "20:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports + Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=dsportsplus"
-      },
-      {
-        "nombre": "Dsports + Solo Latam |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel2/?id=dsportsplus"
-      },
-      {
-        "nombre": "Fox Sports 1 USA Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=fs1usa"
-      },
-      {
-        "nombre": "Dsports +",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsportsplus"
-      },
-      {
-        "nombre": "Universo USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=universo"
-      },
-      {
-        "nombre": "TYC Sports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
-      },
-      {
-        "nombre": "CazéTV BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=cazetv"
-      },
-      {
-        "nombre": "Fox Sports 1 USA | English",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=fs1usa"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de la Liga: Sport Boys Association vs AD Cantolao",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 27 de Junio 2026",
-    "fecha_iso": "2026-06-27",
-    "hora": "20:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Bicolor+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Chile: Universidad Católica vs San Luis",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Sábado 27 de Junio 2026",
-    "fecha_iso": "2026-06-27",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Del Mundo 2026: Argelia vs Austria",
     "categoria": "futbol",
     "clase": "MUNDIAL",
@@ -473,6 +118,497 @@
         "nombre": "Trece PY",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=trecepy"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 3: Spielberg - Carrera",
+    "categoria": "futbol",
+    "clase": "F3",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "03:35",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney1"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 2: Spielberg - Carrera",
+    "categoria": "futbol",
+    "clase": "F2",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "05:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "MotoGP: GP Países Bajos - Carrera Moto3 / Moto2 / MotoGP",
+    "categoria": "futbol",
+    "clase": "MotoGP",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "05:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney2"
+      },
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Austria - Carrera",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney3"
+      },
+      {
+        "nombre": "Espn 2",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "Fox Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "F1",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=daznf1"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Austria | Cámara On Board",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney5"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Austria | On Board Colapinto",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney6"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Austria | On Board Verstappen",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney7"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Austria | Race Hub",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney4"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Chile: La Serena vs Cobreloa",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Baltimore Orioles vs. Washington Nationals",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "14:35",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=mlb1"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Toronto Blue Jays vs. Texas Rangers",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "14:37",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=mlb2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: New York Mets vs. Philadelphia Phillies",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "14:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=mlb3"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de la Liga: Alianza Lima vs Alianza Atlético",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Bicolor +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de la Liga: U. César Vallejo vs Carlos A. Mannucci",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Bicolor + https://stream-xhd.com/live1.php?stream=bicolor 2",
+        "calidad": "720p",
+        "url": "/eventos.html?r="
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Milwaukee Brewers vs. Chicago Cubs",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "15:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=mlb4"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Chile: Unión La Calera vs Santiago Wanderers",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Del Mundo 2026: Sudafrica vs Canadá",
+    "categoria": "futbol",
+    "clase": "MUNDIAL",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=dsports1"
+      },
+      {
+        "nombre": "La 1 ES Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=la1es"
+      },
+      {
+        "nombre": "Dsports Solo Latam |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "Fox ONE USA Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=foxoneusa"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Telemundo USA",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=canal5mx"
+      },
+      {
+        "nombre": "TUDN MX",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tudnmx"
+      },
+      {
+        "nombre": "CazéTV BR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=cazetv"
+      },
+      {
+        "nombre": "Gen PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=genpy"
+      },
+      {
+        "nombre": "Trece PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
+      },
+      {
+        "nombre": "Fox ONE USA",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=foxoneusa"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Angels vs. Athletics",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "16:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Universo",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=universo"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: San Francisco Giants vs. Atlanta Braves",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "17:05",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=mlb5"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Los Angeles Dodgers vs. San Diego Padres",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "17:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=mlb6"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de la Liga: Los Chankas vs Santos FC",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "17:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Bicolor +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Chile: Universidad de Chile vs Unión San Felipe",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de la Liga: Cusco FC vs Cienciano",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Bicolor +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Boston Red Sox vs. New York Yankees",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "WNBA: Golden State vs. New York",
+    "categoria": "futbol",
+    "clase": "WNBA",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Chile: Deportes Puerto Montt vs Deportes Concepción",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 28 de Junio 2026",
+    "fecha_iso": "2026-06-28",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
       }
     ]
   }
