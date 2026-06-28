@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Copa Chile: La Serena vs Cobreloa",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Domingo 28 de Junio 2026",
-    "fecha_iso": "2026-06-28",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Baltimore Orioles vs. Washington Nationals",
     "categoria": "futbol",
     "clase": "MLB",
