@@ -1,100 +1,5 @@
 [
   {
-    "titulo": "Formula 1: GP Austria - Carrera",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 28 de Junio 2026",
-    "fecha_iso": "2026-06-28",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney3"
-      },
-      {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "Fox Sports 1 AR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=fox1ar"
-      },
-      {
-        "nombre": "F1",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=daznf1"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Austria | Cámara On Board",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 28 de Junio 2026",
-    "fecha_iso": "2026-06-28",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney5"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Austria | On Board Colapinto",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 28 de Junio 2026",
-    "fecha_iso": "2026-06-28",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney6"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Austria | On Board Verstappen",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 28 de Junio 2026",
-    "fecha_iso": "2026-06-28",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney7"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Austria | Race Hub",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 28 de Junio 2026",
-    "fecha_iso": "2026-06-28",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney4"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Chile: La Serena vs Cobreloa",
     "categoria": "futbol",
     "clase": "CH",
@@ -184,9 +89,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Bicolor + https://stream-xhd.com/live1.php?stream=bicolor 2",
+        "nombre": "Bicolor +",
         "calidad": "720p",
-        "url": "/eventos.html?r="
+        "url": "https://stream-xhd.com/live1.php?stream=bicolor2"
       }
     ]
   },
