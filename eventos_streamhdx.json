@@ -1,59 +1,124 @@
 [
   {
-    "titulo": "MLB: San Francisco Giants vs. Atlanta Braves",
+    "titulo": "Wimbledon: Día #1 | Nava (USA) vs. Buse (PER)",
     "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Domingo 28 de Junio 2026",
-    "fecha_iso": "2026-06-28",
-    "hora": "17:05",
+    "clase": "Wimbledon",
+    "fecha": "Lunes 29 de Junio 2026",
+    "fecha_iso": "2026-06-29",
+    "hora": "07:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLB",
+        "nombre": "ESPN 2",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=mlb5"
+        "url": "https://stream-xhd.com/live1.php?stream=espn2"
       }
     ]
   },
   {
-    "titulo": "MLB: Los Angeles Dodgers vs. San Diego Padres",
+    "titulo": "Wimbledon: Día #1 | Trungelliti (ARG) vs. Damm (USA)",
     "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Domingo 28 de Junio 2026",
-    "fecha_iso": "2026-06-28",
-    "hora": "17:10",
+    "clase": "Wimbledon",
+    "fecha": "Lunes 29 de Junio 2026",
+    "fecha_iso": "2026-06-29",
+    "hora": "07:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MLB",
+        "nombre": "ESPN 3",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=mlb6"
+        "url": "https://stream-xhd.com/live1.php?stream=espn3"
       }
     ]
   },
   {
-    "titulo": "Copa Chile: Universidad de Chile vs Unión San Felipe",
+    "titulo": "Copa del Mundo: Brasil vs Japón",
     "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Domingo 28 de Junio 2026",
-    "fecha_iso": "2026-06-28",
-    "hora": "18:30",
+    "clase": "Mundial",
+    "fecha": "Lunes 29 de Junio 2026",
+    "fecha_iso": "2026-06-29",
+    "hora": "14:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "TNT Sports Chile",
+        "nombre": "Dsports Global |",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
+        "url": "https://streamhdx.xyz/channel/?id=dsports1"
+      },
+      {
+        "nombre": "Dsports Latam |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "La 1 ES Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=la1es"
+      },
+      {
+        "nombre": "Fox One USA Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=foxoneusa"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "Telefe",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=telefe"
+      },
+      {
+        "nombre": "Telemundo USA",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "Sportv BR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
+      },
+      {
+        "nombre": "La 1 ES",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=la1es"
+      },
+      {
+        "nombre": "Chilevision",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
+      },
+      {
+        "nombre": "Caracol TV",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=evento6"
+      },
+      {
+        "nombre": "Unicanal PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=unicanalpy"
+      },
+      {
+        "nombre": "Fox One USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
       }
     ]
   },
   {
-    "titulo": "Copa de la Liga: Cusco FC vs Cienciano",
+    "titulo": "Copa de la Liga: Melgar vs CD Moquegua",
     "categoria": "futbol",
     "clase": "PE",
-    "fecha": "Domingo 28 de Junio 2026",
-    "fecha_iso": "2026-06-28",
-    "hora": "20:00",
+    "fecha": "Lunes 29 de Junio 2026",
+    "fecha_iso": "2026-06-29",
+    "hora": "15:00",
     "duracion_min": 140,
     "canales": [
       {
@@ -64,11 +129,113 @@
     ]
   },
   {
-    "titulo": "MLB: Boston Red Sox vs. New York Yankees",
+    "titulo": "Copa de la Liga: Deportivo Garcilaso vs Binacional",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Lunes 29 de Junio 2026",
+    "fecha_iso": "2026-06-29",
+    "hora": "17:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Bicolor +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa del Mundo: Alemania vs Paraguay",
+    "categoria": "futbol",
+    "clase": "Mundial",
+    "fecha": "Lunes 29 de Junio 2026",
+    "fecha_iso": "2026-06-29",
+    "hora": "17:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=dsports1"
+      },
+      {
+        "nombre": "Canal 5 MX Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=canal5mx"
+      },
+      {
+        "nombre": "Dsports Latam |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "Fox One USA Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=foxoneusa"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "TYC Sports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
+      },
+      {
+        "nombre": "Telemundo USA",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "Sportv BR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
+      },
+      {
+        "nombre": "Chilevision",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
+      },
+      {
+        "nombre": "Caracol TV",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=evento6"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=canal5mx"
+      },
+      {
+        "nombre": "TUDN MX",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tudnmx"
+      },
+      {
+        "nombre": "Gen PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=genpy"
+      },
+      {
+        "nombre": "Trece PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
+      },
+      {
+        "nombre": "Fox One USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Cleveland Guardians vs. Texas Rangers",
     "categoria": "futbol",
     "clase": "MLB",
-    "fecha": "Domingo 28 de Junio 2026",
-    "fecha_iso": "2026-06-28",
+    "fecha": "Lunes 29 de Junio 2026",
+    "fecha_iso": "2026-06-29",
     "hora": "20:00",
     "duracion_min": 140,
     "canales": [
@@ -80,34 +247,89 @@
     ]
   },
   {
-    "titulo": "WNBA: Golden State vs. New York",
+    "titulo": "Copa del Mundo: Países Bajos vs Marruecos",
     "categoria": "futbol",
-    "clase": "WNBA",
-    "fecha": "Domingo 28 de Junio 2026",
-    "fecha_iso": "2026-06-28",
-    "hora": "20:00",
+    "clase": "Mundial",
+    "fecha": "Lunes 29 de Junio 2026",
+    "fecha_iso": "2026-06-29",
+    "hora": "22:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "ESPN 3",
+        "nombre": "Dsports Global |",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn3"
+        "url": "https://streamhdx.xyz/channel/?id=dsports1"
+      },
+      {
+        "nombre": "Canal 5 MX Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=canal5mx"
+      },
+      {
+        "nombre": "Dsports Latam |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "Fox One USA Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=foxoneusa"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "TYC Sports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
+      },
+      {
+        "nombre": "Telemundo USA",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=canal5mx"
+      },
+      {
+        "nombre": "TUDN MX",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tudnmx"
+      },
+      {
+        "nombre": "Gen PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=genpy"
+      },
+      {
+        "nombre": "Trece PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
+      },
+      {
+        "nombre": "Fox One USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
       }
     ]
   },
   {
-    "titulo": "Copa Chile: Deportes Puerto Montt vs Deportes Concepción",
+    "titulo": "MLB: Seattle Mariners vs. Los Angeles Angels",
     "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Domingo 28 de Junio 2026",
-    "fecha_iso": "2026-06-28",
-    "hora": "21:00",
+    "clase": "MLB",
+    "fecha": "Lunes 29 de Junio 2026",
+    "fecha_iso": "2026-06-29",
+    "hora": "22:30",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "TNT Sports Chile",
+        "nombre": "ESPN 5",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
+        "url": "https://stream-xhd.com/live1.php?stream=espn5"
       }
     ]
   }
