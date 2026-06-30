@@ -1,139 +1,5 @@
 [
   {
-    "titulo": "Wimbledon: Día #1 | Nava (USA) vs. Buse (PER)",
-    "categoria": "futbol",
-    "clase": "Wimbledon",
-    "fecha": "Lunes 29 de Junio 2026",
-    "fecha_iso": "2026-06-29",
-    "hora": "07:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Wimbledon: Día #1 | Trungelliti (ARG) vs. Damm (USA)",
-    "categoria": "futbol",
-    "clase": "Wimbledon",
-    "fecha": "Lunes 29 de Junio 2026",
-    "fecha_iso": "2026-06-29",
-    "hora": "07:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de la Liga: Deportivo Garcilaso vs Binacional",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Lunes 29 de Junio 2026",
-    "fecha_iso": "2026-06-29",
-    "hora": "17:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Bicolor +",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=bicolor"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa del Mundo: Alemania vs Paraguay",
-    "categoria": "futbol",
-    "clase": "Mundial",
-    "fecha": "Lunes 29 de Junio 2026",
-    "fecha_iso": "2026-06-29",
-    "hora": "17:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=dsports1"
-      },
-      {
-        "nombre": "Canal 5 MX Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=canal5mx"
-      },
-      {
-        "nombre": "Dsports Latam |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel2/?id=dsports1"
-      },
-      {
-        "nombre": "Fox One USA Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=foxoneusa"
-      },
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "TYC Sports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
-      },
-      {
-        "nombre": "Telemundo USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
-      },
-      {
-        "nombre": "Sportv BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
-      },
-      {
-        "nombre": "Chilevision",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
-      },
-      {
-        "nombre": "Caracol TV",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=evento6"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=canal5mx"
-      },
-      {
-        "nombre": "TUDN MX",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tudnmx"
-      },
-      {
-        "nombre": "Gen PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=genpy"
-      },
-      {
-        "nombre": "Trece PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
-      },
-      {
-        "nombre": "Fox One USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Cleveland Guardians vs. Texas Rangers",
     "categoria": "futbol",
     "clase": "MLB",
@@ -167,6 +33,11 @@
         "nombre": "Canal 5 MX Global |",
         "calidad": "720p",
         "url": "https://streamhdx.xyz/channel/?id=canal5mx"
+      },
+      {
+        "nombre": "Canal 4 SV |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=canal4sv"
       },
       {
         "nombre": "Dsports Latam |",
