@@ -1,43 +1,49 @@
 [
   {
-    "titulo": "MLB: Cleveland Guardians vs. Texas Rangers",
+    "titulo": "Wimbledon: Dia #2 | Boulter (GBR) vs. Grant (ITA)",
     "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Lunes 29 de Junio 2026",
-    "fecha_iso": "2026-06-29",
-    "hora": "20:00",
+    "clase": "WIMBLEDOM",
+    "fecha": "Martes 30 de Junio 2026",
+    "fecha_iso": "2026-06-30",
+    "hora": "07:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "ESPN 2",
+        "nombre": "Espn 3",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "Wimbledon: Dia #2 | Majchrzak (POL) vs. Tabilo (CHI)",
+    "categoria": "futbol",
+    "clase": "WIMBLEDOM",
+    "fecha": "Martes 30 de Junio 2026",
+    "fecha_iso": "2026-06-30",
+    "hora": "07:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 2",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=espn2"
       }
     ]
   },
   {
-    "titulo": "Copa del Mundo: Países Bajos vs Marruecos",
+    "titulo": "Copa del Mundo: Costa de Marfil vs Noruega",
     "categoria": "futbol",
     "clase": "Mundial",
-    "fecha": "Lunes 29 de Junio 2026",
-    "fecha_iso": "2026-06-29",
-    "hora": "22:00",
+    "fecha": "Martes 30 de Junio 2026",
+    "fecha_iso": "2026-06-30",
+    "hora": "14:00",
     "duracion_min": 140,
     "canales": [
       {
         "nombre": "Dsports Global |",
         "calidad": "720p",
         "url": "https://streamhdx.xyz/channel/?id=dsports1"
-      },
-      {
-        "nombre": "Canal 5 MX Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=canal5mx"
-      },
-      {
-        "nombre": "Canal 4 SV |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=canal4sv"
       },
       {
         "nombre": "Dsports Latam |",
@@ -55,14 +61,256 @@
         "url": "https://stream-xhd.com/live1.php?stream=dsports"
       },
       {
-        "nombre": "TYC Sports",
+        "nombre": "Telemundo USA",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
+        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "Sportv BR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
+      },
+      {
+        "nombre": "Gen PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=genpy"
+      },
+      {
+        "nombre": "Trece PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
+      },
+      {
+        "nombre": "Unicanal PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=unicanalpy"
+      },
+      {
+        "nombre": "Fox One USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa del Mundo: Francia vs Suecia",
+    "categoria": "futbol",
+    "clase": "Mundial",
+    "fecha": "Martes 30 de Junio 2026",
+    "fecha_iso": "2026-06-30",
+    "hora": "18:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=dsports1"
+      },
+      {
+        "nombre": "La 1 ES Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=la1es"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Dsports Latam |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "Canal 4 SV",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=canal4sv"
+      },
+      {
+        "nombre": "Fox One USA Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=foxoneusa"
+      },
+      {
+        "nombre": "ITV 1 UK Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=itv1uk"
       },
       {
         "nombre": "Telemundo USA",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "TYC Sports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
+      },
+      {
+        "nombre": "La 1 ES",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=la1es"
+      },
+      {
+        "nombre": "Chilevision",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
+      },
+      {
+        "nombre": "Gen PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=genpy"
+      },
+      {
+        "nombre": "Trece PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
+      },
+      {
+        "nombre": "Unicanal PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=unicanalpy"
+      },
+      {
+        "nombre": "Fox One USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Detroit Tigers vs. New York Yankees",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Martes 30 de Junio 2026",
+    "fecha_iso": "2026-06-30",
+    "hora": "20:05",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=mlb1"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: New York Mets vs. Toronto Blue Jays",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Martes 30 de Junio 2026",
+    "fecha_iso": "2026-06-30",
+    "hora": "20:07",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=mlb2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Washington Nationals vs. Boston Red Sox",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Martes 30 de Junio 2026",
+    "fecha_iso": "2026-06-30",
+    "hora": "20:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=mlb3"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: St. Louis Cardinals vs. Atlanta Braves",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Martes 30 de Junio 2026",
+    "fecha_iso": "2026-06-30",
+    "hora": "20:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=mlb4"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Chicago Cubs vs. San Diego Padres",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Martes 30 de Junio 2026",
+    "fecha_iso": "2026-06-30",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa del Mundo: México vs Ecuador",
+    "categoria": "futbol",
+    "clase": "Mundial",
+    "fecha": "Martes 30 de Junio 2026",
+    "fecha_iso": "2026-06-30",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=dsports1"
+      },
+      {
+        "nombre": "Dsports Latam |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "Canal 4 SV",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=canal4sv"
+      },
+      {
+        "nombre": "Fox One USA Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=foxoneusa"
+      },
+      {
+        "nombre": "ITV 1 UK Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=itv1uk"
+      },
+      {
+        "nombre": "Canal 5 MX Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=canal5mx"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Telemundo USA",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "Sportv BR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
       },
       {
         "nombre": "Canal 5 MX",
@@ -85,6 +333,11 @@
         "url": "https://stream-xhd.com/live1.php?stream=trecepy"
       },
       {
+        "nombre": "Unicanal PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=unicanalpy"
+      },
+      {
         "nombre": "Fox One USA",
         "calidad": "720p",
         "url": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
@@ -92,18 +345,18 @@
     ]
   },
   {
-    "titulo": "MLB: Seattle Mariners vs. Los Angeles Angels",
+    "titulo": "MLB: Los Angeles Dodgers vs. Athletics",
     "categoria": "futbol",
     "clase": "MLB",
-    "fecha": "Lunes 29 de Junio 2026",
-    "fecha_iso": "2026-06-29",
-    "hora": "22:30",
+    "fecha": "Martes 30 de Junio 2026",
+    "fecha_iso": "2026-06-30",
+    "hora": "22:40",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "ESPN 5",
+        "nombre": "MLB",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn5"
+        "url": "https://stream-xhd.com/live1.php?stream=mlb5"
       }
     ]
   }
