@@ -32,62 +32,6 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Inglaterra vs RD del Congo",
-    "categoria": "futbol",
-    "clase": "Mundial",
-    "fecha": "Miércoles 01 de Julio 2026",
-    "fecha_iso": "2026-07-01",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=dsports1"
-      },
-      {
-        "nombre": "Dsports Latam |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel2/?id=dsports1"
-      },
-      {
-        "nombre": "La 1 ES Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=la1es"
-      },
-      {
-        "nombre": "Fox One USA Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=foxoneusa"
-      },
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Telemundo USA",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
-      },
-      {
-        "nombre": "Gen PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=genpy"
-      },
-      {
-        "nombre": "Trece PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
-      },
-      {
-        "nombre": "Fox ONE USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Toronto Blue Jays vs. New York Mets",
     "categoria": "futbol",
     "clase": "MLB",
