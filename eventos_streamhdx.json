@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "Wimbledon | Cobertura Internacional | En español",
-    "categoria": "futbol",
-    "clase": "Wimbledon",
-    "fecha": "Miércoles 01 de Julio 2026",
-    "fecha_iso": "2026-07-01",
-    "hora": "07:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Wimbledon | Cobertura Regional | En español",
-    "categoria": "futbol",
-    "clase": "Wimbledon",
-    "fecha": "Miércoles 01 de Julio 2026",
-    "fecha_iso": "2026-07-01",
-    "hora": "07:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Toronto Blue Jays vs. New York Mets",
     "categoria": "futbol",
     "clase": "MLB",
