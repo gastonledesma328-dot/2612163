@@ -51,7 +51,7 @@
         "url": "https://streamhdx.xyz/channel/?id=la1es"
       },
       {
-        "nombre": "Camal 5 MX Global |",
+        "nombre": "Canal 5 MX Global |",
         "calidad": "720p",
         "url": "https://streamhdx.xyz/channel/?id=canal5mx"
       },
@@ -262,6 +262,534 @@
         "nombre": "Fox Sports 1 USA |",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=fs1usa"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 3: Silverstone - Prácticas",
+    "categoria": "futbol",
+    "clase": "F3",
+    "fecha": "Viernes 03 de Julio 2026",
+    "fecha_iso": "2026-07-03",
+    "hora": "04:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 2: Silverstone - Prácticas",
+    "categoria": "futbol",
+    "clase": "F2",
+    "fecha": "Viernes 03 de Julio 2026",
+    "fecha_iso": "2026-07-03",
+    "hora": "05:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Wimbledon: Día #5 - Cobertura Internacional",
+    "categoria": "futbol",
+    "clase": "Wimbledon",
+    "fecha": "Viernes 03 de Julio 2026",
+    "fecha_iso": "2026-07-03",
+    "hora": "07:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2 |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Wimbledon: Día #5 - Cobertura Regional",
+    "categoria": "futbol",
+    "clase": "Wimbledon",
+    "fecha": "Viernes 03 de Julio 2026",
+    "fecha_iso": "2026-07-03",
+    "hora": "07:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 4 |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn4"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Gran Bretaña - Práctica #1",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 03 de Julio 2026",
+    "fecha_iso": "2026-07-03",
+    "hora": "08:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "Fox Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "DAZN F1",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=daznf1"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Gran Bretaña - Práctica #1 | Cámara On Board",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 03 de Julio 2026",
+    "fecha_iso": "2026-07-03",
+    "hora": "08:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney2"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Gran Bretaña - Práctica #1 | On Board Colapinto",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 03 de Julio 2026",
+    "fecha_iso": "2026-07-03",
+    "hora": "08:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney3"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Gran Bretaña - Práctica #1 | On Board Norris",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 03 de Julio 2026",
+    "fecha_iso": "2026-07-03",
+    "hora": "08:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney4"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 3: Silverstone - Clasificación",
+    "categoria": "futbol",
+    "clase": "F3",
+    "fecha": "Viernes 03 de Julio 2026",
+    "fecha_iso": "2026-07-03",
+    "hora": "09:55",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 2: Silverstone - Clasificación",
+    "categoria": "futbol",
+    "clase": "F2",
+    "fecha": "Viernes 03 de Julio 2026",
+    "fecha_iso": "2026-07-03",
+    "hora": "10:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Gran Bretaña - Clasificación Sprint",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 03 de Julio 2026",
+    "fecha_iso": "2026-07-03",
+    "hora": "12:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney5"
+      },
+      {
+        "nombre": "Fox Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "DAZN F1",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=daznf1"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Gran Bretaña - Clasificación Sprint | Cámara On Board",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 03 de Julio 2026",
+    "fecha_iso": "2026-07-03",
+    "hora": "12:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney6"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Gran Bretaña - Clasificación Sprint | On Board Colapinto",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 03 de Julio 2026",
+    "fecha_iso": "2026-07-03",
+    "hora": "12:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney7"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Gran Bretaña - Clasificación Sprint | On Board Norris",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Viernes 03 de Julio 2026",
+    "fecha_iso": "2026-07-03",
+    "hora": "12:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney8"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa del Mundo: Australia vs Egipto",
+    "categoria": "futbol",
+    "clase": "Mundial",
+    "fecha": "Viernes 03 de Julio 2026",
+    "fecha_iso": "2026-07-03",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=dsports1"
+      },
+      {
+        "nombre": "Dsports Latam |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "Fox One USA Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=foxoneusa"
+      },
+      {
+        "nombre": "Dsports |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Telemundo USA |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "TYC Sports |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
+      },
+      {
+        "nombre": "Sportv BR |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
+      },
+      {
+        "nombre": "Gen PY |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=genpy"
+      },
+      {
+        "nombre": "Trece PY |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
+      },
+      {
+        "nombre": "Fox ONE USA |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa del Mundo: Argentina vs Cabo Verde",
+    "categoria": "futbol",
+    "clase": "Mundial",
+    "fecha": "Viernes 03 de Julio 2026",
+    "fecha_iso": "2026-07-03",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=dsports1"
+      },
+      {
+        "nombre": "La 1 ES Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=la1es"
+      },
+      {
+        "nombre": "Dsports Latam |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "Canal 4 SV",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=canal4sv"
+      },
+      {
+        "nombre": "Canal 5 MX Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=canal5mx"
+      },
+      {
+        "nombre": "Fox One USA Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=foxoneusa"
+      },
+      {
+        "nombre": "ITV 1 UK Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=itv1uk"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney9"
+      },
+      {
+        "nombre": "Telemundo USA |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "TYC Sports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
+      },
+      {
+        "nombre": "Telefe",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=telefe"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=canal5mx"
+      },
+      {
+        "nombre": "Sportv BR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
+      },
+      {
+        "nombre": "TUDN MX",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tudnmx"
+      },
+      {
+        "nombre": "America TV",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=americatv"
+      },
+      {
+        "nombre": "TV Publica",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tvpublica"
+      },
+      {
+        "nombre": "Gen PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=genpy"
+      },
+      {
+        "nombre": "Trece PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
+      },
+      {
+        "nombre": "Chilevision",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
+      },
+      {
+        "nombre": "Fox ONE USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Atlanta Braves vs. New York Mets",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Viernes 03 de Julio 2026",
+    "fecha_iso": "2026-07-03",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn4"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa del Mundo: Colombia vs Ghana",
+    "categoria": "futbol",
+    "clase": "Mundial",
+    "fecha": "Viernes 03 de Julio 2026",
+    "fecha_iso": "2026-07-03",
+    "hora": "22:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=dsports1"
+      },
+      {
+        "nombre": "Dsports Latam |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "Canal 5 MX Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=canal5mx"
+      },
+      {
+        "nombre": "Canal 4 SV",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=canal4sv"
+      },
+      {
+        "nombre": "Fox One USA Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=foxoneusa"
+      },
+      {
+        "nombre": "ITV 1 UK Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=itv1uk"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney10"
+      },
+      {
+        "nombre": "America TV",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=americatv"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=canal5mx"
+      },
+      {
+        "nombre": "TUDN MX",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tudnmx"
+      },
+      {
+        "nombre": "Caracol TV",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=evento6"
+      },
+      {
+        "nombre": "Chilevision",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
+      },
+      {
+        "nombre": "Gen PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=genpy"
+      },
+      {
+        "nombre": "Trece PY",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
+      },
+      {
+        "nombre": "Fox ONE USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
       }
     ]
   }
