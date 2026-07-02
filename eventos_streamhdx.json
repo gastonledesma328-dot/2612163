@@ -1,11 +1,43 @@
 [
   {
-    "titulo": "Copa del Mundo: Estados Unidos vs Bosnia",
+    "titulo": "Wimbledon: Día #4 - Cobertura Internacional",
+    "categoria": "futbol",
+    "clase": "Wimbledon",
+    "fecha": "Jueves 02 de Julio 2026",
+    "fecha_iso": "2026-07-02",
+    "hora": "07:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2 |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Wimbledon: Día #4 - Cobertura Regional",
+    "categoria": "futbol",
+    "clase": "Wimbledon",
+    "fecha": "Jueves 02 de Julio 2026",
+    "fecha_iso": "2026-07-02",
+    "hora": "07:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 3 |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa del Mundo: España vs Austria",
     "categoria": "futbol",
     "clase": "Mundial",
-    "fecha": "Miércoles 01 de Julio 2026",
-    "fecha_iso": "2026-07-01",
-    "hora": "21:00",
+    "fecha": "Jueves 02 de Julio 2026",
+    "fecha_iso": "2026-07-02",
+    "hora": "16:00",
     "duracion_min": 140,
     "canales": [
       {
@@ -14,14 +46,14 @@
         "url": "https://streamhdx.xyz/channel/?id=dsports1"
       },
       {
+        "nombre": "La 1 ES Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=la1es"
+      },
+      {
         "nombre": "Camal 5 MX Global |",
         "calidad": "720p",
         "url": "https://streamhdx.xyz/channel/?id=canal5mx"
-      },
-      {
-        "nombre": "Canal 4 SV",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=canal4sv"
       },
       {
         "nombre": "Dsports Latam |",
@@ -34,60 +66,202 @@
         "url": "https://streamhdx.xyz/channel/?id=foxoneusa"
       },
       {
-        "nombre": "Dsports",
+        "nombre": "Dsports |",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=dsports"
       },
       {
-        "nombre": "TYC Sports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
-      },
-      {
-        "nombre": "Telemundo USA",
+        "nombre": "Telemundo USA |",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=telemundo"
       },
       {
-        "nombre": "Canal 5 MX",
+        "nombre": "Sportv BR |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
+      },
+      {
+        "nombre": "Canal 5 MX |",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=canal5mx"
       },
       {
-        "nombre": "TUDN MX",
+        "nombre": "TUDN MX |",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=tudnmx"
       },
       {
-        "nombre": "Gen PY",
+        "nombre": "Chilevision |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
+      },
+      {
+        "nombre": "Caracol TV |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=evento6"
+      },
+      {
+        "nombre": "Gen PY |",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=genpy"
       },
       {
-        "nombre": "Trece PY",
+        "nombre": "Trece PY |",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=trecepy"
       },
       {
-        "nombre": "Fox ONE USA",
+        "nombre": "Fox ONE USA |",
         "calidad": "720p",
         "url": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
       }
     ]
   },
   {
-    "titulo": "MLB: Milwaukee Brewers vs. Cincinnati Reds",
+    "titulo": "Copa del Mundo: Portugal vs Croacia",
+    "categoria": "futbol",
+    "clase": "Mundial",
+    "fecha": "Jueves 02 de Julio 2026",
+    "fecha_iso": "2026-07-02",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=dsports1"
+      },
+      {
+        "nombre": "Dsports Latam |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "Fox One USA Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=foxoneusa"
+      },
+      {
+        "nombre": "Dsports |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Disney+ |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "TYC Sports |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
+      },
+      {
+        "nombre": "Telefe |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=telefe"
+      },
+      {
+        "nombre": "Telemundo USA |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "America TV |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=americatv"
+      },
+      {
+        "nombre": "Chilevision |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
+      },
+      {
+        "nombre": "Caracol TV |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=evento6"
+      },
+      {
+        "nombre": "Gen PY |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=genpy"
+      },
+      {
+        "nombre": "Trece PY |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
+      },
+      {
+        "nombre": "Fox ONE USA |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Texas Rangers vs. Detroit Tigers",
     "categoria": "futbol",
     "clase": "MLB",
-    "fecha": "Miércoles 01 de Julio 2026",
-    "fecha_iso": "2026-07-01",
+    "fecha": "Jueves 02 de Julio 2026",
+    "fecha_iso": "2026-07-02",
     "hora": "21:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "ESPN 4",
+        "nombre": "ESPN 5 |",
         "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn4"
+        "url": "https://stream-xhd.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa del Mundo: Suiza vs Argelia",
+    "categoria": "futbol",
+    "clase": "Mundial",
+    "fecha": "Viernes 03 de Julio 2026",
+    "fecha_iso": "2026-07-03",
+    "hora": "00:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=dsports1"
+      },
+      {
+        "nombre": "Dsports Latam |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "Fox Sports 1 USA Global |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/channel/?id=fs1usa"
+      },
+      {
+        "nombre": "Dsports |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Telemundo USA |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "Gen PY |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=genpy"
+      },
+      {
+        "nombre": "Trece PY |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
+      },
+      {
+        "nombre": "Fox Sports 1 USA |",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=fs1usa"
       }
     ]
   }
