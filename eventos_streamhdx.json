@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "Wimbledon: Día #5 - Cobertura Internacional",
-    "categoria": "futbol",
-    "clase": "Wimbledon",
-    "fecha": "Viernes 03 de Julio 2026",
-    "fecha_iso": "2026-07-03",
-    "hora": "07:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2 |",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Wimbledon: Día #5 - Cobertura Regional",
-    "categoria": "futbol",
-    "clase": "Wimbledon",
-    "fecha": "Viernes 03 de Julio 2026",
-    "fecha_iso": "2026-07-03",
-    "hora": "07:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 4 |",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn4"
-      }
-    ]
-  },
-  {
     "titulo": "Copa del Mundo: Australia vs Egipto",
     "categoria": "futbol",
     "clase": "Mundial",
@@ -89,32 +57,6 @@
         "nombre": "Fox ONE USA |",
         "calidad": "720p",
         "url": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso Internacional: River Plate vs. Flamengo",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Viernes 03 de Julio 2026",
-    "fecha_iso": "2026-07-03",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Sportv 2 BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr2"
-      },
-      {
-        "nombre": "Premiere BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=premiere1"
       }
     ]
   },
