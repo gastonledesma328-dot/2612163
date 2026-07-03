@@ -1,86 +1,5 @@
 [
   {
-    "titulo": "Copa del Mundo: Portugal vs Croacia",
-    "categoria": "futbol",
-    "clase": "Mundial",
-    "fecha": "Jueves 02 de Julio 2026",
-    "fecha_iso": "2026-07-02",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=dsports1"
-      },
-      {
-        "nombre": "Dsports Latam |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel2/?id=dsports1"
-      },
-      {
-        "nombre": "Fox One USA Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=foxoneusa"
-      },
-      {
-        "nombre": "Dsports |",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Disney+ |",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "TYC Sports |",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tycsports"
-      },
-      {
-        "nombre": "Telefe |",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=telefe"
-      },
-      {
-        "nombre": "Telemundo USA |",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
-      },
-      {
-        "nombre": "America TV |",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=americatv"
-      },
-      {
-        "nombre": "Chilevision |",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
-      },
-      {
-        "nombre": "Caracol TV |",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=evento6"
-      },
-      {
-        "nombre": "Gen PY |",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=genpy"
-      },
-      {
-        "nombre": "Trece PY |",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
-      },
-      {
-        "nombre": "Fox ONE USA |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Texas Rangers vs. Detroit Tigers",
     "categoria": "futbol",
     "clase": "MLB",
@@ -231,7 +150,7 @@
         "url": "https://stream-xhd.com/live1.php?stream=fox1ar"
       },
       {
-        "nombre": "DAZN F1",
+        "nombre": "F1",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=daznf1"
       }
@@ -337,7 +256,7 @@
         "url": "https://stream-xhd.com/live1.php?stream=fox1ar"
       },
       {
-        "nombre": "DAZN F1",
+        "nombre": "F1",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=daznf1"
       }
