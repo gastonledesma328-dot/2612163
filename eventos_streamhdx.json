@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "Wimbledon: Día #6 | Cobertura Internacional",
-    "categoria": "futbol",
-    "clase": "Wimbledon",
-    "fecha": "Sábado 04 de Julio 2026",
-    "fecha_iso": "2026-07-04",
-    "hora": "07:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
-    "titulo": "Wimbledon: Día #6 | Cobertura Regional",
-    "categoria": "futbol",
-    "clase": "Wimbledon",
-    "fecha": "Sábado 04 de Julio 2026",
-    "fecha_iso": "2026-07-04",
-    "hora": "07:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn4"
-      }
-    ]
-  },
-  {
     "titulo": "LigaPro: Libertad vs Leones del Norte",
     "categoria": "futbol",
     "clase": "ECUA",
@@ -181,6 +149,11 @@
     "duracion_min": 200,
     "canales": [
       {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=disney1"
+      },
+      {
         "nombre": "NBA League Pass",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=nba4"
@@ -216,6 +189,22 @@
         "nombre": "AYM Sports",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=evento1"
+      }
+    ]
+  },
+  {
+    "titulo": "Boxeo: Albert Bell vs. Abdullah Mason",
+    "categoria": "box",
+    "clase": "BOX",
+    "fecha": "Sábado 04 de Julio 2026",
+    "fecha_iso": "2026-07-04",
+    "hora": "21:00",
+    "duracion_min": 400,
+    "canales": [
+      {
+        "nombre": "Espn 2",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn2"
       }
     ]
   },
