@@ -1,58 +1,5 @@
 [
   {
-    "titulo": "LigaPro: Libertad vs Leones del Norte",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Sábado 04 de Julio 2026",
-    "fecha_iso": "2026-07-04",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Bucks vs Warriors Blue",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Sábado 04 de Julio 2026",
-    "fecha_iso": "2026-07-04",
-    "hora": "16:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "NBA League Pass",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=nba2"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Grizzlies vs Thunder",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Sábado 04 de Julio 2026",
-    "fecha_iso": "2026-07-04",
-    "hora": "16:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Espn 7",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn7"
-      },
-      {
-        "nombre": "NBA League Pass",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=nba1"
-      }
-    ]
-  },
-  {
     "titulo": "Copa del Mundo: Paraguay vs Francia",
     "categoria": "futbol",
     "clase": "Mundial",
