@@ -32,78 +32,6 @@
     ]
   },
   {
-    "titulo": "Ciclismo: Tour de France - Etapa #1",
-    "categoria": "futbol",
-    "clase": "TOUR",
-    "fecha": "Sábado 04 de Julio 2026",
-    "fecha_iso": "2026-07-04",
-    "hora": "11:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa del Mundo: Canadá vs Marruecos | 8vos de Final",
-    "categoria": "futbol",
-    "clase": "Mundial",
-    "fecha": "Sábado 04 de Julio 2026",
-    "fecha_iso": "2026-07-04",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=dsports1"
-      },
-      {
-        "nombre": "Dsports Latam |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel2/?id=dsports1"
-      },
-      {
-        "nombre": "Fox One USA Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=foxoneusa"
-      },
-      {
-        "nombre": "ITV 1 UK Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=itv1uk"
-      },
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Telemundo USA |",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
-      },
-      {
-        "nombre": "America TV",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=americatv"
-      },
-      {
-        "nombre": "Sportv BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
-      },
-      {
-        "nombre": "Fox ONE USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
-      }
-    ]
-  },
-  {
     "titulo": "LigaPro: Libertad vs Leones del Norte",
     "categoria": "futbol",
     "clase": "ECUA",
@@ -144,6 +72,11 @@
     "hora": "16:00",
     "duracion_min": 200,
     "canales": [
+      {
+        "nombre": "Espn 7",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=espn7"
+      },
       {
         "nombre": "NBA League Pass",
         "calidad": "720p",
