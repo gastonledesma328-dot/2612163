@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "NBA Summer League: Lakers vs. Warriors",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Viernes 03 de Julio 2026",
-    "fecha_iso": "2026-07-03",
-    "hora": "23:30",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "NBA League Pass",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=nba2"
-      }
-    ]
-  },
-  {
     "titulo": "Formula 3: Silverstone - Carrera Sprint",
     "categoria": "futbol",
     "clase": "F3",
