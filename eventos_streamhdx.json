@@ -32,27 +32,6 @@
     ]
   },
   {
-    "titulo": "Formula 2: Silverstone - Carrera Sprint",
-    "categoria": "futbol",
-    "clase": "F2",
-    "fecha": "Sábado 04 de Julio 2026",
-    "fecha_iso": "2026-07-04",
-    "hora": "09:35",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn3"
-      },
-      {
-        "nombre": "Sportv 3 BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr3"
-      }
-    ]
-  },
-  {
     "titulo": "Amistoso: Cruzeiro vs Defensor Sporting",
     "categoria": "futbol",
     "clase": "FIFA",
@@ -65,22 +44,6 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=disney6"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Universitario vs Sport Boys",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 04 de Julio 2026",
-    "fecha_iso": "2026-07-04",
-    "hora": "11:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Eventos",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=evento1"
       }
     ]
   },
