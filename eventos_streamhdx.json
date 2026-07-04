@@ -32,22 +32,6 @@
     ]
   },
   {
-    "titulo": "Amistoso: Cruzeiro vs Defensor Sporting",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 04 de Julio 2026",
-    "fecha_iso": "2026-07-04",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney6"
-      }
-    ]
-  },
-  {
     "titulo": "Ciclismo: Tour de France - Etapa #1",
     "categoria": "futbol",
     "clase": "TOUR",
@@ -64,86 +48,7 @@
     ]
   },
   {
-    "titulo": "Formula 1: GP Gran Bretaña - Clasificación",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Sábado 04 de Julio 2026",
-    "fecha_iso": "2026-07-04",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney7"
-      },
-      {
-        "nombre": "Fox Sports 1 AR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=fox1ar"
-      },
-      {
-        "nombre": "F1",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=daznf1"
-      },
-      {
-        "nombre": "Sportv 3 BR",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr3"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Gran Bretaña | Cámara On Board",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Sábado 04 de Julio 2026",
-    "fecha_iso": "2026-07-04",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney8"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Gran Bretaña | On Board Colapinto",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Sábado 04 de Julio 2026",
-    "fecha_iso": "2026-07-04",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney9"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 1: GP Gran Bretaña | On Board Norris",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Sábado 04 de Julio 2026",
-    "fecha_iso": "2026-07-04",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney10"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa del Mundo: Canadá vs Marruecos",
+    "titulo": "Copa del Mundo: Canadá vs Marruecos | 8vos de Final",
     "categoria": "futbol",
     "clase": "Mundial",
     "fecha": "Sábado 04 de Julio 2026",
@@ -185,6 +90,11 @@
         "nombre": "America TV",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=americatv"
+      },
+      {
+        "nombre": "Sportv BR",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
       },
       {
         "nombre": "Fox ONE USA",
@@ -361,6 +271,22 @@
     ]
   },
   {
+    "titulo": "Amistoso: Cancún vs Pumas UNAM",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Sábado 04 de Julio 2026",
+    "fecha_iso": "2026-07-04",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "AYM Sports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=evento1"
+      }
+    ]
+  },
+  {
     "titulo": "LigaPro: Barcelona SC vs Deportivo Cuenca",
     "categoria": "futbol",
     "clase": "ECUA",
@@ -389,6 +315,22 @@
         "nombre": "TNT Sports",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Jaiba Brava vs América",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Sábado 04 de Julio 2026",
+    "fecha_iso": "2026-07-04",
+    "hora": "23:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "AYM Sports",
+        "calidad": "720p",
+        "url": "https://stream-xhd.com/live1.php?stream=evento1"
       }
     ]
   }
