@@ -1,85 +1,5 @@
 [
   {
-    "titulo": "Amistoso: Cancún vs Pumas UNAM",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 04 de Julio 2026",
-    "fecha_iso": "2026-07-04",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "AYM Sports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
-    "titulo": "Boxeo: Albert Bell vs. Abdullah Mason",
-    "categoria": "box",
-    "clase": "BOX",
-    "fecha": "Sábado 04 de Julio 2026",
-    "fecha_iso": "2026-07-04",
-    "hora": "21:00",
-    "duracion_min": 400,
-    "canales": [
-      {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "LigaPro: Barcelona SC vs Deportivo Cuenca",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Sábado 04 de Julio 2026",
-    "fecha_iso": "2026-07-04",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Universidad Católica vs Copiapó",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Sábado 04 de Julio 2026",
-    "fecha_iso": "2026-07-04",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Jaiba Brava vs América",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 04 de Julio 2026",
-    "fecha_iso": "2026-07-04",
-    "hora": "23:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "AYM Sports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
     "titulo": "Formula 3: Silverstone - Carrera",
     "categoria": "futbol",
     "clase": "F3",
@@ -270,6 +190,22 @@
     ]
   },
   {
+    "titulo": "Primera División: Danubio vs. Juventud",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney7"
+      }
+    ]
+  },
+  {
     "titulo": "Copa Chile: Santiago Wanderers vs Universidad de Chile",
     "categoria": "futbol",
     "clase": "CH",
@@ -282,22 +218,6 @@
         "nombre": "TNT Sports",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Danubio vs. Juventud",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Domingo 05 de Julio 2026",
-    "fecha_iso": "2026-07-05",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney7"
       }
     ]
   },
