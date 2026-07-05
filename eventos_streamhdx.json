@@ -1,129 +1,5 @@
 [
   {
-    "titulo": "Copa del Mundo: Paraguay vs Francia",
-    "categoria": "futbol",
-    "clase": "Mundial",
-    "fecha": "Sábado 04 de Julio 2026",
-    "fecha_iso": "2026-07-04",
-    "hora": "18:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=dsports1"
-      },
-      {
-        "nombre": "La 1 ES Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=la1es"
-      },
-      {
-        "nombre": "Dsports Latam |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel2/?id=dsports1"
-      },
-      {
-        "nombre": "Fox One USA Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=foxoneusa"
-      },
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Telemundo USA |",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=telemundo"
-      },
-      {
-        "nombre": "VIX + Mundial",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=vix1"
-      },
-      {
-        "nombre": "La 1 ES",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=la1es"
-      },
-      {
-        "nombre": "Gen PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=genpy"
-      },
-      {
-        "nombre": "Trece PY",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=trecepy"
-      },
-      {
-        "nombre": "Chilevision",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=chilevision"
-      },
-      {
-        "nombre": "Fox ONE USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Hawks vs Jazz",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Sábado 04 de Julio 2026",
-    "fecha_iso": "2026-07-04",
-    "hora": "18:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "NBA League Pass",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=nba3"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Nets vs Kings",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Sábado 04 de Julio 2026",
-    "fecha_iso": "2026-07-04",
-    "hora": "18:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "NBA League Pass",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=nba4"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Deportes Iquique vs Coquimbo Unido",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Sábado 04 de Julio 2026",
-    "fecha_iso": "2026-07-04",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
     "titulo": "Amistoso: Cancún vs Pumas UNAM",
     "categoria": "futbol",
     "clase": "FIFA",
@@ -200,6 +76,654 @@
         "nombre": "AYM Sports",
         "calidad": "720p",
         "url": "https://stream-xhd.com/live1.php?stream=evento1"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 3: Silverstone - Carrera",
+    "categoria": "futbol",
+    "clase": "F3",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "04:20",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "Espn 2 AR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2ar"
+      }
+    ]
+  },
+  {
+    "titulo": "Wimbledon: Octavos de Final| Cobertura Internacional",
+    "categoria": "futbol",
+    "clase": "Wimbledon",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "07:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 2: Silverstone - Carrera",
+    "categoria": "futbol",
+    "clase": "F2",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "07:05",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "Espn 2 AR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2ar"
+      },
+      {
+        "nombre": "ESPN 5",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "Tour de France - Etapa #2",
+    "categoria": "futbol",
+    "clase": "TOUR",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "08:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 5",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "Wimbledon: Octavos de Final| Cobertura Regional",
+    "categoria": "futbol",
+    "clase": "Wimbledon",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "09:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn4"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Gran Bretaña - Carrera",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney2"
+      },
+      {
+        "nombre": "DAZN F1",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=daznf1"
+      },
+      {
+        "nombre": "Fox Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "Sportv 3 BR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=sporttvbr3"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Gran Bretaña - Carrera | Race Hub",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney3"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Gran Bretaña | Cámara On Board",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney4"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Gran Bretaña | On Board Colapinto",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney5"
+      }
+    ]
+  },
+  {
+    "titulo": "Formula 1: GP Gran Bretaña | On Board Norris",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney6"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Chile: Santiago Wanderers vs Universidad de Chile",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Danubio vs. Juventud",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney7"
+      }
+    ]
+  },
+  {
+    "titulo": "Torneo Proyeccion: River Plate vs. Boca Juniors",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 2 AR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2ar"
+      },
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
+      }
+    ]
+  },
+  {
+    "titulo": "LigaPro: Macará vs LDU Quito",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Chile: Ñublense vs Curicó Unido",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Bucks vs Nets",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "16:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney8"
+      },
+      {
+        "nombre": "NBA League Pass",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=nba1"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa del Mundo: Brasil vs Noruega",
+    "categoria": "futbol",
+    "clase": "Mundial",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=dsports1"
+      },
+      {
+        "nombre": "La 1 ES Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=la1es"
+      },
+      {
+        "nombre": "ITV 1 UK Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=itv1uk"
+      },
+      {
+        "nombre": "Canal 4 SV",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=canal4sv"
+      },
+      {
+        "nombre": "Dsports Latam |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "Fox One USA Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=foxoneusa"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney9"
+      },
+      {
+        "nombre": "Telemundo USA |",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "TYC Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tycsports"
+      },
+      {
+        "nombre": "America TV",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=americatv"
+      },
+      {
+        "nombre": "Sportv BR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
+      },
+      {
+        "nombre": "VIX + Mundial",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=vix1"
+      },
+      {
+        "nombre": "Caracol TV",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento6"
+      },
+      {
+        "nombre": "La 1 ES",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=la1es"
+      },
+      {
+        "nombre": "Gen PY",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=genpy"
+      },
+      {
+        "nombre": "Trece PY",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=trecepy"
+      },
+      {
+        "nombre": "Fox ONE USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Lakers vs Heat",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "17:30",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "NBA League Pass",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=nba2"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Kings vs Warriors",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "18:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney10"
+      },
+      {
+        "nombre": "NBA League Pass",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=nba3"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Chile: Unión Española vs O'Higgins",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "LigaPro: Delfín vs Emelec",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Los Angeles Dodgers vs. San Diego Padres",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 5",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Thunder vs Hawks",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "20:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "NBA League Pass",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=nba4"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Warriors vs Spurs",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "20:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "NBA League Pass",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=nba5"
+      }
+    ]
+  },
+  {
+    "titulo": "WNBA: Las Vegas vs. Indiana",
+    "categoria": "futbol",
+    "clase": "WNBA",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Chile: Deportes Limache vs San Marcos",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa del Mundo: México vs Inglaterra",
+    "categoria": "futbol",
+    "clase": "Mundial",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=dsports1"
+      },
+      {
+        "nombre": "Canal 5 MX Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=canal5mx"
+      },
+      {
+        "nombre": "Dsports Latam |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "Fox One USA Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=foxoneusa"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney11"
+      },
+      {
+        "nombre": "Telemundo USA |",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "Telefe",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=telefe"
+      },
+      {
+        "nombre": "VIX + Mundial",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=vix1"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=canal5mx"
+      },
+      {
+        "nombre": "TUDN MX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tudnmx"
+      },
+      {
+        "nombre": "Chilevision",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=chilevision"
+      },
+      {
+        "nombre": "Gen PY",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=genpy"
+      },
+      {
+        "nombre": "Trece PY",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=trecepy"
+      },
+      {
+        "nombre": "Fox ONE USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Jazz vs Grizzlies",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Domingo 05 de Julio 2026",
+    "fecha_iso": "2026-07-05",
+    "hora": "22:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "NBA League Pass",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=nba6"
       }
     ]
   }
