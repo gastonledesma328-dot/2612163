@@ -32,43 +32,6 @@
     ]
   },
   {
-    "titulo": "Torneo Proyeccion: River Plate vs. Boca Juniors",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Domingo 05 de Julio 2026",
-    "fecha_iso": "2026-07-05",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 2 AR",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2ar"
-      },
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
-      }
-    ]
-  },
-  {
-    "titulo": "LigaPro: Macará vs LDU Quito",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Domingo 05 de Julio 2026",
-    "fecha_iso": "2026-07-05",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Chile: Ñublense vs Curicó Unido",
     "categoria": "futbol",
     "clase": "CH",
