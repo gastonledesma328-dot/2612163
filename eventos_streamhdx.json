@@ -1,26 +1,5 @@
 [
   {
-    "titulo": "Formula 3: Silverstone - Carrera",
-    "categoria": "futbol",
-    "clase": "F3",
-    "fecha": "Domingo 05 de Julio 2026",
-    "fecha_iso": "2026-07-05",
-    "hora": "04:20",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "Espn 2 AR",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2ar"
-      }
-    ]
-  },
-  {
     "titulo": "Wimbledon: Octavos de Final| Cobertura Internacional",
     "categoria": "futbol",
     "clase": "Wimbledon",
@@ -33,32 +12,6 @@
         "nombre": "ESPN 2",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Formula 2: Silverstone - Carrera",
-    "categoria": "futbol",
-    "clase": "F2",
-    "fecha": "Domingo 05 de Julio 2026",
-    "fecha_iso": "2026-07-05",
-    "hora": "07:05",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Espn 2 AR",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2ar"
-      },
-      {
-        "nombre": "ESPN 5",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn5"
       }
     ]
   },
