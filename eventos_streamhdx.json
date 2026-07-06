@@ -1,144 +1,11 @@
 [
   {
-    "titulo": "NBA Summer League: Lakers vs Heat",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Domingo 05 de Julio 2026",
-    "fecha_iso": "2026-07-05",
-    "hora": "17:30",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "NBA League Pass",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=nba2"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Kings vs Warriors",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Domingo 05 de Julio 2026",
-    "fecha_iso": "2026-07-05",
-    "hora": "18:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney10"
-      },
-      {
-        "nombre": "NBA League Pass",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=nba3"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Chile: Unión Española vs O'Higgins",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Domingo 05 de Julio 2026",
-    "fecha_iso": "2026-07-05",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Los Angeles Dodgers vs. San Diego Padres",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Domingo 05 de Julio 2026",
-    "fecha_iso": "2026-07-05",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Thunder vs Hawks",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Domingo 05 de Julio 2026",
-    "fecha_iso": "2026-07-05",
-    "hora": "20:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "NBA League Pass",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=nba4"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Warriors vs Spurs",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Domingo 05 de Julio 2026",
-    "fecha_iso": "2026-07-05",
-    "hora": "20:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "NBA League Pass",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=nba5"
-      }
-    ]
-  },
-  {
-    "titulo": "WNBA: Las Vegas vs. Indiana",
-    "categoria": "futbol",
-    "clase": "WNBA",
-    "fecha": "Domingo 05 de Julio 2026",
-    "fecha_iso": "2026-07-05",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Chile: Deportes Limache vs San Marcos",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Domingo 05 de Julio 2026",
-    "fecha_iso": "2026-07-05",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
     "titulo": "Copa del Mundo: México vs Inglaterra",
     "categoria": "futbol",
     "clase": "Mundial",
     "fecha": "Domingo 05 de Julio 2026",
     "fecha_iso": "2026-07-05",
-    "hora": "21:00",
+    "hora": "22:00",
     "duracion_min": 140,
     "canales": [
       {
@@ -215,22 +82,6 @@
         "nombre": "Fox ONE USA",
         "calidad": "720p",
         "url": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Jazz vs Grizzlies",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Domingo 05 de Julio 2026",
-    "fecha_iso": "2026-07-05",
-    "hora": "22:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "NBA League Pass",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=nba6"
       }
     ]
   }
