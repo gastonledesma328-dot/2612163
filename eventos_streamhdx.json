@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "NBA Summer League: Kings vs Bucks",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Lunes 06 de Julio 2026",
-    "fecha_iso": "2026-07-06",
-    "hora": "23:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "NBA League Pass",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=nba3"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Warriors vs Heat",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Lunes 06 de Julio 2026",
-    "fecha_iso": "2026-07-06",
-    "hora": "23:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "NBA League Pass",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=nba1"
-      }
-    ]
-  },
-  {
     "titulo": "Tour de France: Etapa #4",
     "categoria": "futbol",
     "clase": "Tour",
