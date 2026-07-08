@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Ciclismo: Tour de France – Etapa #5",
-    "categoria": "futbol",
-    "clase": "TOUR",
-    "fecha": "Miércoles 08 de Julio 2026",
-    "fecha_iso": "2026-07-08",
-    "hora": "08:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn 4",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn4"
-      }
-    ]
-  },
-  {
     "titulo": "Wimbledon: 4tos de Final | Cobertura Regional",
     "categoria": "futbol",
     "clase": "Wimbledon",
