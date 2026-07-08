@@ -134,6 +134,11 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "Espn 3 MX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn3mx"
       }
     ]
   },
