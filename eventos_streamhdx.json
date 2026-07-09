@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Copa Ecuador: Santo Domingo vs Independiente del Valle",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Miércoles 08 de Julio 2026",
-    "fecha_iso": "2026-07-08",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Eventos",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Chile: Unión La Calera vs Coquimbo Unido",
     "categoria": "futbol",
     "clase": "CH",
