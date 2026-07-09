@@ -1,85 +1,5 @@
 [
   {
-    "titulo": "MLB: Atlanta Braves vs. Pittsburgh Pirates",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Jueves 09 de Julio 2026",
-    "fecha_iso": "2026-07-09",
-    "hora": "13:35",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=mlb1"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Tampa Bay Rays vs. New York Yankees",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Jueves 09 de Julio 2026",
-    "fecha_iso": "2026-07-09",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Boston Red Sox vs. Chicago White Sox",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Jueves 09 de Julio 2026",
-    "fecha_iso": "2026-07-09",
-    "hora": "15:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=mlb2"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Timberwolves vs Pelicans",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Jueves 09 de Julio 2026",
-    "fecha_iso": "2026-07-09",
-    "hora": "16:30",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "NBA League Pass",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=nba1"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de la Liga: Grau vs Carlos Mannucci",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Jueves 09 de Julio 2026",
-    "fecha_iso": "2026-07-09",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Bicolor +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=bicolor"
-      }
-    ]
-  },
-  {
     "titulo": "Copa del Mundo: Francia vs Marruecos | 4tos Final",
     "categoria": "futbol",
     "clase": "Mundial",
@@ -157,27 +77,6 @@
         "nombre": "Fox ONE USA",
         "calidad": "720p",
         "url": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Spurs vs Hawks",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Jueves 09 de Julio 2026",
-    "fecha_iso": "2026-07-09",
-    "hora": "17:30",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Espn 3 MX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn3mx"
-      },
-      {
-        "nombre": "NBA League Pass",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=nba2"
       }
     ]
   },
