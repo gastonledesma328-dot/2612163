@@ -1,75 +1,354 @@
 [
   {
+    "titulo": "Ciclismo: Tour de France - Etapa #6",
+    "categoria": "futbol",
+    "clase": "Tour",
+    "fecha": "Jueves 09 de Julio 2026",
+    "fecha_iso": "2026-07-09",
+    "hora": "07:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 5",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "Wimbledon - Día #11 - Semifinales Femeninas",
+    "categoria": "futbol",
+    "clase": "Wimbledon",
+    "fecha": "Jueves 09 de Julio 2026",
+    "fecha_iso": "2026-07-09",
+    "hora": "09:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Torneo Proyeccion: River Plate vs. Racing |Final",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Jueves 09 de Julio 2026",
+    "fecha_iso": "2026-07-09",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Espn 2 AR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2ar"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Atlanta Braves vs. Pittsburgh Pirates",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Jueves 09 de Julio 2026",
+    "fecha_iso": "2026-07-09",
+    "hora": "13:35",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=mlb1"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Tampa Bay Rays vs. New York Yankees",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Jueves 09 de Julio 2026",
+    "fecha_iso": "2026-07-09",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Boston Red Sox vs. Chicago White Sox",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Jueves 09 de Julio 2026",
+    "fecha_iso": "2026-07-09",
+    "hora": "15:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=mlb2"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Timberwolves vs Pelicans",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Jueves 09 de Julio 2026",
+    "fecha_iso": "2026-07-09",
+    "hora": "16:30",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "NBA League Pass",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=nba1"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa del Mundo: Francia vs Marruecos | 4tos Final",
+    "categoria": "futbol",
+    "clase": "Mundial",
+    "fecha": "Jueves 09 de Julio 2026",
+    "fecha_iso": "2026-07-09",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=dsports1"
+      },
+      {
+        "nombre": "La 1 ES Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=la1es"
+      },
+      {
+        "nombre": "Canal 5 MX Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=canal5mx"
+      },
+      {
+        "nombre": "Dsports Latam |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "ITV 1 UK Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=itv1uk"
+      },
+      {
+        "nombre": "Fox ONE USA 4K |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=foxoneusa"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Telemundo USA",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "Sportv BR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=canal5mx"
+      },
+      {
+        "nombre": "La 1 ES",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=la1es"
+      },
+      {
+        "nombre": "TUDN MX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tudnmx"
+      },
+      {
+        "nombre": "Gen PY",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=genpy"
+      },
+      {
+        "nombre": "Fox ONE USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Spurs vs Hawks",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Jueves 09 de Julio 2026",
+    "fecha_iso": "2026-07-09",
+    "hora": "17:30",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "NBA League Pass",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=nba2"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Pistons vs 76ers",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Jueves 09 de Julio 2026",
+    "fecha_iso": "2026-07-09",
+    "hora": "18:30",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "NBA League Pass",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=nba3"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Baltimore Orioles vs. Chicago Cubs",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Jueves 09 de Julio 2026",
+    "fecha_iso": "2026-07-09",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 5",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
     "titulo": "Copa Chile: Unión La Calera vs Coquimbo Unido",
     "categoria": "futbol",
     "clase": "CH",
-    "fecha": "Miércoles 08 de Julio 2026",
-    "fecha_iso": "2026-07-08",
+    "fecha": "Jueves 09 de Julio 2026",
+    "fecha_iso": "2026-07-09",
     "hora": "20:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "TNT Sports",
+        "nombre": "Max",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+        "url": "https://streamx-hd.com/live1.php?stream=max1"
       }
     ]
   },
   {
-    "titulo": "Amistoso: Fluminense vs Nova Iguaçu",
+    "titulo": "NBA Summer League: Warriors vs Mavericks",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Jueves 09 de Julio 2026",
+    "fecha_iso": "2026-07-09",
+    "hora": "20:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "NBA League Pass",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=nba4"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Philadelphia Phillies vs. Cincinnati Reds",
     "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Miércoles 08 de Julio 2026",
-    "fecha_iso": "2026-07-08",
+    "clase": "MLB",
+    "fecha": "Jueves 09 de Julio 2026",
+    "fecha_iso": "2026-07-09",
+    "hora": "20:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=mlb3"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Hornets vs Magic",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Jueves 09 de Julio 2026",
+    "fecha_iso": "2026-07-09",
     "hora": "20:30",
-    "duracion_min": 140,
+    "duracion_min": 200,
     "canales": [
       {
-        "nombre": "Premiere 1",
+        "nombre": "NBA League Pass",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premiere1"
-      },
-      {
-        "nombre": "SporTV BR 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
+        "url": "https://streamx-hd.com/live1.php?stream=nba5"
       }
     ]
   },
   {
-    "titulo": "Amistoso: Boca Juniors vs Athletico-PR",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Miércoles 08 de Julio 2026",
-    "fecha_iso": "2026-07-08",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Espn 3 MX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn3mx"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Ecuador: Independiente Juniors vs LDU Quito",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Miércoles 08 de Julio 2026",
-    "fecha_iso": "2026-07-08",
+    "titulo": "NBA Summer League: Jazz vs Wizards",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Jueves 09 de Julio 2026",
+    "fecha_iso": "2026-07-09",
     "hora": "22:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "NBA League Pass",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=nba6"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Arizona Diamondbacks vs. San Diego Padres",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Jueves 09 de Julio 2026",
+    "fecha_iso": "2026-07-09",
+    "hora": "22:40",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Eventos",
+        "nombre": "MLB",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento2"
+        "url": "https://streamx-hd.com/live1.php?stream=mlb4"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Kings vs Clippers",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Viernes 10 de Julio 2026",
+    "fecha_iso": "2026-07-10",
+    "hora": "00:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "NBA League Pass",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=nba7"
       }
     ]
   }
