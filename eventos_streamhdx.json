@@ -16,22 +16,6 @@
     ]
   },
   {
-    "titulo": "UEFA Europa League: Qarabag vs Vestri",
-    "categoria": "futbol",
-    "clase": "UE",
-    "fecha": "Jueves 09 de Julio 2026",
-    "fecha_iso": "2026-07-09",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Eventos",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Atlanta Braves vs. Pittsburgh Pirates",
     "categoria": "futbol",
     "clase": "MLB",
@@ -60,38 +44,6 @@
         "nombre": "ESPN 3",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Europa League: Dinamo Kiev vs U. Cluj",
-    "categoria": "futbol",
-    "clase": "UE",
-    "fecha": "Jueves 09 de Julio 2026",
-    "fecha_iso": "2026-07-09",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Eventos",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento2"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Europa League: Sheriff vs Aluminij",
-    "categoria": "futbol",
-    "clase": "UE",
-    "fecha": "Jueves 09 de Julio 2026",
-    "fecha_iso": "2026-07-09",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Eventos",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento3"
       }
     ]
   },
