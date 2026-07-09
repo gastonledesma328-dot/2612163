@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Wimbledon - Día #11 - Semifinales Femeninas",
-    "categoria": "futbol",
-    "clase": "Wimbledon",
-    "fecha": "Jueves 09 de Julio 2026",
-    "fecha_iso": "2026-07-09",
-    "hora": "09:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Atlanta Braves vs. Pittsburgh Pirates",
     "categoria": "futbol",
     "clase": "MLB",
