@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Ciclismo: Tour de France - Etapa #7",
-    "categoria": "futbol",
-    "clase": "TOUR",
-    "fecha": "Viernes 10 de Julio 2026",
-    "fecha_iso": "2026-07-10",
-    "hora": "08:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
     "titulo": "Wimbledon: Día #12 - Semifinales Masculinas",
     "categoria": "futbol",
     "clase": "Wimbledon",
@@ -28,32 +12,6 @@
         "nombre": "ESPN 2",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Torneo Proyeccion: River Plate vs Racing Club",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Viernes 10 de Julio 2026",
-    "fecha_iso": "2026-07-10",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
-      },
-      {
-        "nombre": "Espn 3 AR",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn3ar"
       }
     ]
   },
