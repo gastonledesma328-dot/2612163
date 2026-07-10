@@ -16,22 +16,6 @@
     ]
   },
   {
-    "titulo": "GP Alemania - Practica Libre MotoGP",
-    "categoria": "futbol",
-    "clase": "MOTOGP",
-    "fecha": "Viernes 10 de Julio 2026",
-    "fecha_iso": "2026-07-10",
-    "hora": "09:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
     "titulo": "Wimbledon: Día #12 - Semifinales Masculinas",
     "categoria": "futbol",
     "clase": "Wimbledon",
