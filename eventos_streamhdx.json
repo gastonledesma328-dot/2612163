@@ -117,22 +117,6 @@
     ]
   },
   {
-    "titulo": "Primera División: Juventud vs Torque",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 11 de Julio 2026",
-    "fecha_iso": "2026-07-11",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
     "titulo": "Amistoso: Benfica vs Flamengo",
     "categoria": "futbol",
     "clase": "FIFA",
