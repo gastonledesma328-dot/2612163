@@ -1,74 +1,5 @@
 [
   {
-    "titulo": "ESPN Knockout: Herbert Matovu vs. Jose Kadima",
-    "categoria": "box",
-    "clase": "BOX",
-    "fecha": "Sábado 11 de Julio 2026",
-    "fecha_iso": "2026-07-11",
-    "hora": "14:00",
-    "duracion_min": 400,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney2"
-      }
-    ]
-  },
-  {
-    "titulo": "WNBA: Minnesota vs. New York",
-    "categoria": "futbol",
-    "clase": "WNBA",
-    "fecha": "Sábado 11 de Julio 2026",
-    "fecha_iso": "2026-07-11",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de la Liga: Sport Huancayo vs Los Chankas",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 11 de Julio 2026",
-    "fecha_iso": "2026-07-11",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Bicolor+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=bicolor"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Danubio vs Nacional",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 11 de Julio 2026",
-    "fecha_iso": "2026-07-11",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
     "titulo": "Amistoso: Benfica vs Flamengo",
     "categoria": "futbol",
     "clase": "FIFA",
@@ -77,11 +8,6 @@
     "hora": "15:30",
     "duracion_min": 140,
     "canales": [
-      {
-        "nombre": "Ge TV",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento5"
-      },
       {
         "nombre": "Premiere BR",
         "calidad": "720p",
