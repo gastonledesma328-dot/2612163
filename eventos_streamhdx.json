@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "MLB: Toronto Blue Jays vs. San Diego Padres",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Viernes 10 de Julio 2026",
-    "fecha_iso": "2026-07-10",
-    "hora": "22:40",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=mlb4"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Arizona Diamondbacks vs. Los Angeles Dodgers",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Viernes 10 de Julio 2026",
-    "fecha_iso": "2026-07-10",
-    "hora": "23:05",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=mlb5"
-      }
-    ]
-  },
-  {
     "titulo": "MotoGP: GP de Alemania: Clasificación",
     "categoria": "futbol",
     "clase": "MotoGP",
