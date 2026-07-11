@@ -1,53 +1,5 @@
 [
   {
-    "titulo": "LigaPro: Leones del Norte vs Universidad Católica",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Viernes 10 de Julio 2026",
-    "fecha_iso": "2026-07-10",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Deportivo Maldonado vs Albion",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Viernes 10 de Julio 2026",
-    "fecha_iso": "2026-07-10",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Rockets vs Nuggets",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Viernes 10 de Julio 2026",
-    "fecha_iso": "2026-07-10",
-    "hora": "19:30",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn4"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: New York Yankees vs. Washington Nationals",
     "categoria": "futbol",
     "clase": "MLB",
@@ -92,22 +44,6 @@
         "nombre": "MLB",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=mlb6"
-      }
-    ]
-  },
-  {
-    "titulo": "LigaPro: Técnico Universitario vs Macará",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Viernes 10 de Julio 2026",
-    "fecha_iso": "2026-07-10",
-    "hora": "21:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
       }
     ]
   },
