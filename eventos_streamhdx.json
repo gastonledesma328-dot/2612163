@@ -21,22 +21,6 @@
     ]
   },
   {
-    "titulo": "MotoGP: GP de Alemania Sprint",
-    "categoria": "futbol",
-    "clase": "MotoGP",
-    "fecha": "Sábado 11 de Julio 2026",
-    "fecha_iso": "2026-07-11",
-    "hora": "09:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "Wimbledon: Día #13 - Final Femenina",
     "categoria": "futbol",
     "clase": "Wimbledon",
