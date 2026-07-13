@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "NBA Summer League: Bucks vs Spurs",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Domingo 12 de Julio 2026",
-    "fecha_iso": "2026-07-12",
-    "hora": "22:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "ESPN 3 MX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn3mx"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Jazz vs Clippers",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Domingo 12 de Julio 2026",
-    "fecha_iso": "2026-07-12",
-    "hora": "23:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Prime Video",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
     "titulo": "NBA Summer League: Knicks vs Pistons",
     "categoria": "nba",
     "clase": "NBA",
