@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "NBA Summer League: Knicks vs Pistons",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Lunes 13 de Julio 2026",
-    "fecha_iso": "2026-07-13",
-    "hora": "17:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Prime Video",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
     "titulo": "NBA Summer League: Pacers vs Raptors",
     "categoria": "nba",
     "clase": "NBA",
