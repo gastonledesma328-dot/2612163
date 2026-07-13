@@ -1,213 +1,5 @@
 [
   {
-    "titulo": "MLB: Los Angeles Dodgers vs. Arizona Diamondbacks",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Domingo 12 de Julio 2026",
-    "fecha_iso": "2026-07-12",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Pistons vs Cavaliers",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Domingo 12 de Julio 2026",
-    "fecha_iso": "2026-07-12",
-    "hora": "17:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Prime Video",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Toronto Blue Jays vs. San Diego Padres",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Domingo 12 de Julio 2026",
-    "fecha_iso": "2026-07-12",
-    "hora": "17:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=mlb5"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Alianza Lima vs Deportivo Cali",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Domingo 12 de Julio 2026",
-    "fecha_iso": "2026-07-12",
-    "hora": "17:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "América TV",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=americatv"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Celtics vs Hornets",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Domingo 12 de Julio 2026",
-    "fecha_iso": "2026-07-12",
-    "hora": "18:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "ESPN 3 MX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn3mx"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Chile: Deportes Concepción vs Puerto Montt",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Domingo 12 de Julio 2026",
-    "fecha_iso": "2026-07-12",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Racing vs Peñarol",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Domingo 12 de Julio 2026",
-    "fecha_iso": "2026-07-12",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Warriors vs Thunder",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Domingo 12 de Julio 2026",
-    "fecha_iso": "2026-07-12",
-    "hora": "19:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Prime Video",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Trail Blazers vs Magic",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Domingo 12 de Julio 2026",
-    "fecha_iso": "2026-07-12",
-    "hora": "20:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "ESPN 3 MX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn3mx"
-      }
-    ]
-  },
-  {
-    "titulo": "WNBA: Dallas vs. Chicago",
-    "categoria": "futbol",
-    "clase": "WNBA",
-    "fecha": "Domingo 12 de Julio 2026",
-    "fecha_iso": "2026-07-12",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "LigaPro: Emelec vs Barcelona",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Domingo 12 de Julio 2026",
-    "fecha_iso": "2026-07-12",
-    "hora": "20:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de la liga: O'Higgins vs Ñublense",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Domingo 12 de Julio 2026",
-    "fecha_iso": "2026-07-12",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Max 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=max2"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Wizards vs Kings",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Domingo 12 de Julio 2026",
-    "fecha_iso": "2026-07-12",
-    "hora": "21:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Prime Video",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
     "titulo": "NBA Summer League: Bucks vs Spurs",
     "categoria": "nba",
     "clase": "NBA",
@@ -236,6 +28,192 @@
         "nombre": "Prime Video",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=amazon1"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Knicks vs Pistons",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Lunes 13 de Julio 2026",
+    "fecha_iso": "2026-07-13",
+    "hora": "17:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Prime Video",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Pacers vs Raptors",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Lunes 13 de Julio 2026",
+    "fecha_iso": "2026-07-13",
+    "hora": "17:30",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn3"
+      },
+      {
+        "nombre": "ESPN 3 MX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn3mx"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Celtics vs Hawks",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Lunes 13 de Julio 2026",
+    "fecha_iso": "2026-07-13",
+    "hora": "19:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Prime Video",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Cerro Largo vs Defensor Sporting",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Lunes 13 de Julio 2026",
+    "fecha_iso": "2026-07-13",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney1"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie B: América Mineiro vs Londrina",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Lunes 13 de Julio 2026",
+    "fecha_iso": "2026-07-13",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney2"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Grizzlies vs Mavericks",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Lunes 13 de Julio 2026",
+    "fecha_iso": "2026-07-13",
+    "hora": "20:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn3"
+      },
+      {
+        "nombre": "ESPN 3 MX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn3mx"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie B: Ceará vs Athletic Club",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Lunes 13 de Julio 2026",
+    "fecha_iso": "2026-07-13",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney3"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Cavaliers vs Heat",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Lunes 13 de Julio 2026",
+    "fecha_iso": "2026-07-13",
+    "hora": "21:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Prime Video",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Jazz vs Bulls",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Lunes 13 de Julio 2026",
+    "fecha_iso": "2026-07-13",
+    "hora": "22:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "ESPN 3 MX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn3mx"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Bucks vs Suns",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Lunes 13 de Julio 2026",
+    "fecha_iso": "2026-07-13",
+    "hora": "23:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Prime Video",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Trail Blazers vs Timberwolves",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Martes 14 de Julio 2026",
+    "fecha_iso": "2026-07-14",
+    "hora": "00:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "ESPN 3 MX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn3mx"
       }
     ]
   }
