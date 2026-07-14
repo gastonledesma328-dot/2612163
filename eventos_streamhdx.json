@@ -1,95 +1,5 @@
 [
   {
-    "titulo": "NBA Summer League: Pacers vs Raptors",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Lunes 13 de Julio 2026",
-    "fecha_iso": "2026-07-13",
-    "hora": "17:30",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn3"
-      },
-      {
-        "nombre": "ESPN 3 MX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn3mx"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Celtics vs Hawks",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Lunes 13 de Julio 2026",
-    "fecha_iso": "2026-07-13",
-    "hora": "19:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Prime Video",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Cerro Largo vs Defensor Sporting",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Lunes 13 de Julio 2026",
-    "fecha_iso": "2026-07-13",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie B: América Mineiro vs Londrina",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Lunes 13 de Julio 2026",
-    "fecha_iso": "2026-07-13",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney2"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Grizzlies vs Mavericks",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Lunes 13 de Julio 2026",
-    "fecha_iso": "2026-07-13",
-    "hora": "20:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn3"
-      },
-      {
-        "nombre": "ESPN 3 MX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn3mx"
-      }
-    ]
-  },
-  {
     "titulo": "Serie B: Ceará vs Athletic Club",
     "categoria": "futbol",
     "clase": "BRA",
@@ -131,9 +41,9 @@
     "duracion_min": 200,
     "canales": [
       {
-        "nombre": "ESPN 3 MX",
+        "nombre": "NBA League Pass",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn3mx"
+        "url": "https://streamx-hd.com/live1.php?stream=nba4"
       }
     ]
   },
@@ -179,9 +89,280 @@
     "duracion_min": 200,
     "canales": [
       {
-        "nombre": "ESPN 3 MX",
+        "nombre": "NBA League Pass",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn3mx"
+        "url": "https://streamx-hd.com/live1.php?stream=nba5"
+      }
+    ]
+  },
+  {
+    "titulo": "Ciclismo: Tour de France - Etapa #10",
+    "categoria": "futbol",
+    "clase": "TOUR",
+    "fecha": "Martes 14 de Julio 2026",
+    "fecha_iso": "2026-07-14",
+    "hora": "08:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Del Mundo: Francia vs España",
+    "categoria": "futbol",
+    "clase": "Mundial",
+    "fecha": "Martes 14 de Julio 2026",
+    "fecha_iso": "2026-07-14",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=dsports1"
+      },
+      {
+        "nombre": "La 1 ES Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=la1es"
+      },
+      {
+        "nombre": "Canal 5 MX Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=canal5mx"
+      },
+      {
+        "nombre": "Dsports Latam |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "ITV 1 UK Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=itv1uk"
+      },
+      {
+        "nombre": "Fox ONE USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=foxoneusa"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "La 1 ES",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=la1es"
+      },
+      {
+        "nombre": "Peacock TV",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=peacock1"
+      },
+      {
+        "nombre": "Peacock CAM",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=peacock2"
+      },
+      {
+        "nombre": "Telemundo USA",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "TV Publica",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tvpublica"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=canal5mx"
+      },
+      {
+        "nombre": "TUDN MX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tudnmx"
+      },
+      {
+        "nombre": "Win Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=winsports"
+      },
+      {
+        "nombre": "Deportes RCN",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento6"
+      },
+      {
+        "nombre": "America TV",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=americatv"
+      },
+      {
+        "nombre": "Gen PY",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=genpy"
+      },
+      {
+        "nombre": "Fox ONE USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Rockets vs 76ers",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Martes 14 de Julio 2026",
+    "fecha_iso": "2026-07-14",
+    "hora": "17:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Prime Video",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
+      }
+    ]
+  },
+  {
+    "titulo": "LigaPro: Macará vs Mushuc Runa",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Martes 14 de Julio 2026",
+    "fecha_iso": "2026-07-14",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Nets vs Kings",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Martes 14 de Julio 2026",
+    "fecha_iso": "2026-07-14",
+    "hora": "19:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Prime Video",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Warriors vs Grizzlies",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Martes 14 de Julio 2026",
+    "fecha_iso": "2026-07-14",
+    "hora": "20:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "LigaPro: Manta vs Delfín",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Martes 14 de Julio 2026",
+    "fecha_iso": "2026-07-14",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB All-Star Game: National League vs. American League",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Martes 14 de Julio 2026",
+    "fecha_iso": "2026-07-14",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Bulls vs Wizards",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Martes 14 de Julio 2026",
+    "fecha_iso": "2026-07-14",
+    "hora": "21:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Prime Video",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Thunder vs Nuggets",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Martes 14 de Julio 2026",
+    "fecha_iso": "2026-07-14",
+    "hora": "22:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Lakers vs Clippers",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Martes 14 de Julio 2026",
+    "fecha_iso": "2026-07-14",
+    "hora": "23:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Prime Video",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
       }
     ]
   }
