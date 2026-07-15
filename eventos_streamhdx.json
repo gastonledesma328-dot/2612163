@@ -311,5 +311,376 @@
         "url": "https://streamx-hd.com/live1.php?stream=espn3"
       }
     ]
+  },
+  {
+    "titulo": "Ciclismo: Tour de France - Etapa #12",
+    "categoria": "futbol",
+    "clase": "TOUR",
+    "fecha": "Jueves 16 de Julio 2026",
+    "fecha_iso": "2026-07-16",
+    "hora": "08:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Thunder vs Mavericks",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Jueves 16 de Julio 2026",
+    "fecha_iso": "2026-07-16",
+    "hora": "17:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Prime Video",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Rockets vs Nets",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Jueves 16 de Julio 2026",
+    "fecha_iso": "2026-07-16",
+    "hora": "17:30",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn4"
+      }
+    ]
+  },
+  {
+    "titulo": "LigaPro: Aucas vs Independiente del Valle",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Jueves 16 de Julio 2026",
+    "fecha_iso": "2026-07-16",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Argentina: Racing Club vs Defensa y Justicia",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Jueves 16 de Julio 2026",
+    "fecha_iso": "2026-07-16",
+    "hora": "18:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tycsports"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Bulls vs Lakers",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Jueves 16 de Julio 2026",
+    "fecha_iso": "2026-07-16",
+    "hora": "19:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Prime Video",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Botafogo vs Santos",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Jueves 16 de Julio 2026",
+    "fecha_iso": "2026-07-16",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
+      },
+      {
+        "nombre": "Premiere 1",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=premiere1"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Vitória vs Vasco da Gama",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Jueves 16 de Julio 2026",
+    "fecha_iso": "2026-07-16",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
+      },
+      {
+        "nombre": "Premiere 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=premiere2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Philadelphia Phillies vs. New York Mets",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Jueves 16 de Julio 2026",
+    "fecha_iso": "2026-07-16",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Knicks vs Warriors",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Jueves 16 de Julio 2026",
+    "fecha_iso": "2026-07-16",
+    "hora": "20:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn4"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: CF Montréal vs Toronto FC",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Jueves 16 de Julio 2026",
+    "fecha_iso": "2026-07-16",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV | Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv1"
+      },
+      {
+        "nombre": "Apple TV | English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv2"
+      }
+    ]
+  },
+  {
+    "titulo": "LigaPro: Orense vs Emelec",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Jueves 16 de Julio 2026",
+    "fecha_iso": "2026-07-16",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Hawks vs Grizzlies",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Jueves 16 de Julio 2026",
+    "fecha_iso": "2026-07-16",
+    "hora": "21:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Prime Video",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Chicago Fire vs Vancouver Whitecaps",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Jueves 16 de Julio 2026",
+    "fecha_iso": "2026-07-16",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV | Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv3"
+      },
+      {
+        "nombre": "Apple TV | English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv4"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: St. Louis City vs Sporting KC",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Jueves 16 de Julio 2026",
+    "fecha_iso": "2026-07-16",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV | Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv5"
+      },
+      {
+        "nombre": "Apple TV | English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv6"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Argentina: Sarmiento vs Boca Juniors",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Jueves 16 de Julio 2026",
+    "fecha_iso": "2026-07-16",
+    "hora": "21:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tycsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Necaxa vs Atlante",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Jueves 16 de Julio 2026",
+    "fecha_iso": "2026-07-16",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fox Deportes USA",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
+      },
+      {
+        "nombre": "Fox One 4",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone4"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Heat vs Raptors",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Jueves 16 de Julio 2026",
+    "fecha_iso": "2026-07-16",
+    "hora": "22:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn4"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Nuggets vs Trail Blazers",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Jueves 16 de Julio 2026",
+    "fecha_iso": "2026-07-16",
+    "hora": "23:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Prime Video",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Seattle Sounders vs Portland Timbers",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Jueves 16 de Julio 2026",
+    "fecha_iso": "2026-07-16",
+    "hora": "23:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV | Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv7"
+      },
+      {
+        "nombre": "Apple TV | English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Tijuana vs Tigres UANL",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Viernes 17 de Julio 2026",
+    "fecha_iso": "2026-07-17",
+    "hora": "00:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fox One 5",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone5"
+      }
+    ]
   }
 ]
