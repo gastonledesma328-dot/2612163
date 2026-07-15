@@ -1,53 +1,5 @@
 [
   {
-    "titulo": "MLB All-Star Game: National League vs. American League",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Martes 14 de Julio 2026",
-    "fecha_iso": "2026-07-14",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Thunder vs Nuggets",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Martes 14 de Julio 2026",
-    "fecha_iso": "2026-07-14",
-    "hora": "22:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Lakers vs Clippers",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Martes 14 de Julio 2026",
-    "fecha_iso": "2026-07-14",
-    "hora": "23:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Prime Video",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
     "titulo": "Ciclismo: Tour de France - Etapa #11",
     "categoria": "futbol",
     "clase": "TOUR",
