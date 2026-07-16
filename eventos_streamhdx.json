@@ -1,53 +1,5 @@
 [
   {
-    "titulo": "Liga MX: Tijuana vs Tigres UANL",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Jueves 16 de Julio 2026",
-    "fecha_iso": "2026-07-16",
-    "hora": "16:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox One 5",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=foxone5"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Thunder vs Mavericks",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Jueves 16 de Julio 2026",
-    "fecha_iso": "2026-07-16",
-    "hora": "17:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Prime Video",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Rockets vs Nets",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Jueves 16 de Julio 2026",
-    "fecha_iso": "2026-07-16",
-    "hora": "17:30",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn4"
-      }
-    ]
-  },
-  {
     "titulo": "LigaPro: Aucas vs Independiente del Valle",
     "categoria": "futbol",
     "clase": "ECUA",
@@ -356,6 +308,22 @@
         "nombre": "Apple TV | English",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=appletv8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Tijuana vs Tigres UANL",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Viernes 17 de Julio 2026",
+    "fecha_iso": "2026-07-17",
+    "hora": "00:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fox One 5",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone5"
       }
     ]
   }
