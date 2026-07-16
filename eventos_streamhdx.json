@@ -1,69 +1,5 @@
 [
   {
-    "titulo": "NBA Summer League: Cavaliers vs Pelicans",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Miércoles 15 de Julio 2026",
-    "fecha_iso": "2026-07-15",
-    "hora": "18:30",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Prime Video",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
-    "titulo": "LigaPro: Leones del Norte vs Deportivo Cuenca",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Miércoles 15 de Julio 2026",
-    "fecha_iso": "2026-07-15",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Eventos",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento3"
-      }
-    ]
-  },
-  {
-    "titulo": "LigaPro: Universidad Católica vs LDU Quito",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Miércoles 15 de Julio 2026",
-    "fecha_iso": "2026-07-15",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Pistons vs Suns",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Miércoles 15 de Julio 2026",
-    "fecha_iso": "2026-07-15",
-    "hora": "19:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
     "titulo": "NBA Summer League: Hornets vs Bucks",
     "categoria": "nba",
     "clase": "NBA",
@@ -105,9 +41,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Win Sports",
+        "nombre": "Win Sports +",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winsports"
+        "url": "https://streamx-hd.com/live1.php?stream=winplus"
       }
     ]
   },
@@ -433,6 +369,11 @@
     "hora": "21:45",
     "duracion_min": 140,
     "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
+      },
       {
         "nombre": "TyC Sports",
         "calidad": "720p",
