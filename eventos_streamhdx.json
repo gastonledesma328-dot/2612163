@@ -1,17 +1,17 @@
 [
   {
-    "titulo": "Ciclismo: Tour de France - Etapa #12",
+    "titulo": "Liga MX: Tijuana vs Tigres UANL",
     "categoria": "futbol",
-    "clase": "TOUR",
+    "clase": "LIGAMX",
     "fecha": "Jueves 16 de Julio 2026",
     "fecha_iso": "2026-07-16",
-    "hora": "08:00",
+    "hora": "16:45",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "ESPN 2",
+        "nombre": "Fox One 5",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2"
+        "url": "https://streamx-hd.com/live1.php?stream=foxone5"
       }
     ]
   },
@@ -356,22 +356,6 @@
         "nombre": "Apple TV | English",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=appletv8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Tijuana vs Tigres UANL",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Viernes 17 de Julio 2026",
-    "fecha_iso": "2026-07-17",
-    "hora": "00:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox One 5",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=foxone5"
       }
     ]
   }
