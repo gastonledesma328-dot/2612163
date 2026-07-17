@@ -1,26 +1,5 @@
 [
   {
-    "titulo": "Liga MX: Tijuana vs Tigres UANL",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Viernes 17 de Julio 2026",
-    "fecha_iso": "2026-07-17",
-    "hora": "00:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox One 5",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=foxone5"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
-      }
-    ]
-  },
-  {
     "titulo": "Ciclismo: Tour de France - Etapa #13",
     "categoria": "futbol",
     "clase": "TOUR",
