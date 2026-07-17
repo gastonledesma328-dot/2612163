@@ -1,95 +1,5 @@
 [
   {
-    "titulo": "LigaPro: Aucas vs Independiente del Valle",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Jueves 16 de Julio 2026",
-    "fecha_iso": "2026-07-16",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Argentina: Racing Club vs Defensa y Justicia",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Jueves 16 de Julio 2026",
-    "fecha_iso": "2026-07-16",
-    "hora": "18:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tycsports"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Bulls vs Lakers",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Jueves 16 de Julio 2026",
-    "fecha_iso": "2026-07-16",
-    "hora": "19:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Prime Video",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Botafogo vs Santos",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Jueves 16 de Julio 2026",
-    "fecha_iso": "2026-07-16",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
-      },
-      {
-        "nombre": "Premiere 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premiere1"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Vitória vs Vasco da Gama",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Jueves 16 de Julio 2026",
-    "fecha_iso": "2026-07-16",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
-      },
-      {
-        "nombre": "Premiere 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premiere2"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Philadelphia Phillies vs. New York Mets",
     "categoria": "futbol",
     "clase": "MLB",
@@ -102,22 +12,6 @@
         "nombre": "ESPN 3",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Knicks vs Warriors",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Jueves 16 de Julio 2026",
-    "fecha_iso": "2026-07-16",
-    "hora": "20:00",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn4"
       }
     ]
   },
@@ -171,27 +65,6 @@
         "nombre": "Prime Video",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Chicago Fire vs Vancouver Whitecaps",
-    "categoria": "futbol",
-    "clase": "MLS",
-    "fecha": "Jueves 16 de Julio 2026",
-    "fecha_iso": "2026-07-16",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV | Español",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv3"
-      },
-      {
-        "nombre": "Apple TV | English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv4"
       }
     ]
   },
@@ -317,7 +190,7 @@
     "clase": "LIGAMX",
     "fecha": "Viernes 17 de Julio 2026",
     "fecha_iso": "2026-07-17",
-    "hora": "00:00",
+    "hora": "00:10",
     "duracion_min": 140,
     "canales": [
       {
