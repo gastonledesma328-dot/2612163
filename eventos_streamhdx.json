@@ -16,80 +16,6 @@
     ]
   },
   {
-    "titulo": "F1 GP Bélgica: Práctica #1",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 17 de Julio 2026",
-    "fecha_iso": "2026-07-17",
-    "hora": "08:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Fox Sports 1 AR",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fox1ar"
-      },
-      {
-        "nombre": "DAZN F1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=daznf1"
-      }
-    ]
-  },
-  {
-    "titulo": "GP Bélgica: Práctica #1 - Cámara On Board",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 17 de Julio 2026",
-    "fecha_iso": "2026-07-17",
-    "hora": "08:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney2"
-      }
-    ]
-  },
-  {
-    "titulo": "GP Bélgica: Práctica #1 - On Board Colapinto",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 17 de Julio 2026",
-    "fecha_iso": "2026-07-17",
-    "hora": "08:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
-    "titulo": "GP Bélgica: Práctica #1 - On Board Russell",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 17 de Julio 2026",
-    "fecha_iso": "2026-07-17",
-    "hora": "08:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney4"
-      }
-    ]
-  },
-  {
     "titulo": "F1 GP Bélgica: Práctica #2",
     "categoria": "futbol",
     "clase": "F1",
@@ -201,6 +127,22 @@
     ]
   },
   {
+    "titulo": "Primera División: Nacional vs Wanderers",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Viernes 17 de Julio 2026",
+    "fecha_iso": "2026-07-17",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney10"
+      }
+    ]
+  },
+  {
     "titulo": "Liga 1: Sporting Cristal vs Deportivo Garcilaso",
     "categoria": "futbol",
     "clase": "PE",
@@ -292,22 +234,6 @@
         "nombre": "Amazon",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Nacional vs Wanderers",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Viernes 17 de Julio 2026",
-    "fecha_iso": "2026-07-17",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney10"
       }
     ]
   },
