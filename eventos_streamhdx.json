@@ -1,42 +1,5 @@
 [
   {
-    "titulo": "MLB: Tampa Bay Rays vs. Boston Red Sox",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Viernes 17 de Julio 2026",
-    "fecha_iso": "2026-07-17",
-    "hora": "14:35",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=mlb1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: FC Cajamarca vs Juan Pablo II",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Viernes 17 de Julio 2026",
-    "fecha_iso": "2026-07-17",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
-      },
-      {
-        "nombre": "Liga 1 MAX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=l1max"
-      }
-    ]
-  },
-  {
     "titulo": "Primera División: Nacional vs Wanderers",
     "categoria": "futbol",
     "clase": "URU",
@@ -91,22 +54,6 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Albion vs Juventud",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Viernes 17 de Julio 2026",
-    "fecha_iso": "2026-07-17",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney9"
       }
     ]
   },
