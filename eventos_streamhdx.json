@@ -90,74 +90,6 @@
     ]
   },
   {
-    "titulo": "Liga MX: Atlético San Luis vs Cruz Azul",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Viernes 17 de Julio 2026",
-    "fecha_iso": "2026-07-17",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney13"
-      },
-      {
-        "nombre": "Vix 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=vix1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Juárez vs Puebla",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Viernes 17 de Julio 2026",
-    "fecha_iso": "2026-07-17",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox One 5",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=foxone5"
-      },
-      {
-        "nombre": "Universo",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=universo"
-      },
-      {
-        "nombre": "Peacock TV",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=peacock1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: León vs Atlas",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Viernes 17 de Julio 2026",
-    "fecha_iso": "2026-07-17",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fox One 4",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=foxone4"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Tampa Bay Rays vs. Boston Red Sox",
     "categoria": "futbol",
     "clase": "MLB",
@@ -549,6 +481,48 @@
     ]
   },
   {
+    "titulo": "Liga MX: Atlético San Luis vs Cruz Azul",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Viernes 17 de Julio 2026",
+    "fecha_iso": "2026-07-17",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney13"
+      },
+      {
+        "nombre": "Vix 1",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=vix1"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: León vs Atlas",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Viernes 17 de Julio 2026",
+    "fecha_iso": "2026-07-17",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fox One 4",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone4"
+      },
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
+      }
+    ]
+  },
+  {
     "titulo": "NBA Summer League: Heat vs. Pistons",
     "categoria": "nba",
     "clase": "NBA",
@@ -635,6 +609,32 @@
         "nombre": "Amazon",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=amazon1"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Juárez vs Puebla",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "00:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fox One 5",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone5"
+      },
+      {
+        "nombre": "Universo",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=universo"
+      },
+      {
+        "nombre": "Peacock TV",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=peacock1"
       }
     ]
   },
