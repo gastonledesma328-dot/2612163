@@ -1,38 +1,17 @@
 [
   {
-    "titulo": "Primera División: Nacional vs Wanderers",
+    "titulo": "LigaPro: Delfín vs Macará",
     "categoria": "futbol",
-    "clase": "URU",
+    "clase": "ECUA",
     "fecha": "Viernes 17 de Julio 2026",
     "fecha_iso": "2026-07-17",
-    "hora": "15:00",
+    "hora": "18:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Disney+",
+        "nombre": "Zapping EC",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney10"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Sporting Cristal vs Deportivo Garcilaso",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Viernes 17 de Julio 2026",
-    "fecha_iso": "2026-07-17",
-    "hora": "17:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Liga 1 MAX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=l1max"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
+        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
       }
     ]
   },
@@ -91,6 +70,22 @@
         "nombre": "Amazon",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=amazon1"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Nacional vs Wanderers",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Viernes 17 de Julio 2026",
+    "fecha_iso": "2026-07-17",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney10"
       }
     ]
   },
@@ -202,22 +197,6 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=disney12"
-      }
-    ]
-  },
-  {
-    "titulo": "LigaPro: Delfín vs Macará",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Viernes 17 de Julio 2026",
-    "fecha_iso": "2026-07-17",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
       }
     ]
   },
@@ -508,6 +487,715 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=disney15"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP Bélgica - Práctica #3",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "07:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "Fox Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "DAZN F1",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=daznf1"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP Bélgica - Práctica #3 | Cámara On Board",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "07:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney2"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP Bélgica - Práctica #3 | On Board Colapinto",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "07:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney3"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP Bélgica - Práctica #3 | On Board Russell",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "07:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney4"
+      }
+    ]
+  },
+  {
+    "titulo": "Ciclismo: Tour de France - Etapa #14",
+    "categoria": "futbol",
+    "clase": "TOUR",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "08:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 5",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "F3: GP Bélgica - Carrera Sprint",
+    "categoria": "futbol",
+    "clase": "F3",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "08:05",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn4"
+      }
+    ]
+  },
+  {
+    "titulo": "F2: GP Bélgica - Carrera Sprint",
+    "categoria": "futbol",
+    "clase": "F2",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "09:05",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn4"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP Bélgica - Clasificación",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney5"
+      },
+      {
+        "nombre": "Fox Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "DAZN F1",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=daznf1"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP Bélgica - Clasificación | Cámara On Board",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney6"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP Bélgica - Clasificación | On Board Colapinto",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney7"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP Bélgica - Clasificación | On Board Russell",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney8"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Progreso vs. Deportivo Maldonado",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "12:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney9"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga 1: Deportivo Moquegua vs. Comerciantes Unidos",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Liga 1 MAX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=l1max"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga 1: ADT vs. Universitario",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "15:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Liga 1 MAX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=l1max"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
+      }
+    ]
+  },
+  {
+    "titulo": "Boxeo: Harlem Eubank vs. David Papot",
+    "categoria": "box",
+    "clase": "BOX",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "16:00",
+    "duracion_min": 400,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Peñarol vs. Boston River",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney10"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Millonarios vs. Colo-Colo",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney11"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga 1: Atlético Grau vs. UTC Cajamarca",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "17:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Liga 1 MAX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=l1max"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Del Mundo: Francia vs Inglaterra",
+    "categoria": "futbol",
+    "clase": "MUNDIAL",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "18:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=dsports1"
+      },
+      {
+        "nombre": "La 1 ES Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=la1es"
+      },
+      {
+        "nombre": "Dsports Latam |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "Fox ONE USA Global |",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=foxoneusa"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Telemundo USA",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "La 1 ES",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=la1es"
+      },
+      {
+        "nombre": "Gen PY",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=genpy"
+      },
+      {
+        "nombre": "Deportes RCN",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento6"
+      },
+      {
+        "nombre": "Fox ONE USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Philadelphia 76ers vs. Milwaukee Bucks",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "18:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney12"
+      }
+    ]
+  },
+  {
+    "titulo": "UFC: Preliminares",
+    "categoria": "ufc",
+    "clase": "UFC",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "18:00",
+    "duracion_min": 480,
+    "canales": [
+      {
+        "nombre": "Paramount + Global",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=paramount"
+      },
+      {
+        "nombre": "Paramount + | Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=paramount1"
+      },
+      {
+        "nombre": "Paramount + | English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=paramount2"
+      },
+      {
+        "nombre": "Paramount + | Portugues",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=paramount3"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Boston Celtics vs. Orlando Magic",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "18:30",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Amazon",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=amazon2"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Pumas UNAM vs. Pachuca",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Canal 5 MX Global",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=canal5mx"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=canal5mx"
+      },
+      {
+        "nombre": "TUDN MX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tudnmx"
+      },
+      {
+        "nombre": "Vix 1",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=vix1"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Atlanta Hawks vs. Washington Wizards",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "20:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney13"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga 1: Cusco vs. Alianza Atlético",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Liga 1 MAX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=l1max"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz4"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Houston Rockets vs. Memphis Grizzlies",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "20:30",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Amazon",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=amazon2"
+      }
+    ]
+  },
+  {
+    "titulo": "Boxeo: Bryan Flores vs. Jonathan Navarro",
+    "categoria": "box",
+    "clase": "BOX",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "21:00",
+    "duracion_min": 400,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "UFC: Du Plessis vs. Usman",
+    "categoria": "ufc",
+    "clase": "UFC",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "21:00",
+    "duracion_min": 480,
+    "canales": [
+      {
+        "nombre": "Paramount + Global | Español",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=paramount"
+      },
+      {
+        "nombre": "Paramount + | Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=paramount1"
+      },
+      {
+        "nombre": "Paramount + | English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=paramount2"
+      },
+      {
+        "nombre": "Paramount + | Portugues",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=paramount3"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: New Orleans Pelicans vs. Indiana Pacers",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "22:00",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Monterrey vs. Santos Laguna",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "22:05",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Canal 5 MX Global",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=canal5mx"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=canal5mx"
+      },
+      {
+        "nombre": "TUDN MX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tudnmx"
+      },
+      {
+        "nombre": "Vix 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=vix2"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Guadalajara vs. Toluca",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "22:07",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Amazon Prime",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
+      },
+      {
+        "nombre": "Telemundo",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "Peacock TV",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=peacock1"
+      },
+      {
+        "nombre": "Telemundo VPN USA",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel2/?id=telemundo"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: Golden State Warriors vs. Los Angeles Lakers",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "22:30",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Amazon",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=amazon2"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Querétaro vs. América",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "00:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fox One",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone"
+      },
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
+      }
+    ]
+  },
+  {
+    "titulo": "NBA Summer League: San Antonio Spurs vs. Phoenix Suns",
+    "categoria": "nba",
+    "clase": "NBA",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "00:30",
+    "duracion_min": 200,
+    "canales": [
+      {
+        "nombre": "Amazon",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=amazon2"
       }
     ]
   }
