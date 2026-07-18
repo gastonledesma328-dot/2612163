@@ -16,39 +16,7 @@
     ]
   },
   {
-    "titulo": "Primera División: Peñarol vs. Boston River",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 18 de Julio 2026",
-    "fecha_iso": "2026-07-18",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney10"
-      }
-    ]
-  },
-  {
     "titulo": "Serie A: Barcelona SC vs. Libertad",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Sábado 18 de Julio 2026",
-    "fecha_iso": "2026-07-18",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Deportivo Cuenca vs. Universidad Católica",
     "categoria": "futbol",
     "clase": "ECUA",
     "fecha": "Sábado 18 de Julio 2026",
@@ -108,27 +76,6 @@
         "nombre": "Fox One 6",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=foxone6"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Atlético Grau vs. UTC Cajamarca",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 18 de Julio 2026",
-    "fecha_iso": "2026-07-18",
-    "hora": "17:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Liga 1 MAX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=l1max"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
       }
     ]
   },
@@ -194,7 +141,7 @@
     ]
   },
   {
-    "titulo": "NBA Summer League: Philadelphia 76ers vs. Milwaukee Bucks",
+    "titulo": "NBA Summer League: 76ers vs. Bucks",
     "categoria": "nba",
     "clase": "NBA",
     "fecha": "Sábado 18 de Julio 2026",
@@ -416,6 +363,22 @@
         "nombre": "Paramount + | Portugues",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=paramount3"
+      }
+    ]
+  },
+  {
+    "titulo": "WWE: Main Event NYC",
+    "categoria": "wwe",
+    "clase": "WWE",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "21:00",
+    "duracion_min": 180,
+    "canales": [
+      {
+        "nombre": "Peacock TV",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=peacock2"
       }
     ]
   },
