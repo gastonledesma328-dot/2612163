@@ -1,158 +1,5 @@
 [
   {
-    "titulo": "LigaPro: Delfín vs Macará",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Viernes 17 de Julio 2026",
-    "fecha_iso": "2026-07-17",
-    "hora": "18:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Argentina: San Lorenzo vs Deportivo Riestra",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Viernes 17 de Julio 2026",
-    "fecha_iso": "2026-07-17",
-    "hora": "18:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tycsports"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Bahia vs Chapecoense",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Viernes 17 de Julio 2026",
-    "fecha_iso": "2026-07-17",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz4"
-      },
-      {
-        "nombre": "Premiere 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premiere2"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Hornets vs. Kings",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Viernes 17 de Julio 2026",
-    "fecha_iso": "2026-07-17",
-    "hora": "19:30",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Amazon",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Nacional vs Wanderers",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Viernes 17 de Julio 2026",
-    "fecha_iso": "2026-07-17",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney10"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Flamengo vs Olimpia",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Viernes 17 de Julio 2026",
-    "fecha_iso": "2026-07-17",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Unicanal PY",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=unicanalpy"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Fluminense vs RB Bragantino",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Viernes 17 de Julio 2026",
-    "fecha_iso": "2026-07-17",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz6"
-      },
-      {
-        "nombre": "Premiere 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premiere1"
-      },
-      {
-        "nombre": "SporTV BR 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Mirassol vs Grêmio",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Viernes 17 de Julio 2026",
-    "fecha_iso": "2026-07-17",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz5"
-      },
-      {
-        "nombre": "Premiere 3",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premiere3"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Braves vs. Rangers",
     "categoria": "futbol",
     "clase": "MLB",
@@ -185,18 +32,18 @@
     ]
   },
   {
-    "titulo": "NBA Summer League: Cavaliers vs. Bulls",
-    "categoria": "nba",
-    "clase": "NBA",
+    "titulo": "LigaPro: Delfín vs Macará",
+    "categoria": "futbol",
+    "clase": "ECUA",
     "fecha": "Viernes 17 de Julio 2026",
     "fecha_iso": "2026-07-17",
-    "hora": "20:00",
-    "duracion_min": 200,
+    "hora": "21:00",
+    "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Disney+",
+        "nombre": "Zapping EC",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney12"
+        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
       }
     ]
   },
@@ -364,7 +211,7 @@
     "clase": "NBA",
     "fecha": "Viernes 17 de Julio 2026",
     "fecha_iso": "2026-07-17",
-    "hora": "22:30",
+    "hora": "22:00",
     "duracion_min": 200,
     "canales": [
       {
@@ -399,6 +246,11 @@
     "hora": "23:10",
     "duracion_min": 140,
     "canales": [
+      {
+        "nombre": "Fox One 6",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone6"
+      },
       {
         "nombre": "MLB",
         "calidad": "720p",
@@ -793,6 +645,54 @@
     ]
   },
   {
+    "titulo": "MLB: New York Mets vs. Philadelphia Phillies",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "17:05",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=mlb1"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Baltimore Orioles vs. Houston Astros",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "17:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "MLB",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=mlb2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Texas Rangers vs. Atlanta Braves",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "17:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fox One 6",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone6"
+      }
+    ]
+  },
+  {
     "titulo": "Liga 1: Atlético Grau vs. UTC Cajamarca",
     "categoria": "futbol",
     "clase": "PE",
@@ -1069,6 +969,22 @@
     ]
   },
   {
+    "titulo": "MLB: Los Angeles Dodgers vs. New York Yankees",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "21:08",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fox One 7",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone7"
+      }
+    ]
+  },
+  {
     "titulo": "NBA Summer League: New Orleans Pelicans vs. Indiana Pacers",
     "categoria": "nba",
     "clase": "NBA",
@@ -1143,6 +1059,22 @@
         "nombre": "Telemundo VPN USA",
         "calidad": "720p",
         "url": "https://streamhdx.xyz/channel2/?id=telemundo"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: San Francisco Giants vs. Seattle Mariners",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Sábado 18 de Julio 2026",
+    "fecha_iso": "2026-07-18",
+    "hora": "22:07",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney14"
       }
     ]
   },
