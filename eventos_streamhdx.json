@@ -1,42 +1,5 @@
 [
   {
-    "titulo": "Primera División: Progreso vs. Deportivo Maldonado",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 18 de Julio 2026",
-    "fecha_iso": "2026-07-18",
-    "hora": "12:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney9"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Deportivo Moquegua vs. Comerciantes Unidos",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 18 de Julio 2026",
-    "fecha_iso": "2026-07-18",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Liga 1 MAX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=l1max"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
-      }
-    ]
-  },
-  {
     "titulo": "Boxeo: Harlem Eubank vs. David Papot",
     "categoria": "box",
     "clase": "BOX",
