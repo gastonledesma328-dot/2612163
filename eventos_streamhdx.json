@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "F3: GP Bélgica - Carrera",
-    "categoria": "futbol",
-    "clase": "F3",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "03:25",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "F2: GP Bélgica - Carrera",
-    "categoria": "futbol",
-    "clase": "F2",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "04:50",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "Ciclismo: Tour de France - Etapa #15",
     "categoria": "futbol",
     "clase": "TOUR",
@@ -134,22 +102,6 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Central Español vs Cerro Largo",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
       }
     ]
   },
@@ -334,6 +286,11 @@
         "nombre": "Dsports",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Disney",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney1"
       },
       {
         "nombre": "Telemundo USA",
