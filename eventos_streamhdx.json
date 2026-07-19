@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "MLB: New York Mets vs. Philadelphia Phillies",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "14:35",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=mlb2"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Texas Rangers vs. Atlanta Braves",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "14:35",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=mlb3"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Del Mundo: España vs. Argentina",
     "categoria": "futbol",
     "clase": "MUNDIAL",
@@ -51,24 +19,9 @@
         "url": "https://streamhdx.xyz/channel/?id=la1es"
       },
       {
-        "nombre": "Canal 5 MX Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=canal5mx"
-      },
-      {
-        "nombre": "TUDN MX Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=tudnmx"
-      },
-      {
         "nombre": "Dsports Latam |",
         "calidad": "720p",
         "url": "https://streamhdx.xyz/channel2/?id=dsports1"
-      },
-      {
-        "nombre": "ITV 1 UK Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=itv1uk"
       },
       {
         "nombre": "Telemundo VPN USA",
@@ -86,54 +39,14 @@
         "url": "https://streamx-hd.com/live1.php?stream=disney1"
       },
       {
-        "nombre": "Telemundo USA",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=telemundo"
-      },
-      {
         "nombre": "La 1 ES",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=la1es"
       },
       {
-        "nombre": "Peacock TV",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=peacock1"
-      },
-      {
-        "nombre": "Peacock Cam AR",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=peacock2"
-      },
-      {
-        "nombre": "Peacock Cam ES",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=peacock3"
-      },
-      {
-        "nombre": "America TV",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=americatv"
-      },
-      {
-        "nombre": "TYC Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tycsports"
-      },
-      {
-        "nombre": "Win Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winsports"
-      },
-      {
         "nombre": "Telefe",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=telefe"
-      },
-      {
-        "nombre": "Gen PY",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=genpy"
       },
       {
         "nombre": "Sportv BR",
