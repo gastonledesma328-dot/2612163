@@ -1,58 +1,5 @@
 [
   {
-    "titulo": "Liga 1: Los Chankas vs Sport Boys",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "L1MAX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=l1max"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: New York Yankees vs. Los Angeles Dodgers",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "13:35",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=mlb1"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Técnico Universitario vs Aucas",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "13:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: New York Mets vs. Philadelphia Phillies",
     "categoria": "futbol",
     "clase": "MLB",
@@ -69,22 +16,6 @@
     ]
   },
   {
-    "titulo": "MLB: Tampa Bay Rays vs. Boston Red Sox",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "14:35",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Peacock TV",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=peacock4"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Texas Rangers vs. Atlanta Braves",
     "categoria": "futbol",
     "clase": "MLB",
@@ -97,22 +28,6 @@
         "nombre": "MLB",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=mlb3"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Baltimore Orioles vs. Houston Astros",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "15:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MLB",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=mlb4"
       }
     ]
   },
