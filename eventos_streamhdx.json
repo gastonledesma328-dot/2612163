@@ -1,125 +1,5 @@
 [
   {
-    "titulo": "Copa Del Mundo: España vs. Argentina",
-    "categoria": "futbol",
-    "clase": "MUNDIAL",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=dsports1"
-      },
-      {
-        "nombre": "La 1 ES Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=la1es"
-      },
-      {
-        "nombre": "Dsports Latam |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel2/?id=dsports1"
-      },
-      {
-        "nombre": "Telemundo VPN USA",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel2/?id=telemundo"
-      },
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Disney",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "La 1 ES",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=la1es"
-      },
-      {
-        "nombre": "Telefe",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=telefe"
-      },
-      {
-        "nombre": "Sportv BR",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Seattle Mariners vs. Giants",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN5",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Thunder vs. Nets",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "17:30",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney8"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Guayaquil City vs Manta",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "18:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "NBA Summer League: Raptors vs. Nuggets",
-    "categoria": "nba",
-    "clase": "NBA",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "19:30",
-    "duracion_min": 200,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney9"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: New York Yankees vs. Los Angeles Dodgers",
     "categoria": "futbol",
     "clase": "MLB",
@@ -167,22 +47,6 @@
     ]
   },
   {
-    "titulo": "Serie A: Independiente del Valle vs Emelec",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "21:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
     "titulo": "NBA Summer League: Grizzlies vs. Warriors",
     "categoria": "nba",
     "clase": "NBA",
@@ -195,6 +59,102 @@
         "nombre": "ESPN 3",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "Boxeo: Riku Masuda vs. Daigo Higa",
+    "categoria": "box",
+    "clase": "BOX",
+    "fecha": "Lunes 20 de Julio 2026",
+    "fecha_iso": "2026-07-20",
+    "hora": "05:30",
+    "duracion_min": 400,
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A: Mushuc Runa vs. Orense",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Lunes 20 de Julio 2026",
+    "fecha_iso": "2026-07-20",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie B: Atlético GO vs. Athletic Club MG",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Lunes 20 de Julio 2026",
+    "fecha_iso": "2026-07-20",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney1"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Philadelphia Phillies vs. Los Angeles Dodgers",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Lunes 20 de Julio 2026",
+    "fecha_iso": "2026-07-20",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "WWE:Raw",
+    "categoria": "wwe",
+    "clase": "WWE",
+    "fecha": "Lunes 20 de Julio 2026",
+    "fecha_iso": "2026-07-20",
+    "hora": "21:00",
+    "duracion_min": 180,
+    "canales": [
+      {
+        "nombre": "Eventos",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento1"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Los Angeles Angels vs. St. Louis Cardinals",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Lunes 20 de Julio 2026",
+    "fecha_iso": "2026-07-20",
+    "hora": "23:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2"
       }
     ]
   }
