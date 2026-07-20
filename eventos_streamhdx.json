@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Boxeo: Riku Masuda vs. Daigo Higa",
-    "categoria": "box",
-    "clase": "BOX",
-    "fecha": "Lunes 20 de Julio 2026",
-    "fecha_iso": "2026-07-20",
-    "hora": "05:30",
-    "duracion_min": 400,
-    "canales": [
-      {
-        "nombre": "ESPN2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "Serie A: Mushuc Runa vs. Orense",
     "categoria": "futbol",
     "clase": "ECUA",
