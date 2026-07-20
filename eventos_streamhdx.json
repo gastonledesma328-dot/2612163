@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "Serie A: Mushuc Runa vs. Orense",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Lunes 20 de Julio 2026",
-    "fecha_iso": "2026-07-20",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie B: Atlético GO vs. Athletic Club MG",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Lunes 20 de Julio 2026",
-    "fecha_iso": "2026-07-20",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Philadelphia Phillies vs. Los Angeles Dodgers",
     "categoria": "futbol",
     "clase": "MLB",
