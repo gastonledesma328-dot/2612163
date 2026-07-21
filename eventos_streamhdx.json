@@ -16,27 +16,6 @@
     ]
   },
   {
-    "titulo": "Liga MX: Toluca vs Pumas UNAM",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Martes 21 de Julio 2026",
-    "fecha_iso": "2026-07-21",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "FOX One",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=foxone"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
-      }
-    ]
-  },
-  {
     "titulo": "UEFA Champions League: Fenerbahçe vs Górnik Zabrze",
     "categoria": "futbol",
     "clase": "CHA",
@@ -301,6 +280,27 @@
         "nombre": "ESPN5",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Toluca vs Pumas UNAM",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Miércoles 22 de Julio 2026",
+    "fecha_iso": "2026-07-22",
+    "hora": "00:05",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "FOX One",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone"
+      },
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
       }
     ]
   }
