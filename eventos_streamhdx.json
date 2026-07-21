@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Ciclismo: Tour de France - Etapa #16",
-    "categoria": "futbol",
-    "clase": "TOUR",
-    "fecha": "Martes 21 de Julio 2026",
-    "fecha_iso": "2026-07-21",
-    "hora": "07:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "UEFA Champions League: Fenerbahçe vs Górnik Zabrze",
     "categoria": "futbol",
     "clase": "CHA",
