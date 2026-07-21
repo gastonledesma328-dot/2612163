@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "UEFA Champions League: Fenerbahçe vs Górnik Zabrze",
-    "categoria": "futbol",
-    "clase": "CHA",
-    "fecha": "Martes 21 de Julio 2026",
-    "fecha_iso": "2026-07-21",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
     "titulo": "UEFA Champions League: Sturm Graz vs Hearts",
     "categoria": "futbol",
     "clase": "CHA",
