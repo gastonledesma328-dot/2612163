@@ -1,43 +1,11 @@
 [
   {
-    "titulo": "Serie A: Macará vs Deportivo Cuenca",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Miércoles 22 de Julio 2026",
-    "fecha_iso": "2026-07-22",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Diamondbacks vs. Athletics",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Miércoles 22 de Julio 2026",
-    "fecha_iso": "2026-07-22",
-    "hora": "16:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN5",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
     "titulo": "Serie A: Independiente del Valle vs Técnico Universitario",
     "categoria": "futbol",
     "clase": "ECUA",
     "fecha": "Miércoles 22 de Julio 2026",
     "fecha_iso": "2026-07-22",
-    "hora": "17:15",
+    "hora": "18:30",
     "duracion_min": 140,
     "canales": [
       {
