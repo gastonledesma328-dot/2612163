@@ -1,131 +1,5 @@
 [
   {
-    "titulo": "UEFA Champions League: Sturm Graz vs Hearts",
-    "categoria": "futbol",
-    "clase": "CHA",
-    "fecha": "Martes 21 de Julio 2026",
-    "fecha_iso": "2026-07-21",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento2"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Champions League: Larne vs Estrella Roja",
-    "categoria": "futbol",
-    "clase": "CHA",
-    "fecha": "Martes 21 de Julio 2026",
-    "fecha_iso": "2026-07-21",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 3",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento3"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Libertad vs Delfín",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Martes 21 de Julio 2026",
-    "fecha_iso": "2026-07-21",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "CONMEBOL Sudamericana: Nacional vs Tigre",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Martes 21 de Julio 2026",
-    "fecha_iso": "2026-07-21",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports Global |",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=dsports1"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
-      },
-      {
-        "nombre": "DSports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa BetPlay: Atlético Nacional vs Tigres FC",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Martes 21 de Julio 2026",
-    "fecha_iso": "2026-07-21",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Atlético Mineiro vs Bahia",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Martes 21 de Julio 2026",
-    "fecha_iso": "2026-07-21",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
-      },
-      {
-        "nombre": "SporTV",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
-      },
-      {
-        "nombre": "Premiere",
-        "calidad": "720p",
-        "url": "https://stream-xhd.com/live1.php?stream=premiere1"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Braves vs. Padres",
     "categoria": "futbol",
     "clase": "MLB",
@@ -177,9 +51,9 @@
         "url": "https://streamx-hd.com/live1.php?stream=dsports"
       },
       {
-        "nombre": "ESPN2 AR",
+        "nombre": "ESPN AR",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2ar"
+        "url": "https://streamx-hd.com/live1.php?stream=espnar"
       },
       {
         "nombre": "Disney+",
