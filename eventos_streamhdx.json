@@ -1,53 +1,5 @@
 [
   {
-    "titulo": "UEFA Conference League: Vojvodina vs Ajax",
-    "categoria": "futbol",
-    "clase": "UECL",
-    "fecha": "Jueves 23 de Julio 2026",
-    "fecha_iso": "2026-07-23",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 4",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento4"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Europa League: Beşiktaş vs Midtjylland",
-    "categoria": "futbol",
-    "clase": "UE",
-    "fecha": "Jueves 23 de Julio 2026",
-    "fecha_iso": "2026-07-23",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 3",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento3"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Europa League: St. Gallen vs Benfica",
-    "categoria": "futbol",
-    "clase": "UE",
-    "fecha": "Jueves 23 de Julio 2026",
-    "fecha_iso": "2026-07-23",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
     "titulo": "Serie A: Leones del Norte vs Guayaquil City",
     "categoria": "futbol",
     "clase": "ECUA",
