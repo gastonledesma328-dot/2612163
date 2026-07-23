@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "UEFA Europa League: Dynamo Kyiv vs PAOK",
-    "categoria": "futbol",
-    "clase": "UE",
-    "fecha": "Jueves 23 de Julio 2026",
-    "fecha_iso": "2026-07-23",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento2"
-      }
-    ]
-  },
-  {
     "titulo": "UEFA Conference League: Vojvodina vs Ajax",
     "categoria": "futbol",
     "clase": "UECL",
@@ -89,9 +73,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Zapping EC",
+        "nombre": "Eventos",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+        "url": "https://streamx-hd.com/live1.php?stream=evento5"
       }
     ]
   },
