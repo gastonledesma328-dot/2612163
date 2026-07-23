@@ -1,195 +1,327 @@
 [
   {
-    "titulo": "MLS: Houston Dynamo vs DC United",
+    "titulo": "Ciclismo: Tour de France - Etapa #18",
     "categoria": "futbol",
-    "clase": "MLS",
-    "fecha": "Miércoles 22 de Julio 2026",
-    "fecha_iso": "2026-07-22",
-    "hora": "21:30",
+    "clase": "TOUR",
+    "fecha": "Jueves 23 de Julio 2026",
+    "fecha_iso": "2026-07-23",
+    "hora": "07:15",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Apple TV Español",
+        "nombre": "ESPN2",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv17"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv18"
+        "url": "https://streamx-hd.com/live1.php?stream=espn2"
       }
     ]
   },
   {
-    "titulo": "MLS: Nashville SC vs CF Montréal",
+    "titulo": "UEFA Europa League: Dynamo Kyiv vs PAOK",
     "categoria": "futbol",
-    "clase": "MLS",
-    "fecha": "Miércoles 22 de Julio 2026",
-    "fecha_iso": "2026-07-22",
-    "hora": "21:30",
+    "clase": "UE",
+    "fecha": "Jueves 23 de Julio 2026",
+    "fecha_iso": "2026-07-23",
+    "hora": "14:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Apple TV Español",
+        "nombre": "Evento 2",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv13"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv14"
+        "url": "https://streamx-hd.com/live1.php?stream=evento2"
       }
     ]
   },
   {
-    "titulo": "MLS: Sporting KC vs Minnesota United",
+    "titulo": "UEFA Conference League: Vojvodina vs Ajax",
     "categoria": "futbol",
-    "clase": "MLS",
-    "fecha": "Miércoles 22 de Julio 2026",
-    "fecha_iso": "2026-07-22",
-    "hora": "21:30",
+    "clase": "UECL",
+    "fecha": "Jueves 23 de Julio 2026",
+    "fecha_iso": "2026-07-23",
+    "hora": "15:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Apple TV Español",
+        "nombre": "Evento 4",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv15"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv16"
+        "url": "https://streamx-hd.com/live1.php?stream=evento4"
       }
     ]
   },
   {
-    "titulo": "MLS: Austin vs Seattle Sounders",
+    "titulo": "UEFA Europa League: Beşiktaş vs Midtjylland",
     "categoria": "futbol",
-    "clase": "MLS",
-    "fecha": "Miércoles 22 de Julio 2026",
-    "fecha_iso": "2026-07-22",
-    "hora": "22:30",
+    "clase": "UE",
+    "fecha": "Jueves 23 de Julio 2026",
+    "fecha_iso": "2026-07-23",
+    "hora": "15:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Apple TV Español",
+        "nombre": "Evento 3",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv19"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv20"
+        "url": "https://streamx-hd.com/live1.php?stream=evento3"
       }
     ]
   },
   {
-    "titulo": "MLS: Colorado Rapids vs San Diego",
+    "titulo": "UEFA Europa League: St. Gallen vs Benfica",
     "categoria": "futbol",
-    "clase": "MLS",
-    "fecha": "Miércoles 22 de Julio 2026",
-    "fecha_iso": "2026-07-22",
-    "hora": "22:30",
+    "clase": "UE",
+    "fecha": "Jueves 23 de Julio 2026",
+    "fecha_iso": "2026-07-23",
+    "hora": "15:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Apple TV Español",
+        "nombre": "Evento 1",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv21"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv22"
+        "url": "https://streamx-hd.com/live1.php?stream=evento1"
       }
     ]
   },
   {
-    "titulo": "MLS: LA Galaxy vs St. Louis City",
+    "titulo": "Serie A: Leones del Norte vs Guayaquil City",
     "categoria": "futbol",
-    "clase": "MLS",
-    "fecha": "Miércoles 22 de Julio 2026",
-    "fecha_iso": "2026-07-22",
-    "hora": "23:30",
+    "clase": "ECUA",
+    "fecha": "Jueves 23 de Julio 2026",
+    "fecha_iso": "2026-07-23",
+    "hora": "18:30",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Apple TV Español",
+        "nombre": "Zapping EC",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv25"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv26"
+        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
       }
     ]
   },
   {
-    "titulo": "MLS: Los Angeles FC vs Real Salt Lake",
+    "titulo": "Serie A: Orense vs Aucas",
     "categoria": "futbol",
-    "clase": "MLS",
-    "fecha": "Miércoles 22 de Julio 2026",
-    "fecha_iso": "2026-07-22",
-    "hora": "23:30",
+    "clase": "ECUA",
+    "fecha": "Jueves 23 de Julio 2026",
+    "fecha_iso": "2026-07-23",
+    "hora": "18:30",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Apple TV Español",
+        "nombre": "Zapping EC",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv23"
+        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Bolívar vs Grêmio",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Jueves 23 de Julio 2026",
+    "fecha_iso": "2026-07-23",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney1"
       },
       {
-        "nombre": "Fox Deportes USA",
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "DSports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Botafogo vs Vitória",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Jueves 23 de Julio 2026",
+    "fecha_iso": "2026-07-23",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz5"
+      },
+      {
+        "nombre": "Premiere 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=premiere2"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Corinthians vs Remo",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Jueves 23 de Julio 2026",
+    "fecha_iso": "2026-07-23",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "L1MAX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=l1max"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz4"
+      },
+      {
+        "nombre": "SporTV BR 1",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
+      },
+      {
+        "nombre": "Premiere 1",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=premiere1"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Belgrano vs Rosario Central",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Jueves 23 de Julio 2026",
+    "fecha_iso": "2026-07-23",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
+      },
+      {
+        "nombre": "FOX Deportes USA",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv24"
       }
     ]
   },
   {
-    "titulo": "MLS: Portland Timbers vs Dallas",
+    "titulo": "Liga Profesional: Sarmiento vs Argentinos Juniors",
     "categoria": "futbol",
-    "clase": "MLS",
-    "fecha": "Miércoles 22 de Julio 2026",
-    "fecha_iso": "2026-07-22",
-    "hora": "23:30",
+    "clase": "AR",
+    "fecha": "Jueves 23 de Julio 2026",
+    "fecha_iso": "2026-07-23",
+    "hora": "19:30",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Apple TV Español",
+        "nombre": "ESPN Premium",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv27"
+        "url": "https://streamx-hd.com/live1.php?stream=espnpremium"
       },
       {
-        "nombre": "Apple TV English",
+        "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv28"
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
       }
     ]
   },
   {
-    "titulo": "MLS: SJ Earthquakes vs Orlando City",
+    "titulo": "Serie A: Emelec vs Mushuc Runa",
     "categoria": "futbol",
-    "clase": "MLS",
-    "fecha": "Miércoles 22 de Julio 2026",
-    "fecha_iso": "2026-07-22",
-    "hora": "23:30",
+    "clase": "ECUA",
+    "fecha": "Jueves 23 de Julio 2026",
+    "fecha_iso": "2026-07-23",
+    "hora": "21:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Apple TV Español",
+        "nombre": "Zapping EC",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv29"
+        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Boca Juniors vs O'Higgins",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Jueves 23 de Julio 2026",
+    "fecha_iso": "2026-07-23",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney2"
       },
       {
-        "nombre": "Apple TV English",
+        "nombre": "Dsports PE",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv30"
+        "url": "https://streamx-hd.com/live1.php?stream=evento2"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz6"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Santa Fe vs Caracas",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Jueves 23 de Julio 2026",
+    "fecha_iso": "2026-07-23",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney3"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz7"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Defensa y Justicia vs Aldosivi",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Jueves 23 de Julio 2026",
+    "fecha_iso": "2026-07-23",
+    "hora": "21:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN Premium",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espnpremium"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz8"
       }
     ]
   }
