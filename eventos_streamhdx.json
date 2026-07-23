@@ -124,11 +124,6 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
-      },
-      {
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
@@ -137,6 +132,11 @@
         "nombre": "FOX Deportes USA",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
+      },
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
       }
     ]
   },
@@ -150,14 +150,14 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "ESPN Premium",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espnpremium"
-      },
-      {
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
+      },
+      {
+        "nombre": "ESPN Premium",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espnpremium"
       }
     ]
   },
