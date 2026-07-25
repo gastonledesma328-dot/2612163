@@ -1,79 +1,5 @@
 [
   {
-    "titulo": "Amistoso: Porto vs Aston Villa",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 25 de Julio 2026",
-    "fecha_iso": "2026-07-25",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Premier Sports 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premier2uk"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Universidad Católica vs La Serena",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Sábado 25 de Julio 2026",
-    "fecha_iso": "2026-07-25",
-    "hora": "16:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Newell's Old Boys vs Talleres Córdoba",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Sábado 25 de Julio 2026",
-    "fecha_iso": "2026-07-25",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
-      },
-      {
-        "nombre": "ESPN Premium",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espnpremium"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney10"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Juan Pablo II College vs Cienciano",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 25 de Julio 2026",
-    "fecha_iso": "2026-07-25",
-    "hora": "17:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "L1MAX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=l1max"
-      }
-    ]
-  },
-  {
     "titulo": "CONCACAF Sub-20: Cuba vs El Salvador",
     "categoria": "futbol",
     "clase": "CONCAU20",
@@ -196,6 +122,27 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=fanatiz7"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Millonarios vs Atlético Bucaramanga",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Sábado 25 de Julio 2026",
+    "fecha_iso": "2026-07-25",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz9"
+      },
+      {
+        "nombre": "Win Fútbol+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=winplus"
       }
     ]
   },
@@ -349,27 +296,6 @@
         "nombre": "Peacock TV",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=peacock1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Millonarios vs Atlético Bucaramanga",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Sábado 25 de Julio 2026",
-    "fecha_iso": "2026-07-25",
-    "hora": "20:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz9"
-      },
-      {
-        "nombre": "Win Fútbol+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winplus"
       }
     ]
   },
@@ -563,6 +489,22 @@
     ]
   },
   {
+    "titulo": "Primera División: Universidad Católica vs La Serena",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Sábado 25 de Julio 2026",
+    "fecha_iso": "2026-07-25",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
     "titulo": "Serie A: Técnico Universitario vs Manta",
     "categoria": "futbol",
     "clase": "ECUA",
@@ -606,27 +548,6 @@
         "nombre": "TUDN USA",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Primera: Deportivo Recoleta vs Sportivo San Lorenzo",
-    "categoria": "futbol",
-    "clase": "LIGAPY",
-    "fecha": "Sábado 25 de Julio 2026",
-    "fecha_iso": "2026-07-25",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Tigo Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tigo1"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
       }
     ]
   },
