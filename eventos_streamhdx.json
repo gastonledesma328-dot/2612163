@@ -1,68 +1,5 @@
 [
   {
-    "titulo": "Liga Profesional: Estudiantes vs Independiente",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Domingo 26 de Julio 2026",
-    "fecha_iso": "2026-07-26",
-    "hora": "17:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz6"
-      },
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney10"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Orense vs Independiente del Valle",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Domingo 26 de Julio 2026",
-    "fecha_iso": "2026-07-26",
-    "hora": "17:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Comerciantes Unidos vs Alianza Lima",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Domingo 26 de Julio 2026",
-    "fecha_iso": "2026-07-26",
-    "hora": "17:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "L1MAX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=l1max"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz7"
-      }
-    ]
-  },
-  {
     "titulo": "Categoría Primera A: Rionegro Águilas vs Santa Fe",
     "categoria": "futbol",
     "clase": "COL",
@@ -150,11 +87,6 @@
     "hora": "18:30",
     "duracion_min": 140,
     "canales": [
-      {
-        "nombre": "Tigo Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tigo1"
-      },
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
