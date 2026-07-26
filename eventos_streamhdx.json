@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "F3: GP Hungría - Carrera",
-    "categoria": "futbol",
-    "clase": "F3",
-    "fecha": "Domingo 26 de Julio 2026",
-    "fecha_iso": "2026-07-26",
-    "hora": "03:35",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
     "titulo": "F2: GP Hungría - Carrera",
     "categoria": "futbol",
     "clase": "F2",
@@ -28,6 +12,11 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=disney2"
+      },
+      {
+        "nombre": "DAZN F1",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=daznf1"
       }
     ]
   },
