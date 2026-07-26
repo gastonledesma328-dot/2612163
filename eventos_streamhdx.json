@@ -121,6 +121,48 @@
     ]
   },
   {
+    "titulo": "Brasileirão: Bahia vs Corinthians",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Domingo 26 de Julio 2026",
+    "fecha_iso": "2026-07-26",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
+      },
+      {
+        "nombre": "Premiere 5 BR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=premiere5"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Remo vs Vitória",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Domingo 26 de Julio 2026",
+    "fecha_iso": "2026-07-26",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz13"
+      },
+      {
+        "nombre": "Premiere 6 BR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=premiere6"
+      }
+    ]
+  },
+  {
     "titulo": "Liga 1: UTC Cajamarca vs Deportivo Moquegua",
     "categoria": "futbol",
     "clase": "PE",
@@ -201,27 +243,6 @@
         "nombre": "Zapping EC",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Bahia vs Corinthians",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Domingo 26 de Julio 2026",
-    "fecha_iso": "2026-07-26",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
-      },
-      {
-        "nombre": "Premiere 5 BR",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premiere5"
       }
     ]
   },
@@ -532,27 +553,6 @@
         "nombre": "Sportv BR",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Remo vs Vitória",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Domingo 26 de Julio 2026",
-    "fecha_iso": "2026-07-26",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz13"
-      },
-      {
-        "nombre": "Premiere 6 BR",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premiere6"
       }
     ]
   },
