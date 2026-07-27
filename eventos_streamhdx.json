@@ -1,27 +1,27 @@
 [
   {
-    "titulo": "Liga 1: Deportivo Garcilaso vs FC Cajamarca",
+    "titulo": "MLB: Texas Rangers vs Seattle Mariners",
     "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Domingo 26 de Julio 2026",
-    "fecha_iso": "2026-07-26",
-    "hora": "21:00",
+    "clase": "MLB",
+    "fecha": "Lunes 27 de Julio 2026",
+    "fecha_iso": "2026-07-27",
+    "hora": "15:35",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "L1MAX",
+        "nombre": "ESPN 5",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=l1max"
+        "url": "https://streamx-hd.com/live1.php?stream=espn5"
       }
     ]
   },
   {
-    "titulo": "Serie A: Barcelona vs LDU Quito",
+    "titulo": "Serie A: Mushuc Runa vs Libertad",
     "categoria": "futbol",
     "clase": "ECUA",
-    "fecha": "Domingo 26 de Julio 2026",
-    "fecha_iso": "2026-07-26",
-    "hora": "21:15",
+    "fecha": "Lunes 27 de Julio 2026",
+    "fecha_iso": "2026-07-27",
+    "hora": "16:00",
     "duracion_min": 140,
     "canales": [
       {
@@ -32,65 +32,130 @@
     ]
   },
   {
-    "titulo": "Primera División: Deportes Concepción vs O'Higgins",
+    "titulo": "Serie A: Guayaquil City vs Universidad Católica",
     "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Domingo 26 de Julio 2026",
-    "fecha_iso": "2026-07-26",
-    "hora": "21:30",
+    "clase": "ECUA",
+    "fecha": "Lunes 27 de Julio 2026",
+    "fecha_iso": "2026-07-27",
+    "hora": "18:30",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "TNT Sports Chile",
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie B: Atlético Goianiense vs Operário PR",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Lunes 27 de Julio 2026",
+    "fecha_iso": "2026-07-27",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney1"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie B: CRB vs Vila Nova",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Lunes 27 de Julio 2026",
+    "fecha_iso": "2026-07-27",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney2"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie B: Sport Recife vs Cuiabá",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Lunes 27 de Julio 2026",
+    "fecha_iso": "2026-07-27",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney3"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Unión La Calera vs Everton",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Lunes 27 de Julio 2026",
+    "fecha_iso": "2026-07-27",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports CL",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
       }
     ]
   },
   {
-    "titulo": "Liga MX: Pachuca vs Querétaro",
+    "titulo": "MLB: Cincinnati Reds vs Cleveland Guardians",
     "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Domingo 26 de Julio 2026",
-    "fecha_iso": "2026-07-26",
-    "hora": "22:06",
+    "clase": "MLB",
+    "fecha": "Lunes 27 de Julio 2026",
+    "fecha_iso": "2026-07-27",
+    "hora": "20:10",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "FOX One",
+        "nombre": "ESPN 3",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=foxone"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
+        "url": "https://streamx-hd.com/live1.php?stream=espn3"
       }
     ]
   },
   {
-    "titulo": "Categoría Primera A: Once Caldas vs Cúcuta Deportivo",
+    "titulo": "Serie A: Deportivo Cuenca vs Emelec",
     "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Domingo 26 de Julio 2026",
-    "fecha_iso": "2026-07-26",
-    "hora": "22:15",
+    "clase": "ECUA",
+    "fecha": "Lunes 27 de Julio 2026",
+    "fecha_iso": "2026-07-27",
+    "hora": "21:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Fanatiz",
+        "nombre": "Zapping EC",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz16"
-      },
+        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "CONCACAF Sub-20: Costa Rica vs México",
+    "categoria": "futbol",
+    "clase": "CONCAU20",
+    "fecha": "Lunes 27 de Julio 2026",
+    "fecha_iso": "2026-07-27",
+    "hora": "23:00",
+    "duracion_min": 140,
+    "canales": [
       {
-        "nombre": "Win Sports +",
+        "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winplus"
-      },
-      {
-        "nombre": "Win Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winsports"
+        "url": "https://streamx-hd.com/live1.php?stream=disney4"
       }
     ]
   }
