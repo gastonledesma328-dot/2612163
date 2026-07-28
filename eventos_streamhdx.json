@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "Amistoso: Chelsea vs Western Sydney Wanderers",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Martes 28 de Julio 2026",
-    "fecha_iso": "2026-07-28",
-    "hora": "06:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Claro Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=claro1"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Real Madrid vs Leganés",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Martes 28 de Julio 2026",
-    "fecha_iso": "2026-07-28",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Eventos",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento2"
-      }
-    ]
-  },
-  {
     "titulo": "UEFA Champions League: Hearts vs Sturm Graz",
     "categoria": "futbol",
     "clase": "CHA",
