@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "UEFA Champions League: Hearts vs Sturm Graz",
-    "categoria": "futbol",
-    "clase": "CHA",
-    "fecha": "Martes 28 de Julio 2026",
-    "fecha_iso": "2026-07-28",
-    "hora": "15:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Xsports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Primera: Rubio Ñú vs Sportivo Ameliano",
-    "categoria": "futbol",
-    "clase": "LIGAPY",
-    "fecha": "Martes 28 de Julio 2026",
-    "fecha_iso": "2026-07-28",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
-      }
-    ]
-  },
-  {
     "titulo": "Copa de Primera: 2 de Mayo vs Cerro Porteño",
     "categoria": "futbol",
     "clase": "LIGAPY",
