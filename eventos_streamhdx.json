@@ -1,68 +1,5 @@
 [
   {
-    "titulo": "Liga Profesional: Barracas Central vs Aldosivi",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "14:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
-      },
-      {
-        "nombre": "ESPN Premium",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espnpremium"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Real Betis vs Olympique Lyonnais",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Xsports BR",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Champions League: Górnik Zabrze vs Fenerbahçe",
-    "categoria": "futbol",
-    "clase": "CHA",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Eventos",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento3"
-      }
-    ]
-  },
-  {
     "titulo": "Copa de Primera: Sportivo Luqueño vs Sportivo Trinidense",
     "categoria": "futbol",
     "clase": "LIGAPY",
@@ -75,6 +12,22 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Ecuador: Gualaceo vs Macará",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Eventos",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
       }
     ]
   },
@@ -279,6 +232,22 @@
         "nombre": "FOX One",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=foxone"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Ecuador: Independiente del Valle vs Manta",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Eventos",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
       }
     ]
   },
