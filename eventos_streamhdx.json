@@ -1,11 +1,258 @@
 [
   {
-    "titulo": "Liga Profesional: Argentinos Juniors vs Estudiantes Río Cuarto",
+    "titulo": "Amistoso: Tottenham Hotspur vs Sydney FC",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "06:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Claro Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=claro1"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Cerezo Osaka vs Borussia Dortmund",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "07:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Eventos",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento1"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Champions League: Kairat vs Omonia Nicosia",
+    "categoria": "futbol",
+    "clase": "CHA",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Xsports BR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento1"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Barracas Central vs Aldosivi",
     "categoria": "futbol",
     "clase": "AR",
-    "fecha": "Martes 28 de Julio 2026",
-    "fecha_iso": "2026-07-28",
-    "hora": "21:15",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "14:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
+      },
+      {
+        "nombre": "ESPN Premium",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espnpremium"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Real Betis vs Olympique Lyonnais",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Xsports BR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento1"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Champions League: Górnik Zabrze vs Fenerbahçe",
+    "categoria": "futbol",
+    "clase": "CHA",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Eventos",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento3"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de Primera: Sportivo Luqueño vs Sportivo Trinidense",
+    "categoria": "futbol",
+    "clase": "LIGAPY",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Defensa y Justicia vs Deportivo Riestra",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
+      },
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de Primera: Nacional Asunción vs Olimpia",
+    "categoria": "futbol",
+    "clase": "LIGAPY",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz4"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Vasco da Gama vs Medellín",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney2"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz5"
+      },
+      {
+        "nombre": "DSports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Gimnasia La Plata vs River Plate",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "19:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney3"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz6"
+      },
+      {
+        "nombre": "ESPN Premium",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espnpremium"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Internacional vs Flamengo",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz7"
+      },
+      {
+        "nombre": "Prime Video",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
+      },
+      {
+        "nombre": "Win Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=winsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Mirassol vs Remo",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "19:30",
     "duracion_min": 140,
     "canales": [
       {
@@ -14,24 +261,19 @@
         "url": "https://streamx-hd.com/live1.php?stream=fanatiz8"
       },
       {
-        "nombre": "ESPN Premium",
+        "nombre": "Premiere 4",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espnpremium"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney3"
+        "url": "https://streamx-hd.com/live1.php?stream=premiere4"
       }
     ]
   },
   {
-    "titulo": "Liga Profesional: Rosario Central vs Racing Club",
+    "titulo": "Copa Colombia: Barranquilla vs Junior",
     "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Martes 28 de Julio 2026",
-    "fecha_iso": "2026-07-28",
-    "hora": "21:15",
+    "clase": "COL",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "19:30",
     "duracion_min": 140,
     "canales": [
       {
@@ -40,28 +282,128 @@
         "url": "https://streamx-hd.com/live1.php?stream=fanatiz9"
       },
       {
-        "nombre": "TNT Sports",
+        "nombre": "Win Fútbol+",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
+        "url": "https://streamx-hd.com/live1.php?stream=winplus"
+      }
+    ]
+  },
+  {
+    "titulo": "Premier League Summer: Wrexham vs Liverpool",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Claro Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=claro1"
       },
+      {
+        "nombre": "ESPN Deportes",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espndeportes"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Centroamericana: UMECIT vs Deportivo Saprissa",
+    "categoria": "futbol",
+    "clase": "CONCACAF",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
       {
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=disney4"
       },
       {
-        "nombre": "Premier Sports 2 UK",
+        "nombre": "FOX One",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premier2uk"
+        "url": "https://streamx-hd.com/live1.php?stream=foxone"
       }
     ]
   },
   {
-    "titulo": "Copa Sudamericana: Santos vs UCV",
+    "titulo": "MLS: MLS All-Star Team vs Liga MX All-Stars",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv1"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv2"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Fluminense vs Bahia",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=winsports"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz11"
+      },
+      {
+        "nombre": "Premiere 3",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=premiere3"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Vitória vs Palmeiras",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz12"
+      },
+      {
+        "nombre": "Premiere 1",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=premiere1"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Cienciano vs Lanús",
     "categoria": "futbol",
     "clase": "SUD",
-    "fecha": "Martes 28 de Julio 2026",
-    "fecha_iso": "2026-07-28",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
     "hora": "21:30",
     "duracion_min": 140,
     "canales": [
@@ -73,12 +415,28 @@
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz10"
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz13"
       },
       {
         "nombre": "ESPN",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: RB Bragantino vs Sporting Cristal",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz14"
       },
       {
         "nombre": "DSports",
@@ -88,18 +446,39 @@
     ]
   },
   {
-    "titulo": "Copa BetPlay: Tigres FC vs Atlético Nacional",
+    "titulo": "Liga Profesional: Instituto vs Platense",
     "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Martes 28 de Julio 2026",
-    "fecha_iso": "2026-07-28",
-    "hora": "22:30",
+    "clase": "AR",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "21:30",
     "duracion_min": 140,
     "canales": [
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz11"
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz10"
+      },
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Colombia: Real Cartagena vs América de Cali",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz15"
       },
       {
         "nombre": "Win Fútbol+",
@@ -109,11 +488,11 @@
     ]
   },
   {
-    "titulo": "Copa Centroamericana: Diriangén vs Plaza Amador",
+    "titulo": "Copa Centroamericana: Alajuelense vs Xelajú",
     "categoria": "futbol",
     "clase": "CONCACAF",
-    "fecha": "Martes 28 de Julio 2026",
-    "fecha_iso": "2026-07-28",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
     "hora": "23:00",
     "duracion_min": 140,
     "canales": [
@@ -121,15 +500,20 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=disney6"
+      },
+      {
+        "nombre": "FOX One",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone"
       }
     ]
   },
   {
-    "titulo": "Copa Centroamericana: Olimpia vs Mixco",
+    "titulo": "Copa Centroamericana: Alianza vs Antigua GFC",
     "categoria": "futbol",
     "clase": "CONCACAF",
-    "fecha": "Martes 28 de Julio 2026",
-    "fecha_iso": "2026-07-28",
+    "fecha": "Domingo 19 de Julio 2026",
+    "fecha_iso": "2026-07-19",
     "hora": "23:00",
     "duracion_min": 140,
     "canales": [
