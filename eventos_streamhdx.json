@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "Amistoso: Tottenham Hotspur vs Sydney FC",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "06:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Claro Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=claro1"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Cerezo Osaka vs Borussia Dortmund",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "07:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Eventos",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
     "titulo": "UEFA Champions League: Kairat vs Omonia Nicosia",
     "categoria": "futbol",
     "clase": "CHA",
