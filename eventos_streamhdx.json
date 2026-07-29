@@ -1,26 +1,5 @@
 [
   {
-    "titulo": "Copa BetPlay: Tigres FC vs Atlético Nacional",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Martes 28 de Julio 2026",
-    "fecha_iso": "2026-07-28",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz11"
-      },
-      {
-        "nombre": "Win Fútbol+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
     "titulo": "Liga Profesional: Argentinos Juniors vs Estudiantes Río Cuarto",
     "categoria": "futbol",
     "clase": "AR",
@@ -105,6 +84,27 @@
         "nombre": "DSports",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa BetPlay: Tigres FC vs Atlético Nacional",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Martes 28 de Julio 2026",
+    "fecha_iso": "2026-07-28",
+    "hora": "22:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz11"
+      },
+      {
+        "nombre": "Win Fútbol+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=winplus"
       }
     ]
   },
