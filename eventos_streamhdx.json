@@ -1,63 +1,10 @@
 [
   {
-    "titulo": "Copa de Primera: Sportivo Luqueño vs Sportivo Trinidense",
-    "categoria": "futbol",
-    "clase": "LIGAPY",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Ecuador: Gualaceo vs Macará",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Eventos",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Defensa y Justicia vs Deportivo Riestra",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
-      },
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
-      }
-    ]
-  },
-  {
     "titulo": "Copa de Primera: Nacional Asunción vs Olimpia",
     "categoria": "futbol",
     "clase": "LIGAPY",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
+    "fecha": "Miércoles 29 de Julio 2026",
+    "fecha_iso": "2026-07-29",
     "hora": "18:30",
     "duracion_min": 140,
     "canales": [
@@ -72,8 +19,8 @@
     "titulo": "Copa Sudamericana: Vasco da Gama vs Medellín",
     "categoria": "futbol",
     "clase": "SUD",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
+    "fecha": "Miércoles 29 de Julio 2026",
+    "fecha_iso": "2026-07-29",
     "hora": "19:00",
     "duracion_min": 140,
     "canales": [
@@ -98,8 +45,8 @@
     "titulo": "Liga Profesional: Gimnasia La Plata vs River Plate",
     "categoria": "futbol",
     "clase": "AR",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
+    "fecha": "Miércoles 29 de Julio 2026",
+    "fecha_iso": "2026-07-29",
     "hora": "19:15",
     "duracion_min": 140,
     "canales": [
@@ -129,8 +76,8 @@
     "titulo": "Brasileirão: Internacional vs Flamengo",
     "categoria": "futbol",
     "clase": "BRA",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
+    "fecha": "Miércoles 29 de Julio 2026",
+    "fecha_iso": "2026-07-29",
     "hora": "19:30",
     "duracion_min": 140,
     "canales": [
@@ -155,8 +102,8 @@
     "titulo": "Brasileirão: Mirassol vs Remo",
     "categoria": "futbol",
     "clase": "BRA",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
+    "fecha": "Miércoles 29 de Julio 2026",
+    "fecha_iso": "2026-07-29",
     "hora": "19:30",
     "duracion_min": 140,
     "canales": [
@@ -176,8 +123,8 @@
     "titulo": "Copa Colombia: Barranquilla vs Junior",
     "categoria": "futbol",
     "clase": "COL",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
+    "fecha": "Miércoles 29 de Julio 2026",
+    "fecha_iso": "2026-07-29",
     "hora": "19:30",
     "duracion_min": 140,
     "canales": [
@@ -197,8 +144,8 @@
     "titulo": "Premier League Summer: Wrexham vs Liverpool",
     "categoria": "futbol",
     "clase": "ENG",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
+    "fecha": "Miércoles 29 de Julio 2026",
+    "fecha_iso": "2026-07-29",
     "hora": "20:30",
     "duracion_min": 140,
     "canales": [
@@ -218,8 +165,8 @@
     "titulo": "Copa Centroamericana: UMECIT vs Deportivo Saprissa",
     "categoria": "futbol",
     "clase": "CONCACAF",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
+    "fecha": "Miércoles 29 de Julio 2026",
+    "fecha_iso": "2026-07-29",
     "hora": "21:00",
     "duracion_min": 140,
     "canales": [
@@ -239,8 +186,8 @@
     "titulo": "Copa Ecuador: Independiente del Valle vs Manta",
     "categoria": "futbol",
     "clase": "ECUA",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
+    "fecha": "Miércoles 29 de Julio 2026",
+    "fecha_iso": "2026-07-29",
     "hora": "21:00",
     "duracion_min": 140,
     "canales": [
@@ -255,8 +202,8 @@
     "titulo": "MLS: MLS All-Star Team vs Liga MX All-Stars",
     "categoria": "futbol",
     "clase": "MLS",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
+    "fecha": "Miércoles 29 de Julio 2026",
+    "fecha_iso": "2026-07-29",
     "hora": "21:00",
     "duracion_min": 140,
     "canales": [
@@ -276,8 +223,8 @@
     "titulo": "Brasileirão: Fluminense vs Bahia",
     "categoria": "futbol",
     "clase": "BRA",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
+    "fecha": "Miércoles 29 de Julio 2026",
+    "fecha_iso": "2026-07-29",
     "hora": "21:30",
     "duracion_min": 140,
     "canales": [
@@ -302,8 +249,8 @@
     "titulo": "Brasileirão: Vitória vs Palmeiras",
     "categoria": "futbol",
     "clase": "BRA",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
+    "fecha": "Miércoles 29 de Julio 2026",
+    "fecha_iso": "2026-07-29",
     "hora": "21:30",
     "duracion_min": 140,
     "canales": [
@@ -323,8 +270,8 @@
     "titulo": "Copa Sudamericana: Cienciano vs Lanús",
     "categoria": "futbol",
     "clase": "SUD",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
+    "fecha": "Miércoles 29 de Julio 2026",
+    "fecha_iso": "2026-07-29",
     "hora": "21:30",
     "duracion_min": 140,
     "canales": [
@@ -349,8 +296,8 @@
     "titulo": "Copa Sudamericana: RB Bragantino vs Sporting Cristal",
     "categoria": "futbol",
     "clase": "SUD",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
+    "fecha": "Miércoles 29 de Julio 2026",
+    "fecha_iso": "2026-07-29",
     "hora": "21:30",
     "duracion_min": 140,
     "canales": [
@@ -370,8 +317,8 @@
     "titulo": "Liga Profesional: Instituto vs Platense",
     "categoria": "futbol",
     "clase": "AR",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
+    "fecha": "Miércoles 29 de Julio 2026",
+    "fecha_iso": "2026-07-29",
     "hora": "21:30",
     "duracion_min": 140,
     "canales": [
@@ -391,8 +338,8 @@
     "titulo": "Copa Colombia: Real Cartagena vs América de Cali",
     "categoria": "futbol",
     "clase": "COL",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
+    "fecha": "Miércoles 29 de Julio 2026",
+    "fecha_iso": "2026-07-29",
     "hora": "22:00",
     "duracion_min": 140,
     "canales": [
@@ -412,8 +359,8 @@
     "titulo": "Copa Centroamericana: Alajuelense vs Xelajú",
     "categoria": "futbol",
     "clase": "CONCACAF",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
+    "fecha": "Miércoles 29 de Julio 2026",
+    "fecha_iso": "2026-07-29",
     "hora": "23:00",
     "duracion_min": 140,
     "canales": [
@@ -433,8 +380,8 @@
     "titulo": "Copa Centroamericana: Alianza vs Antigua GFC",
     "categoria": "futbol",
     "clase": "CONCACAF",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
+    "fecha": "Miércoles 29 de Julio 2026",
+    "fecha_iso": "2026-07-29",
     "hora": "23:00",
     "duracion_min": 140,
     "canales": [
