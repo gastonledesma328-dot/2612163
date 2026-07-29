@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "UEFA Champions League: Kairat vs Omonia Nicosia",
-    "categoria": "futbol",
-    "clase": "CHA",
-    "fecha": "Domingo 19 de Julio 2026",
-    "fecha_iso": "2026-07-19",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Xsports BR",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
     "titulo": "Liga Profesional: Barracas Central vs Aldosivi",
     "categoria": "futbol",
     "clase": "AR",
