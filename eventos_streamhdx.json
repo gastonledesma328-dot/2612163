@@ -1,58 +1,5 @@
 [
   {
-    "titulo": "Copa Centroamericana: Alajuelense vs Xelajú",
-    "categoria": "futbol",
-    "clase": "CONCACAF",
-    "fecha": "Miércoles 29 de Julio 2026",
-    "fecha_iso": "2026-07-29",
-    "hora": "23:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney6"
-      },
-      {
-        "nombre": "FOX One",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=foxone"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Centroamericana: Alianza vs Antigua GFC",
-    "categoria": "futbol",
-    "clase": "CONCACAF",
-    "fecha": "Miércoles 29 de Julio 2026",
-    "fecha_iso": "2026-07-29",
-    "hora": "23:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney7"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Mallorca vs Al Ittihad",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Jueves 30 de Julio 2026",
-    "fecha_iso": "2026-07-30",
-    "hora": "05:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Eventos",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
     "titulo": "UEFA Europa League: Midtjylland vs Beşiktaş",
     "categoria": "futbol",
     "clase": "UE",
