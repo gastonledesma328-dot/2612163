@@ -1,85 +1,5 @@
 [
   {
-    "titulo": "MLB: Chicago Cubs vs. St. Louis Cardinals",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Jueves 30 de Julio 2026",
-    "fecha_iso": "2026-07-30",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Primera: Sportivo San Lorenzo vs Guaraní",
-    "categoria": "futbol",
-    "clase": "LIGAPY",
-    "fecha": "Jueves 30 de Julio 2026",
-    "fecha_iso": "2026-07-30",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Europa League: Benfica vs St. Gallen",
-    "categoria": "futbol",
-    "clase": "UE",
-    "fecha": "Jueves 30 de Julio 2026",
-    "fecha_iso": "2026-07-30",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Eventos",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Ecuador: LDU Quito vs Leones del Norte",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Jueves 30 de Julio 2026",
-    "fecha_iso": "2026-07-30",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports Eventos",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Colombia: Envigado vs Once Caldas",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Jueves 30 de Julio 2026",
-    "fecha_iso": "2026-07-30",
-    "hora": "17:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
-      }
-    ]
-  },
-  {
     "titulo": "Copa de Primera: Libertad vs Deportivo Recoleta",
     "categoria": "futbol",
     "clase": "LIGAPY",
@@ -131,14 +51,9 @@
         "url": "https://streamx-hd.com/live1.php?stream=disney2"
       },
       {
-        "nombre": "DSports",
+        "nombre": "Dsports",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Eventos PE",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento5"
       }
     ]
   },
