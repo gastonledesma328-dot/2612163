@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "UEFA Europa League: Midtjylland vs Beşiktaş",
-    "categoria": "futbol",
-    "clase": "UE",
-    "fecha": "Jueves 30 de Julio 2026",
-    "fecha_iso": "2026-07-30",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Eventos",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Chicago Cubs vs. St. Louis Cardinals",
     "categoria": "futbol",
     "clase": "MLB",
@@ -73,7 +57,7 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Zapping EC",
+        "nombre": "Dsports Eventos",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
       }
