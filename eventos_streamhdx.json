@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Copa Centroamericana: Municipal vs Cartaginés",
-    "categoria": "futbol",
-    "clase": "CONCACAF",
-    "fecha": "Viernes 31 de Julio 2026",
-    "fecha_iso": "2026-07-31",
-    "hora": "00:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney10"
-      }
-    ]
-  },
-  {
     "titulo": "Amistoso: Juventus vs Nice",
     "categoria": "futbol",
     "clase": "FIFA",
