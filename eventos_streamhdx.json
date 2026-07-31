@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "Amistoso: Juventus vs Nice",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Viernes 31 de Julio 2026",
-    "fecha_iso": "2026-07-31",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Eventos 3",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento3"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: NEC vs Sevilla",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Viernes 31 de Julio 2026",
-    "fecha_iso": "2026-07-31",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Eventos 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento2"
-      }
-    ]
-  },
-  {
     "titulo": "Supercopa de Bélgica: Club Brujas vs Union Saint-Gilloise",
     "categoria": "futbol",
     "clase": "BEL",
@@ -57,9 +25,34 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Eventos 1",
+        "nombre": "Dsports | Global",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channel/?id=dsports1"
+      },
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Espn 2 MX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2mx"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney4"
+      },
+      {
+        "nombre": "Eventos | Español",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=evento1"
+      },
+      {
+        "nombre": "Fanatiz | English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
       }
     ]
   },
