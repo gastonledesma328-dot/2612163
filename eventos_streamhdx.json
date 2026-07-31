@@ -1,297 +1,5 @@
 [
   {
-    "titulo": "Copa de Primera: Libertad vs Deportivo Recoleta",
-    "categoria": "futbol",
-    "clase": "LIGAPY",
-    "fecha": "Jueves 30 de Julio 2026",
-    "fecha_iso": "2026-07-30",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
-      }
-    ]
-  },
-  {
-    "titulo": "Campeonato Sub-20: Costa Rica vs Antigua y Barbuda",
-    "categoria": "futbol",
-    "clase": "CONCAU20",
-    "fecha": "Jueves 30 de Julio 2026",
-    "fecha_iso": "2026-07-30",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Grêmio vs Bolívar",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Jueves 30 de Julio 2026",
-    "fecha_iso": "2026-07-30",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz6"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Independiente Rivadavia vs Huracán",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Jueves 30 de Julio 2026",
-    "fecha_iso": "2026-07-30",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz4"
-      },
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Talleres Córdoba vs Vélez Sarsfield",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Jueves 30 de Julio 2026",
-    "fecha_iso": "2026-07-30",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz5"
-      },
-      {
-        "nombre": "ESPN Premium",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espnpremium"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Corinthians vs Athletico-PR",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Jueves 30 de Julio 2026",
-    "fecha_iso": "2026-07-30",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "L1MAX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=l1max"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz7"
-      },
-      {
-        "nombre": "Win Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winsports"
-      },
-      {
-        "nombre": "Premiere 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premiere1"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Sunderland vs Leeds United",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Jueves 30 de Julio 2026",
-    "fecha_iso": "2026-07-30",
-    "hora": "20:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Claro Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=claro1"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espndeportes"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Central Córdoba SdE vs Atlético Tucumán",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Jueves 30 de Julio 2026",
-    "fecha_iso": "2026-07-30",
-    "hora": "21:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz8"
-      },
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Independiente vs Newell's Old Boys",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Jueves 30 de Julio 2026",
-    "fecha_iso": "2026-07-30",
-    "hora": "21:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz9"
-      },
-      {
-        "nombre": "ESPN Premium",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espnpremium"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney4"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Coritiba vs Cruzeiro",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Jueves 30 de Julio 2026",
-    "fecha_iso": "2026-07-30",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz10"
-      },
-      {
-        "nombre": "Premiere 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premiere2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Caracas vs Santa Fe",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Jueves 30 de Julio 2026",
-    "fecha_iso": "2026-07-30",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports | Global",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channel/?id=dsports1"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney6"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz12"
-      },
-      {
-        "nombre": "ESPN2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: O'Higgins vs Boca Juniors",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Jueves 30 de Julio 2026",
-    "fecha_iso": "2026-07-30",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Como IT | Global",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel2/?id=como_it1"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney5"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz11"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn"
-      }
-    ]
-  },
-  {
     "titulo": "Campeonato Sub-20: México vs Guatemala",
     "categoria": "futbol",
     "clase": "CONCAU20",
@@ -383,6 +91,476 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=disney10"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Juventus vs Nice",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Viernes 31 de Julio 2026",
+    "fecha_iso": "2026-07-31",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Eventos 3",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento3"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: NEC vs Sevilla",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Viernes 31 de Julio 2026",
+    "fecha_iso": "2026-07-31",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Eventos 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento2"
+      }
+    ]
+  },
+  {
+    "titulo": "Supercopa de Bélgica: Club Brujas vs Union Saint-Gilloise",
+    "categoria": "futbol",
+    "clase": "BEL",
+    "fecha": "Viernes 31 de Julio 2026",
+    "fecha_iso": "2026-07-31",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Eventos 6",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento6"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Birmingham City vs Barcelona",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Viernes 31 de Julio 2026",
+    "fecha_iso": "2026-07-31",
+    "hora": "15:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Eventos 1",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento1"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Sporting CP vs Nottingham Forest",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Viernes 31 de Julio 2026",
+    "fecha_iso": "2026-07-31",
+    "hora": "15:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
+      }
+    ]
+  },
+  {
+    "titulo": "Scottish Premiership: Dundee United vs Rangers",
+    "categoria": "futbol",
+    "clase": "ESC",
+    "fecha": "Viernes 31 de Julio 2026",
+    "fecha_iso": "2026-07-31",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Como IT | Global",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel2/?id=como_it1"
+      },
+      {
+        "nombre": "SportsDigital | Global",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channel/?id=sportsdigital"
+      },
+      {
+        "nombre": "Eventos 4",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento4"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga 1: Los Chankas vs Comerciantes Unidos",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Viernes 31 de Julio 2026",
+    "fecha_iso": "2026-07-31",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "L1MAX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=l1max"
+      }
+    ]
+  },
+  {
+    "titulo": "Campeonato Sub-20: El Salvador vs Haití",
+    "categoria": "futbol",
+    "clase": "CONCAU20",
+    "fecha": "Viernes 31 de Julio 2026",
+    "fecha_iso": "2026-07-31",
+    "hora": "18:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney1"
+      }
+    ]
+  },
+  {
+    "titulo": "Categoría Primera B: Real Santander vs Patriotas",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Viernes 31 de Julio 2026",
+    "fecha_iso": "2026-07-31",
+    "hora": "18:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=winplus"
+      },
+      {
+        "nombre": "Win Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=winsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Uruguay Primera División: Torque vs Wanderers",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Viernes 31 de Julio 2026",
+    "fecha_iso": "2026-07-31",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney2"
+      }
+    ]
+  },
+  {
+    "titulo": "Categoría Primera B: Unión Magdalena vs Orsomarso",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Viernes 31 de Julio 2026",
+    "fecha_iso": "2026-07-31",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=winplus"
+      },
+      {
+        "nombre": "Win Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=winsports"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Arizona Diamondbacks vs. Cleveland Guardians",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Viernes 31 de Julio 2026",
+    "fecha_iso": "2026-07-31",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: New York City vs Toronto FC",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Viernes 31 de Julio 2026",
+    "fecha_iso": "2026-07-31",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv1"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv2"
+      }
+    ]
+  },
+  {
+    "titulo": "LFA 238: Herbeth Sousa vs. Paulo Portillo",
+    "categoria": "box",
+    "clase": "BOX",
+    "fecha": "Viernes 31 de Julio 2026",
+    "fecha_iso": "2026-07-31",
+    "hora": "21:00",
+    "duracion_min": 400,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Univ. Concepción vs Audax Italiano",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Viernes 31 de Julio 2026",
+    "fecha_iso": "2026-07-31",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A: Libertad vs Orense",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Viernes 31 de Julio 2026",
+    "fecha_iso": "2026-07-31",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Fortaleza CEIF vs Deportivo Pereira",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Viernes 31 de Julio 2026",
+    "fecha_iso": "2026-07-31",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
+      },
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=winplus"
+      },
+      {
+        "nombre": "Win Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=winsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Puebla vs Guadalajara",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Viernes 31 de Julio 2026",
+    "fecha_iso": "2026-07-31",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney3"
+      },
+      {
+        "nombre": "FOX One",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone"
+      },
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
+      },
+      {
+        "nombre": "ESPN México",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espnmx"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga de Expansión: Correcaminos UAT vs Tepatitlán",
+    "categoria": "futbol",
+    "clase": "MEX",
+    "fecha": "Viernes 31 de Julio 2026",
+    "fecha_iso": "2026-07-31",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney4"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga de Expansión: Mineros de Zacatecas vs Tlaxcala",
+    "categoria": "futbol",
+    "clase": "MEX",
+    "fecha": "Viernes 31 de Julio 2026",
+    "fecha_iso": "2026-07-31",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "AYM Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=aymsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Campeonato Sub-20: Estados Unidos vs Cuba",
+    "categoria": "futbol",
+    "clase": "CONCAU20",
+    "fecha": "Viernes 31 de Julio 2026",
+    "fecha_iso": "2026-07-31",
+    "hora": "23:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney5"
+      }
+    ]
+  },
+  {
+    "titulo": "ESPN Knockout: José Miguel Calderón vs. Hugo Guarneros",
+    "categoria": "box",
+    "clase": "BOX",
+    "fecha": "Sábado 01 de Agosto 2026",
+    "fecha_iso": "2026-08-01",
+    "hora": "00:00",
+    "duracion_min": 400,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Atlético San Luis vs Tijuana",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Sábado 01 de Agosto 2026",
+    "fecha_iso": "2026-08-01",
+    "hora": "00:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney6"
+      },
+      {
+        "nombre": "ESPN México",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espnmx"
+      },
+      {
+        "nombre": "Vix 1",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=vix1"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Juárez vs Pumas UNAM",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Sábado 01 de Agosto 2026",
+    "fecha_iso": "2026-08-01",
+    "hora": "00:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "FOX One",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone"
+      },
+      {
+        "nombre": "FOX Deportes",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
+      },
+      {
+        "nombre": "Universo",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=universo"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga de Expansión MX: CA La Paz vs Durango",
+    "categoria": "futbol",
+    "clase": "MEX",
+    "fecha": "Sábado 01 de Agosto 2026",
+    "fecha_iso": "2026-08-01",
+    "hora": "00:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "AYM Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=aymsports"
       }
     ]
   }
