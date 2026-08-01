@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Amistoso: Chelsea vs Tottenham Hotspur",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "06:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Claro Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=claro1"
-      }
-    ]
-  },
-  {
     "titulo": "Amistoso: Manchester City vs Inter",
     "categoria": "futbol",
     "clase": "FIFA",
@@ -159,7 +143,7 @@
     ]
   },
   {
-    "titulo": "UFC: Preliminares",
+    "titulo": "UFC: U. Medić vs D. Rodriguez",
     "categoria": "ufc",
     "clase": "UFC",
     "fecha": "Sábado 01 de Agosto 2026",
@@ -222,6 +206,22 @@
     ]
   },
   {
+    "titulo": "Primera División: Deportivo Maldonado vs Juventud",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Sábado 01 de Agosto 2026",
+    "fecha_iso": "2026-08-01",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney2"
+      }
+    ]
+  },
+  {
     "titulo": "Liga Profesional: Estudiantes Río Cuarto vs Banfield",
     "categoria": "futbol",
     "clase": "AR",
@@ -260,22 +260,6 @@
         "nombre": "ESPN Premium",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espnpremium"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Deportivo Maldonado vs Juventud",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney2"
       }
     ]
   },
