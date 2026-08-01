@@ -1,63 +1,5 @@
 [
   {
-    "titulo": "Amistoso: Manchester United vs Atlético Madrid",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Eventos",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
-    "titulo": "Scottish Premiership: Falkirk vs St. Mirren",
-    "categoria": "futbol",
-    "clase": "ESC",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Como IT",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=como1"
-      }
-    ]
-  },
-  {
-    "titulo": "UFC: Preliminares",
-    "categoria": "ufc",
-    "clase": "UFC",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "11:00",
-    "duracion_min": 480,
-    "canales": [
-      {
-        "nombre": "Paramount | Español",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=paramount1"
-      },
-      {
-        "nombre": "Paramount | Ingles",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=paramount2"
-      },
-      {
-        "nombre": "Paramount | Portugues",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=paramount3"
-      }
-    ]
-  },
-  {
     "titulo": "Primera División: Albion vs Danubio",
     "categoria": "futbol",
     "clase": "URU",
@@ -74,6 +16,22 @@
     ]
   },
   {
+    "titulo": "Primera División: Palestino vs Coquimbo Unido",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Sábado 01 de Agosto 2026",
+    "fecha_iso": "2026-08-01",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
     "titulo": "Amistoso: Real Madrid vs Fiorentina",
     "categoria": "futbol",
     "clase": "FIFA",
@@ -83,9 +41,19 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "Claro Sports",
+        "calidad": "720p",
+        "url": "https://streamhdx.com/channel/?id=clarosports"
+      },
+      {
         "nombre": "TyC Sports",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=tycsports"
+      },
+      {
+        "nombre": "Claro Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=claro1"
       }
     ]
   },
@@ -185,6 +153,22 @@
     ]
   },
   {
+    "titulo": "Primera División: Deportivo Maldonado vs Juventud",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Sábado 01 de Agosto 2026",
+    "fecha_iso": "2026-08-01",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney2"
+      }
+    ]
+  },
+  {
     "titulo": "Liga Profesional: Estudiantes Río Cuarto vs Banfield",
     "categoria": "futbol",
     "clase": "AR",
@@ -223,22 +207,6 @@
         "nombre": "ESPN Premium",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espnpremium"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Deportivo Maldonado vs Juventud",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney2"
       }
     ]
   },
@@ -501,22 +469,6 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=fanatiz9"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Palestino vs Coquimbo Unido",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
       }
     ]
   },
