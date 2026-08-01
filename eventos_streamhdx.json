@@ -16,106 +16,6 @@
     ]
   },
   {
-    "titulo": "Liga BetPlay: Fortaleza CEIF vs Deportivo Pereira",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Viernes 31 de Julio 2026",
-    "fecha_iso": "2026-07-31",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
-      },
-      {
-        "nombre": "Win Sports +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winplus"
-      },
-      {
-        "nombre": "Win Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Puebla vs Guadalajara",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Viernes 31 de Julio 2026",
-    "fecha_iso": "2026-07-31",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney3"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
-      },
-      {
-        "nombre": "Azteca 7",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=azteca7"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Nacional: Platense vs. Real Espana",
-    "categoria": "futbol",
-    "clase": "FUT",
-    "fecha": "Viernes 31 de Julio 2026",
-    "fecha_iso": "2026-07-31",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 8",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga de Expansión: Correcaminos UAT vs Tepatitlán",
-    "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Viernes 31 de Julio 2026",
-    "fecha_iso": "2026-07-31",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney4"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga de Expansión: Mineros de Zacatecas vs Tlaxcala",
-    "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Viernes 31 de Julio 2026",
-    "fecha_iso": "2026-07-31",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "AYM Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=aymsports"
-      }
-    ]
-  },
-  {
     "titulo": "Campeonato Sub-20: Estados Unidos vs Cuba",
     "categoria": "futbol",
     "clase": "CONCAU20",
@@ -162,14 +62,14 @@
         "url": "https://streamx-hd.com/live1.php?stream=disney6"
       },
       {
-        "nombre": "ESPN México",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espnmx"
-      },
-      {
         "nombre": "Vix 1",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=vix1"
+      },
+      {
+        "nombre": "ESPN México",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espnmx"
       }
     ]
   },
@@ -186,16 +86,6 @@
         "nombre": "FOX One",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=foxone"
-      },
-      {
-        "nombre": "FOX Deportes",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
-      },
-      {
-        "nombre": "Universo",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=universo"
       }
     ]
   },
@@ -438,22 +328,6 @@
     ]
   },
   {
-    "titulo": "Primera División: Deportivo Maldonado vs Juventud",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney2"
-      }
-    ]
-  },
-  {
     "titulo": "Liga Profesional: Estudiantes Río Cuarto vs Banfield",
     "categoria": "futbol",
     "clase": "AR",
@@ -492,6 +366,22 @@
         "nombre": "ESPN Premium",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espnpremium"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Deportivo Maldonado vs Juventud",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Sábado 01 de Agosto 2026",
+    "fecha_iso": "2026-08-01",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney2"
       }
     ]
   },
@@ -1273,7 +1163,7 @@
     "clase": "LIGAMX",
     "fecha": "Sábado 01 de Agosto 2026",
     "fecha_iso": "2026-08-01",
-    "hora": "22:00",
+    "hora": "22:05",
     "duracion_min": 140,
     "canales": [
       {
@@ -1304,22 +1194,6 @@
     ]
   },
   {
-    "titulo": "Liga MX: León vs Pachuca",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "FOX One",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=foxone"
-      }
-    ]
-  },
-  {
     "titulo": "Liga MX Femenil: Tigres UANL vs Puebla",
     "categoria": "futbol",
     "clase": "MEX",
@@ -1332,6 +1206,22 @@
         "nombre": "FOX One",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=foxone4"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: León vs Pachuca",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Sábado 01 de Agosto 2026",
+    "fecha_iso": "2026-08-01",
+    "hora": "22:06",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "FOX One",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone"
       }
     ]
   },
