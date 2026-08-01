@@ -1,95 +1,5 @@
 [
   {
-    "titulo": "Primera División: Albion vs Danubio",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Palestino vs Coquimbo Unido",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Real Madrid vs Fiorentina",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Claro Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channel/?id=clarosports"
-      },
-      {
-        "nombre": "TyC Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tycsports"
-      },
-      {
-        "nombre": "Claro Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=claro1"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Cobresal vs Unión La Calera",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "titulo": "Scottish Premiership: Aberdeen vs Hearts",
-    "categoria": "futbol",
-    "clase": "ESC",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Como IT",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=como1"
-      }
-    ]
-  },
-  {
     "titulo": "UFC: U. Medić vs D. Rodriguez",
     "categoria": "ufc",
     "clase": "UFC",
@@ -469,6 +379,22 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=fanatiz9"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Palestino vs Coquimbo Unido",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Sábado 01 de Agosto 2026",
+    "fecha_iso": "2026-08-01",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
       }
     ]
   },
