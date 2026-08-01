@@ -1,122 +1,17 @@
 [
   {
-    "titulo": "UFC: U. Medić vs D. Rodriguez",
-    "categoria": "ufc",
-    "clase": "UFC",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "14:00",
-    "duracion_min": 480,
-    "canales": [
-      {
-        "nombre": "Paramount | Global",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=paramount"
-      },
-      {
-        "nombre": "Paramount | Español",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=paramount1"
-      },
-      {
-        "nombre": "Paramount | Ingles",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=paramount2"
-      },
-      {
-        "nombre": "Paramount | Portugues",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=paramount3"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Girona vs Arsenal",
-    "categoria": "futbol",
-    "clase": "FIFA",
+    "titulo": "Boxeo: Pierce O'Leary vs. Mark Chamberlain",
+    "categoria": "box",
+    "clase": "BOX",
     "fecha": "Sábado 01 de Agosto 2026",
     "fecha_iso": "2026-08-01",
     "hora": "15:00",
-    "duracion_min": 140,
+    "duracion_min": 400,
     "canales": [
       {
-        "nombre": "TyC Sports",
+        "nombre": "Espn",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tycsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: FC Cajamarca vs Sport Huancayo",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "L1MAX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=l1max"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Deportivo Maldonado vs Juventud",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Estudiantes Río Cuarto vs Banfield",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
-      },
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Gimnasia Mendoza vs Unión Santa Fe",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
-      },
-      {
-        "nombre": "ESPN Premium",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espnpremium"
+        "url": "https://streamx-hd.com/live1.php?stream=espn"
       }
     ]
   },
@@ -211,6 +106,22 @@
     ]
   },
   {
+    "titulo": "Serie A: Universidad Católica vs Técnico Universitario",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Sábado 01 de Agosto 2026",
+    "fecha_iso": "2026-08-01",
+    "hora": "16:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
     "titulo": "Campeonato Sub-20: Canadá vs Jamaica",
     "categoria": "futbol",
     "clase": "CONCAU20",
@@ -223,6 +134,32 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=disney3"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Medellín vs Deportivo Cali",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Sábado 01 de Agosto 2026",
+    "fecha_iso": "2026-08-01",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz10"
+      },
+      {
+        "nombre": "Win Fútbol+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=winplus"
+      },
+      {
+        "nombre": "Win Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=winsports"
       }
     ]
   },
@@ -246,14 +183,9 @@
         "url": "https://streamx-hd.com/live1.php?stream=dsports"
       },
       {
-        "nombre": "Disney+",
+        "nombre": "Prime Video",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney4"
-      },
-      {
-        "nombre": "ESPN2 México",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2mx"
+        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
       },
       {
         "nombre": "Premiere 1",
@@ -266,9 +198,9 @@
         "url": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
       },
       {
-        "nombre": "Prime Video",
+        "nombre": "ESPN2 México",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
+        "url": "https://streamx-hd.com/live1.php?stream=espn2mx"
       }
     ]
   },
@@ -334,12 +266,7 @@
         "url": "https://streamx-hd.com/live1.php?stream=espnpremium"
       },
       {
-        "nombre": "Espn",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "ESPN AR",
+        "nombre": "Espn AR",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espnar"
       }
@@ -415,28 +342,12 @@
     ]
   },
   {
-    "titulo": "Serie A: Universidad Católica vs Técnico Universitario",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
     "titulo": "WWE SummerSlam",
     "categoria": "wwe",
     "clase": "WWE",
     "fecha": "Sábado 01 de Agosto 2026",
     "fecha_iso": "2026-08-01",
-    "hora": "18:30",
+    "hora": "19:00",
     "duracion_min": 180,
     "canales": [
       {
@@ -528,32 +439,6 @@
         "nombre": "Eventos 5",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=evento5"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Medellín vs Deportivo Cali",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "20:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz10"
-      },
-      {
-        "nombre": "Win Fútbol+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winplus"
-      },
-      {
-        "nombre": "Win Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winsports"
       }
     ]
   },
@@ -732,6 +617,22 @@
         "nombre": "Apple TV English",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=appletv14"
+      }
+    ]
+  },
+  {
+    "titulo": "Boxeo: William Zepeda vs. Lamont Roach",
+    "categoria": "box",
+    "clase": "BOX",
+    "fecha": "Sábado 01 de Agosto 2026",
+    "fecha_iso": "2026-08-01",
+    "hora": "21:00",
+    "duracion_min": 400,
+    "canales": [
+      {
+        "nombre": "Espn",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn"
       }
     ]
   },
