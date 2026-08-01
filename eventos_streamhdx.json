@@ -1,226 +1,5 @@
 [
   {
-    "titulo": "Boxeo: Pierce O'Leary vs. Mark Chamberlain",
-    "categoria": "box",
-    "clase": "BOX",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "15:00",
-    "duracion_min": 400,
-    "canales": [
-      {
-        "nombre": "Espn",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Primera: Sportivo Ameliano vs 2 de Mayo",
-    "categoria": "futbol",
-    "clase": "LIGAPY",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz4"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Deportivo Pasto vs Rionegro Águilas",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
-      },
-      {
-        "nombre": "Win Fútbol+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Everton vs Colo-Colo",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Manta vs Mushuc Runa",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Supertaça: Porto vs Torreense",
-    "categoria": "futbol",
-    "clase": "POR",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "16:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz5"
-      },
-      {
-        "nombre": "Como IT",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=como1"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Universidad Católica vs Técnico Universitario",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "16:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Campeonato Sub-20: Canadá vs Jamaica",
-    "categoria": "futbol",
-    "clase": "CONCAU20",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Medellín vs Deportivo Cali",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz10"
-      },
-      {
-        "nombre": "Win Fútbol+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winplus"
-      },
-      {
-        "nombre": "Win Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Brasil: Vasco da Gama vs Fluminense",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "17:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports | Global",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channel/?id=dsports1"
-      },
-      {
-        "nombre": "Dsports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Prime Video",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
-      },
-      {
-        "nombre": "Premiere 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premiere1"
-      },
-      {
-        "nombre": "SporTV 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
-      },
-      {
-        "nombre": "ESPN2 México",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2mx"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Atlético Grau vs Sport Boys",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 01 de Agosto 2026",
-    "fecha_iso": "2026-08-01",
-    "hora": "17:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "L1MAX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=l1max"
-      }
-    ]
-  },
-  {
     "titulo": "Liga Profesional: Belgrano vs Argentinos Juniors",
     "categoria": "futbol",
     "clase": "AR",
@@ -342,6 +121,22 @@
     ]
   },
   {
+    "titulo": "Serie A: Universidad Católica vs Técnico Universitario",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Sábado 01 de Agosto 2026",
+    "fecha_iso": "2026-08-01",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
     "titulo": "WWE SummerSlam",
     "categoria": "wwe",
     "clase": "WWE",
@@ -351,9 +146,14 @@
     "duracion_min": 180,
     "canales": [
       {
-        "nombre": "Evento 9",
+        "nombre": "Evento 9 | Español",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=evento9"
+      },
+      {
+        "nombre": "Evento 10 | Ingles",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento10"
       }
     ]
   },
@@ -439,6 +239,32 @@
         "nombre": "Eventos 5",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=evento5"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Medellín vs Deportivo Cali",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Sábado 01 de Agosto 2026",
+    "fecha_iso": "2026-08-01",
+    "hora": "20:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz10"
+      },
+      {
+        "nombre": "Win Fútbol+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=winplus"
+      },
+      {
+        "nombre": "Win Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=winsports"
       }
     ]
   },
