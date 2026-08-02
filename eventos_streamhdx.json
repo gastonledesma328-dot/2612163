@@ -1,85 +1,5 @@
 [
   {
-    "titulo": "Liga MX Femenil: Pumas UNAM vs León",
-    "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Domingo 02 de Agosto 2026",
-    "fecha_iso": "2026-08-02",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Vix 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=vix1"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Always Ready vs Bolívar",
-    "categoria": "futbol",
-    "clase": "BOL",
-    "fecha": "Domingo 02 de Agosto 2026",
-    "fecha_iso": "2026-08-02",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Entel Gol",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=entelgol"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Central Español vs Liverpool",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Domingo 02 de Agosto 2026",
-    "fecha_iso": "2026-08-02",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney2"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Independiente del Valle vs Deportivo Cuenca",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Domingo 02 de Agosto 2026",
-    "fecha_iso": "2026-08-02",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: ADT vs Deportivo Garcilaso",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Domingo 02 de Agosto 2026",
-    "fecha_iso": "2026-08-02",
-    "hora": "15:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "L1MAX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=l1max"
-      }
-    ]
-  },
-  {
     "titulo": "Copa de Brasil: Palmeiras vs Fortaleza",
     "categoria": "futbol",
     "clase": "BRA",
@@ -308,6 +228,22 @@
         "nombre": "Eventos 7",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=evento7"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Always Ready vs Bolívar",
+    "categoria": "futbol",
+    "clase": "BOL",
+    "fecha": "Domingo 02 de Agosto 2026",
+    "fecha_iso": "2026-08-02",
+    "hora": "18:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Entel Gol",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=entelgol"
       }
     ]
   },
