@@ -1,168 +1,5 @@
 [
   {
-    "titulo": "Copa de Brasil: Palmeiras vs Fortaleza",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Domingo 02 de Agosto 2026",
-    "fecha_iso": "2026-08-02",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Prime Video",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Primera: Olimpia vs Rubio Ñú",
-    "categoria": "futbol",
-    "clase": "LIGAPY",
-    "fecha": "Domingo 02 de Agosto 2026",
-    "fecha_iso": "2026-08-02",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: La Serena vs O'Higgins",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Domingo 02 de Agosto 2026",
-    "fecha_iso": "2026-08-02",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Real Potosí vs Gualberto Villarroel SJ",
-    "categoria": "futbol",
-    "clase": "BOL",
-    "fecha": "Domingo 02 de Agosto 2026",
-    "fecha_iso": "2026-08-02",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Entel Gol",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=entelgol"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Liverpool vs Leeds United",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Domingo 02 de Agosto 2026",
-    "fecha_iso": "2026-08-02",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Claro Sports",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channel/?id=clarosports"
-      },
-      {
-        "nombre": "Claro Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=claro1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Newell's Old Boys vs Boca Juniors",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Domingo 02 de Agosto 2026",
-    "fecha_iso": "2026-08-02",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "SportsDigital",
-        "calidad": "720p",
-        "url": "https://streamhdx.com/channel/?id=sportsdigital"
-      },
-      {
-        "nombre": "Como IT",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel2/?id=como_it1"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney3"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz4"
-      },
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Deportivo Moquegua vs Melgar",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Domingo 02 de Agosto 2026",
-    "fecha_iso": "2026-08-02",
-    "hora": "17:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "L1MAX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=l1max"
-      },
-      {
-        "nombre": "Movistar Deportes",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=movistar_deportes_peru"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Macará vs Guayaquil City",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Domingo 02 de Agosto 2026",
-    "fecha_iso": "2026-08-02",
-    "hora": "17:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
     "titulo": "Liga BetPlay: Jaguares de Córdoba vs Atlético Nacional",
     "categoria": "futbol",
     "clase": "COL",
@@ -175,11 +12,22 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=fanatiz5"
-      },
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Nacional vs Progreso",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Domingo 02 de Agosto 2026",
+    "fecha_iso": "2026-08-02",
+    "hora": "17:45",
+    "duracion_min": 140,
+    "canales": [
       {
-        "nombre": "Win Fútbol+",
+        "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winplus"
+        "url": "https://streamx-hd.com/live1.php?stream=disney4"
       }
     ]
   },
@@ -200,18 +48,18 @@
     ]
   },
   {
-    "titulo": "Liga Nacional: Marquense vs Municipal",
+    "titulo": "Liga Nacional: Juticalpa vs Motagua",
     "categoria": "futbol",
-    "clase": "GUA",
+    "clase": "HON",
     "fecha": "Domingo 02 de Agosto 2026",
     "fecha_iso": "2026-08-02",
     "hora": "18:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Eventos 3",
+        "nombre": "Deportes TVC",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento3"
+        "url": "https://streamx-hd.com/live1.php?stream=deportestvc"
       }
     ]
   },
@@ -281,22 +129,6 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=fanatiz6"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Nacional vs Progreso",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Domingo 02 de Agosto 2026",
-    "fecha_iso": "2026-08-02",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney4"
       }
     ]
   },
@@ -590,6 +422,22 @@
     ]
   },
   {
+    "titulo": "Liga Nacional: Marquense vs Municipal",
+    "categoria": "futbol",
+    "clase": "GUA",
+    "fecha": "Domingo 02 de Agosto 2026",
+    "fecha_iso": "2026-08-02",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Eventos 3",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento3"
+      }
+    ]
+  },
+  {
     "titulo": "Primera División: Inter San Carlos vs Herediano",
     "categoria": "futbol",
     "clase": "CR",
@@ -649,22 +497,6 @@
         "nombre": "Win Sports",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=winsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Nacional: Juticalpa vs Motagua",
-    "categoria": "futbol",
-    "clase": "HON",
-    "fecha": "Domingo 02 de Agosto 2026",
-    "fecha_iso": "2026-08-02",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Deportes TVC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=deportestvc"
       }
     ]
   },
