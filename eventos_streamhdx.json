@@ -1,68 +1,5 @@
 [
   {
-    "titulo": "Liga MX: América vs Santos Laguna",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Domingo 02 de Agosto 2026",
-    "fecha_iso": "2026-08-02",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TUDN México",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tudnmx"
-      },
-      {
-        "nombre": "Canal 5 México",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=canal5mx"
-      },
-      {
-        "nombre": "Vix 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=vix2"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Nacional vs Progreso",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Domingo 02 de Agosto 2026",
-    "fecha_iso": "2026-08-02",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney4"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Oriente Petrolero vs Nacional Potosí",
-    "categoria": "futbol",
-    "clase": "BOL",
-    "fecha": "Domingo 02 de Agosto 2026",
-    "fecha_iso": "2026-08-02",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Entel Gol",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=entelgol"
-      }
-    ]
-  },
-  {
     "titulo": "Amistoso: Wrexham vs Sunderland",
     "categoria": "futbol",
     "clase": "FIFA",
@@ -96,6 +33,22 @@
         "nombre": "L1MAX",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=l1max"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Universidad Chile vs Huachipato",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Domingo 02 de Agosto 2026",
+    "fecha_iso": "2026-08-02",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
       }
     ]
   },
@@ -544,18 +497,18 @@
     ]
   },
   {
-    "titulo": "Primera División: Universidad Chile vs Huachipato",
+    "titulo": "Primera División: Nacional vs Progreso",
     "categoria": "futbol",
-    "clase": "CH",
+    "clase": "URU",
     "fecha": "Domingo 02 de Agosto 2026",
     "fecha_iso": "2026-08-02",
     "hora": "18:30",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "TNT Sports Chile",
+        "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+        "url": "https://streamx-hd.com/live1.php?stream=disney4"
       }
     ]
   },
@@ -701,6 +654,37 @@
     ]
   },
   {
+    "titulo": "Liga MX: América vs Santos Laguna",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Domingo 02 de Agosto 2026",
+    "fecha_iso": "2026-08-02",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TUDN México",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tudnmx"
+      },
+      {
+        "nombre": "Canal 5 México",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel/?id=canal5mx"
+      },
+      {
+        "nombre": "Vix 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=vix2"
+      },
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
+      }
+    ]
+  },
+  {
     "titulo": "Liga MX Femenil: Guadalajara vs Querétaro",
     "categoria": "futbol",
     "clase": "MEX",
@@ -782,6 +766,22 @@
         "nombre": "Eventos 8",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=evento8"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Oriente Petrolero vs Nacional Potosí",
+    "categoria": "futbol",
+    "clase": "BOL",
+    "fecha": "Domingo 02 de Agosto 2026",
+    "fecha_iso": "2026-08-02",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Entel Gol",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=entelgol"
       }
     ]
   },
