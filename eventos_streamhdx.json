@@ -1,31 +1,5 @@
 [
   {
-    "titulo": "Liga BetPlay: Santa Fe vs Once Caldas",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Domingo 02 de Agosto 2026",
-    "fecha_iso": "2026-08-02",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz11"
-      },
-      {
-        "nombre": "Win Fútbol+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winplus"
-      },
-      {
-        "nombre": "Win Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winsports"
-      }
-    ]
-  },
-  {
     "titulo": "Liga MX: Toluca vs Necaxa",
     "categoria": "futbol",
     "clase": "LIGAMX",
