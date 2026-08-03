@@ -1,52 +1,5 @@
 [
   {
-    "titulo": "Liga MX: Toluca vs Necaxa",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Domingo 02 de Agosto 2026",
-    "fecha_iso": "2026-08-02",
-    "hora": "22:05",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TUDN México",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tudnmx"
-      },
-      {
-        "nombre": "Canal 5 México",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel/?id=canal5mx"
-      },
-      {
-        "nombre": "Vix 3",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=vix3"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Nacional: Olimpia vs UPNFM",
-    "categoria": "futbol",
-    "clase": "HON",
-    "fecha": "Domingo 02 de Agosto 2026",
-    "fecha_iso": "2026-08-02",
-    "hora": "22:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Deportes TVC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=deportestvc"
-      }
-    ]
-  },
-  {
     "titulo": "Scottish Premiership: Celtic vs Dundee",
     "categoria": "futbol",
     "clase": "ESC",
