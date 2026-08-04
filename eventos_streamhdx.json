@@ -1,49 +1,17 @@
 [
   {
-    "titulo": "UEFA Champions League: Sparta Praha vs Olympique Lyonnais",
+    "titulo": "Campeonato Sub-20: Costa Rica vs Haití",
     "categoria": "futbol",
-    "clase": "CHA",
+    "clase": "CONCAU20",
     "fecha": "Martes 04 de Agosto 2026",
     "fecha_iso": "2026-08-04",
-    "hora": "15:00",
+    "hora": "17:30",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Evento 1",
+        "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Champions League: Union Saint-Gilloise vs Bodø / Glimt",
-    "categoria": "futbol",
-    "clase": "CHA",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento2"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: ABB vs Real Oruro",
-    "categoria": "futbol",
-    "clase": "BOL",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Entel Gol",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=entelgol"
+        "url": "https://streamx-hd.com/live1.php?stream=disney1"
       }
     ]
   },
@@ -86,22 +54,6 @@
         "nombre": "Entel Gol",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=entelgol"
-      }
-    ]
-  },
-  {
-    "titulo": "Campeonato Sub-20: Costa Rica vs Haití",
-    "categoria": "futbol",
-    "clase": "CONCAU20",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
       }
     ]
   },
@@ -338,6 +290,22 @@
     ]
   },
   {
+    "titulo": "Campeonato Sub-20: Estados Unidos vs Guatemala",
+    "categoria": "futbol",
+    "clase": "CONCAU20",
+    "fecha": "Martes 04 de Agosto 2026",
+    "fecha_iso": "2026-08-04",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney3"
+      }
+    ]
+  },
+  {
     "titulo": "Liga BetPlay: Millonarios vs Deportivo Pasto",
     "categoria": "futbol",
     "clase": "COL",
@@ -360,22 +328,6 @@
         "nombre": "Win Sports",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=winsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Campeonato Sub-20: Estados Unidos vs Guatemala",
-    "categoria": "futbol",
-    "clase": "CONCAU20",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "23:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney3"
       }
     ]
   },
