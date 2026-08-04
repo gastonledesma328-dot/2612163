@@ -83,7 +83,7 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "ESPN4",
+        "nombre": "ESPN 4",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espn4"
       }
