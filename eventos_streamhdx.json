@@ -16,22 +16,6 @@
     ]
   },
   {
-    "titulo": "Amistoso: Napoli vs Osasuna",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento2"
-      }
-    ]
-  },
-  {
     "titulo": "UEFA Champions League: Fenerbahçe vs Sturm Graz",
     "categoria": "futbol",
     "clase": "CHA",
@@ -48,12 +32,28 @@
     ]
   },
   {
+    "titulo": "MLB: Texas Rangers vs. San Francisco Giants",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Martes 04 de Agosto 2026",
+    "fecha_iso": "2026-08-04",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 7",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn7"
+      }
+    ]
+  },
+  {
     "titulo": "Amistoso: Arsenal vs Real Betis",
     "categoria": "futbol",
     "clase": "FIFA",
     "fecha": "Martes 04 de Agosto 2026",
     "fecha_iso": "2026-08-04",
-    "hora": "15:30",
+    "hora": "15:45",
     "duracion_min": 140,
     "canales": [
       {
@@ -70,22 +70,6 @@
         "nombre": "FOX Deportes USA",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Texas Rangers vs. San Francisco Giants",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 7",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn7"
       }
     ]
   },
@@ -265,6 +249,22 @@
         "nombre": "Prime Video",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=amazon1"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Peñarol vs Montevideo Wanderers",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Martes 04 de Agosto 2026",
+    "fecha_iso": "2026-08-04",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney1"
       }
     ]
   },
