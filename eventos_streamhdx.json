@@ -637,53 +637,6 @@
     ]
   },
   {
-    "titulo": "Leagues Cup: Charlotte vs Pumas UNAM",
-    "categoria": "futbol",
-    "clase": "LEAGUESCUP",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv5"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv6"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Millonarios vs Deportivo Pasto",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "22:20",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
-      },
-      {
-        "nombre": "Win Fútbol+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winplus"
-      },
-      {
-        "nombre": "Win Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winsports"
-      }
-    ]
-  },
-  {
     "titulo": "Liga BetPlay: Once Caldas vs América de Cali",
     "categoria": "futbol",
     "clase": "COL",
@@ -737,22 +690,6 @@
     ]
   },
   {
-    "titulo": "Copa Centroamericana: Antigua GFC vs Real Estelí",
-    "categoria": "futbol",
-    "clase": "CONCACAF",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "23:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney4"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Centroamericana: Deportivo Saprissa vs Alianza",
     "categoria": "futbol",
     "clase": "CONCACAF",
@@ -765,48 +702,6 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=disney8"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Centroamericana: Diriangén vs Alajuelense",
-    "categoria": "futbol",
-    "clase": "CONCACAF",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "23:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney5"
-      }
-    ]
-  },
-  {
-    "titulo": "Leagues Cup: Tigres UANL vs Real Salt Lake",
-    "categoria": "futbol",
-    "clase": "LEAGUESCUP",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "23:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
-      },
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv9"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv10"
       }
     ]
   },
@@ -843,27 +738,6 @@
   },
   {
     "titulo": "Leagues Cup: Los Angeles FC vs Guadalajara",
-    "categoria": "futbol",
-    "clase": "LEAGUESCUP",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "23:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv11"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv12"
-      }
-    ]
-  },
-  {
-    "titulo": "Leagues Cup: Vancouver Whitecaps vs Atlante",
     "categoria": "futbol",
     "clase": "LEAGUESCUP",
     "fecha": "Martes 04 de Agosto 2026",
