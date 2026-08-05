@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Amistoso: Villarreal vs Levante",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "05:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
     "titulo": "Amistoso: K-League Stars vs Manchester City",
     "categoria": "futbol",
     "clase": "FIFA",
@@ -54,11 +38,6 @@
         "nombre": "DSports",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Fox Deportes",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
       }
     ]
   },
