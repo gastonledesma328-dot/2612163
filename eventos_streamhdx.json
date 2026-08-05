@@ -1,79 +1,5 @@
 [
   {
-    "titulo": "Amistoso: K-League Stars vs Manchester City",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "08:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "ESPN 2 AR",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2ar"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Milan vs Inter",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "08:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Chelsea vs Juventus",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "08:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Claro Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=claro1"
-      }
-    ]
-  },
-  {
-    "titulo": "Ciclismo: Tour de France Femenino - Etapa #5",
-    "categoria": "futbol",
-    "clase": "TOUR",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "08:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
     "titulo": "ATP M1000 Montreal: Segunda Ronda",
     "categoria": "futbol",
     "clase": "ATP",
@@ -99,9 +25,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Evento 1",
+        "nombre": "Evento 2",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento1"
+        "url": "https://streamx-hd.com/live1.php?stream=evento2"
       }
     ]
   },
