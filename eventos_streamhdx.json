@@ -1,213 +1,5 @@
 [
   {
-    "titulo": "Ciclismo: Tour de France Femenino - Etapa #6",
-    "categoria": "futbol",
-    "clase": "TOUR",
-    "fecha": "Miércoles 05 de Agosto 2026",
-    "fecha_iso": "2026-08-05",
-    "hora": "10:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN3",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "ATP M1000 Montreal: Tercera Ronda",
-    "categoria": "futbol",
-    "clase": "ATP",
-    "fecha": "Miércoles 05 de Agosto 2026",
-    "fecha_iso": "2026-08-05",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Europa League: Jagiellonia Białystok vs Rangers",
-    "categoria": "futbol",
-    "clase": "UE",
-    "fecha": "Miércoles 05 de Agosto 2026",
-    "fecha_iso": "2026-08-05",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Cleveland Guardians vs. New York Mets",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Miércoles 05 de Agosto 2026",
-    "fecha_iso": "2026-08-05",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN5",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Europa League: Hradec Králové vs Beşiktaş",
-    "categoria": "futbol",
-    "clase": "UE",
-    "fecha": "Miércoles 05 de Agosto 2026",
-    "fecha_iso": "2026-08-05",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento2"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Europa League: PAOK vs Anderlecht",
-    "categoria": "futbol",
-    "clase": "UE",
-    "fecha": "Miércoles 05 de Agosto 2026",
-    "fecha_iso": "2026-08-05",
-    "hora": "14:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 3",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento3"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Conference League: Ajax vs Shelbourne",
-    "categoria": "futbol",
-    "clase": "UEC",
-    "fecha": "Miércoles 05 de Agosto 2026",
-    "fecha_iso": "2026-08-05",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Eventos",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento5"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Conference League: Sporting Braga vs Dinamo Minsk",
-    "categoria": "futbol",
-    "clase": "UEC",
-    "fecha": "Miércoles 05 de Agosto 2026",
-    "fecha_iso": "2026-08-05",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Eventos",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento6"
-      }
-    ]
-  },
-  {
-    "titulo": "Torneo BetPlay DIMAYOR: Real Soacha vs Boca Juniors Cali",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Miércoles 05 de Agosto 2026",
-    "fecha_iso": "2026-08-05",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Win Fútbol+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Europa League: Benfica vs Hearts",
-    "categoria": "futbol",
-    "clase": "UE",
-    "fecha": "Miércoles 05 de Agosto 2026",
-    "fecha_iso": "2026-08-05",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 4",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento4"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Alianza Atlético vs Cienciano",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Miércoles 05 de Agosto 2026",
-    "fecha_iso": "2026-08-05",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "L1MAX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=l1max"
-      }
-    ]
-  },
-  {
-    "titulo": "Torneo BetPlay DIMAYOR: Atlético FC vs Real Santander",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Miércoles 05 de Agosto 2026",
-    "fecha_iso": "2026-08-05",
-    "hora": "18:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento2"
-      }
-    ]
-  },
-  {
-    "titulo": "Torneo BetPlay DIMAYOR: Bogotá vs Leones",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Miércoles 05 de Agosto 2026",
-    "fecha_iso": "2026-08-05",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Win Fútbol+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
     "titulo": "Liga Profesional: Unión Santa Fe vs Lanús",
     "categoria": "futbol",
     "clase": "AR",
@@ -304,6 +96,22 @@
         "nombre": "Apple TV English",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=appletv2"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga de Bolivia: Blooming vs. Always Ready",
+    "categoria": "futbol",
+    "clase": "BOL",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Entel Gol",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live2.php?stream=entelgol"
       }
     ]
   },
