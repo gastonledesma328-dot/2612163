@@ -1,27 +1,256 @@
 [
   {
-    "titulo": "Copa Chile: Coquimbo Unido vs San Marcos",
+    "titulo": "Ciclismo: Tour de France Femenino - Etapa #6",
     "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "21:30",
+    "clase": "TOUR",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "10:45",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "MAX 1",
+        "nombre": "ESPN3",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=max1"
+        "url": "https://streamx-hd.com/live1.php?stream=espn3"
       }
     ]
   },
   {
-    "titulo": "Copa de Brasil: Fluminense vs Vasco da Gama",
+    "titulo": "ATP M1000 Montreal: Tercera Ronda",
+    "categoria": "futbol",
+    "clase": "ATP",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Europa League: Jagiellonia Białystok vs Rangers",
+    "categoria": "futbol",
+    "clase": "UE",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Evento 1",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento1"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Cleveland Guardians vs. New York Mets",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN5",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Europa League: Hradec Králové vs Beşiktaş",
+    "categoria": "futbol",
+    "clase": "UE",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Evento 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento2"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Europa League: PAOK vs Anderlecht",
+    "categoria": "futbol",
+    "clase": "UE",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "14:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Evento 3",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento3"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Conference League: Ajax vs Shelbourne",
+    "categoria": "futbol",
+    "clase": "UEC",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Eventos",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento5"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Conference League: Sporting Braga vs Dinamo Minsk",
+    "categoria": "futbol",
+    "clase": "UEC",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Eventos",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento6"
+      }
+    ]
+  },
+  {
+    "titulo": "Torneo BetPlay DIMAYOR: Real Soacha vs Boca Juniors Cali",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Win Fútbol+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=winplus"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Europa League: Benfica vs Hearts",
+    "categoria": "futbol",
+    "clase": "UE",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Evento 4",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento4"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga 1: Alianza Atlético vs Cienciano",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "L1MAX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=l1max"
+      }
+    ]
+  },
+  {
+    "titulo": "Torneo BetPlay DIMAYOR: Atlético FC vs Real Santander",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "18:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Evento 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento2"
+      }
+    ]
+  },
+  {
+    "titulo": "Torneo BetPlay DIMAYOR: Bogotá vs Leones",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Win Fútbol+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=winplus"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Unión Santa Fe vs Lanús",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga de Expansión MX: Tlaxcala vs Alebrijes de Oaxaca",
+    "categoria": "futbol",
+    "clase": "MEX",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney1"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de Brasil: Corinthians vs Internacional",
     "categoria": "futbol",
     "clase": "BRA",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "21:30",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "20:00",
     "duracion_min": 140,
     "canales": [
       {
@@ -30,80 +259,107 @@
         "url": "https://streamx-hd.com/live1.php?stream=dsports"
       },
       {
-        "nombre": "SporTV 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
-      },
-      {
-        "nombre": "Premiere 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premiere1"
-      },
-      {
-        "nombre": "FOX Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
-      },
-      {
         "nombre": "Prime Video",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=amazon2"
+        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
+      },
+      {
+        "nombre": "FOX Deportes",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
       }
     ]
   },
   {
-    "titulo": "Copa de Brasil: Fortaleza vs Palmeiras",
+    "titulo": "Copa de Brasil: Vitória vs Athletico Paranaense",
     "categoria": "futbol",
     "clase": "BRA",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "21:30",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "20:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "SporTV 2",
+        "nombre": "SporTV 1",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=sporttvbr2"
-      },
-      {
-        "nombre": "Premiere 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premiere2"
-      },
-      {
-        "nombre": "Prime Video",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=amazon3"
+        "url": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
       }
     ]
   },
   {
-    "titulo": "Leagues Cup: Dallas vs Querétaro",
+    "titulo": "Leagues Cup: New York City vs Santos Laguna",
     "categoria": "futbol",
     "clase": "LEAGUESCUP",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "21:30",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "20:30",
     "duracion_min": 140,
     "canales": [
       {
         "nombre": "Apple TV Español",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv7"
+        "url": "https://streamx-hd.com/live1.php?stream=appletv1"
       },
       {
         "nombre": "Apple TV English",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv8"
+        "url": "https://streamx-hd.com/live1.php?stream=appletv2"
       }
     ]
   },
   {
-    "titulo": "Leagues Cup: Nashville SC vs León",
+    "titulo": "Leagues Cup: Cruz Azul vs Philadelphia Union",
     "categoria": "futbol",
     "clase": "LEAGUESCUP",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv3"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv4"
+      },
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
+      },
+      {
+        "nombre": "FS1",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fs1"
+      }
+    ]
+  },
+  {
+    "titulo": "NFL Pretemporada: Arizona Cardinals vs. Carolina Panthers",
+    "categoria": "futbol",
+    "clase": "NFL",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN3",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "Leagues Cup: Chicago Fire vs Necaxa",
+    "categoria": "futbol",
+    "clase": "LEAGUESCUP",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
     "hora": "21:30",
     "duracion_min": 140,
     "canales": [
@@ -120,104 +376,114 @@
     ]
   },
   {
-    "titulo": "Leagues Cup: Monterrey vs Orlando City SC",
+    "titulo": "Copa Centroamericana: Hankook Verdes vs Municipal",
+    "categoria": "futbol",
+    "clase": "CONCACAF",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney2"
+      }
+    ]
+  },
+  {
+    "titulo": "Leagues Cup: Austin vs Tijuana",
     "categoria": "futbol",
     "clase": "LEAGUESCUP",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "21:50",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "22:00",
     "duracion_min": 140,
     "canales": [
       {
         "nombre": "Apple TV Español",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv3"
+        "url": "https://streamx-hd.com/live1.php?stream=appletv7"
       },
       {
         "nombre": "Apple TV English",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv4"
+        "url": "https://streamx-hd.com/live1.php?stream=appletv8"
       }
     ]
   },
   {
-    "titulo": "Liga BetPlay: Once Caldas vs América de Cali",
+    "titulo": "Liga de Expansión MX: Dorados vs Mineros de Zacatecas",
     "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "22:30",
+    "clase": "MEX",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "22:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Fanatiz",
+        "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz4"
-      },
+        "url": "https://streamx-hd.com/live1.php?stream=disney3"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga de Expansión MX: Leones Negros UdeG vs Correcaminos UAT",
+    "categoria": "futbol",
+    "clase": "MEX",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "AYM Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=aymsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Torneo BetPlay DIMAYOR: Real Cartagena vs Independiente Yumbo",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
+    "hora": "22:10",
+    "duracion_min": 140,
+    "canales": [
       {
         "nombre": "Win Fútbol+",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
-    "titulo": "Campeonato Sub-20: México vs Panamá",
-    "categoria": "futbol",
-    "clase": "CONCAU20",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "23:00",
-    "duracion_min": 140,
-    "canales": [
+      },
       {
-        "nombre": "Disney+",
+        "nombre": "Win Sports",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney6"
+        "url": "https://streamx-hd.com/live1.php?stream=winsports"
       }
     ]
   },
   {
-    "titulo": "Copa Centroamericana: Alianza vs Herediano",
-    "categoria": "futbol",
-    "clase": "CONCACAF",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "23:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney7"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Centroamericana: Deportivo Saprissa vs Alianza",
-    "categoria": "futbol",
-    "clase": "CONCACAF",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "23:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney8"
-      }
-    ]
-  },
-  {
-    "titulo": "Leagues Cup: Toluca vs Seattle Sounders FC",
+    "titulo": "Leagues Cup: América vs San Diego",
     "categoria": "futbol",
     "clase": "LEAGUESCUP",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
     "hora": "23:00",
     "duracion_min": 140,
     "canales": [
+      {
+        "nombre": "TUDN MX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tudnmx"
+      },
+      {
+        "nombre": "Nueve MX",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=nuevemx"
+      },
       {
         "nombre": "Apple TV Español",
         "calidad": "720p",
@@ -227,25 +493,15 @@
         "nombre": "Apple TV English",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=appletv10"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
-      },
-      {
-        "nombre": "FS1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fs1"
       }
     ]
   },
   {
-    "titulo": "Leagues Cup: Los Angeles FC vs Guadalajara",
+    "titulo": "Leagues Cup: Portland Timbers vs Puebla",
     "categoria": "futbol",
     "clase": "LEAGUESCUP",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
+    "fecha": "Miércoles 05 de Agosto 2026",
+    "fecha_iso": "2026-08-05",
     "hora": "23:30",
     "duracion_min": 140,
     "canales": [
@@ -258,6 +514,22 @@
         "nombre": "Apple TV English",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=appletv12"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Centroamericana: Motagua vs FAS",
+    "categoria": "futbol",
+    "clase": "CONCACAF",
+    "fecha": "Jueves 06 de Agosto 2026",
+    "fecha_iso": "2026-08-06",
+    "hora": "00:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney4"
       }
     ]
   }
