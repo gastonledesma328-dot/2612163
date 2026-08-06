@@ -1,284 +1,5 @@
 [
   {
-    "titulo": "Copa Chile: Unión San Felipe vs Universidad de Chile",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "MAX 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=max1"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Brasil: Cruzeiro vs Chapecoense",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "SporTV 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
-      },
-      {
-        "nombre": "Premiere 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premiere1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Boca Juniors vs Estudiantes",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Como IT",
-        "calidad": "720p",
-        "url": "https://streamhdx.xyz/channel2/?id=como_it1"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney3"
-      },
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Premier Sports 1 UK",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premier1uk"
-      }
-    ]
-  },
-  {
-    "titulo": "Campeonato Sub-20: Canadá vs Jamaica",
-    "categoria": "futbol",
-    "clase": "CONCAU20",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney4"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Brasil: Grêmio vs Mirassol",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Prime Video",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Peñarol vs Montevideo Wanderers",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Internacional de Bogotá vs Jaguares de Córdoba",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "20:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
-      },
-      {
-        "nombre": "Win Fútbol+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winplus"
-      },
-      {
-        "nombre": "Win Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Leagues Cup: Inter Miami vs Atlético San Luis",
-    "categoria": "futbol",
-    "clase": "LEAGUESCUP",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "20:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv1"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv2"
-      }
-    ]
-  },
-  {
-    "titulo": "Leagues Cup: Monterrey vs Orlando City SC",
-    "categoria": "futbol",
-    "clase": "LEAGUESCUP",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "20:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv3"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv4"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa BetPlay: Independiente Santa Fe vs Unión Magdalena",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Eventos",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Centroamericana: UMECIT vs Olimpia",
-    "categoria": "futbol",
-    "clase": "CONCACAF",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney5"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Ecuador: LDU Portoviejo vs Barcelona",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports Eventos",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento5"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Bolívar vs Oriente Petrolero",
-    "categoria": "futbol",
-    "clase": "BOL",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Entel Gol",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=entelgol"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Tigre vs Belgrano",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Martes 04 de Agosto 2026",
-    "fecha_iso": "2026-08-04",
-    "hora": "21:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
-      },
-      {
-        "nombre": "ESPN Premium",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espnpremium"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Chile: Coquimbo Unido vs San Marcos",
     "categoria": "futbol",
     "clase": "CH",
@@ -395,6 +116,27 @@
         "nombre": "Apple TV English",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=appletv6"
+      }
+    ]
+  },
+  {
+    "titulo": "Leagues Cup: Monterrey vs Orlando City SC",
+    "categoria": "futbol",
+    "clase": "LEAGUESCUP",
+    "fecha": "Martes 04 de Agosto 2026",
+    "fecha_iso": "2026-08-04",
+    "hora": "21:50",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv3"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv4"
       }
     ]
   },
