@@ -1,110 +1,5 @@
 [
   {
-    "titulo": "Leagues Cup: América vs San Diego",
-    "categoria": "futbol",
-    "clase": "LEAGUESCUP",
-    "fecha": "Miércoles 05 de Agosto 2026",
-    "fecha_iso": "2026-08-05",
-    "hora": "23:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TUDN MX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tudnmx"
-      },
-      {
-        "nombre": "Nueve MX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=nuevemx"
-      },
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv9"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv10"
-      }
-    ]
-  },
-  {
-    "titulo": "Leagues Cup: Portland Timbers vs Puebla",
-    "categoria": "futbol",
-    "clase": "LEAGUESCUP",
-    "fecha": "Miércoles 05 de Agosto 2026",
-    "fecha_iso": "2026-08-05",
-    "hora": "23:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv11"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv12"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Centroamericana: Motagua vs FAS",
-    "categoria": "futbol",
-    "clase": "CONCACAF",
-    "fecha": "Jueves 06 de Agosto 2026",
-    "fecha_iso": "2026-08-06",
-    "hora": "00:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney4"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Bayern Múnich vs Aston Villa",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Viernes 07 de Agosto 2026",
-    "fecha_iso": "2026-08-07",
-    "hora": "09:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Claro Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=claro1"
-      },
-      {
-        "nombre": "FOX Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
-      }
-    ]
-  },
-  {
-    "titulo": "MOTOGP: GP Gran Bretaña - Practice (Moto3/Moto2/MotoGP)",
-    "categoria": "futbol",
-    "clase": "MOTOGP",
-    "fecha": "Viernes 07 de Agosto 2026",
-    "fecha_iso": "2026-08-07",
-    "hora": "10:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
     "titulo": "Ciclismo: Tour de France Femenino - Etapa #7",
     "categoria": "futbol",
     "clase": "TOUR",
@@ -117,6 +12,22 @@
         "nombre": "ESPN 3",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "MOTOGP: GP Gran Bretaña - Practice (Moto2/MotoGP)",
+    "categoria": "futbol",
+    "clase": "MOTOGP",
+    "fecha": "Viernes 07 de Agosto 2026",
+    "fecha_iso": "2026-08-07",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney1"
       }
     ]
   },
