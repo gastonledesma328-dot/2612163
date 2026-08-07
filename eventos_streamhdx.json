@@ -48,6 +48,22 @@
     ]
   },
   {
+    "titulo": "Primera División: Universidad Católica vs Cobresal",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Viernes 07 de Agosto 2026",
+    "fecha_iso": "2026-08-07",
+    "hora": "12:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
     "titulo": "Eredivisie: Cambuur vs Excelsior",
     "categoria": "futbol",
     "clase": "HOL",
@@ -351,22 +367,6 @@
         "nombre": "Win Sports",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=winsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Universidad Católica vs Cobresal",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Viernes 07 de Agosto 2026",
-    "fecha_iso": "2026-08-07",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
       }
     ]
   },
