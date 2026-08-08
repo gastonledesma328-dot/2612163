@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Amistoso: Bayer Leverkusen vs Sevilla",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "10:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento2"
-      }
-    ]
-  },
-  {
     "titulo": "Ciclismo: Tour de France Femenino - Etapa #8",
     "categoria": "futbol",
     "clase": "TOUR",
@@ -28,86 +12,6 @@
         "nombre": "ESPN3",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "EFL Cup: Burnley vs Notts County",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Como 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=como1"
-      }
-    ]
-  },
-  {
-    "titulo": "EFL Cup: Leicester City vs Northampton Town",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Como 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=como2"
-      }
-    ]
-  },
-  {
-    "titulo": "EFL Cup: Sheffield Wednesday vs Bolton Wanderers",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Como 3",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=como3"
-      }
-    ]
-  },
-  {
-    "titulo": "EFL Cup: West Ham United vs Portsmouth",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Como 4",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=como4"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Central Español vs Progreso",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney5"
       }
     ]
   },
@@ -128,27 +32,6 @@
     ]
   },
   {
-    "titulo": "MotoGP: GP Gran Bretaña Sprint",
-    "categoria": "futbol",
-    "clase": "MotoGP",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "11:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "ESPN2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "Amistoso: Manchester United vs PSG",
     "categoria": "futbol",
     "clase": "FIFA",
@@ -161,6 +44,22 @@
         "nombre": "Evento 4",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=evento4"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Coquimbo Unido vs La Serena",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Sábado 08 de Agosto 2026",
+    "fecha_iso": "2026-08-08",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
       }
     ]
   },
@@ -741,22 +640,6 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=fanatiz9"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Coquimbo Unido vs La Serena",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
       }
     ]
   },
