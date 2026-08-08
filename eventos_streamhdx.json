@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Primera División: Liverpool vs Albion",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney8"
-      }
-    ]
-  },
-  {
     "titulo": "ATP M1000 Montreal: Octavos de Final",
     "categoria": "futbol",
     "clase": "ATP",
@@ -32,138 +16,6 @@
     ]
   },
   {
-    "titulo": "Amistoso: Ferencváros vs Real Madrid",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney7"
-      },
-      {
-        "nombre": "ESPN AR",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espnar"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "Primeira Liga: Vitória Guimarães vs Arouca",
-    "categoria": "futbol",
-    "clase": "POR",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Atlético Tucumán vs Sarmiento",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "14:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
-      },
-      {
-        "nombre": "ESPN Premium",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espnpremium"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Deportivo Riestra vs Estudiantes",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "14:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
-      },
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Udinese vs Nottingham Forest",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
-    "titulo": "Eredivisie: PSV vs Fortuna Sittard",
-    "categoria": "futbol",
-    "clase": "HOL",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney9"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: UTC Cajamarca vs ADT",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "L1MAX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=l1max"
-      }
-    ]
-  },
-  {
     "titulo": "Primera División: Aurora vs Bolívar",
     "categoria": "futbol",
     "clase": "BOL",
@@ -176,22 +28,6 @@
         "nombre": "Entel Gol",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=entelgol"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Real Betis vs AFC Bournemouth",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Claro Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=claro1"
       }
     ]
   },
@@ -229,22 +65,6 @@
         "nombre": "ESPN 5",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Barcelona vs Nottingham Forest",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
       }
     ]
   },
@@ -340,6 +160,22 @@
         "nombre": "TNT Sports Chile",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Real Betis vs AFC Bournemouth",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Sábado 08 de Agosto 2026",
+    "fecha_iso": "2026-08-08",
+    "hora": "16:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Claro Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=claro1"
       }
     ]
   },
