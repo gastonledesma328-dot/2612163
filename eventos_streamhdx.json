@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Ciclismo: Tour de France Femenino - Etapa #8",
-    "categoria": "futbol",
-    "clase": "TOUR",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "10:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN3",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
     "titulo": "Primera División: Liverpool vs Albion",
     "categoria": "futbol",
     "clase": "URU",
@@ -32,38 +16,6 @@
     ]
   },
   {
-    "titulo": "Amistoso: Manchester United vs PSG",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 4",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento4"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Coquimbo Unido vs La Serena",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
     "titulo": "ATP M1000 Montreal: Octavos de Final",
     "categoria": "futbol",
     "clase": "ATP",
@@ -76,22 +28,6 @@
         "nombre": "ESPN2",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "EFL Cup: Colchester United vs Southampton",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney6"
       }
     ]
   },
@@ -113,11 +49,6 @@
         "nombre": "ESPN AR",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espnar"
-      },
-      {
-        "nombre": "DSports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=dsports"
       },
       {
         "nombre": "ESPN",
@@ -640,6 +571,22 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=fanatiz9"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Coquimbo Unido vs La Serena",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Sábado 08 de Agosto 2026",
+    "fecha_iso": "2026-08-08",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
       }
     ]
   },
