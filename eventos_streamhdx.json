@@ -69,6 +69,22 @@
     ]
   },
   {
+    "titulo": "Copa de Primera: 2 de Mayo vs Olimpia",
+    "categoria": "futbol",
+    "clase": "LIGAPY",
+    "fecha": "Sábado 08 de Agosto 2026",
+    "fecha_iso": "2026-08-08",
+    "hora": "05:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz9"
+      }
+    ]
+  },
+  {
     "titulo": "Amistoso F: Auckland vs Chelsea",
     "categoria": "futbol",
     "clase": "FIFA",
@@ -964,22 +980,6 @@
         "nombre": "Premiere 2",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=premiere2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Primera: 2 de Mayo vs Olimpia",
-    "categoria": "futbol",
-    "clase": "LIGAPY",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz9"
       }
     ]
   },
