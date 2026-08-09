@@ -1,289 +1,5 @@
 [
   {
-    "titulo": "ATP M1000 Montreal: Octavos de Final",
-    "categoria": "futbol",
-    "clase": "ATP",
-    "fecha": "Domingo 09 de Agosto 2026",
-    "fecha_iso": "2026-08-09",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Deportivo Garcilaso vs Deportivo Moquegua",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Domingo 09 de Agosto 2026",
-    "fecha_iso": "2026-08-09",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "L1MAX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=l1max"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Paraguay: Nacional Asunción vs Guaraní",
-    "categoria": "futbol",
-    "clase": "LIGAPY",
-    "fecha": "Domingo 09 de Agosto 2026",
-    "fecha_iso": "2026-08-09",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz13"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Paraguay: Sportivo San Lorenzo vs Sportivo Luqueño",
-    "categoria": "futbol",
-    "clase": "LIGAPY",
-    "fecha": "Domingo 09 de Agosto 2026",
-    "fecha_iso": "2026-08-09",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz6"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: San Lorenzo vs Huracán",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Domingo 09 de Agosto 2026",
-    "fecha_iso": "2026-08-09",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
-      },
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney10"
-      },
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
-      },
-      {
-        "nombre": "ESPN Premium",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espnpremium"
-      },
-      {
-        "nombre": "FOX Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Uruguay: Defensor Sporting vs Wanderers",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Domingo 09 de Agosto 2026",
-    "fecha_iso": "2026-08-09",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney11"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Bahia vs Vasco da Gama",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Domingo 09 de Agosto 2026",
-    "fecha_iso": "2026-08-09",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz4"
-      },
-      {
-        "nombre": "Premiere 3",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premiere3"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Palmeiras vs Internacional",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Domingo 09 de Agosto 2026",
-    "fecha_iso": "2026-08-09",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz5"
-      },
-      {
-        "nombre": "Win Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winsports"
-      },
-      {
-        "nombre": "Premiere 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premiere1"
-      },
-      {
-        "nombre": "Premier Sports 1 UK",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premier1uk"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Red Bull Bragantino vs Corinthians",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Domingo 09 de Agosto 2026",
-    "fecha_iso": "2026-08-09",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz12"
-      },
-      {
-        "nombre": "Premiere 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premiere2"
-      },
-      {
-        "nombre": "Premier Sports 1 UK",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premier1uk"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Santos vs Athletico Paranaense",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Domingo 09 de Agosto 2026",
-    "fecha_iso": "2026-08-09",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz11"
-      },
-      {
-        "nombre": "Premiere 3",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premiere3"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Chile: O'Higgins vs Deportes Limache",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Domingo 09 de Agosto 2026",
-    "fecha_iso": "2026-08-09",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports CL",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Uruguay: Nacional vs Boston River",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Domingo 09 de Agosto 2026",
-    "fecha_iso": "2026-08-09",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney13"
-      }
-    ]
-  },
-  {
-    "titulo": "Leagues Cup: Seattle Sounders FC vs Querétaro",
-    "categoria": "futbol",
-    "clase": "LEAGUESCUP",
-    "fecha": "Domingo 09 de Agosto 2026",
-    "fecha_iso": "2026-08-09",
-    "hora": "16:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv1"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv2"
-      }
-    ]
-  },
-  {
-    "titulo": "Primeira Liga: Benfica vs Académico Viseu",
-    "categoria": "futbol",
-    "clase": "POR",
-    "fecha": "Domingo 09 de Agosto 2026",
-    "fecha_iso": "2026-08-09",
-    "hora": "16:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz7"
-      }
-    ]
-  },
-  {
     "titulo": "Liga 1: Melgar vs FC Cajamarca",
     "categoria": "futbol",
     "clase": "PE",
@@ -379,6 +95,22 @@
     ]
   },
   {
+    "titulo": "Liga Uruguay: Nacional vs Boston River",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Domingo 09 de Agosto 2026",
+    "fecha_iso": "2026-08-09",
+    "hora": "18:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney13"
+      }
+    ]
+  },
+  {
     "titulo": "Liga Colombia: Alianza vs Atlético Bucaramanga",
     "categoria": "futbol",
     "clase": "COL",
@@ -405,6 +137,53 @@
     ]
   },
   {
+    "titulo": "Brasileirão: Red Bull Bragantino vs Corinthians",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Domingo 09 de Agosto 2026",
+    "fecha_iso": "2026-08-09",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz12"
+      },
+      {
+        "nombre": "Premiere 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=premiere2"
+      },
+      {
+        "nombre": "Premier Sports 1 UK",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=premier1uk"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Santos vs Athletico Paranaense",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Domingo 09 de Agosto 2026",
+    "fecha_iso": "2026-08-09",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz11"
+      },
+      {
+        "nombre": "Premiere 3",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=premiere3"
+      }
+    ]
+  },
+  {
     "titulo": "Liga Chile: Unión La Calera vs Colo Colo",
     "categoria": "futbol",
     "clase": "CH",
@@ -417,6 +196,22 @@
         "nombre": "TNT Sports CL",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Paraguay: Nacional Asunción vs Guaraní",
+    "categoria": "futbol",
+    "clase": "LIGAPY",
+    "fecha": "Domingo 09 de Agosto 2026",
+    "fecha_iso": "2026-08-09",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz13"
       }
     ]
   },
