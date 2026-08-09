@@ -1,62 +1,5 @@
 [
   {
-    "titulo": "UFC: Gamrot vs. Salkilld",
-    "categoria": "ufc",
-    "clase": "UFC",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "18:00",
-    "duracion_min": 480,
-    "canales": [
-      {
-        "nombre": "Paramount + | Español",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=paramount1"
-      },
-      {
-        "nombre": "Paramount + | Ingles",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=paramount2"
-      },
-      {
-        "nombre": "Paramount + | Portugues",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=paramount3"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Botafogo vs Fluminense",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz13"
-      },
-      {
-        "nombre": "Win Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winsports"
-      },
-      {
-        "nombre": "Premiere 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premiere1"
-      },
-      {
-        "nombre": "SporTV 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
-      }
-    ]
-  },
-  {
     "titulo": "ESPN Knockout: Sebastián Hernández vs José López Núñez",
     "categoria": "box",
     "clase": "BOX",
@@ -69,147 +12,6 @@
         "nombre": "ESPN",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "Leagues Cup: Inter Miami vs Monterrey",
-    "categoria": "futbol",
-    "clase": "LEAGUESCUP",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv5"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv6"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Barcelona vs Macará",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Independiente vs Platense",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz14"
-      },
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Instituto vs Gimnasia Mendoza",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz15"
-      },
-      {
-        "nombre": "ESPN Premium",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espnpremium"
-      }
-    ]
-  },
-  {
-    "titulo": "Leagues Cup: Guadalajara vs Dallas",
-    "categoria": "futbol",
-    "clase": "LEAGUESCUP",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Canal 5 MX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=canal5mx"
-      },
-      {
-        "nombre": "TUDN MX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tudnmx"
-      },
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv7"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Sport Boys vs Alianza Lima",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 08 de Agosto 2026",
-    "fecha_iso": "2026-08-08",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports PE",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento6"
-      },
-      {
-        "nombre": "L1MAX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=l1max"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz16"
-      },
-      {
-        "nombre": "Movistar Deportes",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=movistarpe"
       }
     ]
   },
@@ -722,6 +524,22 @@
     ]
   },
   {
+    "titulo": "Liga Paraguay: Sportivo San Lorenzo vs Sportivo Luqueño",
+    "categoria": "futbol",
+    "clase": "LIGAPY",
+    "fecha": "Domingo 09 de Agosto 2026",
+    "fecha_iso": "2026-08-09",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz6"
+      }
+    ]
+  },
+  {
     "titulo": "Liga Profesional: San Lorenzo vs Huracán",
     "categoria": "futbol",
     "clase": "AR",
@@ -838,22 +656,6 @@
         "nombre": "TNT Sports CL",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Paraguay: Sportivo San Lorenzo vs Sportivo Luqueño",
-    "categoria": "futbol",
-    "clase": "LIGAPY",
-    "fecha": "Domingo 09 de Agosto 2026",
-    "fecha_iso": "2026-08-09",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz6"
       }
     ]
   },
