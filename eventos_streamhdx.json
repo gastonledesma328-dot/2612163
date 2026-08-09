@@ -1,37 +1,6 @@
 [
   {
-    "titulo": "Leagues Cup: Toluca vs Los Angeles FC",
-    "categoria": "futbol",
-    "clase": "LEAGUESCUP",
-    "fecha": "Domingo 09 de Agosto 2026",
-    "fecha_iso": "2026-08-09",
-    "hora": "00:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv11"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv12"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
-      },
-      {
-        "nombre": "FS1 USA",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fs1usa"
-      }
-    ]
-  },
-  {
-    "titulo": "MotoGP: GP Bretaña Moto3/Moto2 | Carrera",
+    "titulo": "MotoGP: GP Bretaña Moto2 | Carrera",
     "categoria": "futbol",
     "clase": "MotoGP",
     "fecha": "Domingo 09 de Agosto 2026",
@@ -90,6 +59,11 @@
         "nombre": "ESPN AR",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espnar"
+      },
+      {
+        "nombre": "Movistar Liga de Campeones",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=mligacampeones"
       }
     ]
   },
