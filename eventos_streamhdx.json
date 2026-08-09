@@ -1,26 +1,5 @@
 [
   {
-    "titulo": "MotoGP: GP Bretaña Moto2 | Carrera",
-    "categoria": "futbol",
-    "clase": "MotoGP",
-    "fecha": "Domingo 09 de Agosto 2026",
-    "fecha_iso": "2026-08-09",
-    "hora": "07:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "ESPN2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "Eredivisie: Sparta Rotterdam vs Feyenoord",
     "categoria": "futbol",
     "clase": "HOL",
