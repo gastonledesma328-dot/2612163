@@ -48,27 +48,6 @@
     ]
   },
   {
-    "titulo": "Liga Colombia: Rionegro Águilas vs Llaneros",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Lunes 10 de Agosto 2026",
-    "fecha_iso": "2026-08-10",
-    "hora": "18:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
-      },
-      {
-        "nombre": "Win Fútbol+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
     "titulo": "Liga Ecuador: Libertad vs Universidad Católica",
     "categoria": "futbol",
     "clase": "ECUA",
@@ -170,27 +149,6 @@
     ]
   },
   {
-    "titulo": "Liga Colombia: Medellín vs Millonarios",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Lunes 10 de Agosto 2026",
-    "fecha_iso": "2026-08-10",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz4"
-      },
-      {
-        "nombre": "Win Fútbol+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
     "titulo": "Liga Chile: Audax Italiano vs Ñublense",
     "categoria": "futbol",
     "clase": "CH",
@@ -261,27 +219,6 @@
         "nombre": "ESPN Premium",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espnpremium"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Colombia: Junior vs Deportivo Pereira",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Lunes 10 de Agosto 2026",
-    "fecha_iso": "2026-08-10",
-    "hora": "22:05",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz6"
-      },
-      {
-        "nombre": "Win Fútbol+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winplus"
       }
     ]
   },
