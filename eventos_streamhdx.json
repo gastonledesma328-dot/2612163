@@ -1,81 +1,65 @@
 [
   {
-    "titulo": "EFL Cup: Plymouth Argyle vs Exeter City",
+    "titulo": "Amistoso: Juventus vs Palermo",
     "categoria": "futbol",
-    "clase": "ENG",
+    "clase": "FIFA",
+    "fecha": "Lunes 10 de Agosto 2026",
+    "fecha_iso": "2026-08-10",
+    "hora": "07:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "DSports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Champions League: Bodø Glimt vs Union Saint-Gilloise",
+    "categoria": "futbol",
+    "clase": "CHA",
+    "fecha": "Lunes 10 de Agosto 2026",
+    "fecha_iso": "2026-08-10",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Evento 1",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento1"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Champions League: Sturm Graz vs Fenerbahçe",
+    "categoria": "futbol",
+    "clase": "CHA",
+    "fecha": "Lunes 10 de Agosto 2026",
+    "fecha_iso": "2026-08-10",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Evento 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento2"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Champions League: Olympique Lyon vs Sparta Praha",
+    "categoria": "futbol",
+    "clase": "CHA",
     "fecha": "Lunes 10 de Agosto 2026",
     "fecha_iso": "2026-08-10",
     "hora": "16:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Disney+",
+        "nombre": "Evento 1",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Ecuador: Técnico Universitario vs Mushuc Runa",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Lunes 10 de Agosto 2026",
-    "fecha_iso": "2026-08-10",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Portugal: Santa Clara vs Nacional",
-    "categoria": "futbol",
-    "clase": "POR",
-    "fecha": "Lunes 10 de Agosto 2026",
-    "fecha_iso": "2026-08-10",
-    "hora": "16:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Ecuador: Libertad vs Universidad Católica",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Lunes 10 de Agosto 2026",
-    "fecha_iso": "2026-08-10",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Paraguay: Libertad vs Sportivo Trinidense",
-    "categoria": "futbol",
-    "clase": "LIGAPY",
-    "fecha": "Lunes 10 de Agosto 2026",
-    "fecha_iso": "2026-08-10",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
+        "url": "https://streamx-hd.com/live1.php?stream=evento1"
       }
     ]
   },
@@ -96,30 +80,9 @@
     ]
   },
   {
-    "titulo": "Liga Profesional: Banfield vs Belgrano",
+    "titulo": "Copa Libertadores: Fluminense vs Independiente Rivadavia",
     "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Lunes 10 de Agosto 2026",
-    "fecha_iso": "2026-08-10",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
-      },
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Uruguay: Deportivo Maldonado vs Racing",
-    "categoria": "futbol",
-    "clase": "URU",
+    "clase": "LIB",
     "fecha": "Lunes 10 de Agosto 2026",
     "fecha_iso": "2026-08-10",
     "hora": "19:00",
@@ -128,7 +91,63 @@
       {
         "nombre": "Disney+",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney3"
+        "url": "https://streamx-hd.com/live1.php?stream=disney2"
+      },
+      {
+        "nombre": "ESPN2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
+      },
+      {
+        "nombre": "FOX Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "ESPN3 México",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn3mx"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Boca Juniors vs Deportivo Recoleta",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Lunes 10 de Agosto 2026",
+    "fecha_iso": "2026-08-10",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Como IT",
+        "calidad": "720p",
+        "url": "https://streamhdx.xyz/channel2/?id=como_it1"
+      },
+      {
+        "nombre": "DSports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
       }
     ]
   },
@@ -145,6 +164,100 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=disney4"
+      }
+    ]
+  },
+  {
+    "titulo": "Leagues Cup: Charlotte vs Pachuca",
+    "categoria": "futbol",
+    "clase": "LEAGUESCUP",
+    "fecha": "Lunes 10 de Agosto 2026",
+    "fecha_iso": "2026-08-10",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv1"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv2"
+      }
+    ]
+  },
+  {
+    "titulo": "Leagues Cup: Columbus Crew vs Pumas UNAM",
+    "categoria": "futbol",
+    "clase": "LEAGUESCUP",
+    "fecha": "Lunes 10 de Agosto 2026",
+    "fecha_iso": "2026-08-10",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv3"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv4"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Centroamericana: Plaza Amador vs Xelajú",
+    "categoria": "futbol",
+    "clase": "CONCACAF",
+    "fecha": "Lunes 10 de Agosto 2026",
+    "fecha_iso": "2026-08-10",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney3"
+      },
+      {
+        "nombre": "FOX One",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone"
+      }
+    ]
+  },
+  {
+    "titulo": "Leagues Cup: Cincinnati vs Atlas",
+    "categoria": "futbol",
+    "clase": "LEAGUESCUP",
+    "fecha": "Lunes 10 de Agosto 2026",
+    "fecha_iso": "2026-08-10",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv5"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv6"
+      },
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
+      },
+      {
+        "nombre": "FS1 USA",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fs1usa"
       }
     ]
   },
@@ -197,6 +310,27 @@
     ]
   },
   {
+    "titulo": "Liga Profesional: Talleres Córdoba vs Lanús",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Lunes 10 de Agosto 2026",
+    "fecha_iso": "2026-08-10",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
+      },
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
+      }
+    ]
+  },
+  {
     "titulo": "Liga Profesional: Unión Santa Fe vs Central Córdoba",
     "categoria": "futbol",
     "clase": "AR",
@@ -223,6 +357,115 @@
     ]
   },
   {
+    "titulo": "Copa Libertadores: Deportes Tolima vs Independiente del Valle",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Lunes 10 de Agosto 2026",
+    "fecha_iso": "2026-08-10",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney4"
+      },
+      {
+        "nombre": "ESPN2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz5"
+      },
+      {
+        "nombre": "FOX Sports 2 AR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fox2ar"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Estudiantes vs Universidad Católica",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Lunes 10 de Agosto 2026",
+    "fecha_iso": "2026-08-10",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney5"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz6"
+      },
+      {
+        "nombre": "FOX Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "ESPN3 México",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn3mx"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Bolívar vs São Paulo",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Lunes 10 de Agosto 2026",
+    "fecha_iso": "2026-08-10",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz4"
+      },
+      {
+        "nombre": "DSports 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=dsports2"
+      }
+    ]
+  },
+  {
+    "titulo": "Leagues Cup: Minnesota United vs Atlante",
+    "categoria": "futbol",
+    "clase": "LEAGUESCUP",
+    "fecha": "Lunes 10 de Agosto 2026",
+    "fecha_iso": "2026-08-10",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv7"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv8"
+      }
+    ]
+  },
+  {
     "titulo": "Liga MX Femenil: León vs Tigres UANL",
     "categoria": "futbol",
     "clase": "MEX",
@@ -239,6 +482,27 @@
     ]
   },
   {
+    "titulo": "Leagues Cup: Real Salt Lake vs Juárez",
+    "categoria": "futbol",
+    "clase": "LEAGUESCUP",
+    "fecha": "Lunes 10 de Agosto 2026",
+    "fecha_iso": "2026-08-10",
+    "hora": "22:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv9"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv10"
+      }
+    ]
+  },
+  {
     "titulo": "MLB: San Diego Padres vs Milwaukee Bucks",
     "categoria": "futbol",
     "clase": "MLB",
@@ -251,6 +515,64 @@
         "nombre": "ESPN 5",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Centroamericana: Deportivo Saprissa vs Mixco",
+    "categoria": "futbol",
+    "clase": "CONCACAF",
+    "fecha": "Lunes 10 de Agosto 2026",
+    "fecha_iso": "2026-08-10",
+    "hora": "23:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney7"
+      },
+      {
+        "nombre": "FOX One",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Centroamericana: Real Estelí vs Alianza",
+    "categoria": "futbol",
+    "clase": "CONCACAF",
+    "fecha": "Lunes 10 de Agosto 2026",
+    "fecha_iso": "2026-08-10",
+    "hora": "23:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney6"
+      }
+    ]
+  },
+  {
+    "titulo": "Leagues Cup: Tigres UANL vs Vancouver Whitecaps",
+    "categoria": "futbol",
+    "clase": "LEAGUESCUP",
+    "fecha": "Lunes 10 de Agosto 2026",
+    "fecha_iso": "2026-08-10",
+    "hora": "23:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv11"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv12"
       }
     ]
   }
