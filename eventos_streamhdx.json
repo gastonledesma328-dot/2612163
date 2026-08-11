@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "UEFA Champions League: Bodø Glimt vs Union Saint-Gilloise",
-    "categoria": "futbol",
-    "clase": "CHA",
-    "fecha": "Lunes 10 de Agosto 2026",
-    "fecha_iso": "2026-08-10",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Xsports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
     "titulo": "UEFA Champions League: Sturm Graz vs Fenerbahçe",
     "categoria": "futbol",
     "clase": "CHA",
