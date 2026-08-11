@@ -48,6 +48,22 @@
     ]
   },
   {
+    "titulo": "Copa Paraguay: Independiente vs. Sportivo Ameliano",
+    "categoria": "futbol",
+    "clase": "COPAPY",
+    "fecha": "Lunes 10 de Agosto 2026",
+    "fecha_iso": "2026-08-10",
+    "hora": "16:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz 3",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
+      }
+    ]
+  },
+  {
     "titulo": "Copa Libertadores: Fluminense vs Independiente Rivadavia",
     "categoria": "futbol",
     "clase": "LIB",
