@@ -1,58 +1,5 @@
 [
   {
-    "titulo": "UEFA Conference League: Copenhagen vs. Debreceni",
-    "categoria": "futbol",
-    "clase": "UECL",
-    "fecha": "Miércoles 12 de Agosto 2026",
-    "fecha_iso": "2026-08-12",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn + 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espnplus1"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Conference League: Katowice vs. Hapoel Tel-Aviv",
-    "categoria": "futbol",
-    "clase": "UECL",
-    "fecha": "Miércoles 12 de Agosto 2026",
-    "fecha_iso": "2026-08-12",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Espn + 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espnplus2"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Newcastle United vs Everton",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Miércoles 12 de Agosto 2026",
-    "fecha_iso": "2026-08-12",
-    "hora": "13:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Claro Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=claro1"
-      },
-      {
-        "nombre": "FOX Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Paraguay: 29 de Setiembre vs Sportivo San Lorenzo",
     "categoria": "futbol",
     "clase": "COPAPY",
@@ -127,22 +74,6 @@
     ]
   },
   {
-    "titulo": "Amistoso: Nottingham Forest vs Bayer Leverkusen",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Miércoles 12 de Agosto 2026",
-    "fecha_iso": "2026-08-12",
-    "hora": "15:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
     "titulo": "Amistoso: Deportivo La Coruña vs Real Madrid",
     "categoria": "futbol",
     "clase": "FIFA",
@@ -211,11 +142,6 @@
         "nombre": "Paramount+ 1",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=paramount1"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
       },
       {
         "nombre": "Movistar Liga Campeones",
