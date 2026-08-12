@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Copa Paraguay: 29 de Setiembre vs Sportivo San Lorenzo",
-    "categoria": "futbol",
-    "clase": "COPAPY",
-    "fecha": "Miércoles 12 de Agosto 2026",
-    "fecha_iso": "2026-08-12",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: St. Louis Cardinals vs Philadelphia Phillies",
     "categoria": "futbol",
     "clase": "MLB",
@@ -44,16 +28,6 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "ESPN2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "ESPN2 AR",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2ar"
       }
     ]
   },
