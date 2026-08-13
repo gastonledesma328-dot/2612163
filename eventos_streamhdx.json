@@ -16,38 +16,6 @@
     ]
   },
   {
-    "titulo": "Liga de Arabia Saudita: Al Shabab vs Al Qadisiya",
-    "categoria": "futbol",
-    "clase": "ARA",
-    "fecha": "Jueves 13 de Agosto 2026",
-    "fecha_iso": "2026-08-13",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "FOX Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga de Arabia Saudita: Diriyah vs Al-Ahli",
-    "categoria": "futbol",
-    "clase": "ARA",
-    "fecha": "Jueves 13 de Agosto 2026",
-    "fecha_iso": "2026-08-13",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "XSports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=xsports"
-      }
-    ]
-  },
-  {
     "titulo": "UEFA Europa League: Anderlecht vs PAOK",
     "categoria": "futbol",
     "clase": "UE",
@@ -302,6 +270,22 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=disney4"
+      }
+    ]
+  },
+  {
+    "titulo": "NFL Pretemporada: Houston Texans vs. Los Angeles Chargers",
+    "categoria": "futbol",
+    "clase": "NFL",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fox One",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone"
       }
     ]
   },
