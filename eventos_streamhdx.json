@@ -16,38 +16,6 @@
     ]
   },
   {
-    "titulo": "UEFA Conference League: Qarabağ vs Dynamo Kyiv",
-    "categoria": "futbol",
-    "clase": "UECL",
-    "fecha": "Jueves 13 de Agosto 2026",
-    "fecha_iso": "2026-08-13",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
-    "titulo": "UEFA Conference League: Dinamo Minsk vs Sporting Braga",
-    "categoria": "futbol",
-    "clase": "UECL",
-    "fecha": "Jueves 13 de Agosto 2026",
-    "fecha_iso": "2026-08-13",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento2"
-      }
-    ]
-  },
-  {
     "titulo": "Liga de Arabia Saudita: Al Shabab vs Al Qadisiya",
     "categoria": "futbol",
     "clase": "ARA",
