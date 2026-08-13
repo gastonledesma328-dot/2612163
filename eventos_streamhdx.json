@@ -1,182 +1,5 @@
 [
   {
-    "titulo": "Copa Ecuador: La Unión Atlético vs Aucas",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Miércoles 12 de Agosto 2026",
-    "fecha_iso": "2026-08-12",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 5",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento5"
-      }
-    ]
-  },
-  {
-    "titulo": "ATP: M1000 Montreal: Semifinales",
-    "categoria": "futbol",
-    "clase": "ATP",
-    "fecha": "Miércoles 12 de Agosto 2026",
-    "fecha_iso": "2026-08-12",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Palmeiras vs Cerro Porteño",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Miércoles 12 de Agosto 2026",
-    "fecha_iso": "2026-08-12",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney6"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz6"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "FOX Sports 2 AR",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fox2ar"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Platense vs Coquimbo Unido",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Miércoles 12 de Agosto 2026",
-    "fecha_iso": "2026-08-12",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney5"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz5"
-      },
-      {
-        "nombre": "ESPN5",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn5"
-      },
-      {
-        "nombre": "FOX Sports 1 AR",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fox1ar"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: RB Bragantino vs Atlético Mineiro",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Miércoles 12 de Agosto 2026",
-    "fecha_iso": "2026-08-12",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney3"
-      },
-      {
-        "nombre": "DSports AR",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=dsportsar"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
-      },
-      {
-        "nombre": "ESPN2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Tigre vs Torque",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Miércoles 12 de Agosto 2026",
-    "fecha_iso": "2026-08-12",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney4"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz4"
-      },
-      {
-        "nombre": "ESPN2 AR",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2ar"
-      },
-      {
-        "nombre": "DSports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Argentina: Atlético Tucumán vs Independiente",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Miércoles 12 de Agosto 2026",
-    "fecha_iso": "2026-08-12",
-    "hora": "19:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tycsports"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz7"
-      }
-    ]
-  },
-  {
     "titulo": "ATP: WTA1000 Montreal Semifinales",
     "categoria": "futbol",
     "clase": "ATP",
@@ -189,27 +12,6 @@
         "nombre": "ESPN 4",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espn4"
-      }
-    ]
-  },
-  {
-    "titulo": "Leagues Cup: Inter Miami vs León",
-    "categoria": "futbol",
-    "clase": "LEAGUESCUP",
-    "fecha": "Miércoles 12 de Agosto 2026",
-    "fecha_iso": "2026-08-12",
-    "hora": "20:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv1"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv2"
       }
     ]
   },
@@ -409,6 +211,522 @@
         "nombre": "Disney+",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=disney9"
+      }
+    ]
+  },
+  {
+    "titulo": "ATP M1000 Cincinnati: Primera Ronda",
+    "categoria": "futbol",
+    "clase": "ATP",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Conference League: Qarabağ vs Dynamo Kyiv",
+    "categoria": "futbol",
+    "clase": "UECL",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Evento 1",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento1"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Conference League: Dinamo Minsk vs Sporting Braga",
+    "categoria": "futbol",
+    "clase": "UECL",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Evento 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento2"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga de Arabia Saudita: Al Shabab vs Al Qadisiya",
+    "categoria": "futbol",
+    "clase": "ARA",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "FOX Deportes USA",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga de Arabia Saudita: Diriyah vs Al-Ahli",
+    "categoria": "futbol",
+    "clase": "ARA",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "XSports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=xsports"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Europa League: Anderlecht vs PAOK",
+    "categoria": "futbol",
+    "clase": "UE",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espnplus1"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Conference League: Shelbourne vs Ajax",
+    "categoria": "futbol",
+    "clase": "UECL",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "15:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Evento 3",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento3"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Europa League: Hearts vs Benfica",
+    "categoria": "futbol",
+    "clase": "UE",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "15:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espnplus2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Paraguay: 1 de Marzo Pilar vs Atlético Tembetary",
+    "categoria": "futbol",
+    "clase": "COPAPY",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "16:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Ecuador: Astillero vs Daquilema",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Evento 5",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento5"
+      }
+    ]
+  },
+  {
+    "titulo": "ATP WTA1000 Toronto: Final",
+    "categoria": "futbol",
+    "clase": "ATP",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn4"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Mirassol vs LDU Quito",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney3"
+      },
+      {
+        "nombre": "FOX Sports 2 AR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fox2ar"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz4"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Santos vs Macará",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
+      },
+      {
+        "nombre": "ESPN2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "DSports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Vasco da Gama vs Olimpia",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney2"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
+      },
+      {
+        "nombre": "DSports Perú",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=dsportspe"
+      }
+    ]
+  },
+  {
+    "titulo": "Leagues Cup: Philadelphia Union vs Santos Laguna",
+    "categoria": "futbol",
+    "clase": "LEAGUESCUP",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv1"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv2"
+      }
+    ]
+  },
+  {
+    "titulo": "Leagues Cup: New York City vs Necaxa",
+    "categoria": "futbol",
+    "clase": "LEAGUESCUP",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv3"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv4"
+      }
+    ]
+  },
+  {
+    "titulo": "ATP M1000 Montreal: Final",
+    "categoria": "futbol",
+    "clase": "ATP",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Centroamericana: Alianza vs UMECIT",
+    "categoria": "futbol",
+    "clase": "CONCACAF",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney4"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Rosario Central vs Corinthians",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney6"
+      },
+      {
+        "nombre": "Telefe",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=telefe"
+      },
+      {
+        "nombre": "FOX Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz6"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Cienciano vs Botafogo",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney5"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz5"
+      }
+    ]
+  },
+  {
+    "titulo": "Leagues Cup: América vs Austin",
+    "categoria": "futbol",
+    "clase": "LEAGUESCUP",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv5"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv6"
+      }
+    ]
+  },
+  {
+    "titulo": "Leagues Cup: Cruz Azul vs Chicago Fire",
+    "categoria": "futbol",
+    "clase": "LEAGUESCUP",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv7"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga de Expansión MX: Alebrijes de Oaxaca vs Tepatitlán",
+    "categoria": "futbol",
+    "clase": "MEX",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney7"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Centroamericana: Antigua GFC vs Marathón",
+    "categoria": "futbol",
+    "clase": "CONCACAF",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "23:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney8"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Centroamericana: Firpo vs Diriangén",
+    "categoria": "futbol",
+    "clase": "CONCACAF",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "23:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney9"
+      }
+    ]
+  },
+  {
+    "titulo": "Leagues Cup: Portland Timbers vs Tijuana",
+    "categoria": "futbol",
+    "clase": "LEAGUESCUP",
+    "fecha": "Jueves 13 de Agosto 2026",
+    "fecha_iso": "2026-08-13",
+    "hora": "23:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv9"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv10"
+      },
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
       }
     ]
   }
