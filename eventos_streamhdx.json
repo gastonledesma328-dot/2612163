@@ -16,38 +16,6 @@
     ]
   },
   {
-    "titulo": "Amistoso: Olympique Marseille vs Atlético Madrid",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Viernes 14 de Agosto 2026",
-    "fecha_iso": "2026-08-14",
-    "hora": "12:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Italia: Parma vs Catania",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Viernes 14 de Agosto 2026",
-    "fecha_iso": "2026-08-14",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=dsports"
-      }
-    ]
-  },
-  {
     "titulo": "Bundesliga 2: Eintracht Braunschweig vs Bochum",
     "categoria": "futbol",
     "clase": "ALE",
@@ -184,9 +152,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "DSports Eventos",
+        "nombre": "DSports +",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento3"
+        "url": "https://streamx-hd.com/live1.php?stream=dsportsplus"
       }
     ]
   },
