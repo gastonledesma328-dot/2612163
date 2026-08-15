@@ -1,65 +1,17 @@
 [
   {
-    "titulo": "Bundesliga 2: Greuther Fürth vs Nürnberg",
+    "titulo": "Liga Paraguay: Guaraní vs Rubio Ñú",
     "categoria": "futbol",
-    "clase": "ALE",
+    "clase": "LIGAPY",
     "fecha": "Sábado 15 de Agosto 2026",
     "fecha_iso": "2026-08-15",
-    "hora": "08:00",
+    "hora": "10:00",
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Disney +",
+        "nombre": "Tigo Sports",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
-    "titulo": "Bundesliga 2: Hertha BSC vs Heidenheim",
-    "categoria": "futbol",
-    "clase": "ALE",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "08:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney2"
-      }
-    ]
-  },
-  {
-    "titulo": "Bundesliga 2: Osnabrück vs Magdeburg",
-    "categoria": "futbol",
-    "clase": "ALE",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "08:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
-    "titulo": "League One: Notts County vs Leicester City",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "08:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney4"
+        "url": "https://streamx-hd.com/live1.php?stream=tigo1"
       }
     ]
   },
@@ -272,6 +224,22 @@
         "nombre": "DSports +",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=dsportsplus"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Uruguay: Juventud vs Torque",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Sábado 15 de Agosto 2026",
+    "fecha_iso": "2026-08-15",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney11"
       }
     ]
   },
@@ -679,38 +647,6 @@
         "nombre": "Evento 2",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=evento2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Uruguay: Juventud vs Torque",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "15:59",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney11"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Paraguay: Guaraní vs Rubio Ñú",
-    "categoria": "futbol",
-    "clase": "LIGAPY",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Tigo Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tigo1"
       }
     ]
   },
