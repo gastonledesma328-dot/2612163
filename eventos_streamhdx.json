@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Amistoso: Manchester United vs Milan",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "11:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
-      }
-    ]
-  },
-  {
     "titulo": "ATP M1000 Cincinnati: Segunda Ronda",
     "categoria": "futbol",
     "clase": "ATP",
@@ -28,43 +12,6 @@
         "nombre": "ESPN 2",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "La Liga 2: FC Andorra vs Ceuta",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "LaLiga Hypermotion",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=laligahypermotion"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Borussia Dortmund vs Roma",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "12:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney10"
-      },
-      {
-        "nombre": "DSports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=dsports"
       }
     ]
   },
@@ -123,11 +70,6 @@
         "nombre": "FOX Sports 1 AR",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=fox1ar"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
       }
     ]
   },
@@ -260,7 +202,7 @@
     ]
   },
   {
-    "titulo": "Amistoso: Internazionale vs Real Betis",
+    "titulo": "Amistoso: Inter vs Real Betis",
     "categoria": "futbol",
     "clase": "FIFA",
     "fecha": "Sábado 15 de Agosto 2026",
