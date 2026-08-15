@@ -1,53 +1,5 @@
 [
   {
-    "titulo": "Liga 1: Atlético Grau vs Comerciantes Unidos",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Viernes 14 de Agosto 2026",
-    "fecha_iso": "2026-08-14",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "L1MAX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=l1max"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Paraguay: Deportivo Recoleta vs 2 de Mayo",
-    "categoria": "futbol",
-    "clase": "LIGAPY",
-    "fecha": "Viernes 14 de Agosto 2026",
-    "fecha_iso": "2026-08-14",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Uruguay: Boston River vs Danubio",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Viernes 14 de Agosto 2026",
-    "fecha_iso": "2026-08-14",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
     "titulo": "ATP M1000 Cincinnati: Primera Ronda",
     "categoria": "futbol",
     "clase": "ATP",
@@ -60,43 +12,6 @@
         "nombre": "ESPN 3",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Cusco vs Juan Pablo II College",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Viernes 14 de Agosto 2026",
-    "fecha_iso": "2026-08-14",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "L1MAX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=l1max"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Chile: Universidad de Concepción vs La Serena",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Viernes 14 de Agosto 2026",
-    "fecha_iso": "2026-08-14",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports CL",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
-      },
-      {
-        "nombre": "MAX 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=max1"
       }
     ]
   },
@@ -166,6 +81,22 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=fanatiz4"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Ecuador: Independiente del Valle vs. Delfin",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Viernes 14 de Agosto 2026",
+    "fecha_iso": "2026-08-14",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
       }
     ]
   },
