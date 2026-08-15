@@ -388,22 +388,6 @@
     ]
   },
   {
-    "titulo": "Liga Uruguay: Juventud vs Torque",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney11"
-      }
-    ]
-  },
-  {
     "titulo": "Super Lig: Kasımpaşa vs Trabzonspor",
     "categoria": "futbol",
     "clase": "TUR",
@@ -807,6 +791,22 @@
         "nombre": "Evento 2",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=evento2"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Uruguay: Juventud vs Torque",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Sábado 15 de Agosto 2026",
+    "fecha_iso": "2026-08-15",
+    "hora": "15:59",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney11"
       }
     ]
   },
