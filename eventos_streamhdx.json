@@ -1,148 +1,5 @@
 [
   {
-    "titulo": "Liga Paraguay: Guaraní vs Rubio Ñú",
-    "categoria": "futbol",
-    "clase": "LIGAPY",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Tigo Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tigo1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Uruguay: Cerro vs Albion",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney5"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Bayern München vs RB Leipzig",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "10:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Borussia M'gladbach vs Aston Villa",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "10:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
-      },
-      {
-        "nombre": "XSports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=xsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Brentford vs Eintracht Frankfurt",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney7"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Newcastle United vs Bayer Leverkusen",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney8"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Tottenham Hotspur vs Hoffenheim",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney9"
-      },
-      {
-        "nombre": "DSports 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=dsports2"
-      }
-    ]
-  },
-  {
-    "titulo": "Championship: Middlesbrough vs Lincoln City",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney6"
-      }
-    ]
-  },
-  {
     "titulo": "Amistoso: Manchester United vs Milan",
     "categoria": "futbol",
     "clase": "FIFA",
@@ -647,6 +504,22 @@
         "nombre": "Evento 2",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=evento2"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Paraguay: Guaraní vs Rubio Ñú",
+    "categoria": "futbol",
+    "clase": "LIGAPY",
+    "fecha": "Sábado 15 de Agosto 2026",
+    "fecha_iso": "2026-08-15",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Tigo Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tigo1"
       }
     ]
   },
