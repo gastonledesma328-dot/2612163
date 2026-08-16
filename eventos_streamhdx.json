@@ -1,142 +1,5 @@
 [
   {
-    "titulo": "Copa Italia: Genoa vs Ascoli",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Domingo 16 de Agosto 2026",
-    "fecha_iso": "2026-08-16",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=dsports2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Chile: Ñublense vs Unión La Calera",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Domingo 16 de Agosto 2026",
-    "fecha_iso": "2026-08-16",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
-      },
-      {
-        "nombre": "MAX 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=max1"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Liverpool vs Como",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Domingo 16 de Agosto 2026",
-    "fecha_iso": "2026-08-16",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tycsports"
-      },
-      {
-        "nombre": "Claro Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=claro1"
-      }
-    ]
-  },
-  {
-    "titulo": "La Liga 2: Burgos vs Córdoba",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 16 de Agosto 2026",
-    "fecha_iso": "2026-08-16",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "LaLiga Hypermotion 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=laligahypermotion2"
-      }
-    ]
-  },
-  {
-    "titulo": "La Liga 2: Girona vs Leganés",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 16 de Agosto 2026",
-    "fecha_iso": "2026-08-16",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "LaLiga Hypermotion",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=laligahypermotion"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga: Espanyol vs Levante",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 16 de Agosto 2026",
-    "fecha_iso": "2026-08-16",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "ESPN +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espnplus3"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espndeportes"
-      },
-      {
-        "nombre": "Premier Sports 2 UK",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premier2uk"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga de Portugal: Arouca vs Moreirense",
-    "categoria": "futbol",
-    "clase": "POR",
-    "fecha": "Domingo 16 de Agosto 2026",
-    "fecha_iso": "2026-08-16",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney9"
-      }
-    ]
-  },
-  {
     "titulo": "Liga MX: Pumas UNAM vs Querétaro",
     "categoria": "futbol",
     "clase": "LIGAMX",
@@ -352,6 +215,42 @@
     ]
   },
   {
+    "titulo": "Liga MX: Santos Laguna vs Guadalajara",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Domingo 16 de Agosto 2026",
+    "fecha_iso": "2026-08-16",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney17"
+      },
+      {
+        "nombre": "TUDN México",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tudnmx"
+      },
+      {
+        "nombre": "Canal 5 México",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=canal5mx"
+      },
+      {
+        "nombre": "Vix 4",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=vix4"
+      },
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
+      }
+    ]
+  },
+  {
     "titulo": "Liga Paraguay: Sportivo Luqueño vs Libertad",
     "categoria": "futbol",
     "clase": "LIGAPY",
@@ -444,22 +343,6 @@
         "nombre": "LaLiga Hypermotion",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=laligahypermotion"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga de Portugal: Sporting Braga vs Gil Vicente",
-    "categoria": "futbol",
-    "clase": "POR",
-    "fecha": "Domingo 16 de Agosto 2026",
-    "fecha_iso": "2026-08-16",
-    "hora": "16:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney14"
       }
     ]
   },
@@ -945,42 +828,6 @@
         "nombre": "Apple TV English",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=appletv6"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Santos Laguna vs Guadalajara",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Domingo 16 de Agosto 2026",
-    "fecha_iso": "2026-08-16",
-    "hora": "22:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney17"
-      },
-      {
-        "nombre": "TUDN México",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tudnmx"
-      },
-      {
-        "nombre": "Canal 5 México",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=canal5mx"
-      },
-      {
-        "nombre": "Vix 4",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=vix4"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
       }
     ]
   },
