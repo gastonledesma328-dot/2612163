@@ -1,53 +1,5 @@
 [
   {
-    "titulo": "Championship: Watford vs Southampton",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Domingo 16 de Agosto 2026",
-    "fecha_iso": "2026-08-16",
-    "hora": "09:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
-    "titulo": "Eredivisie: Feyenoord vs Go Ahead Eagles",
-    "categoria": "futbol",
-    "clase": "HOL",
-    "fecha": "Domingo 16 de Agosto 2026",
-    "fecha_iso": "2026-08-16",
-    "hora": "09:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Paraguay: Cerro Porteño vs Sportivo San Lorenzo",
-    "categoria": "futbol",
-    "clase": "LIGAPY",
-    "fecha": "Domingo 16 de Agosto 2026",
-    "fecha_iso": "2026-08-16",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Tigo Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tigo1"
-      }
-    ]
-  },
-  {
     "titulo": "Brasileirão: Chapecoense vs Bahia",
     "categoria": "futbol",
     "clase": "BRA",
@@ -188,6 +140,11 @@
     "duracion_min": 140,
     "canales": [
       {
+        "nombre": "TYC Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tycsports"
+      },
+      {
         "nombre": "Claro Sports",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=claro1"
@@ -236,14 +193,14 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney6"
-      },
-      {
         "nombre": "ESPN +",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espnplus2"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney6"
       },
       {
         "nombre": "ESPN 2",
