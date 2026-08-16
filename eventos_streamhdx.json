@@ -42,238 +42,6 @@
     ]
   },
   {
-    "titulo": "NFL Pretemporada: Baltimore Ravens vs Philadelphia Eagles",
-    "categoria": "futbol",
-    "clase": "NFL",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "NFL Game Pass 3",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=nfl3"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Honduras: UPNFM vs Estrella Roja",
-    "categoria": "futbol",
-    "clase": "HON",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "20:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Deportes TVC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=deportestvc"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Atlanta United vs New York RB",
-    "categoria": "futbol",
-    "clase": "MLS",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "20:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv1"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv2"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: CF Montréal vs DC United",
-    "categoria": "futbol",
-    "clase": "MLS",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "20:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv3"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv4"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Charlotte vs Columbus Crew",
-    "categoria": "futbol",
-    "clase": "MLS",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "20:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv5"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv6"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Orlando City SC vs Cincinnati",
-    "categoria": "futbol",
-    "clase": "MLS",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "20:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv7"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Toronto FC vs New England",
-    "categoria": "futbol",
-    "clase": "MLS",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "20:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv9"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv10"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Blooming vs Aurora",
-    "categoria": "futbol",
-    "clase": "BOL",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "20:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Entel Gol",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=entelgol"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: São Paulo vs Coritiba",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz13"
-      },
-      {
-        "nombre": "Premiere 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premiere1"
-      },
-      {
-        "nombre": "SporTV 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Chile: Everton vs Audax Italiano",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports CL",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Ecuador: Mushuc Runa vs Barcelona SC",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Colorado Rapids vs Sporting KC",
-    "categoria": "futbol",
-    "clase": "MLS",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv15"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv16"
-      }
-    ]
-  },
-  {
     "titulo": "NFL Pretemporada: Seattle Seahawks vs Dallas Cowboys",
     "categoria": "futbol",
     "clase": "NFL",
@@ -295,37 +63,6 @@
     ]
   },
   {
-    "titulo": "Liga Profesional: Platense vs Boca Juniors",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "21:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney25"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz14"
-      },
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
-      },
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "ESPN Knockout: Keye Scott vs Claressa Shields",
     "categoria": "box",
     "clase": "BOX",
@@ -338,27 +75,6 @@
         "nombre": "ESPN",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Alianza Lima vs UTC Cajamarca",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 15 de Agosto 2026",
-    "fecha_iso": "2026-08-15",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz15"
-      },
-      {
-        "nombre": "L1MAX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=l1max"
       }
     ]
   },
@@ -528,6 +244,27 @@
         "nombre": "Deportes TVC",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=deportestvc"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Colorado Rapids vs Sporting KC",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Sábado 15 de Agosto 2026",
+    "fecha_iso": "2026-08-15",
+    "hora": "22:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv15"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv16"
       }
     ]
   },
