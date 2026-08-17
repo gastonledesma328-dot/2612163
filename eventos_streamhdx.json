@@ -5,22 +5,6 @@
     "clase": "ATP",
     "fecha": "Domingo 16 de Agosto 2026",
     "fecha_iso": "2026-08-16",
-    "hora": "16:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "ATP M1000 Cincinnati: Segunda Ronda",
-    "categoria": "futbol",
-    "clase": "ATP",
-    "fecha": "Domingo 16 de Agosto 2026",
-    "fecha_iso": "2026-08-16",
     "hora": "20:00",
     "duracion_min": 140,
     "canales": [
@@ -28,206 +12,6 @@
         "nombre": "ESPN 2",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX Femenil: Guadalajara vs Atlético San Luis",
-    "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Domingo 16 de Agosto 2026",
-    "fecha_iso": "2026-08-16",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Prime Video",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=amazon2"
-      },
-      {
-        "nombre": "FOX Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: América vs Atlético San Luis",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Domingo 16 de Agosto 2026",
-    "fecha_iso": "2026-08-16",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TUDN México",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tudnmx"
-      },
-      {
-        "nombre": "Canal 5 México",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=canal5mx"
-      },
-      {
-        "nombre": "Vix 3",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=vix3"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Houston Astros vs Seattle Mariners",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Domingo 16 de Agosto 2026",
-    "fecha_iso": "2026-08-16",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "WNBA: Phoenix vs Portland",
-    "categoria": "futbol",
-    "clase": "WNBA",
-    "fecha": "Domingo 16 de Agosto 2026",
-    "fecha_iso": "2026-08-16",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Nacional: Olimpia vs Motagua",
-    "categoria": "futbol",
-    "clase": "HON",
-    "fecha": "Domingo 16 de Agosto 2026",
-    "fecha_iso": "2026-08-16",
-    "hora": "20:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Deportes TVC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=deportestvc"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Barracas Central vs Rosario Central",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Domingo 16 de Agosto 2026",
-    "fecha_iso": "2026-08-16",
-    "hora": "20:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz11"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Central Córdoba vs Instituto",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Domingo 16 de Agosto 2026",
-    "fecha_iso": "2026-08-16",
-    "hora": "20:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN Premium",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espnpremium"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz10"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Cienciano vs Deportivo Garcilaso",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Domingo 16 de Agosto 2026",
-    "fecha_iso": "2026-08-16",
-    "hora": "20:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "L1MAX",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=l1max"
-      },
-      {
-        "nombre": "Movistar Deportes Pe",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=movistarpe"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Tijuana vs Cruz Azul",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Domingo 16 de Agosto 2026",
-    "fecha_iso": "2026-08-16",
-    "hora": "20:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "FOX One",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=foxone"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Ecuador: Aucas vs LDU Quito",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Domingo 16 de Agosto 2026",
-    "fecha_iso": "2026-08-16",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
       }
     ]
   },
@@ -306,6 +90,532 @@
         "nombre": "Apple TV English",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=appletv8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Tijuana vs Cruz Azul",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "00:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "FOX One",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone"
+      },
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
+      }
+    ]
+  },
+  {
+    "titulo": "ATP M1000 Cincinnati: Tercera Ronda",
+    "categoria": "futbol",
+    "clase": "ATP",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Italia: Pisa vs Empoli",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Premier Sports 1 UK",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=premier1uk"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Italia: Sassuolo vs Cesena",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "DSports 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=dsports2"
+      }
+    ]
+  },
+  {
+    "titulo": "La Liga 2: Sporting Gijón vs Sabadell",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "LaLiga Hypermotion",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=laligahypermotion"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Estudiantes Río Cuarto vs Atlético Tucumán",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "14:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "ESPN Premium",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espnpremium"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
+      },
+      {
+        "nombre": "ESPN AR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espnar"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa del Rey de Arabia Saudita: Al Raed vs Al Hilal",
+    "categoria": "futbol",
+    "clase": "ARA",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Evento 1",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento1"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Italia: Cremonese vs Sampdoria",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "15:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "DSports +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=dsportsplus"
+      }
+    ]
+  },
+  {
+    "titulo": "Championship: Cardiff City vs Wrexham",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney2"
+      },
+      {
+        "nombre": "ESPN 5",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn5"
+      },
+      {
+        "nombre": "FOX Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fox1ar"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga: Deportivo La Coruña vs Elche",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "DSports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "ESPN +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espnplus1"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espndeportes"
+      },
+      {
+        "nombre": "Premier Sports 1 UK",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=premier1uk"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Italia: Palermo vs Lecce",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "16:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "DSports Eventos",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento3"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga de Portugal: Casa Pia vs Benfica",
+    "categoria": "futbol",
+    "clase": "POR",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "16:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "DSports 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=dsports2"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
+      }
+    ]
+  },
+  {
+    "titulo": "La Liga 2: Almería vs Eldense",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "16:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "LaLiga Hypermotion",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=laligahypermotion"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Lanús vs Independiente",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Vélez Sarsfield vs Defensa y Justicia",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "19:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz4"
+      }
+    ]
+  },
+  {
+    "titulo": "ATP M1000 Cincinnati: Tercera Ronda",
+    "categoria": "futbol",
+    "clase": "ATP",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Internacional vs Remo",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz5"
+      },
+      {
+        "nombre": "Premiere 1",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=premiere1"
+      },
+      {
+        "nombre": "SporTV 1",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX Femenil: León vs Querétaro",
+    "categoria": "futbol",
+    "clase": "MEX",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "FOX One 4",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone4"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Pittsburgh Pirates vs Detroit Tigers",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn4"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Ecuador: Macará vs Universidad Católica",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX Femenil: Toluca vs Atlas",
+    "categoria": "futbol",
+    "clase": "MEX",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Vix 1",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=vix1"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Chile: Palestino vs Huachipato",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+      },
+      {
+        "nombre": "MAX 1",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=max1"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Gimnasia Mendoza vs Talleres Córdoba",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney3"
+      },
+      {
+        "nombre": "ESPN Premium",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espnpremium"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz6"
+      },
+      {
+        "nombre": "ESPN AR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espnar"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Necaxa vs León",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "FOX One 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone2"
+      },
+      {
+        "nombre": "FOX Deportes USA",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX Femenil: Santos Laguna vs Monterrey",
+    "categoria": "futbol",
+    "clase": "MEX",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "22:06",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "FOX One 4",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone4"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Pachuca vs Puebla",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Martes 18 de Agosto 2026",
+    "fecha_iso": "2026-08-18",
+    "hora": "00:06",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "FOX One",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone"
+      },
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
       }
     ]
   }
