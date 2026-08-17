@@ -16,48 +16,6 @@
     ]
   },
   {
-    "titulo": "Liga MX: Necaxa vs León",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Lunes 17 de Agosto 2026",
-    "fecha_iso": "2026-08-17",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "FOX One 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=foxone2"
-      },
-      {
-        "nombre": "FOX Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Pachuca vs Puebla",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Lunes 17 de Agosto 2026",
-    "fecha_iso": "2026-08-17",
-    "hora": "12:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "FOX One",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=foxone"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Italia: Pisa vs Empoli",
     "categoria": "futbol",
     "clase": "IT",
@@ -489,6 +447,27 @@
     ]
   },
   {
+    "titulo": "Liga MX: Necaxa vs León",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Lunes 17 de Agosto 2026",
+    "fecha_iso": "2026-08-17",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "FOX One 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone2"
+      },
+      {
+        "nombre": "FOX Deportes USA",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
+      }
+    ]
+  },
+  {
     "titulo": "Liga MX Femenil: Santos Laguna vs Monterrey",
     "categoria": "futbol",
     "clase": "MEX",
@@ -501,6 +480,27 @@
         "nombre": "FOX One 4",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=foxone4"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Pachuca vs Puebla",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Martes 18 de Agosto 2026",
+    "fecha_iso": "2026-08-18",
+    "hora": "00:06",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "FOX One",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone"
+      },
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
       }
     ]
   }
