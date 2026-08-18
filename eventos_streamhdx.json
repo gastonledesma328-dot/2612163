@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "ATP M1000 Cincinnati: Tercera Ronda",
-    "categoria": "futbol",
-    "clase": "ATP",
-    "fecha": "Martes 18 de Agosto 2026",
-    "fecha_iso": "2026-08-18",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "King's Cup: Diriyah vs Al Nassr",
     "categoria": "futbol",
     "clase": "ARA",
@@ -60,22 +44,6 @@
         "nombre": "Entel Gol",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=entelgol"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Paraguay: Benjamin Aceval vs Nacional Asuncion",
-    "categoria": "futbol",
-    "clase": "LIGAPY",
-    "fecha": "Martes 18 de Agosto 2026",
-    "fecha_iso": "2026-08-18",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz 5",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz5"
       }
     ]
   },
@@ -179,6 +147,22 @@
         "nombre": "TUDN USA",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Paraguay: Benjamin Aceval vs Nacional Asuncion",
+    "categoria": "futbol",
+    "clase": "LIGAPY",
+    "fecha": "Martes 18 de Agosto 2026",
+    "fecha_iso": "2026-08-18",
+    "hora": "16:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz 5",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz5"
       }
     ]
   },
