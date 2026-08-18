@@ -5,43 +5,6 @@
     "clase": "ATP",
     "fecha": "Lunes 17 de Agosto 2026",
     "fecha_iso": "2026-08-17",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Vélez Sarsfield vs Defensa y Justicia",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Lunes 17 de Agosto 2026",
-    "fecha_iso": "2026-08-17",
-    "hora": "19:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tntsports"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz4"
-      }
-    ]
-  },
-  {
-    "titulo": "ATP M1000 Cincinnati: Tercera Ronda",
-    "categoria": "futbol",
-    "clase": "ATP",
-    "fecha": "Lunes 17 de Agosto 2026",
-    "fecha_iso": "2026-08-17",
     "hora": "20:00",
     "duracion_min": 140,
     "canales": [
