@@ -48,6 +48,38 @@
     ]
   },
   {
+    "titulo": "Copa Bolivia: Bulo Bulo vs Aurora",
+    "categoria": "futbol",
+    "clase": "BOL",
+    "fecha": "Martes 18 de Agosto 2026",
+    "fecha_iso": "2026-08-18",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Entel Gol",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=entelgol"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Paraguay: Benjamin Aceval vs Nacional Asuncion",
+    "categoria": "futbol",
+    "clase": "LIGAPY",
+    "fecha": "Martes 18 de Agosto 2026",
+    "fecha_iso": "2026-08-18",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz 5",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz5"
+      }
+    ]
+  },
+  {
     "titulo": "UEFA Champions League: Dinamo Zagreb vs Viking",
     "categoria": "futbol",
     "clase": "CHA",
@@ -251,6 +283,22 @@
         "nombre": "ESPN 5",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Bolivia: The Strongest vs Oriente Petrolero",
+    "categoria": "futbol",
+    "clase": "BOL",
+    "fecha": "Martes 18 de Agosto 2026",
+    "fecha_iso": "2026-08-18",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Entel Gol",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=entelgol"
       }
     ]
   },
