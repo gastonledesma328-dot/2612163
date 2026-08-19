@@ -1,58 +1,5 @@
 [
   {
-    "titulo": "ATP M1000 Cincinnati: Tercera Ronda",
-    "categoria": "futbol",
-    "clase": "ATP",
-    "fecha": "Martes 18 de Agosto 2026",
-    "fecha_iso": "2026-08-18",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Centroamericana: Real Estelí vs Herediano",
-    "categoria": "futbol",
-    "clase": "CONCACAF",
-    "fecha": "Miércoles 19 de Agosto 2026",
-    "fecha_iso": "2026-08-19",
-    "hora": "00:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney9"
-      },
-      {
-        "nombre": "Fox One",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=foxone"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Centroamericana: Xelajú vs Diriangén",
-    "categoria": "futbol",
-    "clase": "CONCACAF",
-    "fecha": "Miércoles 19 de Agosto 2026",
-    "fecha_iso": "2026-08-19",
-    "hora": "00:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney10"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Paraguay: Obrero vs Fernando de la Mora",
     "categoria": "futbol",
     "clase": "LIGAPY",
