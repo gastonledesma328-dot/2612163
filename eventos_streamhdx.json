@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "Copa Paraguay: Obrero vs Fernando de la Mora",
-    "categoria": "futbol",
-    "clase": "LIGAPY",
-    "fecha": "Miércoles 19 de Agosto 2026",
-    "fecha_iso": "2026-08-19",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Tigo Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tigo1"
-      }
-    ]
-  },
-  {
-    "titulo": "Amistoso: Barcelona vs Al Ahly",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Miércoles 19 de Agosto 2026",
-    "fecha_iso": "2026-08-19",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Evento 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=evento1"
-      }
-    ]
-  },
-  {
     "titulo": "LaLiga: Atlético Madrid vs Málaga",
     "categoria": "futbol",
     "clase": "ES",
@@ -43,22 +11,22 @@
       {
         "nombre": "DSports",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=dsports"
+        "url": "https://streamxhd.com/live1.php?stream=dsports"
       },
       {
         "nombre": "ESPN +",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espnplus1"
+        "url": "https://streamxhd.com/live1.php?stream=espnplus1"
       },
       {
         "nombre": "ESPN Deportes",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espndeportes"
+        "url": "https://streamxhd.com/live1.php?stream=espndeportes"
       },
       {
         "nombre": "Premier Sports 1 UK",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premier1uk"
+        "url": "https://streamxhd.com/live1.php?stream=premier1uk"
       }
     ]
   },
@@ -74,7 +42,7 @@
       {
         "nombre": "Win Fútbol +",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winplus"
+        "url": "https://streamxhd.com/live1.php?stream=winplus"
       }
     ]
   },
@@ -90,27 +58,27 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney1"
+        "url": "https://streamxhd.com/live1.php?stream=disney1"
       },
       {
         "nombre": "ESPN",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn"
+        "url": "https://streamxhd.com/live1.php?stream=espn"
       },
       {
         "nombre": "FOX Sports 1 AR",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fox1ar"
+        "url": "https://streamxhd.com/live1.php?stream=fox1ar"
       },
       {
         "nombre": "FOX One",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=foxone"
+        "url": "https://streamxhd.com/live1.php?stream=foxone"
       },
       {
         "nombre": "TUDN USA",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
+        "url": "https://streamxhd.com/live1.php?stream=tudn_usa"
       }
     ]
   },
@@ -126,22 +94,22 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney3"
+        "url": "https://streamxhd.com/live1.php?stream=disney3"
       },
       {
         "nombre": "ESPN 3",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn3"
+        "url": "https://streamxhd.com/live1.php?stream=espn3"
       },
       {
         "nombre": "FOX Sports 2 AR",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fox2ar"
+        "url": "https://streamxhd.com/live1.php?stream=fox2ar"
       },
       {
         "nombre": "FOX One 3",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=foxone3"
+        "url": "https://streamxhd.com/live1.php?stream=foxone3"
       }
     ]
   },
@@ -157,22 +125,22 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney2"
+        "url": "https://streamxhd.com/live1.php?stream=disney2"
       },
       {
         "nombre": "ESPN 2",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2"
+        "url": "https://streamxhd.com/live1.php?stream=espn2"
       },
       {
         "nombre": "FOX One 2",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=foxone2"
+        "url": "https://streamxhd.com/live1.php?stream=foxone2"
       },
       {
         "nombre": "MLiga Campeones",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=mligacampeones"
+        "url": "https://streamxhd.com/live1.php?stream=mligacampeones"
       }
     ]
   },
@@ -188,17 +156,17 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney4"
+        "url": "https://streamxhd.com/live1.php?stream=disney4"
       },
       {
         "nombre": "ESPN 5",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn5"
+        "url": "https://streamxhd.com/live1.php?stream=espn5"
       },
       {
         "nombre": "FOX One 4",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=foxone4"
+        "url": "https://streamxhd.com/live1.php?stream=foxone4"
       }
     ]
   },
@@ -214,7 +182,7 @@
       {
         "nombre": "Tigo Sports",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tigo1"
+        "url": "https://streamxhd.com/live1.php?stream=tigo1"
       }
     ]
   },
@@ -230,17 +198,17 @@
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz1"
       },
       {
         "nombre": "Win Fútbol +",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winplus"
+        "url": "https://streamxhd.com/live1.php?stream=winplus"
       },
       {
         "nombre": "Win Sports",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winsports"
+        "url": "https://streamxhd.com/live1.php?stream=winsports"
       }
     ]
   },
@@ -256,22 +224,22 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney6"
+        "url": "https://streamxhd.com/live1.php?stream=disney6"
       },
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz3"
       },
       {
         "nombre": "ESPN",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn"
+        "url": "https://streamxhd.com/live1.php?stream=espn"
       },
       {
         "nombre": "FOX Sports 2 AR",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fox2ar"
+        "url": "https://streamxhd.com/live1.php?stream=fox2ar"
       }
     ]
   },
@@ -287,22 +255,22 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney7"
+        "url": "https://streamxhd.com/live1.php?stream=disney7"
       },
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz4"
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz4"
       },
       {
         "nombre": "ESPN 5",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn5"
+        "url": "https://streamxhd.com/live1.php?stream=espn5"
       },
       {
         "nombre": "FOX Sports 1 AR",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fox1ar"
+        "url": "https://streamxhd.com/live1.php?stream=fox1ar"
       }
     ]
   },
@@ -318,17 +286,17 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney5"
+        "url": "https://streamxhd.com/live1.php?stream=disney5"
       },
       {
         "nombre": "DSports PE",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=dsportspe"
+        "url": "https://streamxhd.com/live1.php?stream=dsportspe"
       },
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz2"
       }
     ]
   },
@@ -344,7 +312,7 @@
       {
         "nombre": "TyC Sports",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tycsports"
+        "url": "https://streamxhd.com/live1.php?stream=tycsports"
       }
     ]
   },
@@ -360,7 +328,7 @@
       {
         "nombre": "XSports",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=xsports"
+        "url": "https://streamxhd.com/live1.php?stream=xsports"
       }
     ]
   },
@@ -376,12 +344,12 @@
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz5"
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz5"
       },
       {
         "nombre": "Win Fútbol +",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winplus"
+        "url": "https://streamxhd.com/live1.php?stream=winplus"
       }
     ]
   },
@@ -397,12 +365,12 @@
       {
         "nombre": "Apple TV Español",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv9"
+        "url": "https://streamxhd.com/live1.php?stream=appletv9"
       },
       {
         "nombre": "Apple TV English",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv10"
+        "url": "https://streamxhd.com/live1.php?stream=appletv10"
       }
     ]
   },
@@ -418,12 +386,12 @@
       {
         "nombre": "Apple TV Español",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv3"
+        "url": "https://streamxhd.com/live1.php?stream=appletv3"
       },
       {
         "nombre": "Apple TV English",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv4"
+        "url": "https://streamxhd.com/live1.php?stream=appletv4"
       }
     ]
   },
@@ -439,12 +407,12 @@
       {
         "nombre": "Apple TV Español",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv7"
+        "url": "https://streamxhd.com/live1.php?stream=appletv7"
       },
       {
         "nombre": "Apple TV English",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv8"
+        "url": "https://streamxhd.com/live1.php?stream=appletv8"
       }
     ]
   },
@@ -460,12 +428,12 @@
       {
         "nombre": "Apple TV Español",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv11"
+        "url": "https://streamxhd.com/live1.php?stream=appletv11"
       },
       {
         "nombre": "Apple TV English",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv12"
+        "url": "https://streamxhd.com/live1.php?stream=appletv12"
       }
     ]
   },
@@ -481,12 +449,12 @@
       {
         "nombre": "Apple TV Español",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv5"
+        "url": "https://streamxhd.com/live1.php?stream=appletv5"
       },
       {
         "nombre": "Apple TV English",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv6"
+        "url": "https://streamxhd.com/live1.php?stream=appletv6"
       }
     ]
   },
@@ -502,12 +470,12 @@
       {
         "nombre": "Apple TV Español",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv1"
+        "url": "https://streamxhd.com/live1.php?stream=appletv1"
       },
       {
         "nombre": "Apple TV English",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv2"
+        "url": "https://streamxhd.com/live1.php?stream=appletv2"
       }
     ]
   },
@@ -523,12 +491,12 @@
       {
         "nombre": "Apple TV Español",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv13"
+        "url": "https://streamxhd.com/live1.php?stream=appletv13"
       },
       {
         "nombre": "Apple TV English",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv14"
+        "url": "https://streamxhd.com/live1.php?stream=appletv14"
       }
     ]
   },
@@ -544,17 +512,17 @@
       {
         "nombre": "Apple TV Español",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv15"
+        "url": "https://streamxhd.com/live1.php?stream=appletv15"
       },
       {
         "nombre": "Apple TV English",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv16"
+        "url": "https://streamxhd.com/live1.php?stream=appletv16"
       },
       {
         "nombre": "FOX Deportes USA",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
+        "url": "https://streamxhd.com/live1.php?stream=fox_deportes_usa"
       }
     ]
   },
@@ -570,17 +538,17 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney9"
+        "url": "https://streamxhd.com/live1.php?stream=disney9"
       },
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz8"
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz8"
       },
       {
         "nombre": "FOX Sports 1 AR",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fox1ar"
+        "url": "https://streamxhd.com/live1.php?stream=fox1ar"
       }
     ]
   },
@@ -596,27 +564,27 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney8"
+        "url": "https://streamxhd.com/live1.php?stream=disney8"
       },
       {
         "nombre": "DSports PE",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=dsportspe"
+        "url": "https://streamxhd.com/live1.php?stream=dsportspe"
       },
       {
         "nombre": "Espn",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn"
+        "url": "https://streamxhd.com/live1.php?stream=espn"
       },
       {
         "nombre": "ESPN AR",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espnar"
+        "url": "https://streamxhd.com/live1.php?stream=espnar"
       },
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz7"
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz7"
       }
     ]
   },
@@ -632,12 +600,12 @@
       {
         "nombre": "Fanatiz",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz6"
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz6"
       },
       {
         "nombre": "DSports",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=dsports"
+        "url": "https://streamxhd.com/live1.php?stream=dsports"
       }
     ]
   },
@@ -653,12 +621,12 @@
       {
         "nombre": "Apple TV Español",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv17"
+        "url": "https://streamxhd.com/live1.php?stream=appletv17"
       },
       {
         "nombre": "Apple TV English",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv18"
+        "url": "https://streamxhd.com/live1.php?stream=appletv18"
       }
     ]
   },
@@ -674,7 +642,7 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney10"
+        "url": "https://streamxhd.com/live1.php?stream=disney10"
       }
     ]
   },
@@ -690,7 +658,7 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney11"
+        "url": "https://streamxhd.com/live1.php?stream=disney11"
       }
     ]
   },
@@ -706,12 +674,12 @@
       {
         "nombre": "Win Fútbol +",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winplus"
+        "url": "https://streamxhd.com/live1.php?stream=winplus"
       },
       {
         "nombre": "Win Sports",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=winsports"
+        "url": "https://streamxhd.com/live1.php?stream=winsports"
       }
     ]
   },
@@ -727,12 +695,12 @@
       {
         "nombre": "Apple TV Español",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv19"
+        "url": "https://streamxhd.com/live1.php?stream=appletv19"
       },
       {
         "nombre": "Apple TV English",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv20"
+        "url": "https://streamxhd.com/live1.php?stream=appletv20"
       }
     ]
   },
@@ -748,12 +716,12 @@
       {
         "nombre": "Apple TV Español",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv21"
+        "url": "https://streamxhd.com/live1.php?stream=appletv21"
       },
       {
         "nombre": "Apple TV English",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv22"
+        "url": "https://streamxhd.com/live1.php?stream=appletv22"
       }
     ]
   },
@@ -769,12 +737,12 @@
       {
         "nombre": "Apple TV Español",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv23"
+        "url": "https://streamxhd.com/live1.php?stream=appletv23"
       },
       {
         "nombre": "Apple TV English",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv24"
+        "url": "https://streamxhd.com/live1.php?stream=appletv24"
       }
     ]
   },
@@ -790,17 +758,17 @@
       {
         "nombre": "Apple TV Español",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv25"
+        "url": "https://streamxhd.com/live1.php?stream=appletv25"
       },
       {
         "nombre": "Apple TV English",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv26"
+        "url": "https://streamxhd.com/live1.php?stream=appletv26"
       },
       {
         "nombre": "FOX Deportes USA",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
+        "url": "https://streamxhd.com/live1.php?stream=fox_deportes_usa"
       }
     ]
   },
@@ -816,12 +784,12 @@
       {
         "nombre": "Apple TV Español",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv27"
+        "url": "https://streamxhd.com/live1.php?stream=appletv27"
       },
       {
         "nombre": "Apple TV English",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv28"
+        "url": "https://streamxhd.com/live1.php?stream=appletv28"
       }
     ]
   },
@@ -837,12 +805,12 @@
       {
         "nombre": "Apple TV Español",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv29"
+        "url": "https://streamxhd.com/live1.php?stream=appletv29"
       },
       {
         "nombre": "Apple TV English",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=appletv30"
+        "url": "https://streamxhd.com/live1.php?stream=appletv30"
       }
     ]
   },
@@ -858,12 +826,12 @@
       {
         "nombre": "Disney +",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney12"
+        "url": "https://streamxhd.com/live1.php?stream=disney12"
       },
       {
         "nombre": "FOX One",
         "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=foxone"
+        "url": "https://streamxhd.com/live1.php?stream=foxone"
       }
     ]
   }
