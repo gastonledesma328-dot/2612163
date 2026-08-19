@@ -16,22 +16,6 @@
     ]
   },
   {
-    "titulo": "Copa Centroamericana: Cartaginés vs Hankook Verdes",
-    "categoria": "futbol",
-    "clase": "CONCACAF",
-    "fecha": "Martes 18 de Agosto 2026",
-    "fecha_iso": "2026-08-18",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney8"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Centroamericana: Real Estelí vs Herediano",
     "categoria": "futbol",
     "clase": "CONCACAF",
