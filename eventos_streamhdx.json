@@ -16,147 +16,6 @@
     ]
   },
   {
-    "titulo": "Copa Bolivia: The Strongest vs Oriente Petrolero",
-    "categoria": "futbol",
-    "clase": "BOL",
-    "fecha": "Martes 18 de Agosto 2026",
-    "fecha_iso": "2026-08-18",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Entel Gol",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=entelgol"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Argentina: Banfield vs Midland",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Martes 18 de Agosto 2026",
-    "fecha_iso": "2026-08-18",
-    "hora": "21:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=tycsports"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz4"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Deportes Tolima vs Independiente del Valle",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Martes 18 de Agosto 2026",
-    "fecha_iso": "2026-08-18",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney7"
-      },
-      {
-        "nombre": "FOX Sports 2 AR",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fox2ar"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz6"
-      },
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Universidad Católica vs Estudiantes",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Martes 18 de Agosto 2026",
-    "fecha_iso": "2026-08-18",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=disney6"
-      },
-      {
-        "nombre": "FOX Sports 1 AR",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fox1ar"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz5"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: São Paulo vs Bolívar",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Martes 18 de Agosto 2026",
-    "fecha_iso": "2026-08-18",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=fanatiz7"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie B: Náutico vs Ceará",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Martes 18 de Agosto 2026",
-    "fecha_iso": "2026-08-18",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "SporTV 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
-      },
-      {
-        "nombre": "Premiere 1",
-        "calidad": "720p",
-        "url": "https://streamx-hd.com/live1.php?stream=premiere1"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Centroamericana: Cartaginés vs Hankook Verdes",
     "categoria": "futbol",
     "clase": "CONCACAF",
@@ -206,6 +65,874 @@
         "nombre": "Disney +",
         "calidad": "720p",
         "url": "https://streamx-hd.com/live1.php?stream=disney10"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Paraguay: Obrero vs Fernando de la Mora",
+    "categoria": "futbol",
+    "clase": "LIGAPY",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Tigo Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tigo1"
+      }
+    ]
+  },
+  {
+    "titulo": "Amistoso: Barcelona vs Al Ahly",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Evento 1",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=evento1"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga: Atlético Madrid vs Málaga",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "DSports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "ESPN +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espnplus1"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espndeportes"
+      },
+      {
+        "nombre": "Premier Sports 1 UK",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=premier1uk"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera B: Tigres FC vs Envigado",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Win Fútbol +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=winplus"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Champions League: Celtic vs LASK Linz",
+    "categoria": "futbol",
+    "clase": "CHA",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "FOX Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "FOX One",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone"
+      },
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tudn_usa"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Champions League: Hapoel Be’er Sheva vs Sabah",
+    "categoria": "futbol",
+    "clase": "CHA",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney3"
+      },
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn3"
+      },
+      {
+        "nombre": "FOX Sports 2 AR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fox2ar"
+      },
+      {
+        "nombre": "FOX One 3",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone3"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Champions League: NEC vs Bodø / Glimt",
+    "categoria": "futbol",
+    "clase": "CHA",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney2"
+      },
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "FOX One 2",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone2"
+      },
+      {
+        "nombre": "MLiga Campeones",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=mligacampeones"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Champions League: Slovan Bratislava vs Celje",
+    "categoria": "futbol",
+    "clase": "CHA",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney4"
+      },
+      {
+        "nombre": "ESPN 5",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn5"
+      },
+      {
+        "nombre": "FOX One 4",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone4"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Paraguay: Paraguarí AC vs Sportivo Luqueño",
+    "categoria": "futbol",
+    "clase": "LIGAPY",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "16:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Tigo Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tigo1"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Colombia: Rionegro Águilas vs Llaneros",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "18:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz1"
+      },
+      {
+        "nombre": "Win Fútbol +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=winplus"
+      },
+      {
+        "nombre": "Win Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=winsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Cerro Porteño vs Palmeiras",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney6"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz3"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "FOX Sports 2 AR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fox2ar"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Coquimbo Unido vs Platense",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney7"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz4"
+      },
+      {
+        "nombre": "ESPN 5",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn5"
+      },
+      {
+        "nombre": "FOX Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fox1ar"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Atlético Mineiro vs Red Bull Bragantino",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney5"
+      },
+      {
+        "nombre": "DSports PE",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=dsportspe"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Argentina: Racing Club vs Belgrano",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "19:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=tycsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie B: Fortaleza vs São Bernardo",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "XSports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=xsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Colombia: Cúcuta Deportivo vs Inter Bogotá",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz5"
+      },
+      {
+        "nombre": "Win Fútbol +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=winplus"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Cincinnati vs New York City",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv9"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv10"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Columbus Crew vs CF Montréal",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv3"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv4"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: DC United vs New England",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv7"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv8"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: New York RB vs Nashville SC",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv11"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv12"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Orlando City SC vs Chicago Fire",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv5"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv6"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Philadelphia Union vs Inter Miami",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv1"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Toronto FC vs Charlotte",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv13"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv14"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Sporting KC vs St. Louis City",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv15"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv16"
+      },
+      {
+        "nombre": "FOX Deportes USA",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Flamengo vs Cruzeiro",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney9"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz8"
+      },
+      {
+        "nombre": "FOX Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fox1ar"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Santa Fe vs River Plate",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney8"
+      },
+      {
+        "nombre": "DSports PE",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=dsportspe"
+      },
+      {
+        "nombre": "Espn",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "ESPN AR",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=espnar"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz7"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Torque vs Tigre",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fanatiz6"
+      },
+      {
+        "nombre": "DSports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Minnesota United vs Atlanta United",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv17"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv18"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Centroamericana: Marathón vs Alianza",
+    "categoria": "futbol",
+    "clase": "CONCACAF",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney10"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Centroamericana: Mixco vs UMECIT",
+    "categoria": "futbol",
+    "clase": "CONCACAF",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney11"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera B: Patriotas vs Orsomarso",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "22:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Win Fútbol +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=winplus"
+      },
+      {
+        "nombre": "Win Sports",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=winsports"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Colorado Rapids vs Los Angeles FC",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "22:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv19"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv20"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Real Salt Lake vs Dallas",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "22:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv21"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv22"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Seattle Sounders FC vs Austin",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "22:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv23"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv24"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: LA Galaxy vs SJ Earthquakes",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "23:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv25"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv26"
+      },
+      {
+        "nombre": "FOX Deportes USA",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Portland Timbers vs San Diego",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "23:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv27"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv28"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Vancouver Whitecaps vs Houston Dynamo",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 19 de Agosto 2026",
+    "fecha_iso": "2026-08-19",
+    "hora": "23:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv29"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv30"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Centroamericana: FAS vs Municipal",
+    "categoria": "futbol",
+    "clase": "CONCACAF",
+    "fecha": "Jueves 20 de Agosto 2026",
+    "fecha_iso": "2026-08-20",
+    "hora": "00:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=disney12"
+      },
+      {
+        "nombre": "FOX One",
+        "calidad": "720p",
+        "url": "https://streamx-hd.com/live1.php?stream=foxone"
       }
     ]
   }
