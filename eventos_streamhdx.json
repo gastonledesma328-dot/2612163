@@ -338,6 +338,22 @@
     ]
   },
   {
+    "titulo": "Liga Uruguay: Albion vs Boston River",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Viernes 21 de Agosto 2026",
+    "fecha_iso": "2026-08-21",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney14"
+      }
+    ]
+  },
+  {
     "titulo": "Super Lig: BB Erzurumspor vs Galatasaray",
     "categoria": "futbol",
     "clase": "TUR",
@@ -418,22 +434,6 @@
         "nombre": "LaLiga Hypermotion",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=laligahypermotion"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Uruguay: Albion vs Boston River",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Viernes 21 de Agosto 2026",
-    "fecha_iso": "2026-08-21",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney14"
       }
     ]
   },
@@ -777,6 +777,22 @@
     ]
   },
   {
+    "titulo": "Liga MX Femenil: Monterrey vs León",
+    "categoria": "futbol",
+    "clase": "MEX",
+    "fecha": "Viernes 21 de Agosto 2026",
+    "fecha_iso": "2026-08-21",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Vix 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=vix2"
+      }
+    ]
+  },
+  {
     "titulo": "Liga MX: León vs Monterrey",
     "categoria": "futbol",
     "clase": "LIGAMX",
@@ -852,22 +868,6 @@
         "nombre": "FOX Sports 2 México",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=foxsports2mx"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX Femenil: Monterrey vs León",
-    "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Sábado 22 de Agosto 2026",
-    "fecha_iso": "2026-08-22",
-    "hora": "00:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Vix 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=vix2"
       }
     ]
   },
