@@ -1,52 +1,5 @@
 [
   {
-    "titulo": "DFB Pokal: SC St. Tönis vs Eintracht Frankfurt",
-    "categoria": "futbol",
-    "clase": "ALE",
-    "fecha": "Viernes 21 de Agosto 2026",
-    "fecha_iso": "2026-08-21",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney9"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Arabia Saudita: Al Riyadh vs Al Nassr",
-    "categoria": "futbol",
-    "clase": "ARA",
-    "fecha": "Viernes 21 de Agosto 2026",
-    "fecha_iso": "2026-08-21",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "FOX One",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=foxone"
-      },
-      {
-        "nombre": "FOX Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fox_deportes_usa"
-      },
-      {
-        "nombre": "SporTV 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=sporttvbr2"
-      },
-      {
-        "nombre": "MLiga Campeones",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=mligacampeones"
-      }
-    ]
-  },
-  {
     "titulo": "Liga 1: FC Cajamarca vs Atlético Grau",
     "categoria": "futbol",
     "clase": "PE",
@@ -92,11 +45,6 @@
     "hora": "15:00",
     "duracion_min": 140,
     "canales": [
-      {
-        "nombre": "FOX One",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=foxone"
-      },
       {
         "nombre": "FOX Deportes USA",
         "calidad": "720p",
@@ -206,6 +154,32 @@
         "nombre": "LaLiga Hypermotion",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=laligahypermotion"
+      }
+    ]
+  },
+  {
+    "titulo": "La Liga: Real Betis vs Real Sociedad",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Viernes 21 de Agosto 2026",
+    "fecha_iso": "2026-08-21",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Dsports",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Espn +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espnplus1"
+      },
+      {
+        "nombre": "Espn Deportes",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espndeportes"
       }
     ]
   },
