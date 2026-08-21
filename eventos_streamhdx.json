@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Liga de Expansión MX: Venados vs Dorados",
-    "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Jueves 20 de Agosto 2026",
-    "fecha_iso": "2026-08-20",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney6"
-      }
-    ]
-  },
-  {
     "titulo": "ATP M1000 Cincinnati: Cuartos de Final",
     "categoria": "futbol",
     "clase": "ATP",
@@ -44,63 +28,6 @@
         "nombre": "ESPN 3",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Corinthians vs Rosario Central",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Jueves 20 de Agosto 2026",
-    "fecha_iso": "2026-08-20",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney7"
-      },
-      {
-        "nombre": "Telefe",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=telefe"
-      },
-      {
-        "nombre": "FOX Sports 1 AR",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fox1ar"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz5"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Botafogo vs Cienciano",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Jueves 20 de Agosto 2026",
-    "fecha_iso": "2026-08-20",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz4"
-      },
-      {
-        "nombre": "DSports",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=dsports"
       }
     ]
   },
