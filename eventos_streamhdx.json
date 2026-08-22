@@ -1,120 +1,5 @@
 [
   {
-    "titulo": "ATP M1000 Cincinnati",
-    "categoria": "futbol",
-    "clase": "ATP",
-    "fecha": "Sábado 22 de Agosto 2026",
-    "fecha_iso": "2026-08-22",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Inter vs Monza",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Sábado 22 de Agosto 2026",
-    "fecha_iso": "2026-08-22",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney19"
-      },
-      {
-        "nombre": "ESPN 5",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn5"
-      },
-      {
-        "nombre": "Telemundo",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=telemundo"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Udinese vs Como",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Sábado 22 de Agosto 2026",
-    "fecha_iso": "2026-08-22",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney20"
-      },
-      {
-        "nombre": "Peacock TV",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=peacock1"
-      },
-      {
-        "nombre": "Movistar Liga de Campeones",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=mligacampeones"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga: Valencia vs Celta de Vigo",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Sábado 22 de Agosto 2026",
-    "fecha_iso": "2026-08-22",
-    "hora": "14:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports 2 Global",
-        "calidad": "720p",
-        "url": "https://streamxhd.click/channel/?id=dsports2"
-      },
-      {
-        "nombre": "DSports 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=dsports2"
-      },
-      {
-        "nombre": "ESPN +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espnplus2"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espndeportes"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Uruguay: Cerro Largo vs Defensor Sporting",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 22 de Agosto 2026",
-    "fecha_iso": "2026-08-22",
-    "hora": "15:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney21"
-      }
-    ]
-  },
-  {
     "titulo": "Liga 1: UTC Cajamarca vs Comerciantes Unidos",
     "categoria": "futbol",
     "clase": "PE",
@@ -477,6 +362,22 @@
         "nombre": "ESPN Deportes",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=espndeportes"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga de Portugal: Sporting CP vs Alverca",
+    "categoria": "futbol",
+    "clase": "POR",
+    "fecha": "Sábado 22 de Agosto 2026",
+    "fecha_iso": "2026-08-22",
+    "hora": "16:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "DSports 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=dsports2"
       }
     ]
   },
