@@ -1,63 +1,5 @@
 [
   {
-    "titulo": "Liga Chile: Audax Italiano vs Unión La Calera",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Viernes 21 de Agosto 2026",
-    "fecha_iso": "2026-08-21",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tntsportschile"
-      },
-      {
-        "nombre": "MAX 1",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=max1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Colombia: Alianza vs Deportivo Pereira",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Viernes 21 de Agosto 2026",
-    "fecha_iso": "2026-08-21",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz6"
-      },
-      {
-        "nombre": "Win Fútbol +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Oriente Petrolero vs San Antonio Bulo Bulo",
-    "categoria": "futbol",
-    "clase": "BOL",
-    "fecha": "Viernes 21 de Agosto 2026",
-    "fecha_iso": "2026-08-21",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Entel Gol",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=entelgol"
-      }
-    ]
-  },
-  {
     "titulo": "ESPN Knockout: Eric Milo vs Roberto Carlos",
     "categoria": "box",
     "clase": "BOX",
@@ -90,85 +32,6 @@
     ]
   },
   {
-    "titulo": "Liga MX Femenil: Monterrey vs León",
-    "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Viernes 21 de Agosto 2026",
-    "fecha_iso": "2026-08-21",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Vix 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=vix2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: León vs Monterrey",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Viernes 21 de Agosto 2026",
-    "fecha_iso": "2026-08-21",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "FOX One 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=foxone2"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tudn_usa"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Tigres UANL vs Atlante",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Viernes 21 de Agosto 2026",
-    "fecha_iso": "2026-08-21",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "FOX One",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=foxone"
-      },
-      {
-        "nombre": "FOX Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fox_deportes_usa"
-      },
-      {
-        "nombre": "Azteca 7",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=azteca7"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Nacional: Motagua vs UPNFM",
-    "categoria": "futbol",
-    "clase": "HON",
-    "fecha": "Viernes 21 de Agosto 2026",
-    "fecha_iso": "2026-08-21",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Deportes TVC",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=deportestvc"
-      }
-    ]
-  },
-  {
     "titulo": "NFL Pretemporada: Denver Broncos vs Green Bay Packers",
     "categoria": "futbol",
     "clase": "NFL",
@@ -181,6 +44,22 @@
         "nombre": "FOX Sports 2 México",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=foxsports2mx"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX Femenil: Monterrey vs León",
+    "categoria": "futbol",
+    "clase": "MEX",
+    "fecha": "Sábado 22 de Agosto 2026",
+    "fecha_iso": "2026-08-22",
+    "hora": "00:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Vix 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=vix2"
       }
     ]
   },
