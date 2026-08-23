@@ -74,22 +74,6 @@
     ]
   },
   {
-    "titulo": "MLS: Austin vs Philadelphia Union",
-    "categoria": "futbol",
-    "clase": "MLS",
-    "fecha": "Sábado 22 de Agosto 2026",
-    "fecha_iso": "2026-08-22",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=appletv8"
-      }
-    ]
-  },
-  {
     "titulo": "MLS: Nashville SC vs Columbus Crew",
     "categoria": "futbol",
     "clase": "MLS",
@@ -139,6 +123,22 @@
         "nombre": "Disney +",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=disney3"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Austin vs Philadelphia Union",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Sábado 22 de Agosto 2026",
+    "fecha_iso": "2026-08-22",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv8"
       }
     ]
   },
@@ -566,22 +566,6 @@
         "nombre": "FOX One",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=foxone"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Uruguay: Danubio vs Racing",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney11"
       }
     ]
   },
@@ -1779,6 +1763,22 @@
         "nombre": "Premier Sports 2 UK",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=premier2uk"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Uruguay: Danubio vs Racing",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Domingo 23 de Agosto 2026",
+    "fecha_iso": "2026-08-23",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney11"
       }
     ]
   },
