@@ -1,26 +1,5 @@
 [
   {
-    "titulo": "Eredivisie: PSV vs Groningen",
-    "categoria": "futbol",
-    "clase": "HOL",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "09:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "ESPN 4",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn4"
-      }
-    ]
-  },
-  {
     "titulo": "La Vuelta a España: Etapa #2",
     "categoria": "futbol",
     "clase": "CICLISMO",
@@ -33,169 +12,6 @@
         "nombre": "ESPN 2",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP Países Bajos - On Board",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney8"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP Países Bajos - On Board Colapinto",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney9"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP Países Bajos - On Board Norris",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney10"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP Países Bajos - Race HUB",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney7"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP Países Bajos Carrera",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney6"
-      },
-      {
-        "nombre": "DAZN F1",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=daznf1"
-      }
-    ]
-  },
-  {
-    "titulo": "Ligue 1: Angers SCO vs Lille",
-    "categoria": "futbol",
-    "clase": "FRA",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney5"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz1"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Brighton & Hove Albion vs Aston Villa",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney4"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Peacock TV",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=peacock1"
-      },
-      {
-        "nombre": "FOX One 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=foxone2"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Manchester City vs AFC Bournemouth",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney3"
-      },
-      {
-        "nombre": "Telemundo",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=telemundo"
-      },
-      {
-        "nombre": "FOX One",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=foxone"
       }
     ]
   },
@@ -316,11 +132,6 @@
         "nombre": "Telemundo",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=telemundo"
-      },
-      {
-        "nombre": "Movistar Liga de Campeones",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=mligacampeones"
       }
     ]
   },
@@ -1393,22 +1204,6 @@
         "nombre": "Premier Sports 2 UK",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=premier2uk"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Uruguay: Danubio vs Racing",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney11"
       }
     ]
   },
