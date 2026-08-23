@@ -1,252 +1,5 @@
 [
   {
-    "titulo": "WTA Cincinnati: Semifinal #1",
-    "categoria": "futbol",
-    "clase": "ATP",
-    "fecha": "Sábado 22 de Agosto 2026",
-    "fecha_iso": "2026-08-22",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Juan Pablo II College vs ADT",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 22 de Agosto 2026",
-    "fecha_iso": "2026-08-22",
-    "hora": "17:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "L1MAX",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=l1max"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Colombia: Rionegro Águilas vs Millonarios",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Sábado 22 de Agosto 2026",
-    "fecha_iso": "2026-08-22",
-    "hora": "17:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz9"
-      },
-      {
-        "nombre": "Win Fútbol +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Cruzeiro vs Flamengo",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Sábado 22 de Agosto 2026",
-    "fecha_iso": "2026-08-22",
-    "hora": "18:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz14"
-      },
-      {
-        "nombre": "Win Sports",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winsports"
-      },
-      {
-        "nombre": "Prime Video",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Internacional vs Atlético Mineiro",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Sábado 22 de Agosto 2026",
-    "fecha_iso": "2026-08-22",
-    "hora": "18:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz12"
-      },
-      {
-        "nombre": "Premiere 1",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=premiere1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Puebla vs Santos Laguna",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Sábado 22 de Agosto 2026",
-    "fecha_iso": "2026-08-22",
-    "hora": "18:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Azteca 7",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=azteca7"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
-    "titulo": "UFC: Preliminares",
-    "categoria": "ufc",
-    "clase": "UFC",
-    "fecha": "Sábado 22 de Agosto 2026",
-    "fecha_iso": "2026-08-22",
-    "hora": "18:00",
-    "duracion_min": 480,
-    "canales": [
-      {
-        "nombre": "Paramount | Español",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=paramount1"
-      },
-      {
-        "nombre": "Paramount | Ingles",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=paramount2"
-      },
-      {
-        "nombre": "Paramount | Portugues",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=paramount3"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Colombia: Deportes Tolima vs Atlético Bucaramanga",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Sábado 22 de Agosto 2026",
-    "fecha_iso": "2026-08-22",
-    "hora": "18:05",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz10"
-      },
-      {
-        "nombre": "Win Sports",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Chile: Huachipato vs Deportes Limache",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Sábado 22 de Agosto 2026",
-    "fecha_iso": "2026-08-22",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tntsportschile"
-      },
-      {
-        "nombre": "MAX 1",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=max1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Ecuador: Técnico Universitario vs Guayaquil City",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Sábado 22 de Agosto 2026",
-    "fecha_iso": "2026-08-22",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Independiente vs Independiente Rivadavia",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Sábado 22 de Agosto 2026",
-    "fecha_iso": "2026-08-22",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tntsports"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney5"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz11"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Uruguay: Deportivo Maldonado vs Peñarol",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 22 de Agosto 2026",
-    "fecha_iso": "2026-08-22",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
     "titulo": "ATP M1000 Cincinnati: Semifinal #2",
     "categoria": "futbol",
     "clase": "ATP",
@@ -259,22 +12,6 @@
         "nombre": "ESPN 2",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Costa Rica: Escorpiones Belén vs Cartaginés",
-    "categoria": "futbol",
-    "clase": "CR",
-    "fecha": "Sábado 22 de Agosto 2026",
-    "fecha_iso": "2026-08-22",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "FUTV",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=futv"
       }
     ]
   },
@@ -319,9 +56,30 @@
         "url": "https://streamxhd.com/live1.php?stream=fanatiz13"
       },
       {
-        "nombre": "Win Fútbol +",
+        "nombre": "Win Sports",
         "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winplus"
+        "url": "https://streamxhd.com/live1.php?stream=winsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Cruzeiro vs Flamengo",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Sábado 22 de Agosto 2026",
+    "fecha_iso": "2026-08-22",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz14"
+      },
+      {
+        "nombre": "Prime Video",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=amazon1"
       }
     ]
   },
@@ -677,6 +435,27 @@
         "nombre": "Apple TV Español",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=appletv10"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Puebla vs Santos Laguna",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Sábado 22 de Agosto 2026",
+    "fecha_iso": "2026-08-22",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Azteca 7",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=azteca7"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney3"
       }
     ]
   },
