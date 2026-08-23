@@ -1,329 +1,5 @@
 [
   {
-    "titulo": "Super Lig: Alanyaspor vs Beşiktaş",
-    "categoria": "futbol",
-    "clase": "TUR",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "15:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney22"
-      },
-      {
-        "nombre": "Fox Sports 2 AR",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fox2ar"
-      }
-    ]
-  },
-  {
-    "titulo": "Ligue 1: Rennes vs PSG",
-    "categoria": "futbol",
-    "clase": "FRA",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "15:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney25"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz6"
-      },
-      {
-        "nombre": "FOX One",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=foxone"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Atalanta vs Sassuolo",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "15:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney23"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Torino vs Milan",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "15:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney24"
-      },
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "Telemundo",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=telemundo"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Palmeiras vs Vasco da Gama",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz8"
-      },
-      {
-        "nombre": "Premiere 1",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=premiere1"
-      },
-      {
-        "nombre": "Win Sports",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Red Bull Bragantino vs Grêmio",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz7"
-      },
-      {
-        "nombre": "Premiere 3",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=premiere3"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Vitória vs Bahia",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz9"
-      },
-      {
-        "nombre": "Premiere 4",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=premiere4"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Chile: Universidad de Chile vs Colo-Colo",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tntsportschile"
-      },
-      {
-        "nombre": "MAX 1",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=max1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Colombia: Fortaleza CEIF vs Atlético Nacional",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz10"
-      },
-      {
-        "nombre": "Win Fútbol +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Paraguay: Olimpia vs Cerro Porteño",
-    "categoria": "futbol",
-    "clase": "LIGAPY",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Tigo Sports",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tigo1"
-      }
-    ]
-  },
-  {
-    "titulo": "La Liga 2: Tenerife vs Almería",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "16:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "LaLiga Hypermotion",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=laligahypermotion"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga: Elche vs Barcelona",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "16:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney26"
-      },
-      {
-        "nombre": "ESPN +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espnplus3"
-      },
-      {
-        "nombre": "Premier Sports 1 UK Global",
-        "calidad": "720p",
-        "url": "https://streamxhd.click/channel/?id=premier1uk"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espndeportes"
-      },
-      {
-        "nombre": "Premier Sports 1 UK",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=premier1uk"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga de Portugal: Porto vs Arouca",
-    "categoria": "futbol",
-    "clase": "POR",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "16:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Dsports Global",
-        "calidad": "720p",
-        "url": "https://streamxhd.click/channel/?id=dsports"
-      },
-      {
-        "nombre": "DSports",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz11"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Belgrano vs Defensa y Justicia",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney27"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz12"
-      },
-      {
-        "nombre": "ESPN Premium",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espnpremium"
-      }
-    ]
-  },
-  {
     "titulo": "Liga 1: Melgar vs Alianza Lima",
     "categoria": "futbol",
     "clase": "PE",
@@ -520,6 +196,27 @@
     ]
   },
   {
+    "titulo": "Liga MX: Atlético San Luis vs Pachuca",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Domingo 23 de Agosto 2026",
+    "fecha_iso": "2026-08-23",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney30"
+      },
+      {
+        "nombre": "Vix 1",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=vix1"
+      }
+    ]
+  },
+  {
     "titulo": "Liga Profesional: River Plate vs Vélez Sarsfield",
     "categoria": "futbol",
     "clase": "AR",
@@ -589,27 +286,6 @@
         "nombre": "MAX 1",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=max1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Atlético San Luis vs Pachuca",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney30"
-      },
-      {
-        "nombre": "Vix 1",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=vix1"
       }
     ]
   },
