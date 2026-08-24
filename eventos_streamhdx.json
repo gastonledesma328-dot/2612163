@@ -1,136 +1,5 @@
 [
   {
-    "titulo": "NFL Pretemporada: Titans vs Seahawks",
-    "categoria": "futbol",
-    "clase": "NFL",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn4"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Racing Club vs Boca Juniors",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "ESPN Premium",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espnpremium"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz21"
-      },
-      {
-        "nombre": "Premier Sports 2 UK",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=premier2uk"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Pumas UNAM vs Necaxa",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TUDN México",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tudnmx"
-      },
-      {
-        "nombre": "Vix 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=vix2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga de Expansión MX: Tapatío vs Mineros de Zacatecas",
-    "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Colombia: Junior vs Once Caldas",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "22:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz22"
-      },
-      {
-        "nombre": "Win Fútbol +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winplus"
-      },
-      {
-        "nombre": "Win Sports",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winsports"
-      }
-    ]
-  },
-  {
-    "titulo": "La Vuelta a España: Etapa #3",
-    "categoria": "futbol",
-    "clase": "CICLISMO",
-    "fecha": "Lunes 24 de Agosto 2026",
-    "fecha_iso": "2026-08-24",
-    "hora": "09:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "Serie A: Bologna vs Lazio",
     "categoria": "futbol",
     "clase": "IT",
@@ -166,9 +35,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "FOX Deportes",
+        "nombre": "FOX ONE 2",
         "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fox_deportes_usa"
+        "url": "https://streamxhd.com/live1.php?stream=foxone2"
       }
     ]
   },
