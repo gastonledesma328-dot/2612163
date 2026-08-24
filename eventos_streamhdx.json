@@ -1,190 +1,5 @@
 [
   {
-    "titulo": "Liga Chile: O'Higgins vs Palestino",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tntsportschile"
-      },
-      {
-        "nombre": "MAX 1",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=max1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Atlético San Luis vs Pachuca",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney30"
-      },
-      {
-        "nombre": "Vix 1",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=vix1"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Milwaukee Brewers vs Atlanta Braves",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Atlanta United vs Sporting KC",
-    "categoria": "futbol",
-    "clase": "MLS",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=appletv2"
-      }
-    ]
-  },
-  {
-    "titulo": "WTA Cincinnati: Final",
-    "categoria": "futbol",
-    "clase": "ATP",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Colombia: Deportivo Cali vs Inter Bogotá",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "20:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz19"
-      },
-      {
-        "nombre": "Win Fútbol +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winplus"
-      },
-      {
-        "nombre": "Win Sports",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Honduras: Olancho vs Olimpia",
-    "categoria": "futbol",
-    "clase": "HON",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "20:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Deportes TVC",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=deportestvc"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Universitario vs Los Chankas",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "20:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz20"
-      },
-      {
-        "nombre": "L1MAX",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=l1max"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Costa Rica: Alajuelense vs San Carlos",
-    "categoria": "futbol",
-    "clase": "CR",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "FUTV",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=futv"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Ecuador: LDU Quito vs Emelec",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
     "titulo": "NFL Pretemporada: Titans vs Seahawks",
     "categoria": "futbol",
     "clase": "NFL",
@@ -201,22 +16,6 @@
     ]
   },
   {
-    "titulo": "Liga MX Femenil: Necaxa vs América",
-    "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "21:06",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "FOX One 4",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=foxone4"
-      }
-    ]
-  },
-  {
     "titulo": "Liga Profesional: Racing Club vs Boca Juniors",
     "categoria": "futbol",
     "clase": "AR",
@@ -225,16 +24,6 @@
     "hora": "21:30",
     "duracion_min": 140,
     "canales": [
-      {
-        "nombre": "Premier Sports 2 | Recomendado",
-        "calidad": "720p",
-        "url": "https://streamxhd.click/channel/?id=premier2uk"
-      },
-      {
-        "nombre": "Como IT | Recomendado",
-        "calidad": "720p",
-        "url": "https://streamxhd.click/channel/?id=como_it1"
-      },
       {
         "nombre": "Disney +",
         "calidad": "720p",
@@ -322,6 +111,495 @@
         "nombre": "Win Sports",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=winsports"
+      }
+    ]
+  },
+  {
+    "titulo": "La Vuelta a España: Etapa #3",
+    "categoria": "futbol",
+    "clase": "CICLISMO",
+    "fecha": "Lunes 24 de Agosto 2026",
+    "fecha_iso": "2026-08-24",
+    "hora": "09:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A: Bologna vs Lazio",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Lunes 24 de Agosto 2026",
+    "fecha_iso": "2026-08-24",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "Universo",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=universo"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Arabia Saudita: NEOM vs Al Qadisiya",
+    "categoria": "futbol",
+    "clase": "ARA",
+    "fecha": "Lunes 24 de Agosto 2026",
+    "fecha_iso": "2026-08-24",
+    "hora": "13:40",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "FOX Deportes",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fox_deportes_usa"
+      }
+    ]
+  },
+  {
+    "titulo": "La Liga 2: Celta de Vigo II vs FC Andorra",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Lunes 24 de Agosto 2026",
+    "fecha_iso": "2026-08-24",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "LaLiga Hypermotion",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=laligahypermotion"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga: Osasuna vs Levante",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Lunes 24 de Agosto 2026",
+    "fecha_iso": "2026-08-24",
+    "hora": "14:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney2"
+      },
+      {
+        "nombre": "ESPN 4",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn4"
+      },
+      {
+        "nombre": "ESPN +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espnplus1"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espndeportes"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Arabia Saudita: Al Ittihad vs Al Hazm",
+    "categoria": "futbol",
+    "clase": "ARA",
+    "fecha": "Lunes 24 de Agosto 2026",
+    "fecha_iso": "2026-08-24",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Evento 1",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=evento1"
+      },
+      {
+        "nombre": "FOX Deportes",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fox_deportes_usa"
+      }
+    ]
+  },
+  {
+    "titulo": "DFB Pokal: Hallescher FC vs Schalke 04",
+    "categoria": "futbol",
+    "clase": "ALE",
+    "fecha": "Lunes 24 de Agosto 2026",
+    "fecha_iso": "2026-08-24",
+    "hora": "15:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney4"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A: Roma vs Fiorentina",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Lunes 24 de Agosto 2026",
+    "fecha_iso": "2026-08-24",
+    "hora": "15:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney3"
+      },
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Paraguay: Nacional Asunción vs Sportivo Luqueño",
+    "categoria": "futbol",
+    "clase": "LIGAPY",
+    "fecha": "Lunes 24 de Agosto 2026",
+    "fecha_iso": "2026-08-24",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Tigo Sports",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tigo1"
+      }
+    ]
+  },
+  {
+    "titulo": "Premier League: Fulham vs Chelsea",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Lunes 24 de Agosto 2026",
+    "fecha_iso": "2026-08-24",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney5"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "HBO Max",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=max1"
+      },
+      {
+        "nombre": "Telemundo",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=telemundo"
+      }
+    ]
+  },
+  {
+    "titulo": "La Liga 2: Granada vs Mallorca",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Lunes 24 de Agosto 2026",
+    "fecha_iso": "2026-08-24",
+    "hora": "16:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "LaLiga Hypermotion",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=laligahypermotion"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga: Málaga vs Deportivo La Coruña",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Lunes 24 de Agosto 2026",
+    "fecha_iso": "2026-08-24",
+    "hora": "16:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "DSports 2 | Recomendado",
+        "calidad": "720p",
+        "url": "https://streamxhd.click/channel/?id=dsports2"
+      },
+      {
+        "nombre": "Dsports 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=dsports2"
+      },
+      {
+        "nombre": "ESPN +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espnplus2"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espndeportes"
+      },
+      {
+        "nombre": "Premier Sports 1 UK",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=premier1uk"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera B: Tigres vs Unión Magdalena",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Lunes 24 de Agosto 2026",
+    "fecha_iso": "2026-08-24",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Win Fútbol +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=winplus"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Paraguay: Libertad vs Sportivo San Lorenzo",
+    "categoria": "futbol",
+    "clase": "LIGAPY",
+    "fecha": "Lunes 24 de Agosto 2026",
+    "fecha_iso": "2026-08-24",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Tigo Sports",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tigo1"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Tigre vs Central Córdoba",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Lunes 24 de Agosto 2026",
+    "fecha_iso": "2026-08-24",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tntsports"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz1"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera B: Patriotas Boyacá vs Atlético Cali",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Lunes 24 de Agosto 2026",
+    "fecha_iso": "2026-08-24",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Win Fútbol +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=winplus"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Botafogo vs Athletico Paranaense",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Lunes 24 de Agosto 2026",
+    "fecha_iso": "2026-08-24",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz2"
+      },
+      {
+        "nombre": "SporTV 1",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=sporttvbr1"
+      },
+      {
+        "nombre": "Premiere 1",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=premiere1"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Chile: Everton vs Universidad de Concepción",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Lunes 24 de Agosto 2026",
+    "fecha_iso": "2026-08-24",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports CL",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tntsportschile"
+      },
+      {
+        "nombre": "MAX 1",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=max1"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Ecuador: Libertad vs Macará",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Lunes 24 de Agosto 2026",
+    "fecha_iso": "2026-08-24",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Lanús vs Argentinos Juniors",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Lunes 24 de Agosto 2026",
+    "fecha_iso": "2026-08-24",
+    "hora": "21:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tntsports"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz3"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Talleres Córdoba vs Rosario Central",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Lunes 24 de Agosto 2026",
+    "fecha_iso": "2026-08-24",
+    "hora": "21:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN Premium",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espnpremium"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz4"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera B: Internacional Palmira vs Barranquilla",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Lunes 24 de Agosto 2026",
+    "fecha_iso": "2026-08-24",
+    "hora": "21:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Win Fútbol +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=winplus"
+      },
+      {
+        "nombre": "Win Sports",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=winsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX Femenil: Atlas vs Tijuana",
+    "categoria": "futbol",
+    "clase": "MEX",
+    "fecha": "Lunes 24 de Agosto 2026",
+    "fecha_iso": "2026-08-24",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "FOX One 4",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=foxone4"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Diamondbacks vs Cubs",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Lunes 24 de Agosto 2026",
+    "fecha_iso": "2026-08-24",
+    "hora": "22:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn3"
       }
     ]
   }
