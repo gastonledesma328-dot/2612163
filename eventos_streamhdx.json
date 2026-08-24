@@ -1,274 +1,5 @@
 [
   {
-    "titulo": "Liga 1: Melgar vs Alianza Lima",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "17:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz13"
-      },
-      {
-        "nombre": "L1MAX",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=l1max"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Ecuador: Delfín vs Aucas",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "17:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: New England vs New York City",
-    "categoria": "futbol",
-    "clase": "MLS",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "17:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=appletv1"
-      }
-    ]
-  },
-  {
-    "titulo": "ATP M1000 Cincinnati: Final",
-    "categoria": "futbol",
-    "clase": "ATP",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "17:40",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Costa Rica: Inter San Carlos vs Deportivo Saprissa",
-    "categoria": "futbol",
-    "clase": "CR",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "18:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "FUTV",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=futv"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Honduras: Marathón vs Real España",
-    "categoria": "futbol",
-    "clase": "HON",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "18:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Deportes TVC",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=deportestvc"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Colombia: Deportivo Pasto vs Llaneros",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "18:05",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz14"
-      },
-      {
-        "nombre": "Win Fútbol +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Chapecoense vs São Paulo",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz15"
-      },
-      {
-        "nombre": "Premiere 4",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=premiere4"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Santos vs Mirassol",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz16"
-      },
-      {
-        "nombre": "Premiere 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=premiere2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Uruguay: Nacional vs Progreso",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney28"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX Femenil: Pachuca vs Guadalajara",
-    "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "FOX One 4",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=foxone4"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Atlético San Luis vs Pachuca",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney30"
-      },
-      {
-        "nombre": "Vix 1",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=vix1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: River Plate vs Vélez Sarsfield",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "19:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney29"
-      },
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tntsports"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz17"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Coritiba vs Corinthians",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Domingo 23 de Agosto 2026",
-    "fecha_iso": "2026-08-23",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz18"
-      },
-      {
-        "nombre": "Premiere 1",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=premiere1"
-      }
-    ]
-  },
-  {
     "titulo": "Liga Chile: O'Higgins vs Palestino",
     "categoria": "futbol",
     "clase": "CH",
@@ -286,6 +17,27 @@
         "nombre": "MAX 1",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=max1"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Atlético San Luis vs Pachuca",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Domingo 23 de Agosto 2026",
+    "fecha_iso": "2026-08-23",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney30"
+      },
+      {
+        "nombre": "Vix 1",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=vix1"
       }
     ]
   },
@@ -474,9 +226,14 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Premier Sports 2 UK Global",
+        "nombre": "Premier Sports 2 | Recomendado",
         "calidad": "720p",
         "url": "https://streamxhd.click/channel/?id=premier2uk"
+      },
+      {
+        "nombre": "Como IT | Recomendado",
+        "calidad": "720p",
+        "url": "https://streamxhd.click/channel/?id=como_it1"
       },
       {
         "nombre": "Disney +",
