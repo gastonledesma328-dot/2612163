@@ -1,94 +1,5 @@
 [
   {
-    "titulo": "Serie A: Bologna vs Lazio",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Lunes 24 de Agosto 2026",
-    "fecha_iso": "2026-08-24",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "Universo",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=universo"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Arabia Saudita: NEOM vs Al Qadisiya",
-    "categoria": "futbol",
-    "clase": "ARA",
-    "fecha": "Lunes 24 de Agosto 2026",
-    "fecha_iso": "2026-08-24",
-    "hora": "13:40",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "FOX ONE 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=foxone2"
-      }
-    ]
-  },
-  {
-    "titulo": "La Liga 2: Celta de Vigo II vs FC Andorra",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Lunes 24 de Agosto 2026",
-    "fecha_iso": "2026-08-24",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "LaLiga Hypermotion",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=laligahypermotion"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga: Osasuna vs Levante",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Lunes 24 de Agosto 2026",
-    "fecha_iso": "2026-08-24",
-    "hora": "14:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "ESPN 4",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn4"
-      },
-      {
-        "nombre": "ESPN +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espnplus1"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espndeportes"
-      }
-    ]
-  },
-  {
     "titulo": "Liga Arabia Saudita: Al Ittihad vs Al Hazm",
     "categoria": "futbol",
     "clase": "ARA",
@@ -143,6 +54,11 @@
         "nombre": "ESPN 2",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "Caze TV 2 | Recomendado",
+        "calidad": "720p",
+        "url": "https://streamxhd.click/channel/?id=cazetv2"
       }
     ]
   },
@@ -187,9 +103,9 @@
         "url": "https://streamxhd.com/live1.php?stream=max1"
       },
       {
-        "nombre": "Telemundo",
+        "nombre": "Universo",
         "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=telemundo"
+        "url": "https://streamxhd.com/live1.php?stream=universo"
       }
     ]
   },
@@ -232,6 +148,11 @@
         "nombre": "ESPN +",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=espnplus2"
+      },
+      {
+        "nombre": "Caze TV 3 | Recomendado",
+        "calidad": "720p",
+        "url": "https://streamxhd.click/channel/?id=cazetv3"
       },
       {
         "nombre": "ESPN Deportes",
