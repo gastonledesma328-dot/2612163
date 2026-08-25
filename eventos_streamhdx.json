@@ -1,31 +1,5 @@
 [
   {
-    "titulo": "UEFA Champions League: Sabah vs Hapoel Be'er Sheva",
-    "categoria": "futbol",
-    "clase": "CHA",
-    "fecha": "Martes 25 de Agosto 2026",
-    "fecha_iso": "2026-08-25",
-    "hora": "13:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "HBO Max 1",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=max1"
-      },
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
     "titulo": "Liga Arabia Saudita: Al Ittifaq vs Al Nassr",
     "categoria": "futbol",
     "clase": "ARA",
