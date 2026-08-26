@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "ESPN Knockout: Nikita Tszyu vs Ben Mahoney",
-    "categoria": "box",
-    "clase": "BOX",
-    "fecha": "Miércoles 26 de Agosto 2026",
-    "fecha_iso": "2026-08-26",
-    "hora": "06:00",
-    "duracion_min": 400,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "La Vuelta a España: Etapa #5",
     "categoria": "futbol",
     "clase": "CICLISMO",
@@ -105,7 +89,7 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Tigo Sports 1",
+        "nombre": "Tigo Sports",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=tigo1"
       }
@@ -340,9 +324,9 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Tigo Sports 2",
+        "nombre": "Tigo Sports",
         "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tigo2"
+        "url": "https://streamxhd.com/live1.php?stream=tigo1"
       }
     ]
   },
