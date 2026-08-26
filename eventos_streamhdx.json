@@ -1,26 +1,5 @@
 [
   {
-    "titulo": "Liga Colombia: Cúcuta Deportivo vs Alianza",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Martes 25 de Agosto 2026",
-    "fecha_iso": "2026-08-25",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz2"
-      },
-      {
-        "nombre": "Win Fútbol +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Centroamericana: Cartaginés vs FAS",
     "categoria": "futbol",
     "clase": "CONCACAF",
