@@ -1,151 +1,5 @@
 [
   {
-    "titulo": "Liga Colombia: Atlético Nacional vs Deportivo Cali",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Miércoles 26 de Agosto 2026",
-    "fecha_iso": "2026-08-26",
-    "hora": "22:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz5"
-      },
-      {
-        "nombre": "Win Fútbol +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Centroamericana: Alajuelense vs Plaza Amador",
-    "categoria": "futbol",
-    "clase": "CONCACAF",
-    "fecha": "Miércoles 26 de Agosto 2026",
-    "fecha_iso": "2026-08-26",
-    "hora": "23:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney12"
-      },
-      {
-        "nombre": "FOX One",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=foxone"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Centroamericana: Xelajú vs Firpo",
-    "categoria": "futbol",
-    "clase": "CONCACAF",
-    "fecha": "Miércoles 26 de Agosto 2026",
-    "fecha_iso": "2026-08-26",
-    "hora": "23:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney13"
-      }
-    ]
-  },
-  {
-    "titulo": "Leagues Cup: América vs Columbus Crew",
-    "categoria": "futbol",
-    "clase": "LEAGUESCUP",
-    "fecha": "Miércoles 26 de Agosto 2026",
-    "fecha_iso": "2026-08-26",
-    "hora": "23:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TUDN MX",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tudnmx"
-      },
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=appletv3"
-      },
-      {
-        "nombre": "Apple TV English",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=appletv4"
-      },
-      {
-        "nombre": "Canal 9 MX Global",
-        "calidad": "720p",
-        "url": "https://streamxhd.click/channel/?id=canal9mx"
-      },
-      {
-        "nombre": "Canal 9 MX",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=canal9mx"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tudn_usa"
-      }
-    ]
-  },
-  {
-    "titulo": "La Vuelta: Etapa #6",
-    "categoria": "futbol",
-    "clase": "CICLISMO",
-    "fecha": "Jueves 27 de Agosto 2026",
-    "fecha_iso": "2026-08-27",
-    "hora": "09:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Sorteo de la Champions League",
-    "categoria": "futbol",
-    "clase": "CHA",
-    "fecha": "Jueves 27 de Agosto 2026",
-    "fecha_iso": "2026-08-27",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "FOX Sports 1 AR",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fox1ar"
-      },
-      {
-        "nombre": "Espn 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "HBO Max 1",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=max1"
-      }
-    ]
-  },
-  {
     "titulo": "UEFA Conference League: Qarabağ vs Twente",
     "categoria": "futbol",
     "clase": "UECL",
@@ -155,7 +9,7 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Evento 2",
+        "nombre": "Evento 1",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=evento1"
       }
@@ -187,7 +41,7 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Evento 3",
+        "nombre": "Evento 2",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=evento2"
       }
@@ -219,7 +73,7 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Evento 1",
+        "nombre": "Evento 3",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=evento3"
       }
@@ -267,7 +121,7 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Evento 6",
+        "nombre": "Evento 7",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=evento7"
       }
@@ -283,7 +137,7 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Evento 5",
+        "nombre": "Evento 6",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=evento6"
       }
@@ -299,9 +153,25 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Evento 2",
+        "nombre": "Evento 5",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=evento5"
+      }
+    ]
+  },
+  {
+    "titulo": "Carabao CUP: Chelsea vs Luton Town",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Jueves 27 de Agosto 2026",
+    "fecha_iso": "2026-08-27",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney1"
       }
     ]
   },
@@ -341,7 +211,7 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Evento 8",
+        "nombre": "Evento 9",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=evento9"
       }
@@ -357,7 +227,7 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Evento 7",
+        "nombre": "Evento 8",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=evento8"
       }
@@ -376,6 +246,22 @@
         "nombre": "XSports",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=xsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Carabao CUP: Fulham vs AFC Wimbledon",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Jueves 27 de Agosto 2026",
+    "fecha_iso": "2026-08-27",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Como 1",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=como1"
       }
     ]
   },
@@ -462,7 +348,7 @@
     "duracion_min": 140,
     "canales": [
       {
-        "nombre": "Evento 9",
+        "nombre": "Evento 10",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=evento10"
       }
