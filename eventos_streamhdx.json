@@ -1,148 +1,5 @@
 [
   {
-    "titulo": "NFL Pretemporada: Eagles vs Bengals",
-    "categoria": "futbol",
-    "clase": "NFL",
-    "fecha": "Viernes 28 de Agosto 2026",
-    "fecha_iso": "2026-08-28",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "LFA 240: Dedrek Sanders vs Luis Gómez",
-    "categoria": "box",
-    "clase": "BOX",
-    "fecha": "Viernes 28 de Agosto 2026",
-    "fecha_iso": "2026-08-28",
-    "hora": "22:00",
-    "duracion_min": 400,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Atlante vs León",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Viernes 28 de Agosto 2026",
-    "fecha_iso": "2026-08-28",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tudn_usa"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney14"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Necaxa vs Cruz Azul",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Viernes 28 de Agosto 2026",
-    "fecha_iso": "2026-08-28",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "FOX One",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=foxone"
-      },
-      {
-        "nombre": "FOX Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fox_deportes_usa"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Nacional: Juticalpa vs UPNFM",
-    "categoria": "futbol",
-    "clase": "HON",
-    "fecha": "Viernes 28 de Agosto 2026",
-    "fecha_iso": "2026-08-28",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Deportes TVC",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=deportestvc"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga de Expansión MX: Correcaminos UAT vs Durango",
-    "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Viernes 28 de Agosto 2026",
-    "fecha_iso": "2026-08-28",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney13"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga de Expansión MX: Dorados vs Atlético Morelia",
-    "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Viernes 28 de Agosto 2026",
-    "fecha_iso": "2026-08-28",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney12"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Tijuana vs Pumas UNAM",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Sábado 29 de Agosto 2026",
-    "fecha_iso": "2026-08-29",
-    "hora": "00:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "FOX One",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=foxone"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tudn_usa"
-      }
-    ]
-  },
-  {
     "titulo": "UFC: Preliminares",
     "categoria": "ufc",
     "clase": "UFC",
@@ -186,6 +43,27 @@
         "nombre": "ESPN",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Pachuca vs Guadalajara",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Sábado 29 de Agosto 2026",
+    "fecha_iso": "2026-08-29",
+    "hora": "07:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "FOX One",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=foxone"
+      },
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tudn_usa"
       }
     ]
   },
@@ -418,6 +296,27 @@
         "nombre": "FOX Sports 1 AR",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=fox1ar"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Chile: Deportes Limache vs Everton",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Sábado 29 de Agosto 2026",
+    "fecha_iso": "2026-08-29",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tntsportschile"
+      },
+      {
+        "nombre": "MAX 1",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=max1"
       }
     ]
   },
@@ -1274,27 +1173,6 @@
     ]
   },
   {
-    "titulo": "Liga Chile: Deportes Limache vs Everton",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Sábado 29 de Agosto 2026",
-    "fecha_iso": "2026-08-29",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tntsportschile"
-      },
-      {
-        "nombre": "MAX 1",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=max1"
-      }
-    ]
-  },
-  {
     "titulo": "Liga Paraguay: Deportivo Recoleta vs Olimpia",
     "categoria": "futbol",
     "clase": "LIGAPY",
@@ -1381,27 +1259,6 @@
         "nombre": "Vix 1",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=vix1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Pachuca vs Guadalajara",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Sábado 29 de Agosto 2026",
-    "fecha_iso": "2026-08-29",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "FOX One",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=foxone"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tudn_usa"
       }
     ]
   },
