@@ -1,153 +1,5 @@
 [
   {
-    "titulo": "ESPN Knockout: Mauricio Lara vs Carlos Ornelas",
-    "categoria": "box",
-    "clase": "BOX",
-    "fecha": "Sábado 29 de Agosto 2026",
-    "fecha_iso": "2026-08-29",
-    "hora": "21:00",
-    "duracion_min": 400,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Colorado Rapids vs Real Salt Lake",
-    "categoria": "futbol",
-    "clase": "MLS",
-    "fecha": "Sábado 29 de Agosto 2026",
-    "fecha_iso": "2026-08-29",
-    "hora": "22:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=appletv13"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Pérez Zeledón vs Alajuelense",
-    "categoria": "futbol",
-    "clase": "CR",
-    "fecha": "Sábado 29 de Agosto 2026",
-    "fecha_iso": "2026-08-29",
-    "hora": "23:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "FUTV",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=futv"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Portland Timbers vs Austin",
-    "categoria": "futbol",
-    "clase": "MLS",
-    "fecha": "Sábado 29 de Agosto 2026",
-    "fecha_iso": "2026-08-29",
-    "hora": "23:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=appletv14"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: San Diego vs LA Galaxy",
-    "categoria": "futbol",
-    "clase": "MLS",
-    "fecha": "Sábado 29 de Agosto 2026",
-    "fecha_iso": "2026-08-29",
-    "hora": "23:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=appletv15"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX Femenil: Juárez vs Cruz Azul",
-    "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Domingo 30 de Agosto 2026",
-    "fecha_iso": "2026-08-30",
-    "hora": "00:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "FOX One 4",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=foxone4"
-      },
-      {
-        "nombre": "FOX Deportes USA",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fox_deportes_usa"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Santos Laguna vs Tigres UANL",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Domingo 30 de Agosto 2026",
-    "fecha_iso": "2026-08-30",
-    "hora": "00:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TUDN MX",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tudnmx"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=canal5mx"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tudn_usa"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Toluca vs Juárez",
-    "categoria": "futbol",
-    "clase": "LIGAMX",
-    "fecha": "Domingo 30 de Agosto 2026",
-    "fecha_iso": "2026-08-30",
-    "hora": "00:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Vix 1",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=vix1"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tudn_usa"
-      }
-    ]
-  },
-  {
     "titulo": "GP Aragón: Carrera Moto3 / Moto2 / MotoGP",
     "categoria": "futbol",
     "clase": "MotoGP",
@@ -448,6 +300,11 @@
         "nombre": "ESPN +",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=espnplus1"
+      },
+      {
+        "nombre": "M+ La Liga",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=mlaliga"
       },
       {
         "nombre": "ESPN Deportes",
@@ -982,14 +839,14 @@
         "url": "https://streamxhd.com/live1.php?stream=disney20"
       },
       {
-        "nombre": "ESPN 4",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn4"
-      },
-      {
         "nombre": "ESPN +",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=espnplus3"
+      },
+      {
+        "nombre": "ESPN 5",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn5"
       },
       {
         "nombre": "ESPN Deportes",
@@ -1459,6 +1316,27 @@
         "nombre": "MAX 1",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=max1"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Toluca vs Juárez",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Domingo 30 de Agosto 2026",
+    "fecha_iso": "2026-08-30",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Vix 1",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=vix1"
+      },
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tudn_usa"
       }
     ]
   },
