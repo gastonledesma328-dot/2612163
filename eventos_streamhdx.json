@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "Ciclismo: La Vuelta - Etapa #10",
-    "categoria": "futbol",
-    "clase": "CICLISMO",
-    "fecha": "Martes 01 de Septiembre 2026",
-    "fecha_iso": "2026-09-01",
-    "hora": "09:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Rusia: Akron vs Lokomotiv Moskva",
-    "categoria": "futbol",
-    "clase": "RUS",
-    "fecha": "Martes 01 de Septiembre 2026",
-    "fecha_iso": "2026-09-01",
-    "hora": "10:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=dsports2"
-      }
-    ]
-  },
-  {
     "titulo": "US Open: F. Comesana (ARG) vs. F. Cobolli (ITA)",
     "categoria": "futbol",
     "clase": "USOPEN",
@@ -44,22 +12,6 @@
         "nombre": "ESPN 3",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Italia: Parma vs Cremonese",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Martes 01 de Septiembre 2026",
-    "fecha_iso": "2026-09-01",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=dsports2"
       }
     ]
   },
