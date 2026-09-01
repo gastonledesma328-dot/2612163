@@ -1,52 +1,5 @@
 [
   {
-    "titulo": "Liga Profesional: Defensa y Justicia vs Platense",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Lunes 31 de Agosto 2026",
-    "fecha_iso": "2026-08-31",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN Premium",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espnpremium"
-      },
-      {
-        "nombre": "VIX +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=vix1"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Estudiantes vs Newell's Old Boys",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Lunes 31 de Agosto 2026",
-    "fecha_iso": "2026-08-31",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tntsports"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz2"
-      }
-    ]
-  },
-  {
     "titulo": "Liga Chile: Unión La Calera vs La Serena",
     "categoria": "futbol",
     "clase": "CH",
@@ -248,6 +201,330 @@
         "nombre": "Win Fútbol +",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=winplus"
+      }
+    ]
+  },
+  {
+    "titulo": "Ciclismo: La Vuelta - Etapa #10",
+    "categoria": "futbol",
+    "clase": "CICLISMO",
+    "fecha": "Martes 01 de Septiembre 2026",
+    "fecha_iso": "2026-09-01",
+    "hora": "09:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de Rusia: Akron vs Lokomotiv Moskva",
+    "categoria": "futbol",
+    "clase": "RUS",
+    "fecha": "Martes 01 de Septiembre 2026",
+    "fecha_iso": "2026-09-01",
+    "hora": "10:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "DSports 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=dsports2"
+      }
+    ]
+  },
+  {
+    "titulo": "US Open: F. Comesana (ARG) vs. F. Cobolli (ITA)",
+    "categoria": "futbol",
+    "clase": "USOPEN",
+    "fecha": "Martes 01 de Septiembre 2026",
+    "fecha_iso": "2026-09-01",
+    "hora": "12:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Italia: Parma vs Cremonese",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Martes 01 de Septiembre 2026",
+    "fecha_iso": "2026-09-01",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "DSports 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=dsports2"
+      }
+    ]
+  },
+  {
+    "titulo": "US Open: F. Misolic (AUT) vs. F. Cerundolo (ARG)",
+    "categoria": "futbol",
+    "clase": "USOPEN",
+    "fecha": "Martes 01 de Septiembre 2026",
+    "fecha_iso": "2026-09-01",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de Rusia: Rostov vs CSKA Moskva",
+    "categoria": "futbol",
+    "clase": "RUS",
+    "fecha": "Martes 01 de Septiembre 2026",
+    "fecha_iso": "2026-09-01",
+    "hora": "14:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "DSports +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=dsportsplus"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Arabia Saudita: Al Hilal vs Al-Ahli",
+    "categoria": "futbol",
+    "clase": "ARA",
+    "fecha": "Martes 01 de Septiembre 2026",
+    "fecha_iso": "2026-09-01",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "FOX One",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=foxone"
+      }
+    ]
+  },
+  {
+    "titulo": "DFB Pokal: HEBC vs Borussia Dortmund",
+    "categoria": "futbol",
+    "clase": "ALE",
+    "fecha": "Martes 01 de Septiembre 2026",
+    "fecha_iso": "2026-09-01",
+    "hora": "15:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Como 1",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=como1"
+      }
+    ]
+  },
+  {
+    "titulo": "Championship: Stoke City vs Norwich City",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Martes 01 de Septiembre 2026",
+    "fecha_iso": "2026-09-01",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "ESPN 5",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Italia: Torino vs Monza",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Martes 01 de Septiembre 2026",
+    "fecha_iso": "2026-09-01",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "DSports",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Paraguay: Rubio Ñú vs Sportivo San Lorenzo",
+    "categoria": "futbol",
+    "clase": "LIGAPY",
+    "fecha": "Martes 01 de Septiembre 2026",
+    "fecha_iso": "2026-09-01",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Tigo Sports",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tigo1"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Ecuador: Delfín vs Técnico Universitario",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Martes 01 de Septiembre 2026",
+    "fecha_iso": "2026-09-01",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Paraguay: 2 de Mayo vs Sportivo Luqueño",
+    "categoria": "futbol",
+    "clase": "LIGAPY",
+    "fecha": "Martes 01 de Septiembre 2026",
+    "fecha_iso": "2026-09-01",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Tigo Sports",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tigo1"
+      }
+    ]
+  },
+  {
+    "titulo": "US Open: US Open | Cobertura 1 | En español",
+    "categoria": "futbol",
+    "clase": "USOPEN",
+    "fecha": "Martes 01 de Septiembre 2026",
+    "fecha_iso": "2026-09-01",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "US Open: US Open | Cobertura 2 | En español",
+    "categoria": "futbol",
+    "clase": "USOPEN",
+    "fecha": "Martes 01 de Septiembre 2026",
+    "fecha_iso": "2026-09-01",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa de Brasil: Atlético Mineiro vs Cruzeiro",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Martes 01 de Septiembre 2026",
+    "fecha_iso": "2026-09-01",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "DSports",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "SporTV 1",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=sporttvbr1"
+      },
+      {
+        "nombre": "Premiere 1",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=premiere1"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Ecuador: LDU Quito vs Mushuc Runa",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Martes 01 de Septiembre 2026",
+    "fecha_iso": "2026-09-01",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Colombia: Fortaleza CEIF vs Once Caldas",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Martes 01 de Septiembre 2026",
+    "fecha_iso": "2026-09-01",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz1"
+      },
+      {
+        "nombre": "Win Fútbol +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=winplus"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: Arizona Diamondbacks vs Philadelphia Phillies",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Martes 01 de Septiembre 2026",
+    "fecha_iso": "2026-09-01",
+    "hora": "22:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn4"
       }
     ]
   }
