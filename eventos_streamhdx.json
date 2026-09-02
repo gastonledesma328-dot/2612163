@@ -16,22 +16,6 @@
     ]
   },
   {
-    "titulo": "Copa de Rusia: Zenit vs Dynamo Makhachkala",
-    "categoria": "futbol",
-    "clase": "RUS",
-    "fecha": "Miércoles 02 de Septiembre 2026",
-    "fecha_iso": "2026-09-02",
-    "hora": "12:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=dsportsplus"
-      }
-    ]
-  },
-  {
     "titulo": "US Open: Cobertura 1 | En español",
     "categoria": "futbol",
     "clase": "USOPEN",
@@ -44,112 +28,6 @@
         "nombre": "ESPN 2",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Rusia: Spartak Moskva vs Rodina Moskva",
-    "categoria": "futbol",
-    "clase": "RUS",
-    "fecha": "Miércoles 02 de Septiembre 2026",
-    "fecha_iso": "2026-09-02",
-    "hora": "14:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=dsportsplus"
-      }
-    ]
-  },
-  {
-    "titulo": "DFB Pokal: Osnabrück vs Bayern München",
-    "categoria": "futbol",
-    "clase": "ALE",
-    "fecha": "Miércoles 02 de Septiembre 2026",
-    "fecha_iso": "2026-09-02",
-    "hora": "15:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Premier Sports 2 UK",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=premier2uk"
-      }
-    ]
-  },
-  {
-    "titulo": "Championship: Burnley vs Middlesbrough",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Miércoles 02 de Septiembre 2026",
-    "fecha_iso": "2026-09-02",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "ESPN 5",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Ecuador: Macará vs Manta",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Miércoles 02 de Septiembre 2026",
-    "fecha_iso": "2026-09-02",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Paraguay: Nacional Asunción vs Libertad",
-    "categoria": "futbol",
-    "clase": "LIGAPY",
-    "fecha": "Miércoles 02 de Septiembre 2026",
-    "fecha_iso": "2026-09-02",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Tigo Sports 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tigo2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Paraguay: Sportivo Ameliano vs Sportivo Trinidense",
-    "categoria": "futbol",
-    "clase": "LIGAPY",
-    "fecha": "Miércoles 02 de Septiembre 2026",
-    "fecha_iso": "2026-09-02",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Tigo Sports",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tigo1"
       }
     ]
   },
