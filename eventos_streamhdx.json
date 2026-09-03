@@ -1,52 +1,5 @@
 [
   {
-    "titulo": "Leagues Cup: América vs Monterrey",
-    "categoria": "futbol",
-    "clase": "LEAGUESCUP",
-    "fecha": "Jueves 03 de Septiembre 2026",
-    "fecha_iso": "2026-09-03",
-    "hora": "00:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Apple TV Español",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=appletv2"
-      },
-      {
-        "nombre": "TUDN MX",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tudnmx"
-      },
-      {
-        "nombre": "Canal 9 MX",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=canal9mx"
-      },
-      {
-        "nombre": "TUDN USA",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tudn_usa"
-      }
-    ]
-  },
-  {
-    "titulo": "Ciclismo: La Vuelta - Etapa #12",
-    "categoria": "futbol",
-    "clase": "CICLISMO",
-    "fecha": "Jueves 03 de Septiembre 2026",
-    "fecha_iso": "2026-09-03",
-    "hora": "09:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "US Open: Segunda Ronda | Cobertura 2",
     "categoria": "futbol",
     "clase": "USOPEN",
@@ -59,27 +12,6 @@
         "nombre": "ESPN 3",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa de Italia: Palermo vs Mantova",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Jueves 03 de Septiembre 2026",
-    "fecha_iso": "2026-09-03",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=dsports2"
-      },
-      {
-        "nombre": "Premier Sports 1 UK",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=premier1uk"
       }
     ]
   },
