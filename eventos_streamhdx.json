@@ -1,159 +1,5 @@
 [
   {
-    "titulo": "US Open: Segunda Ronda | Cobertura 1",
-    "categoria": "futbol",
-    "clase": "USOPEN",
-    "fecha": "Jueves 03 de Septiembre 2026",
-    "fecha_iso": "2026-09-03",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "US Open: Segunda Ronda | Cobertura 2",
-    "categoria": "futbol",
-    "clase": "USOPEN",
-    "fecha": "Jueves 03 de Septiembre 2026",
-    "fecha_iso": "2026-09-03",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "ESPN Knockout: Lenar Perez vs Thabiso Mchunu",
-    "categoria": "box",
-    "clase": "BOX",
-    "fecha": "Jueves 03 de Septiembre 2026",
-    "fecha_iso": "2026-09-03",
-    "hora": "20:30",
-    "duracion_min": 400,
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn4"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Colombia: Deportivo Pereira vs Medellín",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Jueves 03 de Septiembre 2026",
-    "fecha_iso": "2026-09-03",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz3"
-      },
-      {
-        "nombre": "Win Sports +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Honduras: Olimpia vs Platense",
-    "categoria": "futbol",
-    "clase": "HON",
-    "fecha": "Jueves 03 de Septiembre 2026",
-    "fecha_iso": "2026-09-03",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Deportes TVC",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=deportestvc"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP Italia - Práctica #1",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 04 de Septiembre 2026",
-    "fecha_iso": "2026-09-04",
-    "hora": "07:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "DAZN F1",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=daznf1"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP Italia - Práctica #1 - Cámara On Board",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 04 de Septiembre 2026",
-    "fecha_iso": "2026-09-04",
-    "hora": "07:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney2"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP Italia - Práctica #1 - On Board Colapinto",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 04 de Septiembre 2026",
-    "fecha_iso": "2026-09-04",
-    "hora": "07:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney3"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP Italia - Práctica #1 - On Board Leclerc",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 04 de Septiembre 2026",
-    "fecha_iso": "2026-09-04",
-    "hora": "07:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney4"
-      }
-    ]
-  },
-  {
     "titulo": "Ciclismo: La Vuelta - Etapa #13",
     "categoria": "futbol",
     "clase": "CICLISMO",
@@ -187,6 +33,11 @@
         "nombre": "DAZN F1",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=daznf1"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=canal5mx"
       }
     ]
   },
