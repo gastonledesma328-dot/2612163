@@ -16,80 +16,6 @@
     ]
   },
   {
-    "titulo": "F1: GP Italia - Práctica #2",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 04 de Septiembre 2026",
-    "fecha_iso": "2026-09-04",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney5"
-      },
-      {
-        "nombre": "DAZN F1",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=daznf1"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=canal5mx"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP Italia - Práctica #2 - Cámara On Board",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 04 de Septiembre 2026",
-    "fecha_iso": "2026-09-04",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney6"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP Italia - Práctica #2 - On Board Colapinto",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 04 de Septiembre 2026",
-    "fecha_iso": "2026-09-04",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney7"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP Italia - Práctica #2 - On Board Leclerc",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Viernes 04 de Septiembre 2026",
-    "fecha_iso": "2026-09-04",
-    "hora": "11:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney8"
-      }
-    ]
-  },
-  {
     "titulo": "US Open: Tercera Ronda | Cobertura 1",
     "categoria": "futbol",
     "clase": "USOPEN",
@@ -139,6 +65,11 @@
         "nombre": "Espn 4",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=espn4"
+      },
+      {
+        "nombre": "Fox One MX",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=foxone"
       },
       {
         "nombre": "Fanatiz",
@@ -321,7 +252,7 @@
       {
         "nombre": "HBO Max",
         "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=hbomax"
+        "url": "https://streamxhd.com/live1.php?stream=max1"
       }
     ]
   },
