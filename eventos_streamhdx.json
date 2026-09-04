@@ -48,22 +48,6 @@
     ]
   },
   {
-    "titulo": "Liga Ecuador: Libertad vs Emelec",
-    "categoria": "futbol",
-    "clase": "ECUA",
-    "fecha": "Jueves 03 de Septiembre 2026",
-    "fecha_iso": "2026-09-03",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
     "titulo": "Liga Colombia: Deportivo Pereira vs Medellín",
     "categoria": "futbol",
     "clase": "COL",
