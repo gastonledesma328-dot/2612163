@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "US Open: Tercera Ronda | Cobertura 2 | En español",
-    "categoria": "futbol",
-    "clase": "USOPEN",
-    "fecha": "Sábado 05 de Septiembre 2026",
-    "fecha_iso": "2026-09-05",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn4"
-      }
-    ]
-  },
-  {
-    "titulo": "US Open: Tercera Ronda | Cobertura 1 | En español",
-    "categoria": "futbol",
-    "clase": "USOPEN",
-    "fecha": "Sábado 05 de Septiembre 2026",
-    "fecha_iso": "2026-09-05",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
     "titulo": "ESPN Knockout: Katie Taylor vs Flora Pili",
     "categoria": "box",
     "clase": "BOX",
@@ -70,112 +38,6 @@
         "nombre": "Paramount+ | Portugués",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=paramount3"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga 1: Sport Huancayo vs Sport Boys",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Sábado 05 de Septiembre 2026",
-    "fecha_iso": "2026-09-05",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "L1 Max",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=l1max"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Colombia: Santa Fe vs Fortaleza CEIF",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Sábado 05 de Septiembre 2026",
-    "fecha_iso": "2026-09-05",
-    "hora": "17:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz14"
-      },
-      {
-        "nombre": "Win Sports +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Chile: Universidad Chile vs Coquimbo Unido",
-    "categoria": "futbol",
-    "clase": "CH",
-    "fecha": "Sábado 05 de Septiembre 2026",
-    "fecha_iso": "2026-09-05",
-    "hora": "18:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Colombia: Boyacá Chicó vs Once Caldas",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Sábado 05 de Septiembre 2026",
-    "fecha_iso": "2026-09-05",
-    "hora": "18:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz8"
-      },
-      {
-        "nombre": "Win Sports +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Uruguay: Deportivo Maldonado vs Wanderers",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Sábado 05 de Septiembre 2026",
-    "fecha_iso": "2026-09-05",
-    "hora": "18:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney5"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Fuerte San Francisco vs FAS",
-    "categoria": "futbol",
-    "clase": "SLV",
-    "fecha": "Sábado 05 de Septiembre 2026",
-    "fecha_iso": "2026-09-05",
-    "hora": "18:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Eventos 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=evento2"
       }
     ]
   },
@@ -222,7 +84,7 @@
     "clase": "LIGAPY",
     "fecha": "Sábado 05 de Septiembre 2026",
     "fecha_iso": "2026-09-05",
-    "hora": "18:30",
+    "hora": "19:00",
     "duracion_min": 140,
     "canales": [
       {
@@ -402,6 +264,27 @@
     ]
   },
   {
+    "titulo": "Liga Colombia: Santa Fe vs Fortaleza CEIF",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Sábado 05 de Septiembre 2026",
+    "fecha_iso": "2026-09-05",
+    "hora": "20:25",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz14"
+      },
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=winplus"
+      }
+    ]
+  },
+  {
     "titulo": "MLS: Charlotte vs Houston Dynamo",
     "categoria": "futbol",
     "clase": "MLS",
@@ -573,6 +456,22 @@
         "nombre": "Fanatiz",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=fanatiz15"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Chile: Universidad Chile vs Coquimbo Unido",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Sábado 05 de Septiembre 2026",
+    "fecha_iso": "2026-09-05",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tntsportschile"
       }
     ]
   },
