@@ -1,26 +1,5 @@
 [
   {
-    "titulo": "Copa Mundial Sub-20 (F): Corea del Norte vs Portugal",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Lunes 07 de Septiembre 2026",
-    "fecha_iso": "2026-09-07",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=dsports2"
-      },
-      {
-        "nombre": "TUDN MX",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tudnmx"
-      }
-    ]
-  },
-  {
     "titulo": "US Open: Cobertura 2 |Octavos de Final",
     "categoria": "futbol",
     "clase": "USOPEN",
@@ -49,95 +28,6 @@
         "nombre": "ESPN 2",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Mundial Sub-20 (F): Costa Rica vs Colombia",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Lunes 07 de Septiembre 2026",
-    "fecha_iso": "2026-09-07",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=dsports2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Mundial Sub-20 (F): España vs Nigeria",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Lunes 07 de Septiembre 2026",
-    "fecha_iso": "2026-09-07",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TUDN MX",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tudnmx"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Cagliari vs Lecce",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Lunes 07 de Septiembre 2026",
-    "fecha_iso": "2026-09-07",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Universo",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=universo"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga: Getafe vs Celta de Vigo",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Lunes 07 de Septiembre 2026",
-    "fecha_iso": "2026-09-07",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "ESPN +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espnplus1"
-      },
-      {
-        "nombre": "M+ LaLiga",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=mlaliga"
-      },
-      {
-        "nombre": "ESPN 4",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn4"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espndeportes"
       }
     ]
   },
