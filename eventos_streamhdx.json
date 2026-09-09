@@ -1,72 +1,5 @@
 [
   {
-    "titulo": "Copa Libertadores: Fluminense vs Platense",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Martes 08 de Septiembre 2026",
-    "fecha_iso": "2026-09-08",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney15"
-      },
-      {
-        "nombre": "FOX Sports 1 AR",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fox1ar"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn"
-      },
-      {
-        "nombre": "Telefe",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=telefe"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Santa Fe vs Vasco da Gama",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Martes 08 de Septiembre 2026",
-    "fecha_iso": "2026-09-08",
-    "hora": "19:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports Global",
-        "calidad": "720p",
-        "url": "https://streamxhd.click/channel/?id=dsports"
-      },
-      {
-        "nombre": "DSports",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney14"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz1"
-      }
-    ]
-  },
-  {
     "titulo": "US Open: Cuartos de Final",
     "categoria": "futbol",
     "clase": "USOPEN",
@@ -91,11 +24,6 @@
     "hora": "21:30",
     "duracion_min": 140,
     "canales": [
-      {
-        "nombre": "ESPN Recomendado",
-        "calidad": "720p",
-        "url": "https://streamxhd.click/channel/?id=espn"
-      },
       {
         "nombre": "Disney +",
         "calidad": "720p",
@@ -126,6 +54,863 @@
         "nombre": "ESPN 4",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=espn4"
+      }
+    ]
+  },
+  {
+    "titulo": "La Vuelta: Etapa #17",
+    "categoria": "futbol",
+    "clase": "CICLISMO",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "09:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Mundial Sub-20 (F): Ghana vs Corea del Sur",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TUDN MX",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tudnmx"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Mundial Sub-20 (F): Italia vs Nueva Zelanda",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "DSports 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=dsports2"
+      }
+    ]
+  },
+  {
+    "titulo": "US Open: Cuartos de Final",
+    "categoria": "futbol",
+    "clase": "USOPEN",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "12:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Mundial Sub-20 (F): Francia vs Ecuador",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "DSports 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=dsports2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Mundial Sub-20 (F): Japón vs Estados Unidos",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Universo",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=universo"
+      },
+      {
+        "nombre": "TUDN MX",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tudnmx"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Champions League: Barcelona vs Feyenoord",
+    "categoria": "futbol",
+    "clase": "CHA",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "13:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney2"
+      },
+      {
+        "nombre": "Vix 1",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=vix1"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "FOX One",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=foxone"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Champions League: Stuttgart vs Viking",
+    "categoria": "futbol",
+    "clase": "CHA",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "13:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney3"
+      },
+      {
+        "nombre": "Max 1",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=max1"
+      },
+      {
+        "nombre": "Vix 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=vix2"
+      },
+      {
+        "nombre": "ESPN 5",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Arabia Saudita: Al Nassr vs Abha",
+    "categoria": "futbol",
+    "clase": "ARA",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "FOX One 3",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=foxone3"
+      },
+      {
+        "nombre": "FOX Deportes USA",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fox_deportes_usa"
+      },
+      {
+        "nombre": "SporTV 1",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=sporttvbr1"
+      }
+    ]
+  },
+  {
+    "titulo": "Carabao Cup: Chelsea vs Leeds United",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney9"
+      }
+    ]
+  },
+  {
+    "titulo": "Championship: Charlton Athletic vs Queens Park Rangers",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney8"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Champions League: Liverpool vs Atlético Madrid",
+    "categoria": "futbol",
+    "clase": "CHA",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney7"
+      },
+      {
+        "nombre": "Vix 5",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=vix5"
+      },
+      {
+        "nombre": "FOX Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "FOX One 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=foxone2"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Champions League: Napoli vs Arsenal",
+    "categoria": "futbol",
+    "clase": "CHA",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney6"
+      },
+      {
+        "nombre": "Max 3",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=max3"
+      },
+      {
+        "nombre": "Vix 4",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=vix4"
+      },
+      {
+        "nombre": "ESPN 5",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Champions League: PSG vs Slovan Bratislava",
+    "categoria": "futbol",
+    "clase": "CHA",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney5"
+      },
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn3"
+      },
+      {
+        "nombre": "FOX Sports 2 AR",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fox2ar"
+      },
+      {
+        "nombre": "FOX One",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=foxone"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Champions League: Sporting CP vs Galatasaray",
+    "categoria": "futbol",
+    "clase": "CHA",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney4"
+      },
+      {
+        "nombre": "Max 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=max2"
+      },
+      {
+        "nombre": "Vix 3",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=vix3"
+      },
+      {
+        "nombre": "ESPN 4",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn4"
+      }
+    ]
+  },
+  {
+    "titulo": "UEFA Youth League Sub-19: Liverpool vs Atlético Madrid",
+    "categoria": "futbol",
+    "clase": "YOUTH",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney1"
+      }
+    ]
+  },
+  {
+    "titulo": "Primeira Liga: Moreirense vs Benfica",
+    "categoria": "futbol",
+    "clase": "POR",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "16:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "DSports 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=dsports2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Argentina: Deportivo Riestra vs Banfield",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tycsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Palmeiras vs LDU Quito",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney11"
+      },
+      {
+        "nombre": "FOX Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Santos vs Atlético Mineiro",
+    "categoria": "futbol",
+    "clase": "SUD",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney10"
+      },
+      {
+        "nombre": "DSports AR",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=dsportsar"
+      },
+      {
+        "nombre": "ESPN 5",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn5"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz1"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Colombia: América de Cali vs Deportivo Pereira",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz3"
+      },
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=winplus"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Uruguay: Deportivo Maldonado vs Wanderers",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Eventos 1",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=evento1"
+      }
+    ]
+  },
+  {
+    "titulo": "US Open: Cuartos de Final",
+    "categoria": "futbol",
+    "clase": "USOPEN",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Atlanta United vs Orlando City SC",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv1"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: CF Montréal vs Charlotte",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: DC United vs Columbus Crew",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv3"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Toronto FC vs Nashville SC",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv4"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Philadelphia Union vs Cincinnati",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "20:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv5"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: New York City vs New England",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv6"
+      }
+    ]
+  },
+  {
+    "titulo": "NFL: Seattle Seahawks vs New England Patriots",
+    "categoria": "futbol",
+    "clase": "NFL",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney12"
+      },
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn3"
+      },
+      {
+        "nombre": "Universo",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=universo"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Estudiantes vs Corinthians",
+    "categoria": "futbol",
+    "clase": "LIB",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney13"
+      },
+      {
+        "nombre": "FOX Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fox1ar"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz4"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Austin vs Colorado Rapids",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv9"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Chicago Fire vs Inter Miami",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv7"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv8"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Houston Dynamo vs Real Salt Lake",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv11"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Minnesota United vs Dallas",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv10"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Centroamericana: Deportivo Saprissa vs Cartaginés",
+    "categoria": "futbol",
+    "clase": "CONCACAF",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "22:06",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney14"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Colombia: Deportivo Pasto vs Medellín",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "22:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz5"
+      },
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=winplus"
+      },
+      {
+        "nombre": "Win Sports",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=winsports"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Los Angeles FC vs New York RB",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "23:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv12"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Portland Timbers vs St. Louis City",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "23:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv13"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: San Diego vs SJ Earthquakes",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "23:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv14"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Vancouver Whitecaps vs LA Galaxy",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Miércoles 09 de Septiembre 2026",
+    "fecha_iso": "2026-09-09",
+    "hora": "23:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv15"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Centroamericana: Motagua vs Alianza",
+    "categoria": "futbol",
+    "clase": "CONCACAF",
+    "fecha": "Jueves 10 de Septiembre 2026",
+    "fecha_iso": "2026-09-10",
+    "hora": "00:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney15"
       }
     ]
   }
