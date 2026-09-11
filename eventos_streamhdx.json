@@ -1,168 +1,10 @@
 [
   {
-    "titulo": "Copa Mundial Sub-20 (F): Inglaterra vs Brasil",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=dsports2"
-      },
-      {
-        "nombre": "SporTV 1",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=sporttvbr1"
-      },
-      {
-        "nombre": "TUDN MX",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tudnmx"
-      }
-    ]
-  },
-  {
-    "titulo": "MotoGP: GP San Marino - Práctica Libre",
-    "categoria": "futbol",
-    "clase": "MOTOGP",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP España - Práctica #2",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney6"
-      },
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "DAZN F1",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=daznf1"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP España - Práctica #2 - Cámara On Board",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney7"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP España - Práctica #2 - On Board Colapinto",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney8"
-      }
-    ]
-  },
-  {
-    "titulo": "F1: GP España - Práctica #2 - On Board Piastri",
-    "categoria": "futbol",
-    "clase": "F1",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
-    "hora": "12:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney9"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Mundial Sub-20 (F): Argentina vs México",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=dsports2"
-      },
-      {
-        "nombre": "TUDN MX",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tudnmx"
-      },
-      {
-        "nombre": "Canal 9 MX",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=canal9mx"
-      }
-    ]
-  },
-  {
-    "titulo": "Super Lig: Beşiktaş vs Erzurumspor FK",
-    "categoria": "futbol",
-    "clase": "TUR",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney10"
-      }
-    ]
-  },
-  {
     "titulo": "Eredivisie: AZ Alkmaar vs Willem II",
     "categoria": "futbol",
     "clase": "HOL",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
+    "fecha": "Viernes 11 de Septiembre 2026",
+    "fecha_iso": "2026-09-11",
     "hora": "15:00",
     "duracion_min": 140,
     "canales": [
@@ -177,8 +19,8 @@
     "titulo": "Bundesliga: Union Berlin vs Schalke 04",
     "categoria": "futbol",
     "clase": "ALE",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
+    "fecha": "Viernes 11 de Septiembre 2026",
+    "fecha_iso": "2026-09-11",
     "hora": "15:30",
     "duracion_min": 140,
     "canales": [
@@ -200,11 +42,27 @@
     ]
   },
   {
+    "titulo": "Liga Paraguay: Sportivo Ameliano vs Sportivo San Lorenzo",
+    "categoria": "futbol",
+    "clase": "LIGAPY",
+    "fecha": "Viernes 11 de Septiembre 2026",
+    "fecha_iso": "2026-09-11",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Tigo Sports",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tigo1"
+      }
+    ]
+  },
+  {
     "titulo": "Ligue 1: Rennes vs Olympique Marseille",
     "categoria": "futbol",
     "clase": "FRA",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
+    "fecha": "Viernes 11 de Septiembre 2026",
+    "fecha_iso": "2026-09-11",
     "hora": "15:45",
     "duracion_min": 140,
     "canales": [
@@ -219,8 +77,8 @@
     "titulo": "Serie A: Venezia vs Fiorentina",
     "categoria": "futbol",
     "clase": "IT",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
+    "fecha": "Viernes 11 de Septiembre 2026",
+    "fecha_iso": "2026-09-11",
     "hora": "15:45",
     "duracion_min": 140,
     "canales": [
@@ -240,8 +98,8 @@
     "titulo": "Championship: West Ham vs Wrexham",
     "categoria": "futbol",
     "clase": "ENG",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
+    "fecha": "Viernes 11 de Septiembre 2026",
+    "fecha_iso": "2026-09-11",
     "hora": "16:00",
     "duracion_min": 140,
     "canales": [
@@ -261,8 +119,8 @@
     "titulo": "LaLiga: Sevilla vs Valencia",
     "categoria": "futbol",
     "clase": "ES",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
+    "fecha": "Viernes 11 de Septiembre 2026",
+    "fecha_iso": "2026-09-11",
     "hora": "16:00",
     "duracion_min": 140,
     "canales": [
@@ -299,27 +157,11 @@
     ]
   },
   {
-    "titulo": "Liga Paraguay: Sportivo Ameliano vs Sportivo San Lorenzo",
-    "categoria": "futbol",
-    "clase": "LIGAPY",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Tigo Sports",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tigo1"
-      }
-    ]
-  },
-  {
     "titulo": "US Open: Alexander Zverev vs Karen Khachanov - Semifinales Masculinas",
     "categoria": "futbol",
     "clase": "USOPEN",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
+    "fecha": "Viernes 11 de Septiembre 2026",
+    "fecha_iso": "2026-09-11",
     "hora": "16:00",
     "duracion_min": 140,
     "canales": [
@@ -334,8 +176,8 @@
     "titulo": "Liga 1: UTC Cajamarca vs Juan Pablo II College",
     "categoria": "futbol",
     "clase": "PE",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
+    "fecha": "Viernes 11 de Septiembre 2026",
+    "fecha_iso": "2026-09-11",
     "hora": "17:00",
     "duracion_min": 140,
     "canales": [
@@ -350,8 +192,8 @@
     "titulo": "Liga Profesional: Newell's Old Boys vs Vélez Sarsfield",
     "categoria": "futbol",
     "clase": "AR",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
+    "fecha": "Viernes 11 de Septiembre 2026",
+    "fecha_iso": "2026-09-11",
     "hora": "17:00",
     "duracion_min": 140,
     "canales": [
@@ -371,8 +213,8 @@
     "titulo": "Liga Paraguay: 2 de Mayo vs Libertad",
     "categoria": "futbol",
     "clase": "LIGAPY",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
+    "fecha": "Viernes 11 de Septiembre 2026",
+    "fecha_iso": "2026-09-11",
     "hora": "18:30",
     "duracion_min": 140,
     "canales": [
@@ -387,8 +229,8 @@
     "titulo": "Liga Profesional: Defensa y Justicia vs Gimnasia Mendoza",
     "categoria": "futbol",
     "clase": "AR",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
+    "fecha": "Viernes 11 de Septiembre 2026",
+    "fecha_iso": "2026-09-11",
     "hora": "19:15",
     "duracion_min": 140,
     "canales": [
@@ -408,8 +250,8 @@
     "titulo": "MLB: NY Yankees vs NY Mets",
     "categoria": "futbol",
     "clase": "MLB",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
+    "fecha": "Viernes 11 de Septiembre 2026",
+    "fecha_iso": "2026-09-11",
     "hora": "20:00",
     "duracion_min": 140,
     "canales": [
@@ -424,8 +266,8 @@
     "titulo": "US Open: Frances Tiafoe vs Ben Shelton - Semifinales Masculinas",
     "categoria": "futbol",
     "clase": "USOPEN",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
+    "fecha": "Viernes 11 de Septiembre 2026",
+    "fecha_iso": "2026-09-11",
     "hora": "20:00",
     "duracion_min": 140,
     "canales": [
@@ -440,8 +282,8 @@
     "titulo": "Liga Colombia: Jaguares de Córdoba vs Fortaleza CEIF",
     "categoria": "futbol",
     "clase": "COL",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
+    "fecha": "Viernes 11 de Septiembre 2026",
+    "fecha_iso": "2026-09-11",
     "hora": "20:15",
     "duracion_min": 140,
     "canales": [
@@ -461,8 +303,8 @@
     "titulo": "Brasileirão: Coritiba vs Athletico-PR",
     "categoria": "futbol",
     "clase": "BRA",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
+    "fecha": "Viernes 11 de Septiembre 2026",
+    "fecha_iso": "2026-09-11",
     "hora": "21:00",
     "duracion_min": 140,
     "canales": [
@@ -477,8 +319,8 @@
     "titulo": "ESPN Knockout: Vinicius Pires vs Rafael Pereira",
     "categoria": "box",
     "clase": "BOX",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
+    "fecha": "Viernes 11 de Septiembre 2026",
+    "fecha_iso": "2026-09-11",
     "hora": "21:00",
     "duracion_min": 400,
     "canales": [
@@ -493,8 +335,8 @@
     "titulo": "Liga 1: Cusco vs Melgar",
     "categoria": "futbol",
     "clase": "PE",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
+    "fecha": "Viernes 11 de Septiembre 2026",
+    "fecha_iso": "2026-09-11",
     "hora": "21:00",
     "duracion_min": 140,
     "canales": [
@@ -509,8 +351,8 @@
     "titulo": "Liga Profesional: Boca Juniors vs Central Córdoba SdE",
     "categoria": "futbol",
     "clase": "AR",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
+    "fecha": "Viernes 11 de Septiembre 2026",
+    "fecha_iso": "2026-09-11",
     "hora": "21:30",
     "duracion_min": 140,
     "canales": [
@@ -545,8 +387,8 @@
     "titulo": "ESPN Knockout: Maximiliano Maidana vs Luciano Baldor",
     "categoria": "box",
     "clase": "BOX",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
+    "fecha": "Viernes 11 de Septiembre 2026",
+    "fecha_iso": "2026-09-11",
     "hora": "22:00",
     "duracion_min": 400,
     "canales": [
@@ -561,8 +403,8 @@
     "titulo": "Liga MX: Necaxa vs Puebla",
     "categoria": "futbol",
     "clase": "LIGAMX",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
+    "fecha": "Viernes 11 de Septiembre 2026",
+    "fecha_iso": "2026-09-11",
     "hora": "22:00",
     "duracion_min": 140,
     "canales": [
@@ -577,8 +419,8 @@
     "titulo": "Liga de Expansión MX: Correcaminos UAT vs Cancún",
     "categoria": "futbol",
     "clase": "MEX",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
+    "fecha": "Viernes 11 de Septiembre 2026",
+    "fecha_iso": "2026-09-11",
     "hora": "22:00",
     "duracion_min": 140,
     "canales": [
@@ -593,8 +435,8 @@
     "titulo": "Liga Colombia: Santa Fe vs Deportes Tolima",
     "categoria": "futbol",
     "clase": "COL",
-    "fecha": "Martes 11 de Agosto 2026",
-    "fecha_iso": "2026-08-11",
+    "fecha": "Viernes 11 de Septiembre 2026",
+    "fecha_iso": "2026-09-11",
     "hora": "22:30",
     "duracion_min": 140,
     "canales": [
@@ -614,8 +456,8 @@
     "titulo": "Liga MX: Atlante vs Pachuca",
     "categoria": "futbol",
     "clase": "LIGAMX",
-    "fecha": "Miércoles 12 de Agosto 2026",
-    "fecha_iso": "2026-08-12",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
     "hora": "00:00",
     "duracion_min": 140,
     "canales": [
@@ -635,8 +477,8 @@
     "titulo": "Liga MX: Tijuana vs Querétaro",
     "categoria": "futbol",
     "clase": "LIGAMX",
-    "fecha": "Miércoles 12 de Agosto 2026",
-    "fecha_iso": "2026-08-12",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
     "hora": "00:00",
     "duracion_min": 140,
     "canales": [
