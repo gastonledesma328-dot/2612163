@@ -1,58 +1,5 @@
 [
   {
-    "titulo": "Liga 1: UTC Cajamarca vs Juan Pablo II College",
-    "categoria": "futbol",
-    "clase": "PE",
-    "fecha": "Viernes 11 de Septiembre 2026",
-    "fecha_iso": "2026-09-11",
-    "hora": "17:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "L1 Max",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=l1max"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Paraguay: 2 de Mayo vs Libertad",
-    "categoria": "futbol",
-    "clase": "LIGAPY",
-    "fecha": "Viernes 11 de Septiembre 2026",
-    "fecha_iso": "2026-09-11",
-    "hora": "18:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Tigo Sports",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tigo1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Defensa y Justicia vs Gimnasia Mendoza",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Viernes 11 de Septiembre 2026",
-    "fecha_iso": "2026-09-11",
-    "hora": "19:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tntsports"
-      },
-      {
-        "nombre": "Fanatiz",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fanatiz2"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: NY Yankees vs NY Mets",
     "categoria": "futbol",
     "clase": "MLB",
@@ -297,6 +244,2011 @@
         "nombre": "FOX One 2",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=foxone2"
+      }
+    ]
+  },
+  {
+    "titulo": "MotoGP: GP San Marino - Clasificación",
+    "categoria": "futbol",
+    "clase": "MOTOGP",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "05:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "La Vuelta: Etapa #20",
+    "categoria": "futbol",
+    "clase": "CICLISMO",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "07:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP España - Práctica #3",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "07:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "DAZN F1",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=daznf1"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "Fox Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fox1ar"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP España - Práctica #3 - Cámara On Board",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "07:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney2"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP España - Práctica #3 - On Board Colapinto",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "07:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney3"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP España - Práctica #3 - On Board Piastri",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "07:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney4"
+      }
+    ]
+  },
+  {
+    "titulo": "Bundesliga 2: 1. FC Magdeburg vs Kaiserslautern",
+    "categoria": "futbol",
+    "clase": "ALE",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "08:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "FOX Sports 2 AR",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fox2ar"
+      }
+    ]
+  },
+  {
+    "titulo": "Championship: Derby County vs Birmingham City",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "08:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney5"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga Hypermotion: FC Andorra vs Real Sociedad II",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "09:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "LaLiga Hypermotion",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=laligahypermotion"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga: Racing Santander vs Deportivo Alavés",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "09:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "DSports",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "ESPN +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espnplus1"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espndeportes"
+      },
+      {
+        "nombre": "DAZN LaLiga",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=daznlaliga"
+      },
+      {
+        "nombre": "Premier Sports 1 UK",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=premier1uk"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Uruguay: Racing vs Boston River",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "09:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney25"
+      }
+    ]
+  },
+  {
+    "titulo": "MotoGP: GP San Marino - Sprint",
+    "categoria": "futbol",
+    "clase": "MOTOGP",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "09:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney6"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Mundial Sub-20 (F): Italia vs Japón",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "DSports 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=dsports2"
+      },
+      {
+        "nombre": "TUDN MX",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tudnmx"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A: Genoa vs Frosinone",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "10:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney7"
+      },
+      {
+        "nombre": "Espn 4",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn4"
+      }
+    ]
+  },
+  {
+    "titulo": "Bundesliga: Augsburg vs Bayer Leverkusen",
+    "categoria": "futbol",
+    "clase": "ALE",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "10:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney8"
+      }
+    ]
+  },
+  {
+    "titulo": "Bundesliga: Borussia Dortmund vs Paderborn",
+    "categoria": "futbol",
+    "clase": "ALE",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "10:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney9"
+      },
+      {
+        "nombre": "Telemundo",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "ESPN 5",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "Bundesliga: Freiburg vs Borussia M'gladbach",
+    "categoria": "futbol",
+    "clase": "ALE",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "10:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney10"
+      }
+    ]
+  },
+  {
+    "titulo": "Bundesliga: Hoffenheim vs Stuttgart",
+    "categoria": "futbol",
+    "clase": "ALE",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "10:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney11"
+      }
+    ]
+  },
+  {
+    "titulo": "Bundesliga: Mainz 05 vs Eintracht Frankfurt",
+    "categoria": "futbol",
+    "clase": "ALE",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "10:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney12"
+      }
+    ]
+  },
+  {
+    "titulo": "Championship: Watford vs Stoke City",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney18"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP España - Clasificación",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney19"
+      },
+      {
+        "nombre": "DAZN F1",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=daznf1"
+      },
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn2"
+      },
+      {
+        "nombre": "Fox Sports 1 AR",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fox1ar"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP España - Clasificación - Cámara On Board",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney20"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP España - Clasificación - On Board Colapinto",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney21"
+      }
+    ]
+  },
+  {
+    "titulo": "F1: GP España - Clasificación - On Board Piastri",
+    "categoria": "futbol",
+    "clase": "F1",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney22"
+      }
+    ]
+  },
+  {
+    "titulo": "Premier League: AFC Bournemouth vs Brentford",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney16"
+      },
+      {
+        "nombre": "Max 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=max2"
+      }
+    ]
+  },
+  {
+    "titulo": "Premier League: Aston Villa vs Nottingham Forest",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney14"
+      }
+    ]
+  },
+  {
+    "titulo": "Premier League: Chelsea vs Hull City",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney15"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "Universo",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=universo"
+      },
+      {
+        "nombre": "Max 1",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=max1"
+      }
+    ]
+  },
+  {
+    "titulo": "Premier League: Crystal Palace vs Ipswich Town",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney17"
+      }
+    ]
+  },
+  {
+    "titulo": "Premier League: Liverpool vs Fulham",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "11:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney13"
+      },
+      {
+        "nombre": "Peacock",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=peacock1"
+      },
+      {
+        "nombre": "FOX One",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=foxone"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga Hypermotion: Cádiz vs Las Palmas",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "11:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "LaLiga Hypermotion",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=laligahypermotion"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga: Osasuna vs Espanyol",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "11:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "DSports",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "ESPN +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espnplus2"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espndeportes"
+      },
+      {
+        "nombre": "M LaLiga",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=mlaliga"
+      },
+      {
+        "nombre": "Premier Sports 1 UK",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=premier1uk"
+      }
+    ]
+  },
+  {
+    "titulo": "Ligue 1: Strasbourg vs Monaco",
+    "categoria": "futbol",
+    "clase": "FRA",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "12:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney23"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga 1: Los Chankas vs FC Cajamarca",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "12:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "L1 Max",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=l1max"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Mundial Sub-20 (F): Corea del Sur vs Ecuador",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "DSports 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=dsports2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Mundial Sub-20 (F): Ghana vs Francia",
+    "categoria": "futbol",
+    "clase": "FIFA",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TUDN MX",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tudnmx"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A: Lazio vs Milan",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "13:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney24"
+      },
+      {
+        "nombre": "Telemundo",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "Espn 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Bundesliga: Köln vs Werder Bremen",
+    "categoria": "futbol",
+    "clase": "ALE",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney28"
+      },
+      {
+        "nombre": "ESPN 5",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga Hypermotion: Girona vs CD Castellón",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "LaLiga Hypermotion 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=laligahypermotion2"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga Hypermotion: Granada vs Albacete",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "LaLiga Hypermotion",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=laligahypermotion"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga: Athletic Club vs Elche",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney27"
+      },
+      {
+        "nombre": "ESPN +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espnplus3"
+      },
+      {
+        "nombre": "ESPN 4",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn4"
+      },
+      {
+        "nombre": "M LaLiga",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=mlaliga"
+      },
+      {
+        "nombre": "Premier Sports 2 UK",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=premier2uk"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Chile: Ñublense vs Everton",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "Premier League: Tottenham Hotspur vs Everton",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "13:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney26"
+      },
+      {
+        "nombre": "Universo",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=universo"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn"
+      },
+      {
+        "nombre": "Max 3",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=max3"
+      }
+    ]
+  },
+  {
+    "titulo": "Primeira Liga: Casa Pia vs Porto",
+    "categoria": "futbol",
+    "clase": "POR",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "DSports",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Super Lig: Konyaspor vs Trabzonspor",
+    "categoria": "futbol",
+    "clase": "TUR",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "14:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 7",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn7"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Estudiantes vs Platense",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "14:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN Premium",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espnpremium"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney29"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz1"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Independiente Rivadavia vs Aldosivi",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "14:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tntsports"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz2"
+      }
+    ]
+  },
+  {
+    "titulo": "Eredivisie: Fortuna Sittard vs Ajax",
+    "categoria": "futbol",
+    "clase": "HOL",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney30"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga 1: Comerciantes Unidos vs Sport Huancayo",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "L1 Max",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=l1max"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Arabia Saudita: Al Khaleej vs Al Nassr",
+    "categoria": "futbol",
+    "clase": "ARA",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "FOX One",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=foxone"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Chile: Cobresal vs Coquimbo Unido",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Paraguay: Deportivo Recoleta vs Sportivo Trinidense",
+    "categoria": "futbol",
+    "clase": "LIGAPY",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "15:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Tigo Sports",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tigo1"
+      }
+    ]
+  },
+  {
+    "titulo": "UFC: Preliminares",
+    "categoria": "ufc",
+    "clase": "UFC",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "15:00",
+    "duracion_min": 480,
+    "canales": [
+      {
+        "nombre": "Paramount+ | Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=paramount1"
+      },
+      {
+        "nombre": "Paramount+ | Inglés",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=paramount2"
+      },
+      {
+        "nombre": "Paramount+ | Portugués",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=paramount3"
+      }
+    ]
+  },
+  {
+    "titulo": "Bundesliga 2: St. Pauli vs VfL Wolfsburg",
+    "categoria": "futbol",
+    "clase": "ALE",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "15:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "FOX Sports 2 AR",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fox2ar"
+      }
+    ]
+  },
+  {
+    "titulo": "Ligue 1: Auxerre vs Nice",
+    "categoria": "futbol",
+    "clase": "FRA",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "15:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney2"
+      }
+    ]
+  },
+  {
+    "titulo": "Ligue 1: Le Havre vs Angers SCO",
+    "categoria": "futbol",
+    "clase": "FRA",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "15:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney3"
+      }
+    ]
+  },
+  {
+    "titulo": "Ligue 1: Lorient vs Toulouse",
+    "categoria": "futbol",
+    "clase": "FRA",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "15:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney4"
+      }
+    ]
+  },
+  {
+    "titulo": "Ligue 1: Paris vs Olympique Lyonnais",
+    "categoria": "futbol",
+    "clase": "FRA",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "15:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney5"
+      },
+      {
+        "nombre": "Espn 4",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn4"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A: Atalanta vs Cagliari",
+    "categoria": "futbol",
+    "clase": "IT",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "15:45",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "Universo",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=universo"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Atlético Mineiro vs Fluminense",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Premiere 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=premiere2"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Grêmio vs Vasco da Gama",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Premiere 4",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=premiere4"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga Hypermotion: Córdoba vs Almería",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "LaLiga Hypermotion",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=laligahypermotion"
+      }
+    ]
+  },
+  {
+    "titulo": "LaLiga: Real Madrid vs Rayo Vallecano",
+    "categoria": "futbol",
+    "clase": "ES",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney7"
+      },
+      {
+        "nombre": "ESPN +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espnplus4"
+      },
+      {
+        "nombre": "DAZN LaLiga",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=daznlaliga"
+      },
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Ecuador: Manta vs Aucas",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Paraguay: Guaraní vs Cerro Porteño",
+    "categoria": "futbol",
+    "clase": "LIGAPY",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Tigo Sports",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tigo1"
+      }
+    ]
+  },
+  {
+    "titulo": "Premier League: Sunderland vs Arsenal",
+    "categoria": "futbol",
+    "clase": "ENG",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney6"
+      },
+      {
+        "nombre": "Telemundo",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "TNT Sports 1 UK",
+        "calidad": "720p",
+        "url": "https://streamxhd.click/channel/?id=tnt1uk"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Uruguay: Wanderers vs Nacional",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "16:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney8"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Chapecoense vs Internacional",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Premiere 5",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=premiere5"
+      }
+    ]
+  },
+  {
+    "titulo": "US Open: Sabalenka vs. Ribakina Final Femenina",
+    "categoria": "futbol",
+    "clase": "USOPEN",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "17:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga 1: Deportivo Moquegua vs Sporting Cristal",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "17:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "L1 Max",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=l1max"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Atlético Tucumán vs River Plate",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "17:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tntsports"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney9"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz3"
+      },
+      {
+        "nombre": "ESPN 5",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "UFC: Yair Rodríguez vs Jean Silva",
+    "categoria": "ufc",
+    "clase": "UFC",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "18:00",
+    "duracion_min": 480,
+    "canales": [
+      {
+        "nombre": "Paramount+ | Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=paramount1"
+      },
+      {
+        "nombre": "Paramount+ | Inglés",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=paramount2"
+      },
+      {
+        "nombre": "Paramount+ | Portugués",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=paramount3"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Colombia: Inter Bogotá vs Llaneros",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "18:05",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz4"
+      },
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=winplus"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Palmeiras vs São Paulo",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Premiere 1",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=premiere1"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Ecuador: Guayaquil City vs Mushuc Runa",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "18:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga de Expansión MX: Tlaxcala vs TM Fútbol Club",
+    "categoria": "futbol",
+    "clase": "MEX",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney10"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Chile: Palestino vs Universidad Católica",
+    "categoria": "futbol",
+    "clase": "CH",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tntsportschile"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Talleres Córdoba vs Unión Santa Fe",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN Premium",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espnpremium"
+      },
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney11"
+      },
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz5"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Uruguay: Cerro Largo vs Central Español",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney12"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga de Expansión MX: Venados vs Tepatitlán FC",
+    "categoria": "futbol",
+    "clase": "MEX",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "20:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney13"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Toluca vs Atlas",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "20:05",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TUDN MX",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tudnmx"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=canal5mx"
+      },
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tudn_usa"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Colombia: Boyacá Chicó vs Medellín",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "20:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz6"
+      },
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=winplus"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Nacional: Olancho vs Real España",
+    "categoria": "futbol",
+    "clase": "HON",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "20:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Deportes TVC",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=deportestvc"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Botafogo vs RB Bragantino",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Prime Video",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=amazon1"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Cincinnati vs Charlotte",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv5"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Columbus Crew vs New York RB",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv3"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: DC United vs Atlanta United",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv4"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Inter Miami vs Nashville SC",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv1"
+      },
+      {
+        "nombre": "Apple TV English",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Orlando City SC vs Toronto FC",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "20:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv6"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirão: Santos vs Cruzeiro",
+    "categoria": "futbol",
+    "clase": "BRA",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Premiere 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=premiere2"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Ecuador: LDU Quito vs Deportivo Cuenca",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Dallas vs Portland Timbers",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv7"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Sporting KC vs Los Angeles FC",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv8"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: St. Louis City vs Minnesota United",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv9"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga 1: Alianza Lima vs Universitario",
+    "categoria": "futbol",
+    "clase": "PE",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz | Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz1"
+      },
+      {
+        "nombre": "Fanatiz | Sonido Ambiente",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz2"
+      },
+      {
+        "nombre": "L1 Max",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=l1max"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga de Expansión MX: Dorados de Sinaloa vs CD Tapatío",
+    "categoria": "futbol",
+    "clase": "MEX",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "22:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney14"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Monterrey vs Tigres UANL",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "22:10",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TUDN MX",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tudnmx"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=canal5mx"
+      },
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tudn_usa"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Colombia: Alianza vs Junior",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "22:20",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Fanatiz",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=fanatiz7"
+      },
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=winplus"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Nacional: Motagua vs Policía Nacional",
+    "categoria": "futbol",
+    "clase": "HON",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "22:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Deportes TVC",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=deportestvc"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Colorado Rapids vs CF Montréal",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "22:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv10"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Real Salt Lake vs New York City",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "22:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv11"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera División: Escorpiones Belén vs Herediano",
+    "categoria": "futbol",
+    "clase": "CR",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "23:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "FUTV",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=futv"
+      }
+    ]
+  },
+  {
+    "titulo": "ESPN Knockout: Yoali Mosqueda vs Victor Rojas",
+    "categoria": "box",
+    "clase": "BOX",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "23:30",
+    "duracion_min": 400,
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: LA Galaxy vs Seattle Sounders FC",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "23:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv12"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: SJ Earthquakes vs Houston Dynamo",
+    "categoria": "futbol",
+    "clase": "MLS",
+    "fecha": "Sábado 12 de Septiembre 2026",
+    "fecha_iso": "2026-09-12",
+    "hora": "23:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Apple TV Español",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=appletv13"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Cruz Azul vs América",
+    "categoria": "futbol",
+    "clase": "LIGAMX",
+    "fecha": "Domingo 13 de Septiembre 2026",
+    "fecha_iso": "2026-09-13",
+    "hora": "00:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TUDN MX",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tudnmx"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=canal5mx"
+      },
+      {
+        "nombre": "TUDN USA",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tudn_usa"
       }
     ]
   }
