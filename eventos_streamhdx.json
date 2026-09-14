@@ -1,79 +1,5 @@
 [
   {
-    "titulo": "AFC Champions League: Al Shamal vs Al Ittihad",
-    "categoria": "futbol",
-    "clase": "AFCCHA",
-    "fecha": "Lunes 14 de Septiembre 2026",
-    "fecha_iso": "2026-09-14",
-    "hora": "13:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Como vs Parma",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Lunes 14 de Septiembre 2026",
-    "fecha_iso": "2026-09-14",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney2"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Torino vs Roma",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Lunes 14 de Septiembre 2026",
-    "fecha_iso": "2026-09-14",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney3"
-      },
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Super Lig: Gaziantep FK vs Fenerbahçe",
-    "categoria": "futbol",
-    "clase": "TUR",
-    "fecha": "Lunes 14 de Septiembre 2026",
-    "fecha_iso": "2026-09-14",
-    "hora": "14:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney4"
-      },
-      {
-        "nombre": "ESPN 5",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
     "titulo": "AFC Champions League: Al-Ahli vs Pakhtakor",
     "categoria": "futbol",
     "clase": "AFCCHA",
@@ -106,7 +32,7 @@
     ]
   },
   {
-    "titulo": "Serie A: Internazionale vs Udinese",
+    "titulo": "Serie A: Internazionale vs",
     "categoria": "futbol",
     "clase": "IT",
     "fecha": "Lunes 14 de Septiembre 2026",
