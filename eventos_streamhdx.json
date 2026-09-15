@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Brasileirão: Bahia vs Remo",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Lunes 14 de Septiembre 2026",
-    "fecha_iso": "2026-09-14",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Premiere 1",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=premiere1"
-      }
-    ]
-  },
-  {
     "titulo": "Liga Chile: Unión La Calera vs Deportes Limache",
     "categoria": "futbol",
     "clase": "CH",
