@@ -1,121 +1,5 @@
 [
   {
-    "titulo": "Carabao Cup: West Ham United vs Fulham",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Martes 15 de Septiembre 2026",
-    "fecha_iso": "2026-09-15",
-    "hora": "15:45",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney6"
-      }
-    ]
-  },
-  {
-    "titulo": "Carabao Cup: Ipswich Town vs Arsenal",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Martes 15 de Septiembre 2026",
-    "fecha_iso": "2026-09-15",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney9"
-      }
-    ]
-  },
-  {
-    "titulo": "Carabao Cup: Liverpool vs Tottenham Hotspur",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Martes 15 de Septiembre 2026",
-    "fecha_iso": "2026-09-15",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney7"
-      }
-    ]
-  },
-  {
-    "titulo": "Carabao Cup: Reading vs Brentford",
-    "categoria": "futbol",
-    "clase": "ENG",
-    "fecha": "Martes 15 de Septiembre 2026",
-    "fecha_iso": "2026-09-15",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney8"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Italia: Fiorentina vs Pisa",
-    "categoria": "futbol",
-    "clase": "IT",
-    "fecha": "Martes 15 de Septiembre 2026",
-    "fecha_iso": "2026-09-15",
-    "hora": "16:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports Plus",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=dsportsplus"
-      }
-    ]
-  },
-  {
-    "titulo": "LaLiga: Elche vs Real Madrid",
-    "categoria": "futbol",
-    "clase": "ES",
-    "fecha": "Martes 15 de Septiembre 2026",
-    "fecha_iso": "2026-09-15",
-    "hora": "16:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports Global",
-        "calidad": "720p",
-        "url": "https://streamxhd.click/channel/?id=dsports"
-      },
-      {
-        "nombre": "DSports",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "M LaLiga",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=mlaliga"
-      },
-      {
-        "nombre": "ESPN +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espnplus3"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espndeportes"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Libertadores: Platense vs Fluminense",
     "categoria": "futbol",
     "clase": "LIB",
@@ -156,9 +40,9 @@
         "url": "https://streamxhd.com/live1.php?stream=disney10"
       },
       {
-        "nombre": "DSports AR",
+        "nombre": "DSports 2",
         "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=dsportsar"
+        "url": "https://streamxhd.com/live1.php?stream=dsports2"
       },
       {
         "nombre": "ESPN 2",
