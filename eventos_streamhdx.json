@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "AFC Champions League: Beijing Guoan vs Pohang Steelers",
-    "categoria": "futbol",
-    "clase": "AFCCHA",
-    "fecha": "Martes 15 de Septiembre 2026",
-    "fecha_iso": "2026-09-15",
-    "hora": "09:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
     "titulo": "AFC Champions League: Al Ain vs Al Nassr",
     "categoria": "futbol",
     "clase": "AFCCHA",
@@ -347,7 +331,7 @@
       {
         "nombre": "Disney + BR",
         "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney"
+        "url": "https://streamxhd.com/live1.php?stream=disney1"
       }
     ]
   },
