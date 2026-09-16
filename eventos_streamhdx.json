@@ -1,121 +1,5 @@
 [
   {
-    "titulo": "MLB: Texas Rangers vs Boston Red Sox",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Martes 15 de Septiembre 2026",
-    "fecha_iso": "2026-09-15",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: São Paulo vs Boca Juniors",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Martes 15 de Septiembre 2026",
-    "fecha_iso": "2026-09-15",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports Global",
-        "calidad": "720p",
-        "url": "https://streamxhd.click/channel/?id=dsports"
-      },
-      {
-        "nombre": "DSports",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "Disney + BR",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Colombia: Boyacá Chicó vs Alianza",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Martes 15 de Septiembre 2026",
-    "fecha_iso": "2026-09-15",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winplus"
-      },
-      {
-        "nombre": "Win Sports",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga de Expansión MX: Dorados vs Cancún",
-    "categoria": "futbol",
-    "clase": "MEX",
-    "fecha": "Martes 15 de Septiembre 2026",
-    "fecha_iso": "2026-09-15",
-    "hora": "22:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney12"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Mundial Sub-20 (F): Argentina vs Corea del Sur",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Miércoles 16 de Septiembre 2026",
-    "fecha_iso": "2026-09-16",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=dsports2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Mundial Sub-20 (F): Brasil vs Estados Unidos",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Miércoles 16 de Septiembre 2026",
-    "fecha_iso": "2026-09-16",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports Plus",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=dsportsplus"
-      },
-      {
-        "nombre": "TUDN MX",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tudnmx"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Mundial Sub-20 (F): España vs Portugal",
     "categoria": "futbol",
     "clase": "FIFA",
@@ -134,7 +18,7 @@
   {
     "titulo": "Europa League: Ararat-Armenia vs Sparta Praha",
     "categoria": "futbol",
-    "clase": "UEL",
+    "clase": "UE",
     "fecha": "Miércoles 16 de Septiembre 2026",
     "fecha_iso": "2026-09-16",
     "hora": "13:45",
@@ -160,7 +44,7 @@
   {
     "titulo": "Europa League: Omonia Nicosia vs Celta de Vigo",
     "categoria": "futbol",
-    "clase": "UEL",
+    "clase": "UE",
     "fecha": "Miércoles 16 de Septiembre 2026",
     "fecha_iso": "2026-09-16",
     "hora": "13:45",
@@ -317,7 +201,7 @@
   {
     "titulo": "Europa League: Anderlecht vs Olympique Lyonnais",
     "categoria": "futbol",
-    "clase": "UEL",
+    "clase": "UE",
     "fecha": "Miércoles 16 de Septiembre 2026",
     "fecha_iso": "2026-09-16",
     "hora": "16:00",
@@ -343,7 +227,7 @@
   {
     "titulo": "Europa League: Bayer Leverkusen vs Celje",
     "categoria": "futbol",
-    "clase": "UEL",
+    "clase": "UE",
     "fecha": "Miércoles 16 de Septiembre 2026",
     "fecha_iso": "2026-09-16",
     "hora": "16:00",
@@ -369,7 +253,7 @@
   {
     "titulo": "Europa League: Hapoel Be'er Sheva vs Dinamo Zagreb",
     "categoria": "futbol",
-    "clase": "UEL",
+    "clase": "UE",
     "fecha": "Miércoles 16 de Septiembre 2026",
     "fecha_iso": "2026-09-16",
     "hora": "16:00",
@@ -390,7 +274,7 @@
   {
     "titulo": "Europa League: Milan vs Benfica",
     "categoria": "futbol",
-    "clase": "UEL",
+    "clase": "UE",
     "fecha": "Miércoles 16 de Septiembre 2026",
     "fecha_iso": "2026-09-16",
     "hora": "16:00",
@@ -411,7 +295,7 @@
   {
     "titulo": "Europa League: Olympiakos Piraeus vs Jagiellonia Białystok",
     "categoria": "futbol",
-    "clase": "UEL",
+    "clase": "UE",
     "fecha": "Miércoles 16 de Septiembre 2026",
     "fecha_iso": "2026-09-16",
     "hora": "16:00",
@@ -442,7 +326,7 @@
   {
     "titulo": "Europa League: Sturm Graz vs Rennes",
     "categoria": "futbol",
-    "clase": "UEL",
+    "clase": "UE",
     "fecha": "Miércoles 16 de Septiembre 2026",
     "fecha_iso": "2026-09-16",
     "hora": "16:00",
@@ -463,7 +347,7 @@
   {
     "titulo": "Europa League: Sunderland vs AZ",
     "categoria": "futbol",
-    "clase": "UEL",
+    "clase": "UE",
     "fecha": "Miércoles 16 de Septiembre 2026",
     "fecha_iso": "2026-09-16",
     "hora": "16:00",
@@ -631,7 +515,7 @@
   {
     "titulo": "Campeones Cup: Inter Miami vs Cruz Azul",
     "categoria": "futbol",
-    "clase": "FUT",
+    "clase": "FIFA",
     "fecha": "Miércoles 16 de Septiembre 2026",
     "fecha_iso": "2026-09-16",
     "hora": "21:00",
