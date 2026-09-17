@@ -1,26 +1,5 @@
 [
   {
-    "titulo": "Copa Mundial Sub-20 (F): Inglaterra vs Nigeria",
-    "categoria": "futbol",
-    "clase": "FIFA",
-    "fecha": "Miércoles 16 de Septiembre 2026",
-    "fecha_iso": "2026-09-16",
-    "hora": "10:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=dsports2"
-      },
-      {
-        "nombre": "TUDN MX",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tudnmx"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Mundial Sub-20 (F): Polonia vs Colombia",
     "categoria": "futbol",
     "clase": "FIFA",
@@ -400,59 +379,6 @@
         "nombre": "ESPN",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Colombia: Inter Bogotá vs Atlético Nacional",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Miércoles 16 de Septiembre 2026",
-    "fecha_iso": "2026-09-16",
-    "hora": "22:20",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
-    "titulo": "MLB: Arizona Diamondbacks vs Miami Marlins",
-    "categoria": "futbol",
-    "clase": "MLB",
-    "fecha": "Miércoles 16 de Septiembre 2026",
-    "fecha_iso": "2026-09-16",
-    "hora": "22:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Centroamericana: Alianza vs Motagua",
-    "categoria": "futbol",
-    "clase": "CONCACAF",
-    "fecha": "Jueves 17 de Septiembre 2026",
-    "fecha_iso": "2026-09-17",
-    "hora": "00:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney20"
-      },
-      {
-        "nombre": "FOX One",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=foxone"
       }
     ]
   },
