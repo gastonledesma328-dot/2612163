@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Liga Colombia: Atlético Bucaramanga vs Medellín",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Miércoles 16 de Septiembre 2026",
-    "fecha_iso": "2026-09-16",
-    "hora": "21:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
     "titulo": "NFL: Buffalo Bills vs Detroit Lions",
     "categoria": "futbol",
     "clase": "NFL",
@@ -33,69 +17,6 @@
         "nombre": "FOX One",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=foxone"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Centroamericana: Alajuelense vs Marathón",
-    "categoria": "futbol",
-    "clase": "CONCACAF",
-    "fecha": "Miércoles 16 de Septiembre 2026",
-    "fecha_iso": "2026-09-16",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney14"
-      },
-      {
-        "nombre": "FOX One 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=foxone2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Flamengo vs Independiente del Valle",
-    "categoria": "futbol",
-    "clase": "LIB",
-    "fecha": "Miércoles 16 de Septiembre 2026",
-    "fecha_iso": "2026-09-16",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney13"
-      },
-      {
-        "nombre": "ESPN 2",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Torque vs Cienciano",
-    "categoria": "futbol",
-    "clase": "SUD",
-    "fecha": "Miércoles 16 de Septiembre 2026",
-    "fecha_iso": "2026-09-16",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney12"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn"
       }
     ]
   },
