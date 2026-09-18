@@ -1,26 +1,5 @@
 [
   {
-    "titulo": "Copa Centroamericana: Olimpia vs Firpo",
-    "categoria": "futbol",
-    "clase": "CONCACAF",
-    "fecha": "Jueves 17 de Septiembre 2026",
-    "fecha_iso": "2026-09-17",
-    "hora": "00:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney15"
-      },
-      {
-        "nombre": "FOX One",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=foxone"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Davis: Austria vs Bélgica",
     "categoria": "futbol",
     "clase": "COPADAVIS",
