@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "Copa Davis: Austria vs Bélgica",
-    "categoria": "futbol",
-    "clase": "COPADAVIS",
-    "fecha": "Viernes 18 de Septiembre 2026",
-    "fecha_iso": "2026-09-18",
-    "hora": "08:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=dsportsplus"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Davis: Países Bajos vs Colombia",
-    "categoria": "futbol",
-    "clase": "COPADAVIS",
-    "fecha": "Viernes 18 de Septiembre 2026",
-    "fecha_iso": "2026-09-18",
-    "hora": "09:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "DSports Eventos",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=evento11"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Davis: República Checa vs Estados Unidos",
     "categoria": "futbol",
     "clase": "COPADAVIS",
@@ -44,22 +12,6 @@
         "nombre": "DSports 2",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=dsports2"
-      }
-    ]
-  },
-  {
-    "titulo": "Bundesliga 2: Wolfsburg vs Darmstadt 98",
-    "categoria": "futbol",
-    "clase": "ALE",
-    "fecha": "Viernes 18 de Septiembre 2026",
-    "fecha_iso": "2026-09-18",
-    "hora": "13:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "FOX Sports 2 AR",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=fox2ar"
       }
     ]
   },
