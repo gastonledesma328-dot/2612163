@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Liga Profesional: Aldosivi vs Atlético Tucumán",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Lunes 21 de Septiembre 2026",
-    "fecha_iso": "2026-09-21",
-    "hora": "14:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=tntsports"
-      }
-    ]
-  },
-  {
     "titulo": "Liga Ecuador: Manta vs Orense",
     "categoria": "futbol",
     "clase": "ECUA",
