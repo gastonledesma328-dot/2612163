@@ -1,63 +1,5 @@
 [
   {
-    "titulo": "Liga Profesional: Belgrano vs Estudiantes RC",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Domingo 20 de Septiembre 2026",
-    "fecha_iso": "2026-09-20",
-    "hora": "19:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN Premium",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espnpremium"
-      },
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney26"
-      },
-      {
-        "nombre": "ESPN",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirão: Athletico-PR vs Bahia",
-    "categoria": "futbol",
-    "clase": "BRA",
-    "fecha": "Domingo 20 de Septiembre 2026",
-    "fecha_iso": "2026-09-20",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Premiere 3",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=premiere3"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Uruguay: Liverpool vs Racing",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Domingo 20 de Septiembre 2026",
-    "fecha_iso": "2026-09-20",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney27"
-      }
-    ]
-  },
-  {
     "titulo": "MLB: Baltimore Orioles vs Milwaukee Brewers",
     "categoria": "futbol",
     "clase": "MLB",
@@ -91,54 +33,6 @@
         "nombre": "Apple TV English",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=appletv2"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera División: Alajuelense vs Inter San Carlos",
-    "categoria": "futbol",
-    "clase": "CRC",
-    "fecha": "Domingo 20 de Septiembre 2026",
-    "fecha_iso": "2026-09-20",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "FUTV",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=futv"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Colombia: Deportes Tolima vs América de Cali",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Domingo 20 de Septiembre 2026",
-    "fecha_iso": "2026-09-20",
-    "hora": "20:10",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winplus"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Nacional: Olimpia vs Atlético Independiente",
-    "categoria": "futbol",
-    "clase": "HON",
-    "fecha": "Domingo 20 de Septiembre 2026",
-    "fecha_iso": "2026-09-20",
-    "hora": "20:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Deportes TVC",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=deportestvc"
       }
     ]
   },
@@ -266,6 +160,166 @@
         "nombre": "TUDN USA",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=tudn_usa"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Aldosivi vs Atlético Tucumán",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Lunes 21 de Septiembre 2026",
+    "fecha_iso": "2026-09-21",
+    "hora": "14:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tntsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Ecuador: Manta vs Orense",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Lunes 21 de Septiembre 2026",
+    "fecha_iso": "2026-09-21",
+    "hora": "16:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Barracas Central vs Independiente Rivadavia",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Lunes 21 de Septiembre 2026",
+    "fecha_iso": "2026-09-21",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=tntsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera B: Real Cundinamarca vs Deportes Quindío",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Lunes 21 de Septiembre 2026",
+    "fecha_iso": "2026-09-21",
+    "hora": "19:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=winplus"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Uruguay: Central Español vs Torque",
+    "categoria": "futbol",
+    "clase": "URU",
+    "fecha": "Lunes 21 de Septiembre 2026",
+    "fecha_iso": "2026-09-21",
+    "hora": "19:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Disney +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=disney1"
+      }
+    ]
+  },
+  {
+    "titulo": "NFL: Los Angeles Rams vs New York Giants",
+    "categoria": "futbol",
+    "clase": "NFL",
+    "fecha": "Lunes 21 de Septiembre 2026",
+    "fecha_iso": "2026-09-21",
+    "hora": "21:00",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Profesional: Lanús vs Estudiantes",
+    "categoria": "futbol",
+    "clase": "AR",
+    "fecha": "Lunes 21 de Septiembre 2026",
+    "fecha_iso": "2026-09-21",
+    "hora": "21:15",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN Premium",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espnpremium"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Ecuador: Barcelona vs Independiente del Valle",
+    "categoria": "futbol",
+    "clase": "ECUA",
+    "fecha": "Lunes 21 de Septiembre 2026",
+    "fecha_iso": "2026-09-21",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Zapping EC",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=zapping_ec"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera B: Real Cartagena vs Envigado",
+    "categoria": "futbol",
+    "clase": "COL",
+    "fecha": "Lunes 21 de Septiembre 2026",
+    "fecha_iso": "2026-09-21",
+    "hora": "21:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=winplus"
+      }
+    ]
+  },
+  {
+    "titulo": "MLB: San Francisco Giants vs Minnesota Twins",
+    "categoria": "futbol",
+    "clase": "MLB",
+    "fecha": "Lunes 21 de Septiembre 2026",
+    "fecha_iso": "2026-09-21",
+    "hora": "22:30",
+    "duracion_min": 140,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "calidad": "720p",
+        "url": "https://streamxhd.com/live1.php?stream=espn3"
       }
     ]
   }
