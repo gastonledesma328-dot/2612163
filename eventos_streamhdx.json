@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Liga Uruguay: Central Español vs Torque",
-    "categoria": "futbol",
-    "clase": "URU",
-    "fecha": "Lunes 21 de Septiembre 2026",
-    "fecha_iso": "2026-09-21",
-    "hora": "19:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Disney +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=disney1"
-      }
-    ]
-  },
-  {
     "titulo": "NFL: Los Angeles Rams vs New York Giants",
     "categoria": "futbol",
     "clase": "NFL",
@@ -28,38 +12,6 @@
         "nombre": "ESPN 2",
         "calidad": "720p",
         "url": "https://streamxhd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Profesional: Lanús vs Estudiantes",
-    "categoria": "futbol",
-    "clase": "AR",
-    "fecha": "Lunes 21 de Septiembre 2026",
-    "fecha_iso": "2026-09-21",
-    "hora": "21:15",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "ESPN Premium",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=espnpremium"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera B: Real Cartagena vs Envigado",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Lunes 21 de Septiembre 2026",
-    "fecha_iso": "2026-09-21",
-    "hora": "21:30",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winplus"
       }
     ]
   },
