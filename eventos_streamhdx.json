@@ -1,26 +1,5 @@
 [
   {
-    "titulo": "Liga Colombia: Medellín vs Jaguares de Córdoba",
-    "categoria": "futbol",
-    "clase": "COL",
-    "fecha": "Martes 22 de Septiembre 2026",
-    "fecha_iso": "2026-09-22",
-    "hora": "20:00",
-    "duracion_min": 140,
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winplus"
-      },
-      {
-        "nombre": "Win Sports",
-        "calidad": "720p",
-        "url": "https://streamxhd.com/live1.php?stream=winsports"
-      }
-    ]
-  },
-  {
     "titulo": "Copa Chile: Audax Italiano vs Colo-Colo",
     "categoria": "futbol",
     "clase": "CH",
